@@ -1,6 +1,3 @@
-from torch.utils.data import Dataset
-
-
 class MiniPileDataset(Dataset):
     def __init__(self, sentences, embeddings):
         self.sentences = sentences
