@@ -1,0 +1,412 @@
+{
+    "index": 118,
+    "label": "Diverse and scientific text samples",
+    "attributes": "Contains nucleotide sequences, Uses non-latin scripts, Mixes diverse content types",
+    "reasoning": "The samples contain a mix of different types of content including several instances of long nucleotide sequences and a mix of various domains such as scientific descriptions, personal reflections, historical accounts, and occurrences of non-latin scripts (Japanese). In contrast, the other samples are conversational, opinion-based, and do not contain long sequences of nucleotides or non-latin scripts. The varied nature of content, particularly the presence of nucleotide sequences and non-latin characters, is a specific attribute that is entirely absent in the others.",
+    "density": 0.0018126515485833322,
+    "confidence": 88.0,
+    "high_act_samples": [
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.29193511605262756
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.29187244176864624
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.2679426074028015
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.2505706250667572
+        },
+        {
+            "text": "Hon.",
+            "act": 0.22334912419319153
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.21707703173160553
+        },
+        {
+            "text": "Hon.",
+            "act": 0.20677496492862701
+        },
+        {
+            "text": "Hon.",
+            "act": 0.20677496492862701
+        },
+        {
+            "text": "Hon.",
+            "act": 0.20677496492862701
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.1914241760969162
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.15035849809646606
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.15035849809646606
+        },
+        {
+            "text": "On June 17, 1903 Sano Railway Line was connected to Ryomo Line (\u4e21\u6bdb\u7dda).",
+            "act": 0.14111997187137604
+        },
+        {
+            "text": "in 1948.",
+            "act": 0.13571284711360931
+        },
+        {
+            "text": "1989)).",
+            "act": 0.12831763923168182
+        },
+        {
+            "text": "The fruit is a dry five-valved capsule, with 1-4 seeds in each section.",
+            "act": 0.12328439205884933
+        },
+        {
+            "text": "1993)).",
+            "act": 0.12084519118070602
+        },
+        {
+            "text": "Daughter Mary Graham 1819 married 1840 Archibald MacDougall.",
+            "act": 0.11635411530733109
+        },
+        {
+            "text": "In order to sufficiently state a 42 U.S.C.",
+            "act": 0.11219777911901474
+        },
+        {
+            "text": "1999)).",
+            "act": 0.10779952257871628
+        },
+        {
+            "text": "for swimming, boating, kayaking, canoeing, sport fishing, and other educational and recreational pursuits.",
+            "act": 0.10745979100465775
+        },
+        {
+            "text": "1993)).",
+            "act": 0.10731657594442368
+        },
+        {
+            "text": "1984)).",
+            "act": 0.1068802997469902
+        },
+        {
+            "text": "Japanese Patent Publication No.",
+            "act": 0.10595569759607315
+        },
+        {
+            "text": "1995)).",
+            "act": 0.1059052124619484
+        },
+        {
+            "text": "The river also supports a rod/game fishery, as well as a limited commercial estuary (seine) net fishery.",
+            "act": 0.10392874479293823
+        },
+        {
+            "text": "1990)).",
+            "act": 0.10217937082052231
+        },
+        {
+            "text": "1990)).",
+            "act": 0.10217937082052231
+        },
+        {
+            "text": "This expansion results in the pulse shape growing in amplitude as the mean disk luminosity drops.",
+            "act": 0.10204377770423889
+        },
+        {
+            "text": "1998)).",
+            "act": 0.1003851369023323
+        },
+        {
+            "text": "1991)).",
+            "act": 0.09911727160215378
+        },
+        {
+            "text": "[Patent Publication 1] Japanese Unexamined Patent Publication No.",
+            "act": 0.0991043671965599
+        },
+        {
+            "text": "This negligence (and the ensuing sound fiasco) prompted the audience to stream from the venue before the concert ended.",
+            "act": 0.09654220938682556
+        },
+        {
+            "text": "His performance at the Tokyo International Forum on 12 September was recorded for a live album titled In Tokyo which was released in 2004.",
+            "act": 0.09630876034498215
+        },
+        {
+            "text": "2000)).",
+            "act": 0.09587927162647247
+        },
+        {
+            "text": "1988)).",
+            "act": 0.0945829302072525
+        },
+        {
+            "text": "Occasionally, the terminal twigs of the middle ramus may penetrate superficial layer of superficial temporal fascia and run in the intrafascial fat pad before entering the frontalis muscle.",
+            "act": 0.09405315667390823
+        },
+        {
+            "text": "Outgrowth of axillary buds along the main stem to form primary branches was also stimulated by debranching.",
+            "act": 0.09316246211528778
+        },
+        {
+            "text": "It occurs when light atoms such as hydrogen become so hot that they fuse, into new elements, such as helium, in the process releasing large amounts of energy.",
+            "act": 0.09283465892076492
+        },
+        {
+            "text": "His grand-uncle was the German politician Georg Ratzinger.",
+            "act": 0.09238547831773758
+        },
+        {
+            "text": "Repl.1997)).",
+            "act": 0.09137695282697678
+        },
+        {
+            "text": "1996)).",
+            "act": 0.091159887611866
+        },
+        {
+            "text": "Outburst 2 triggers a short-lived signal with a period of roughly 11.9 c/d (2.02 hr), and outburst 3 appears to generate signals near the frequencies of the negative and positive superhumps that rapidly evolve to higher and lower frequencies, respectively, only to fade to to noise background by the end of the outburst.",
+            "act": 0.09091822057962418
+        },
+        {
+            "text": "in music from the Eastman School of Music in 1949.",
+            "act": 0.0894121304154396
+        },
+        {
+            "text": "All while the young man is shouting what sounds like\ninsults from his table, and the other man watches the whole thing.",
+            "act": 0.08889766782522202
+        },
+        {
+            "text": "Thus, damage by insects contributes to within-plant variation in leaf asymmetry, and may influence the distribution of herbivory in the following year.",
+            "act": 0.08827953040599823
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.08745189756155014
+        },
+        {
+            "text": "The Barclay family are a Scottish and Quaker baronage with Peter Charles Barclay as the head.",
+            "act": 0.08698438107967377
+        },
+        {
+            "text": "A phagocyte pseudopod coils around the bacterium as the organism is internalized.",
+            "act": 0.08576006442308426
+        },
+        {
+            "text": "However, by the 1906 E.R.",
+            "act": 0.08488289266824722
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 696,
+    "label": "Informative and structured content",
+    "attributes": "formal tone, detailed information, structured content, numeric data",
+    "reasoning": "The texts within the samples contain specific, distinct attributes that differentiate them from other texts. Upon review, an evident attribute is the formal, informational tone and structured content across all samples. The samples generally provide detailed and precise information, often including numbers, dates, or specific references to events or guidelines. This level of detail and the use of structured information is absent from the other samples, which mainly contain informal, conversational, and opinion-based language.",
+    "density": 0.004787867572043409,
+    "confidence": 42.0,
+    "high_act_samples": [
+        {
+            "text": "Croakey helps to fill this hole.",
+            "act": 0.18020819127559662
+        },
+        {
+            "text": "Lottery players can purchase a five-dollar ticket, a four-dollar ticket, a three-dollar ticket, and a two-dollar ticket.",
+            "act": 0.17390310764312744
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.16571222245693207
+        },
+        {
+            "text": "Bundesliga S\u00fcd (the southern division of 2.",
+            "act": 0.15938887000083923
+        },
+        {
+            "text": "Bob Stephens previously operated route 26 between 1976 and 1984.",
+            "act": 0.15180234611034393
+        },
+        {
+            "text": "Accordingly, the four-dollar ticket holder can win ten thousand dollars.",
+            "act": 0.151051864027977
+        },
+        {
+            "text": "Midwest Sec.",
+            "act": 0.15079285204410553
+        },
+        {
+            "text": "Massachusetts ranked third at $42,515.",
+            "act": 0.15032389760017395
+        },
+        {
+            "text": "You should, too.",
+            "act": 0.14021146297454834
+        },
+        {
+            "text": "Deanne Riley started working for the county in 2002.",
+            "act": 0.14019055664539337
+        },
+        {
+            "text": "Oliver the steer is trained by Browning to compete in rodeos and other shows.",
+            "act": 0.13535326719284058
+        },
+        {
+            "text": "That, by the way, is Jack's favorite.",
+            "act": 0.13511621952056885
+        },
+        {
+            "text": "He volunteers to teach the inmates how to train their dogs.",
+            "act": 0.13289472460746765
+        },
+        {
+            "text": "Curt decides to help Henry catch the rustlers instead.",
+            "act": 0.12440890818834305
+        },
+        {
+            "text": "(Health & Saf.",
+            "act": 0.12403479963541031
+        },
+        {
+            "text": "There are a total of 147 free lunch students and 15 reduced lunch students.",
+            "act": 0.12319298833608627
+        },
+        {
+            "text": "break\n\n        # Reset all parsing at the start of a section.",
+            "act": 0.12251316756010056
+        },
+        {
+            "text": "Accordingly, the three-dollar ticket holder can win two thousand five hundred dollars.",
+            "act": 0.12175647169351578
+        },
+        {
+            "text": "Bub and Bob have to finish 100 levels in the Cave of Monsters in order to rescue them.",
+            "act": 0.121499203145504
+        },
+        {
+            "text": "(Skokie Police Dept.",
+            "act": 0.11742047220468521
+        },
+        {
+            "text": "Of those, 7,305 (35.1%) scored 3+.",
+            "act": 0.11503895372152328
+        },
+        {
+            "text": "Curling\nMorehouse started curling for the Utica Curling Club in 1972.",
+            "act": 0.11371006816625595
+        },
+        {
+            "text": "He won with the manufactured delegates from Michigan.",
+            "act": 0.11367372423410416
+        },
+        {
+            "text": "American Bulldogs Old Time Poker 473 Bulldogs Old Southern Whites.",
+            "act": 0.10761397331953049
+        },
+        {
+            "text": "Halpen finished the scoring at 17:51.",
+            "act": 0.10670884698629379
+        },
+        {
+            "text": "The survivors were taken on board.",
+            "act": 0.10633682459592819
+        },
+        {
+            "text": "(Knock it off.",
+            "act": 0.10594338178634644
+        },
+        {
+            "text": "He returned to his job with the Lakers after the interview.",
+            "act": 0.10524937510490417
+        },
+        {
+            "text": "Some languages have weaker aspiration than English.",
+            "act": 0.10442433506250381
+        },
+        {
+            "text": "Managing hepatitis B coinfection in HIV-infected patients.",
+            "act": 0.10436596721410751
+        },
+        {
+            "text": "History\nShe was allocated to American South African Line, Inc., on 8 June 1942.",
+            "act": 0.10428795218467712
+        },
+        {
+            "text": "20, the player having the four-dollar ticket 2202 with a six-number match can instantly win two thousand dollars.",
+            "act": 0.1035204529762268
+        },
+        {
+            "text": "America runs on Dunkin\u2019.",
+            "act": 0.09962181001901627
+        },
+        {
+            "text": "A player with a one-dollar ticket could win twenty-five percent of the progressive jackpot, a player with a two-dollar ticket could win fifty percent of the progressive jackpot, and a player with a three-dollar ticket could win one hundred percent of the progressive jackpot.",
+            "act": 0.09900510311126709
+        },
+        {
+            "text": "A player with a one-dollar ticket could win twenty-five percent of the progressive jackpot, a player with a two-dollar ticket could win fifty percent of the progressive jackpot, and a player with a three-dollar ticket could win one hundred percent of the progressive jackpot.",
+            "act": 0.0989430621266365
+        },
+        {
+            "text": "Brown suffered six gunshot\nwounds and died approximately 30 minutes later at the hospital.",
+            "act": 0.09838657826185226
+        },
+        {
+            "text": "Those that don\u2019t make the championship bracket will play a consolation game.",
+            "act": 0.09652753919363022
+        },
+        {
+            "text": "#4464\n\nFix: Renamed the conan link command to conan editable to put packages into editable mode.",
+            "act": 0.09559550136327744
+        },
+        {
+            "text": "You draft the best available football player on the board.",
+            "act": 0.09532149881124496
+        },
+        {
+            "text": "(Eek!",
+            "act": 0.09496995806694031
+        },
+        {
+            "text": "Electric, Inc.",
+            "act": 0.09412119537591934
+        },
+        {
+            "text": "However, local politicians were not interested in closing either of the lines.",
+            "act": 0.09349142760038376
+        },
+        {
+            "text": "It has to be manually cast into another class.",
+            "act": 0.09346858412027359
+        },
+        {
+            "text": "Red Byron was awarded a $500 prize for winning the inaugural race at the track, which had grown to $170,000 by 1999.",
+            "act": 0.09336458891630173
+        },
+        {
+            "text": "George Mullin won 20 games in 1907, but he also lost 20 games.",
+            "act": 0.09296143800020218
+        },
+        {
+            "text": "A worker earning $40,000 would face an annual cap of $2,400, while a worker earning $400,000 would face an annual cap of $24,000.",
+            "act": 0.09232603013515472
+        },
+        {
+            "text": "Strong Mad and The Cheat are the first to appear.",
+            "act": 0.09216254204511642
+        },
+        {
+            "text": "The four-dollar ticket gives the ticket holder a chance at receiving sixty percent of the jackpot.",
+            "act": 0.09179232269525528
+        },
+        {
+            "text": "The server can decrease the progressive jackpot value after a player has won an instant online lottery game.",
+            "act": 0.09169533103704453
+        },
+        {
+            "text": "On 2 February 1966, she was sold for scrapping to Southern Scrap Material Co., Ltd., along with her sister ships  and , for $151,079.79.",
+            "act": 0.09050869196653366
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

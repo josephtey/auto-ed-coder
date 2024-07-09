@@ -1,0 +1,412 @@
+{
+    "index": 672,
+    "label": "Event or action descriptions",
+    "attributes": "Descriptions of events, actions, decisions",
+    "reasoning": "Upon analyzing the texts in the provided samples, it becomes clear that the most specific attribute distinguishing the samples is the presence of event or action descriptions. All texts in the samples describe specific events, actions, or decisions, whether they are of historical, personal, or factual nature. On the other hand, the texts in the other samples are mostly conversational, subjective, speculative, or rhetorical, without a clear description of an event or concrete action.",
+    "density": 0.003777148253068933,
+    "confidence": 23.0,
+    "high_act_samples": [
+        {
+            "text": "In the end CertClean won.",
+            "act": 0.21929873526096344
+        },
+        {
+            "text": "Bank of America worker hit in crosswalk by Peter Pan bus.",
+            "act": 0.19127032160758972
+        },
+        {
+            "text": "She fell to the ground.",
+            "act": 0.18670454621315002
+        },
+        {
+            "text": "Cars stranded, flooded on interstate.",
+            "act": 0.17051297426223755
+        },
+        {
+            "text": "However, early morning on the Miratucu was beautiful.",
+            "act": 0.14355233311653137
+        },
+        {
+            "text": "Marquez returned to the top on his tenth lap, where he remained until the end of the day.",
+            "act": 0.14206814765930176
+        },
+        {
+            "text": "The building was gutted by the blaze.",
+            "act": 0.14201322197914124
+        },
+        {
+            "text": "Mexicana Astron, Astrofis.",
+            "act": 0.13967449963092804
+        },
+        {
+            "text": "Boult\u2019s third over saw Aaron Finch out lbw falling over an inswinger.",
+            "act": 0.1394820660352707
+        },
+        {
+            "text": "Hydronic radiant is out.",
+            "act": 0.13776519894599915
+        },
+        {
+            "text": "Phil DeFreitas got Inzamam first ball.",
+            "act": 0.13336482644081116
+        },
+        {
+            "text": "Troubledog\n\nNuke 'em from orbit.",
+            "act": 0.13241520524024963
+        },
+        {
+            "text": "25-27 May, 2016 Stellenbosch, South Africa (MeerKAT2016).",
+            "act": 0.13131636381149292
+        },
+        {
+            "text": "Cage Dep.",
+            "act": 0.12912598252296448
+        },
+        {
+            "text": "Additional ground resources as well as an air attack are en route.",
+            "act": 0.12685538828372955
+        },
+        {
+            "text": "It was released.",
+            "act": 0.12663662433624268
+        },
+        {
+            "text": "On March 30, 1912 T\u014dbu Railway merged Sano Railway.",
+            "act": 0.1259569674730301
+        },
+        {
+            "text": "Cryptonator is going to let a thousand tickets and you can invest in Bitcoin.",
+            "act": 0.12357917428016663
+        },
+        {
+            "text": "1974 escaped Leeds.",
+            "act": 0.12356269359588623
+        },
+        {
+            "text": "\u201cBy tonight, it\u2019ll freeze again.",
+            "act": 0.12150588631629944
+        },
+        {
+            "text": "Carey inside-edged to the pavilion fence to reach a battling 51 off 41 balls.",
+            "act": 0.1214943528175354
+        },
+        {
+            "text": "There is going to be a ton of funds flowing into Bitcoin.",
+            "act": 0.12064316868782043
+        },
+        {
+            "text": "There would be a \u201cPondo cultural village\u201d.",
+            "act": 0.11879807710647583
+        },
+        {
+            "text": "6-0 Michigan.",
+            "act": 0.11874410510063171
+        },
+        {
+            "text": "RECORD-PUNKT 6.2: 1.",
+            "act": 0.11819101870059967
+        },
+        {
+            "text": "The cultures were grown in Sula's medium at 37 \u00b0C in humid dark atmosphere.",
+            "act": 0.11340658366680145
+        },
+        {
+            "text": "Final Decision at 3-4.",
+            "act": 0.11188969016075134
+        },
+        {
+            "text": "In the 11th century came a Buddhist saint to meditate in a nearby cave, mystical Mahasiddha Naropa, who with his prayers miraculously invoked the water to dwindle away and made the place into a sacred land.",
+            "act": 0.11083585023880005
+        },
+        {
+            "text": "Wetenschappen Amsterdam 11, 3-24, 1910.",
+            "act": 0.11034660786390305
+        },
+        {
+            "text": "So we go to s\u00f6dermalm where the social desert fag fest continues.",
+            "act": 0.10742159187793732
+        },
+        {
+            "text": "There would be \u201chospitals, schools and shopping centres\u201d.",
+            "act": 0.10677488148212433
+        },
+        {
+            "text": "He blocked her with his body while she hit him.",
+            "act": 0.10657627135515213
+        },
+        {
+            "text": "Exilus was injured by this gunfire.",
+            "act": 0.10581956058740616
+        },
+        {
+            "text": "Tom\u00e1s al Libro Gamma de la Metaf\u00edsica.",
+            "act": 0.10358846932649612
+        },
+        {
+            "text": "It is Noon.",
+            "act": 0.10319215059280396
+        },
+        {
+            "text": "Ang hindi boboto sa kanya, manigas ka sa gutom!",
+            "act": 0.10192783921957016
+        },
+        {
+            "text": "'s history.",
+            "act": 0.1012091264128685
+        },
+        {
+            "text": "KO will do it .",
+            "act": 0.10080410540103912
+        },
+        {
+            "text": "In Madrid l\u00e4uft sein Vertrag noch bis 2021.",
+            "act": 0.10070468485355377
+        },
+        {
+            "text": "sunken Temple sulfur his spit without preparation.",
+            "act": 0.10063216090202332
+        },
+        {
+            "text": "Champions League?",
+            "act": 0.10002638399600983
+        },
+        {
+            "text": "He is going to get himself killed.",
+            "act": 0.09831061959266663
+        },
+        {
+            "text": "A further 500 years and it would be proponents of Islamic culture.",
+            "act": 0.09733590483665466
+        },
+        {
+            "text": "Last week Australia\u2019s Perth Mint was set to develop its own cryptocurrency backed by physical precious metals.",
+            "act": 0.09729450941085815
+        },
+        {
+            "text": "CUP, 1991.",
+            "act": 0.09688273817300797
+        },
+        {
+            "text": "The team announced that they would not be competing at Indianapolis, and that they could also end up missing Brno.",
+            "act": 0.09569434821605682
+        },
+        {
+            "text": "Cal Crutchlow set the pace shortly after, then also fell (at Turn 5).",
+            "act": 0.09453290700912476
+        },
+        {
+            "text": "The Flood of Noah\u2019s day also changed the world.",
+            "act": 0.09452737867832184
+        },
+        {
+            "text": "1 singles: \u201cYou Make Me Wanna\u2026\u201d (1997, R&B); \u201cNice & Slow\u201d (1998, R&B) Edd said: Before you Usher fanatics cram my inbox, chill.",
+            "act": 0.09406426548957825
+        },
+        {
+            "text": "The bullet hit her in the back.",
+            "act": 0.09405002743005753
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

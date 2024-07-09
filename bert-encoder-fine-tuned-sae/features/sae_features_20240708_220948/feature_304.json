@@ -1,0 +1,412 @@
+{
+    "index": 304,
+    "label": "Informative content with specific details",
+    "attributes": "concrete facts, specific dates, explicit names, technical details, clear descriptions, historical information, specific events",
+    "reasoning": "The primary distinguishing attribute is the presence of concrete, specific facts, descriptions, or historical information that convey clear and direct informative content. These detailed elements may include dates, names, locations, technical or procedural details, and specific events. In contrast, the texts in the other samples primarily consist of subjective commentary, opinions, or abstract discussions lacking concrete details.",
+    "density": 0.006553067509407282,
+    "confidence": 35.0,
+    "high_act_samples": [
+        {
+            "text": "Since December 30, 2018, Line 5 has two services routes as Xinzhuang - Fengxian Xincheng and Dongchuan Road - Minhang Development Zone.",
+            "act": 0.1844734251499176
+        },
+        {
+            "text": "~~~~~~~~~~~~~\nDays later - Mamoru's Apartment\n~~~~~~~~~~~~~\nIt puzzled him.",
+            "act": 0.17611494660377502
+        },
+        {
+            "text": "~~~\nDuilen\nJSONP coming soon!",
+            "act": 0.1631951481103897
+        },
+        {
+            "text": "The sign read \u2013 not \u201cSlow / Children At Play\u201d \u2013 but \u201cCaution / Children Texting.\u201d A walking stick figure with its head down toward an apparent electronic device accompanied the written message.",
+            "act": 0.15234261751174927
+        },
+        {
+            "text": "Love is indeed patient.",
+            "act": 0.15136969089508057
+        },
+        {
+            "text": "Separate service that split at Dongchuan Road, which appear as Xinzhuang - Dongchuan Road and Dongchuan Road - Minhang Development Zone began on October 20, 2018 and ended on December 29, 2018, due to the transformation of signal system of Dongchuan Road - Minhang Development Zone section and current 05C01 trains.",
+            "act": 0.14593294262886047
+        },
+        {
+            "text": "There they were, three young women standing by the road with backpacks in a pile behind them.",
+            "act": 0.14269496500492096
+        },
+        {
+            "text": "A stately quadrille lies open\non their stands.",
+            "act": 0.13346116244792938
+        },
+        {
+            "text": "Across the street there is a (long) line of taxis.",
+            "act": 0.1272788792848587
+        },
+        {
+            "text": "&& eat!",
+            "act": 0.1232406497001648
+        },
+        {
+            "text": "Luke told her.",
+            "act": 0.12244664132595062
+        },
+        {
+            "text": "And she spread out her arms to show her short-waisted, lace-trimmed, dainty gray dress, girdled with a broad ribbon just below the breast.",
+            "act": 0.1215740293264389
+        },
+        {
+            "text": "Directory of leisure activities\n\nActivity is intense along the coast, rivers and lakes.",
+            "act": 0.11914139986038208
+        },
+        {
+            "text": "The grounds incorporate large leisure areas, including 3 outdoor pools and an extensive green area.",
+            "act": 0.11855785548686981
+        },
+        {
+            "text": "Amenities\nThe Boronia Bushland Reserve offers opportunities for bushwalking, barbecues and picnics.",
+            "act": 0.11734583228826523
+        },
+        {
+            "text": "access to private garden, presence of a dog in families).",
+            "act": 0.11305960267782211
+        },
+        {
+            "text": "History\n\nGenalta station opened as Belair Road.",
+            "act": 0.11245673894882202
+        },
+        {
+            "text": "Services \n\nEuskotren operates several public transportation services; including commuter rail, inter-city rail, urban rail transit and public bus services as well as freight rail transport.",
+            "act": 0.11217851936817169
+        },
+        {
+            "text": "But it was Lockie Ferguson who made the most telling incision.",
+            "act": 0.1114453449845314
+        },
+        {
+            "text": "J1 Auto Repair offers towing service too.",
+            "act": 0.11119866371154785
+        },
+        {
+            "text": "Still, there are a non-negligible number of adults (~100k over 15).",
+            "act": 0.10781630873680115
+        },
+        {
+            "text": "\u201cTake my yoke upon you, and learn of me; for I am meek and\nlowly in heart: and ye shall find rest unto your souls.",
+            "act": 0.10766962170600891
+        },
+        {
+            "text": "In June 1922 he joined Messrs. F. & A. Swanzy Transport for six months as a stenographer typist.",
+            "act": 0.10581067204475403
+        },
+        {
+            "text": "13 For judgment is without mercy to him that hath\nshowed no mercy: mercy glorieth against judgment.",
+            "act": 0.1053144708275795
+        },
+        {
+            "text": "*Cohort* was fitted as above.",
+            "act": 0.10432228446006775
+        },
+        {
+            "text": "The global index for cesarean section was 47.2%, increased due to frequent use of elective section (11.2%).",
+            "act": 0.10317044705152512
+        },
+        {
+            "text": "Martin has toddled over from the Rescue Mission, a few blocks away.",
+            "act": 0.10189491510391235
+        },
+        {
+            "text": "She was dragging Jean along by the arm, and\nneither said a word.",
+            "act": 0.09943518042564392
+        },
+        {
+            "text": "It was the lady tending the food stall she slammed into.",
+            "act": 0.09820682555437088
+        },
+        {
+            "text": "The conversation was getting animated and scissors were snipping their way through big baskets of buds.",
+            "act": 0.09816643595695496
+        },
+        {
+            "text": "On the back of her application, the visa officer had written \u201cHMA [Her Majesty's Ambassador] authorises issue.\u201d\n\nBut if I had authorised issue, my signature should have been there; it wasn\u2019t.",
+            "act": 0.09740519523620605
+        },
+        {
+            "text": "A small area was dug up, and the rest redeveloped as a short-lived park, which was quickly removed to allow further excavation.",
+            "act": 0.09732815623283386
+        },
+        {
+            "text": "~The user cannot use any Earth jutsu for 3 turns after the use of this jutsu.",
+            "act": 0.09687390178442001
+        },
+        {
+            "text": "The children read out speeches that they had prepared themselves.",
+            "act": 0.09553894400596619
+        },
+        {
+            "text": "'Goods' includes electronic devices, such as mobile telephones.",
+            "act": 0.09481728821992874
+        },
+        {
+            "text": "\u201cGovernment has also directed for supply of water, power, Medicare, parking, transportation, sanitation, seating, and heating public address system, and fire fighting measures,\u201d sources maintained.",
+            "act": 0.09458322823047638
+        },
+        {
+            "text": "Starless are the nights of travel,\nBleak the winter wind;\nRun with terror all before you\nAnd regret behind.",
+            "act": 0.09424619376659393
+        },
+        {
+            "text": "Geography\nThe Red Army Strait is  wide.",
+            "act": 0.09351525455713272
+        },
+        {
+            "text": ":)\n\n~Singing helps too.",
+            "act": 0.09335169941186905
+        },
+        {
+            "text": "He first removed fake muscles from his arms, revealing scrawny twig-like limbs beneath.",
+            "act": 0.09330125898122787
+        },
+        {
+            "text": "The road is well known for its natural beauty.",
+            "act": 0.09286436438560486
+        },
+        {
+            "text": "She was walking.",
+            "act": 0.09268081188201904
+        },
+        {
+            "text": "A line of trees draws the border between the public property and Marineland\u2019s leased land.",
+            "act": 0.09261186420917511
+        },
+        {
+            "text": "UNLIMITED NATIONWIDE CALLING\n\nService is not available everywhere.",
+            "act": 0.09222618490457535
+        },
+        {
+            "text": "Mat 6:10 Thy kingdom come.",
+            "act": 0.09129375219345093
+        },
+        {
+            "text": "References\n\nCitations\n\nBibliography \n \n\nCategory:Armored cavalry regiments of the United States Army\nCategory:Military units and formations established in 1948\nCategory:Military units and formations disestablished in 1950\nCategory:Military units and formations in Massachusetts",
+            "act": 0.09069881588220596
+        },
+        {
+            "text": "Again we leave this instrument in love and light and service.",
+            "act": 0.09053683280944824
+        },
+        {
+            "text": "The centre has four private rooms for hire, a cafe and free parking.",
+            "act": 0.08977075666189194
+        },
+        {
+            "text": "\"I went out on a limb for you and you climbed up there and sawed it off!\"",
+            "act": 0.08931158483028412
+        },
+        {
+            "text": "~~~\nlazyant\nFair enough.",
+            "act": 0.08908428251743317
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

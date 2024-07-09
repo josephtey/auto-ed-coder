@@ -1,0 +1,412 @@
+{
+    "index": 87,
+    "label": "Structured academic or technical content",
+    "attributes": "presence of structured forms, questions or points assigned specific values, combination of multiple languages, technical content, references, formal survey structures, academic or scientific content, structured formatting with guidelines or multiple-choice options",
+    "reasoning": "In examining the samples provided, the key specific attribute that all texts within the samples share is the presence of structured forms with questions or points assigned specific point values. Each text in these samples seems to combine elements of multiple languages, technical content, references, or formal survey structures, typically seen in academic, scientific or web content. Moreover, these texts feature considerable structured formatting with exact guidelines or multiple-choice options, which are absent in the other set of samples. Conversely, the other samples are more narrative, conversational, and lack formal structure.",
+    "density": 0.003824599864288392,
+    "confidence": 95.0,
+    "high_act_samples": [
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct -- one year\\'s error *2 points*\n\n\u25a1 Not correct -- several years\\' errors *1 point*\n\n**2.",
+            "act": 0.22445586323738098
+        },
+        {
+            "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n6\\.",
+            "act": 0.2082640677690506
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.18455412983894348
+        },
+        {
+            "text": "\"Sir.",
+            "act": 0.18077819049358368
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.17728818953037262
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.17031997442245483
+        },
+        {
+            "text": "January 18, 2013                    _________________________________________\n       t0116                                                                 Clerk",
+            "act": 0.15850526094436646
+        },
+        {
+            "text": "Beschreiben Sie die Vergleichbarkeit der Messmethoden, wenn es mehr als eine Gruppe gibt                                                                                                                 \n\n  Bias                                                                9     Beschreiben Sie, was unternommen wurde, um m\u00f6glichen Ursachen von Bias zu begegnen                                                                                                                                                                                                                                                               \n\n  Studiengr\u00f6\u00dfe                                                        10    Erkl\u00e4ren Sie,wie die Studiengr\u00f6\u00dfe ermittelt wurde.",
+            "act": 0.15675638616085052
+        },
+        {
+            "text": "Obiekty Zend_Mime_Part\n        mog\u0105 by\u0107 wtedy zmienione poniewa\u017c s\u0105 one przechowywane w tablicy jako referencje.",
+            "act": 0.14954626560211182
+        },
+        {
+            "text": "Nach kicker-Informationen soll Achraf ausgeliehen werden.",
+            "act": 0.14287446439266205
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.1425069272518158
+        },
+        {
+            "text": "References\n\nExternal links\nFlora of China: draft text of Theaceae\n\n \nCategory:Ericales genera",
+            "act": 0.14178873598575592
+        },
+        {
+            "text": "\"Captain.",
+            "act": 0.1396321803331375
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.13603095710277557
+        },
+        {
+            "text": "Stealth .. invisible mode .. Ewan ko lang kung kaya yan ng mga pulitiko habang namimigay ng kaunting tulong.",
+            "act": 0.13480718433856964
+        },
+        {
+            "text": "2B and other YoHRa were created to counteract the invasion and take back the planet.",
+            "act": 0.13268621265888214
+        },
+        {
+            "text": "\"Commander.",
+            "act": 0.13266383111476898
+        },
+        {
+            "text": "Land Ho!",
+            "act": 0.13060081005096436
+        },
+        {
+            "text": "by Lysa Salsbury).",
+            "act": 0.12551404535770416
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.12362421303987503
+        },
+        {
+            "text": "\"Commander.",
+            "act": 0.12328983098268509
+        },
+        {
+            "text": "Verkn\u00fcpfung                                                               entf\u00e4llt                                                                                                                                                                                                                                                                                                                                         RECORD 12.3: Geben Sie an, ob im Rahmen der Studie eine Verkn\u00fcpfung auf Personenebene, auf institutioneller Ebene oder andere Datenverkn\u00fcpfungen zwischen zwei oder mehr Datenbanken durchgef\u00fchrt wurden.",
+            "act": 0.12154752761125565
+        },
+        {
+            "text": "Blend away!",
+            "act": 0.11934580653905869
+        },
+        {
+            "text": "Then Pakistani squad disabled the telephone and telegraph lines.",
+            "act": 0.11873261630535126
+        },
+        {
+            "text": "msgstr \"\"\n\"Vennligst bruk innstillingene for Google Drive\\n\"\n\"                             til venstre eller ovenfor.\"",
+            "act": 0.11827556043863297
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nYes, considerably *3 points*\n\nYes, to some extent *2 points*\n\nNo adaptation at all *1 point*\n\nThank you.",
+            "act": 0.11770961433649063
+        },
+        {
+            "text": "Dadurch wurde die Annahme der Unabh\u00e4ngigkeit zwischen den Identifikatoren umgangen.",
+            "act": 0.1174524649977684
+        },
+        {
+            "text": "Demnach soll die afghanische Regierung bis zu 5000 Taliban-K\u00e4mpfer freilassen, die Extremisten im Gegenzug bis 1000.",
+            "act": 0.11445041000843048
+        },
+        {
+            "text": "[Cleavage assay of nonacetylated and acetylated *E. coli* topoisomerase I.",
+            "act": 0.11407013982534409
+        },
+        {
+            "text": "Vi\u0146\u0161 uzskata, ka, samazinot \"\n\"nodok\u013cus, uz\u0146\u0113m\u0113ju aktivit\u0101te palielin\u0101tos un augtu ar\u012b konkur\u0113tsp\u0113ja.\"",
+            "act": 0.11387386173009872
+        },
+        {
+            "text": "Dies kann dazu f\u00fchren, dass Ursachen von Bias nicht erkannt, Bem\u00fchungen zur Durchf\u00fchrung von Metaanalysen behindert und falsche Schlussfolgerungen gezogen werden.",
+            "act": 0.11284589022397995
+        },
+        {
+            "text": "Deshalb wird es im Online-Auftritt ein Diskussionsforum zur Umsetzung der Leitlinien geben.",
+            "act": 0.11145490407943726
+        },
+        {
+            "text": "Annotations are derived from HOMER.",
+            "act": 0.11055054515600204
+        },
+        {
+            "text": "Es indicat en milens de segondas.\"",
+            "act": 0.10904549807310104
+        },
+        {
+            "text": "Folglich sollte angegeben werden, in welchem Umfang die Autoren Zugriff auf die Datenbank hatten.",
+            "act": 0.10833630710840225
+        },
+        {
+            "text": "\"Mr.",
+            "act": 0.10556714981794357
+        },
+        {
+            "text": "buy raiblockss using payza\n\nQuadrant 100 billion XRP in xRapid Pilots.",
+            "act": 0.10515446215867996
+        },
+        {
+            "text": "Es ist nicht ausreichend, eine Studie lediglich als deskriptiv zu bezeichnen, ohne klarzustellen, ob die Studie darauf ausgelegt ist, Hypothesen zu generieren oder zu pr\u00fcfen.",
+            "act": 0.10500603169202805
+        },
+        {
+            "text": "Datenquellen/Messmethoden                                           8     Geben Sie f\u00fcr jede in der Studie wichtige Variable die Datenquellen an und erl\u00e4utern Sie die verwendeten Bewertungs- bzw.",
+            "act": 0.10426448285579681
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Yes, very problematic *3 points*\n\n\u25a1 Yes, to some extent *2 points*\n\n\u25a1 No problems at all *1 point*\n\n**8.",
+            "act": 0.1039251759648323
+        },
+        {
+            "text": "Sie sollen die STROBE-Leitlinien erg\u00e4nzen und nicht ersetzen.",
+            "act": 0.10334789752960205
+        },
+        {
+            "text": "[Gel shift assay of nonacetylated and acetylated *E. coli* topoisomerase I.",
+            "act": 0.10308059304952621
+        },
+        {
+            "text": "Dies sollte auch die Anzahl von Personen mit verkn\u00fcpften Daten in den einzelnen Abschnitten enthalten.",
+            "act": 0.10267066955566406
+        },
+        {
+            "text": "______________________________\n\n\n\n\n                                     -27-",
+            "act": 0.1025654748082161
+        },
+        {
+            "text": "Zazwyczaj jednak nie jest to potrzebne.",
+            "act": 0.10229526460170746
+        },
+        {
+            "text": "Indonesia: Mie Sedaap Instant Kari Spesial Bumbu Kari Kental\n\nLike spicy?",
+            "act": 0.10220487415790558
+        },
+        {
+            "text": "Einschr\u00e4nkungen                                                     19    Diskutieren Sie die Einschr\u00e4nkungen der Studie und ber\u00fccksichtigen Sie dabei die Gr\u00fcnde f\u00fcr m\u00f6glichen Bias oder Impr\u00e4zision.",
+            "act": 0.10189209878444672
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.10151086002588272
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.10151086002588272
+        },
+        {
+            "text": "Die Datenbankpopulation umfasst diejenigen Personen, die in CPRD erfasst sind, und die Studienpopulation solche, die mit Hilfe von Codes und Algorithmen, die in der jeweiligen Studie beschrieben sind, aus CPRD ausgew\u00e4hlt wurden.",
+            "act": 0.10087785869836807
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 341,
+    "label": "Scientific or technical context",
+    "attributes": "technical content, structured data, scientific terminology, formal tone, research-focused language, detailed descriptions, formal statements",
+    "reasoning": "The most specific attribute shared by all the samples is the presence of technical, scientific, or structured information. The samples include research study excerpts, detailed descriptions, scientific data, and formal statements, commonly found in academic or research contexts. None of the negative samples contain this type of structured, technical information.",
+    "density": 0.00471669015521422,
+    "confidence": 60.0,
+    "high_act_samples": [
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.21902133524417877
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.21298161149024963
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.21298161149024963
+        },
+        {
+            "text": "In 2002 it was renamed the Hans-Walter-Wild-Stadion.",
+            "act": 0.21062664687633514
+        },
+        {
+            "text": "Suddenly she felt something stick in her throat.",
+            "act": 0.20054122805595398
+        },
+        {
+            "text": "STROBE-Punkte                                                                                                                                                                                                                                                                                                                                    RECORD-Punkte\n  ------------------------------------------------------------------- ----- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Titel und Abstract**                                                                                                                                                                                                                                                                                                                                                                                                     \n\n                                                                      1     \\(a\\) Machen Sie das Studiendesign im Titel oder Abstract kenntlich, indem Sie daf\u00fcr einen allgemein gebr\u00e4uchlichen Begriff verwenden\\                                                                                                                                                                                                           RECORD 1.1: Der verwendete Datentyp sollte im Titel oder Abstract angegeben werden.",
+            "act": 0.185983806848526
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.18275997042655945
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.1763521134853363
+        },
+        {
+            "text": "\" I want to tell you something.\"",
+            "act": 0.17465701699256897
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.17457681894302368
+        },
+        {
+            "text": "\u2013 Reuters",
+            "act": 0.17357613146305084
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.1702234447002411
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.1702234447002411
+        },
+        {
+            "text": "\\- awareness        \\- persuasive communication\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThirdly, the active transport lesson was developed by two researchers (HV and DS).",
+            "act": 0.16679544746875763
+        },
+        {
+            "text": "\"It's stupid of you to refuse my friendship.\"",
+            "act": 0.16275817155838013
+        },
+        {
+            "text": "###### \n\nData quality assessment (DQA) activities implementation schedule, 2017\n\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Phase 1: preparation                  January 2-March 14, 2017\n  ------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                        Identifying resources, partners, and staff, scheduling activities, venues, and transport, finalizing protocol and data collection tools (printed or electronic).",
+            "act": 0.1618298888206482
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct -- one year\\'s error *2 points*\n\n\u25a1 Not correct -- several years\\' errors *1 point*\n\n**2.",
+            "act": 0.15630458295345306
+        },
+        {
+            "text": "Created after 1989, on the site of a church abandoned in 1790, the complex has become a significant cultural and religious attraction.",
+            "act": 0.15193894505500793
+        },
+        {
+            "text": "\"Everything's going to blow up.\"",
+            "act": 0.15137213468551636
+        },
+        {
+            "text": "I really started to panic.",
+            "act": 0.1481730043888092
+        },
+        {
+            "text": "I really started to panic.",
+            "act": 0.1481730043888092
+        },
+        {
+            "text": "I really started to panic.",
+            "act": 0.1481730043888092
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.14353018999099731
+        },
+        {
+            "text": "-------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Prestroke dementia                           Assessment was based on interviews with the persons and a knowledgeable informant.",
+            "act": 0.14342139661312103
+        },
+        {
+            "text": "LONDON, Nov.",
+            "act": 0.13953536748886108
+        },
+        {
+            "text": "\\\\ \\\\\n&=\\left(1+o(t^{-\\beta})\\right)\\sum\\limits_{k\\in \\operatorname{{\\mathbb Z}}} I_k.",
+            "act": 0.13675062358379364
+        },
+        {
+            "text": "Materials and methods {#s4}\n=====================\n\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Reagent type\\             Designation                          Source or reference   Identifiers                                                                                                                                   Additional information\n  (species) or resource                                                                                                                                                                                                              \n  ------------------------- ------------------------------------ --------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------\n  Gene (mouse)              Spen                                 RefSeq                [NM_019763.2](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nucleotide&term=NM_019763&doptcmdl=GenBank&tool=genome.ucsc.edu)   \n\n  Cell line (mouse)         TXY WT and TXY deltaA                Dr. Edith Heard       Xist-WT and Xist-deltaA                                                                                                                       Cell lines have a doxycycline inducible Xist gene + / - the A repeat region\n\n  Cell line (mouse)         HATX WT and HATX Spen KO             Dr. Anton Wutz        WT, *Spen* KO                                                                                                                                 KO cells have a deletion\\\n                                                                                                                                                                                                                                     of the majority of the Spen gene.",
+            "act": 0.1366460770368576
+        },
+        {
+            "text": "[](pone.0168594.t002){#pone.0168594.t002g}\n\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Feedback semi-structured group interviews                                                                                                                                                                                             Adaptations intervention\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Stronger emphasis should be put on the focus of the lesson (i.e.",
+            "act": 0.13495543599128723
+        },
+        {
+            "text": "\" You can't do this to me.\"",
+            "act": 0.13470536470413208
+        },
+        {
+            "text": "\"Because I don't want to be here!\"",
+            "act": 0.134385347366333
+        },
+        {
+            "text": "Centro Universit\u00e1rio Salesiano de S\u00e3o Paulo (Org.).",
+            "act": 0.13430826365947723
+        },
+        {
+            "text": "\"She's going to die.\"",
+            "act": 0.13422612845897675
+        },
+        {
+            "text": "Kitchen was renovated in 2013.",
+            "act": 0.13356736302375793
+        },
+        {
+            "text": "Stepped double gable garden block.",
+            "act": 0.13281284272670746
+        },
+        {
+            "text": "It used to end at Qu'Appelle Avenue but a section of that street was closed off, allowing the park to be expanded to Ellice Avenue.",
+            "act": 0.13243913650512695
+        },
+        {
+            "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n6\\.",
+            "act": 0.13178807497024536
+        },
+        {
+            "text": "Much of this was switched to soybeans and later to corn.",
+            "act": 0.13151425123214722
+        },
+        {
+            "text": "}(\\bar{\\rho}(t)\\circ\\bar{\\sigma}(t)-\\bar{\\sigma}(t)\\circ\\bar{\\rho}(t))\n=\\sum\\limits_{\\alpha+\\beta=\\gamma}\\frac{(-2)^{|\\alpha|}}{\\alpha !",
+            "act": 0.13056036829948425
+        },
+        {
+            "text": "I regret this.",
+            "act": 0.12796014547348022
+        },
+        {
+            "text": "\"I want you to give this to me on my birthday.\"",
+            "act": 0.12732312083244324
+        },
+        {
+            "text": "}\\\\\n\\mathrm{C1.}",
+            "act": 0.12720870971679688
+        },
+        {
+            "text": "PAC generally arises due to the consequence of a cancer-associated mutation that is acquired or inherited.",
+            "act": 0.12695929408073425
+        },
+        {
+            "text": "French windows to left on ground floor, to the right conservatory extends to north.",
+            "act": 0.12665772438049316
+        },
+        {
+            "text": "\"You're gonna regret this very, very much.\"",
+            "act": 0.12552882730960846
+        },
+        {
+            "text": "History\n\nGenalta station opened as Belair Road.",
+            "act": 0.12415012717247009
+        },
+        {
+            "text": "An increased emphasis on physical education prompted an expansion of the gymnasium and improvements to the sports field northeast of the school.",
+            "act": 0.12277191877365112
+        },
+        {
+            "text": "[](pone.0191608.t003){#pone.0191608.t003g}\n\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                                                                                               All participants with negative sputum index results at enrolment who were subsequently started on TB treatment\\                   \n  -------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------- --------------- ------------------\n  **Investigations for TB initiated by PHC staff after enrolment in XTEND**                                                                                                                                                                                                      \n\n  \u00a0\u00a0\u00a0\u00a0Sputum culture done, n (%)                                                                                                               64 (38)                                                                                                           23 (28)         42 (70)\n\n  \u00a0\u00a0\u00a0\u00a0Documented chest radiography, n (%)                                                                                                      58 (35)                                                                                                           51 (62)         9 (15)\n\n  \u00a0\u00a0\u00a0\u00a0Undocumented chest radiography, n (%) (patient reported at interview)                                                                    29 (17)                                                                                                           10 (11)         6 (10)\n\n  \u00a0\u00a0\u00a0\u00a0Any admission to hospital, n (%)                                                                                                         27 (22)                                                                                                           70 (85)         9 (15)\n\n  Algorithm followed (any of documented CXR, culture, or referral for hospital), n (%)                                                         106 (63)                                                                                                          58 (71)         45 (75)\n\n  **TB treatment initiation**                                                                                                                                                                                                                                                    \n\n  Reason for TB treatment start (as defined in [Table 1](#pone.0191608.t001){ref-type=\"table\"})                                                                                                                                                                                  \n\n  \u00a0\u00a0\u00a0\u00a0Clinical assessment compatible with TB, n (%)                                                                                            19 (11)                                                                                                           19 (23)         1 (2)\n\n  \u00a0\u00a0\u00a0\u00a0Chest radiography compatible with TB (documented or undocumented), n (%)                                                                 63 (38)                                                                                                           63 (77)         10 (17)\n\n  \u00a0\u00a0\u00a0\u00a0Positive sputum test for TB^z^, n (%)                                                                                                    49 (29)                                                                                                           0               45 (75)\n\n  \u00a0\u00a0\u00a0\u00a0Extra-pulmonary TB diagnosed at higher level of care, n (%)                                                                              9 (5)                                                                                                             0               2 (3)\n\n  \u00a0\u00a0\u00a0\u00a0Assessment at a higher level of care leading to TB treatment initiation, n (%)                                                           19 (11)                                                                                                           0               2 (3)\n\n  \u00a0\u00a0\u00a0\u00a0Unclear^y^, n (%)                                                                                                                        8 (5)                                                                                                             0               0\n\n  TB treatment started 'empirically' (i.e.",
+            "act": 0.12167218327522278
+        },
+        {
+            "text": "The earth seemed suddenly to have grown too big and too old for\nthem.",
+            "act": 0.12102401256561279
+        },
+        {
+            "text": "After her own leadership condemned her statements, she apologized and then she had, after that anti-Semitic remarks that she hasn\u2019t apologized for.",
+            "act": 0.12056168168783188
+        },
+        {
+            "text": "\"You're going to die!\"",
+            "act": 0.11776656657457352
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

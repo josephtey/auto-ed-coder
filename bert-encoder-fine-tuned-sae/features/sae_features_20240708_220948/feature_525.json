@@ -1,0 +1,412 @@
+{
+    "index": 525,
+    "label": "Statistical and factual content",
+    "attributes": "factual or informational content, presence of numeric data, lack of opinion-based statements, lack of informal conversational language",
+    "reasoning": "The samples consist predominantly of factual, statistical, or informational content and contain specific numeric data, often related to demographics, economic statistics, sports statistics, or specific events. These texts lack opinion-based statements or informal conversational language.",
+    "density": 0.0021068515381439776,
+    "confidence": 69.0,
+    "high_act_samples": [
+        {
+            "text": "(c).",
+            "act": 0.5302860736846924
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////\n\nI\u2019m happy taking various public or private transportation while traveling in foreign countries.",
+            "act": 0.32152122259140015
+        },
+        {
+            "text": "(B) Distance moved in a square open field.",
+            "act": 0.29081088304519653
+        },
+        {
+            "text": "///////////////////////////////////////////////////////////////////////////////\n//  Copyright Christopher Kormanyos 2007 - 2020.",
+            "act": 0.2657947540283203
+        },
+        {
+            "text": "Males had a median income of $28,168 versus $25,014 for females.",
+            "act": 0.25630390644073486
+        },
+        {
+            "text": "Males had a median income of $23,433 versus $24,545 for females.",
+            "act": 0.2545926868915558
+        },
+        {
+            "text": "Males had a median income of $25,893 versus $13,125 for females.",
+            "act": 0.24812845885753632
+        },
+        {
+            "text": "44.2% of all households were made up of individuals and 19.1% had someone living alone who was 65 years of age or older.",
+            "act": 0.23993802070617676
+        },
+        {
+            "text": "30.3% of all households were made up of individuals and 16.1% had someone living alone who was 65 years of age or older.",
+            "act": 0.23660986125469208
+        },
+        {
+            "text": "33.9% of all households were made up of individuals and 22.0% had someone living alone who was 65 years of age or older.",
+            "act": 0.22611382603645325
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////////\n\nThe tourist industry brought in $3.7 billion in 2013 accounting for 3.7% of the GDP.",
+            "act": 0.22504405677318573
+        },
+        {
+            "text": "For every 100 females age 18 and over, there were 75.0 males.",
+            "act": 0.22427304089069366
+        },
+        {
+            "text": "32.4% of all households were made up of individuals and 14.7% had someone living alone who was 65 years of age or older.",
+            "act": 0.22030963003635406
+        },
+        {
+            "text": "The per capita income for the city was $17,660.",
+            "act": 0.21089409291744232
+        },
+        {
+            "text": "Heather Watson 6\u20137(4\u20137), 6\u20131, 6\u20134\n\nMen's Doubles\n\n Luke Bambridge /  Neal Skupski def.",
+            "act": 0.20483238995075226
+        },
+        {
+            "text": "For every 100 females age 18 and over, there were 87.0 males.",
+            "act": 0.20249392092227936
+        },
+        {
+            "text": "For every 100 females age 18 and over, there were 97.7 males.",
+            "act": 0.19960440695285797
+        },
+        {
+            "text": "The homeowner vacancy rate was 0.3%; the rental vacancy rate was 5.8%.",
+            "act": 0.19908522069454193
+        },
+        {
+            "text": "The Steelers had previously announced that longtime long snapper Greg Warren signed a new one-year deal to return in 2017.",
+            "act": 0.1894693821668625
+        },
+        {
+            "text": "The per capita income for the town was $16,335.",
+            "act": 0.1854351907968521
+        },
+        {
+            "text": "The median income for a household in the city was $21,875, and the median income for a family was $24,643.",
+            "act": 0.18284451961517334
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.17886926233768463
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.17886926233768463
+        },
+        {
+            "text": "The median income for a household in the city was $27,338, and the median income for a family was $34,423.",
+            "act": 0.17196165025234222
+        },
+        {
+            "text": "For every 100 females age 18 and over, there were 90.0 males.",
+            "act": 0.17043209075927734
+        },
+        {
+            "text": "There were 109 households out of which 36.7% had children under the age of 18 living with them, 52.3% were married couples living together, 9.2% had a female householder with no husband present, and 36.7% were non-families.",
+            "act": 0.165384903550148
+        },
+        {
+            "text": "The median income for a household in the town was $30,078, and the median income for a family was $35,351.",
+            "act": 0.161134734749794
+        },
+        {
+            "text": "767 households (43.9%) were made up of individuals and 288 (16.5%) had someone living alone who was 65 years of age or older.",
+            "act": 0.16060100495815277
+        },
+        {
+            "text": "If districts want to increase taxes for school funding, they\u2019re required to hold referendums.",
+            "act": 0.15843357145786285
+        },
+        {
+            "text": "The per capita income for the city was $9,053.",
+            "act": 0.15665316581726074
+        },
+        {
+            "text": "\u25aa The 49ers filled Borland\u2019s roster spot by promoting Chase Thomas from the practice squad, the eighth player the 49ers have called up from their developmental squad.",
+            "act": 0.14537326991558075
+        },
+        {
+            "text": "return error;\n  }));\n});",
+            "act": 0.14530663192272186
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash on Sunday with an impressive 10-yard split of 1.59 seconds.",
+            "act": 0.1450495421886444
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash on Sunday with an impressive 10-yard split of 1.59 seconds.",
+            "act": 0.1450495421886444
+        },
+        {
+            "text": "In the town, the population was spread out with 25.4% under the age of 18, 6.5% from 18 to 24, 25.3% from 25 to 44, 23.9% from 45 to 64, and 18.9% who were 65 years of age or older.",
+            "act": 0.14470134675502777
+        },
+        {
+            "text": "(b)(1) (C)).",
+            "act": 0.144072487950325
+        },
+        {
+            "text": "June 27, 2016).",
+            "act": 0.14347019791603088
+        },
+        {
+            "text": "There were 2,565 households out of which 29.6% had children under the age of 18 living with them, 47.7% were married couples living together, 11.7% had a female householder with no husband present, and 36.0% were non-families.",
+            "act": 0.14180846512317657
+        },
+        {
+            "text": "There were 1,684 households out of which 26.2% had children under the age of 18 living with them, 33.5% were married couples living together, 11.8% had a female householder with no husband present, and 50.6% were non-families.",
+            "act": 0.13867934048175812
+        },
+        {
+            "text": "AT&T, for its part, has argued that Time Warner\u2019s licensing fees were too valuable for the company to forego.",
+            "act": 0.13495659828186035
+        },
+        {
+            "text": "Whitfield led the nation last year in kickoffs, with an average of 36.4 yards per return.",
+            "act": 0.1341325044631958
+        },
+        {
+            "text": "The median age was 31 years.",
+            "act": 0.13406074047088623
+        },
+        {
+            "text": "I love that horse and if I could afford to keep him, I would for the rest of his life.",
+            "act": 0.1331881880760193
+        },
+        {
+            "text": "For every 100 females, there were 91.8 males.",
+            "act": 0.13195203244686127
+        },
+        {
+            "text": "There were 102 households of which 30.4% had children under the age of 18 living with them, 40.2% were married couples living together, 13.7% had a female householder with no husband present, 7.8% had a male householder with no wife present, and 38.2% were non-families.",
+            "act": 0.1290803998708725
+        },
+        {
+            "text": "The median age in the city was 37.5 years.",
+            "act": 0.12879903614521027
+        },
+        {
+            "text": "In the city the population was spread out with 31.8% under the age of 18, 7.9% from 18 to 24, 29.2% from 25 to 44, 16.9% from 45 to 64, and 14.2% who were 65 years of age or older.",
+            "act": 0.12605299055576324
+        },
+        {
+            "text": "Acquired Lynch via trade in 2011.",
+            "act": 0.12395340949296951
+        },
+        {
+            "text": "For every 100 females, there were 90.8 males.",
+            "act": 0.12248902767896652
+        },
+        {
+            "text": "The 6-foot-4, 275-pound Chickillo, a former five-star recruit, has started almost every single game Miami has played during his four years on campus.",
+            "act": 0.12204428762197495
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 21,
+    "label": "Scientific academic structured text",
+    "attributes": "scientifically structured, formal tone, technical vocabulary, numerical data, equations, citations, academically oriented",
+    "reasoning": "The samples contain scientifically structured, formal, or academic text, often including structured information such as numerical data, equations, citations, or references. They maintain a high level of technical vocabulary and are generally presented in a composed and formal tone. The negative samples, on the other hand, contain informal language, conversational or opinion-based text, and lack structured scientific or academic presentation.",
+    "density": 0.0018933192876564124,
+    "confidence": 75.0,
+    "high_act_samples": [
+        {
+            "text": "Importance of K^+^ channels relies on both ionic conduction and permeation-independent mechanisms {#s4}\n=====================================================================================================\n\nThe participation of K^+^ channels in the control of cell cycle could be an early event in evolution.",
+            "act": 0.24931593239307404
+        },
+        {
+            "text": "Trailing 1-3 against CHEN, who was the favourite for the Gold medal, SUN made an amazing comeback to push CHEN into the seventh game, where she prevailed to take her first senior title 4-3 (9-11, 11-9, 8-11, 8-11, 11-7, 11-9, 11-8).",
+            "act": 0.2183804214000702
+        },
+        {
+            "text": "Therapy and follow-up of CKD are described, with emphasis on stage-based therapy to ameliorate clinical signs and slow progression.",
+            "act": 0.1739499866962433
+        },
+        {
+            "text": "Evidence that consciousness is the input data to a flexible response mechanism\n=================================================================================\n\nConsciousness is information, it is adaptive, and it is associated with intentional behavior.",
+            "act": 0.15091194212436676
+        },
+        {
+            "text": "\"There your wife waits for you, who loves you very much.\"",
+            "act": 0.14825713634490967
+        },
+        {
+            "text": "2.. Checkpoints and transmembrane potential regulate cell-cycle progression {#s2}\n===========================================================================\n\nThe process that produces two daughter cells from a mother cell has been divided into several phases, each with very characteristic functional properties.",
+            "act": 0.146672323346138
+        },
+        {
+            "text": ".......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... ..........\n\nALBUQUERQUE, N.M. \u2014 Police have determined the shooting death of a teen, deemed suspicious at first, to be accidental, according to a police spokesman.",
+            "act": 0.134923055768013
+        },
+        {
+            "text": "\"I'll take you first thing.\"",
+            "act": 0.12974579632282257
+        },
+        {
+            "text": "Central to the theory are three claims that may be testable\n==============================================================\n\nThis theory makes three claims that may prove to be testable, and if any of these claims were shown to be wrong, the theory, in its present form, would have been disproved.",
+            "act": 0.12946350872516632
+        },
+        {
+            "text": "Density functional study -- geometry optimization and mol\u00adecular orbital calculations \u00a0 {#sec5}\n=======================================================================================\n\nGeometry optimization and mol\u00adecular orbital calculations were carried out with the Guassian*09* software package (Frisch *et al.",
+            "act": 0.12885965406894684
+        },
+        {
+            "text": "Formulation of the system and $R$ \u2013 operator\n============================================\n\nConsider $2D$ graphs formed by the usual oriented rectangular vertices.",
+            "act": 0.12469878047704697
+        },
+        {
+            "text": "\"OH, EMMET, JUST MAKE THE BEST OF IT.\"",
+            "act": 0.11777699738740921
+        },
+        {
+            "text": "As you approach T2, change to a lower gear to get your legs moving quicker and prepared for the second run.",
+            "act": 0.11749284714460373
+        },
+        {
+            "text": "Engines with shared combustion chambers have generally provided for the placement of the shared intake and exhaust valve assemblies in a separate \"cylinder head-like\" element that is separately bolted to the side of the cylinder blocks.",
+            "act": 0.11734560132026672
+        },
+        {
+            "text": "Rafael Nadal was made to work in claiming his fifth Mutua Madrid Open title, edging Dominic Thiem 7-6(8), 6-4 in his home capital on Sunday.",
+            "act": 0.11497920751571655
+        },
+        {
+            "text": "\"Tell me, Mary Carrot, please!\"",
+            "act": 0.11186722666025162
+        },
+        {
+            "text": "In another bowl, mix sugar, flour, salt and butter well.",
+            "act": 0.11173159629106522
+        },
+        {
+            "text": "Observation of Macroscopic Quantum Self Trapping\n================================================\n\nWe are now in a position to discuss the optimal conditions for observation of the Josephson oscillation and the MQST effects.",
+            "act": 0.11028037965297699
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.10986703634262085
+        },
+        {
+            "text": "Then make the third pony at the nape of your neck by grabbing all the rest of your loose hair and combining it with the first two ponys.",
+            "act": 0.10515888780355453
+        },
+        {
+            "text": "Add sifted flour, cocoa powder,vanilla sugar, and baking powder to the bowl and whisk thoroughly.",
+            "act": 0.10420485585927963
+        },
+        {
+            "text": "In a separate bowl, beat egg yolks well and mix in milk.",
+            "act": 0.09987085312604904
+        },
+        {
+            "text": "Ascari likens his engine to a \"superimposed twin V.\" Again, the shared combustion chamber is formed by the cylinder wall, two piston crowns and a single cylinder head.",
+            "act": 0.0989743247628212
+        },
+        {
+            "text": "\"RICHARD, WHAT ON EARTH'S THE MATTER WITH YOU, DEAR?\"",
+            "act": 0.09822029620409012
+        },
+        {
+            "text": "Do it.",
+            "act": 0.09622415155172348
+        },
+        {
+            "text": "Initial stellar parameters of HIP61100 and HIP95995 {#sec:models}\n===================================================\n\nHaving derived very accurate masses for HIP61100 and HIP95995 allowed us to characterize the two components of these binaries in terms of initial helium content and age.",
+            "act": 0.09171555191278458
+        },
+        {
+            "text": "Thiem clawed back from a mini-break down with a beautiful forehand into the open court and Nadal rifled a sublime backhand winner at 6-all.",
+            "act": 0.09125817567110062
+        },
+        {
+            "text": "Nadal held to love in two straight service games and was relentless from the baseline as the match neared the finish line.",
+            "act": 0.09041043370962143
+        },
+        {
+            "text": "Sustained analgesia also can be achieved with transdermal fentanyl, which combines a strong opioid with a 72-hour release profile and the benefits of a parenteral route, avoiding first-pass metabolism.",
+            "act": 0.08941667526960373
+        },
+        {
+            "text": "Evidence that consciousness has no executive function\n========================================================\n\nSome of the many published claims that consciousness incorporates no processing at all, or is not involved in particular kinds of processing, are listed in Section 2.1.",
+            "act": 0.08939215540885925
+        },
+        {
+            "text": "\" OK. but let me have an hour.\"",
+            "act": 0.08818342536687851
+        },
+        {
+            "text": "Discussion: Comparison of variability of complex: NGC4051 and other AGNs\n========================================================================\n\nIn this paper, we detect a positive correlation between $\\rm{R_{Fe}}$ and the continuum flux in NGC4051.",
+            "act": 0.0880802571773529
+        },
+        {
+            "text": "The Swiss skier posted the fourth-fastest time in the final leg to overtake surprise first-run leader Lucas Braathen of Norway, who dropped to fourth, 0.49 seconds off the lead.",
+            "act": 0.08692926913499832
+        },
+        {
+            "text": "34, Braathen had mastered a difficult course set in the opening run to build a lead of 0.33 seconds over Yule.",
+            "act": 0.08646201342344284
+        },
+        {
+            "text": "From left to right: Katana, Wonder Woman, Harley Quinn, Supergirl, Bumblebee, Batgirl, and Poison Ivy.",
+            "act": 0.0859549269080162
+        },
+        {
+            "text": "Materials and methods\n=====================\n\nA confirmed case was defined as a subject with laboratory-confirmed novel influenza A H1N1 virus infection by means of a real-time polymerase chain reaction (PCR) assay.",
+            "act": 0.0837540253996849
+        },
+        {
+            "text": "In this study, the commonly used ketamine (35 mg/kg)/xylazine (5 mg/kg) combination is compared with ketamine (35 mg/kg)/xylazine (5 mg/kg)/butorphanol (0.1 mg/kg).",
+            "act": 0.08330874890089035
+        },
+        {
+            "text": "A Spatio--Temporal Storage Model for Efficiently Querying on Sensor Observation Data {#sec4-sensors-19-04362}\n=======================================================================================\n\nAs mentioned in [Section 3](#sec3-sensors-19-04362){ref-type=\"sec\"}, we chose OpenTSDB as an underlying temporal database for managing sensor observation data.",
+            "act": 0.08312133699655533
+        },
+        {
+            "text": "As is always the case with a thoroughly attractive woman, her defect- the shortness of her upper lip and her half-open mouth- seemed to be her own special and peculiar form of beauty.",
+            "act": 0.08183863759040833
+        },
+        {
+            "text": "Transcriptional Regulation in the Ethylene Response\n===================================================\n\nLike all living organisms, plants must respond to a wide variety of environmental stimuli.",
+            "act": 0.080570288002491
+        },
+        {
+            "text": "The population density was 2,042.5 people per square mile (788.8/km\u00b2).",
+            "act": 0.08014777302742004
+        },
+        {
+            "text": "A Sensing Update Request-Based Adaptive Low Power Listening Protocol {#sec4-sensors-16-00992}\n=======================================================================\n\nAnother objective of our interactive model is to minimize the energy consumption of sensor nodes while satisfying the sensing requests of all applications.",
+            "act": 0.07816556841135025
+        },
+        {
+            "text": "Marc Polmans /  Max Purcell 4\u20136, 6\u20133, [10\u20136].",
+            "act": 0.07680375128984451
+        },
+        {
+            "text": "Recently, IFN-alpha has also been tried in the treatment of Ph-positive acute lymphoid leukemia (ALL), a disease in part sharing the same molecular genetic lesion as CML, namely a BCR/ABL fusion gene.",
+            "act": 0.07479645311832428
+        },
+        {
+            "text": "Histone Acetylation in Ethylene-Mediated Transcriptional Regulation\n===================================================================\n\nIn eukaryotes, the binding of transcription factors is mainly determined by chromatin structure, namely the state of the genome's packaging with specific structural proteins, mainly histones.",
+            "act": 0.07357311993837357
+        },
+        {
+            "text": "Consider simmering fresh ginger root slices in hot water for about 30 minutes to prepare a spicy but soothing cup of tea.",
+            "act": 0.07246587425470352
+        },
+        {
+            "text": "He spoke in that refined French in which our grandfathers not only spoke but thought, and with the gentle, patronizing intonation natural to a man of importance who had grown old in society and at court.",
+            "act": 0.07191991060972214
+        },
+        {
+            "text": "A next-generation, extended-release ASA formulation (ER-ASA) has been developed to provide 24-h anti-thrombotic coverage with once-daily dosing.",
+            "act": 0.07069181650876999
+        },
+        {
+            "text": "\"Come on.\"",
+            "act": 0.07009287923574448
+        },
+        {
+            "text": "\"Come on.\"",
+            "act": 0.07009287923574448
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

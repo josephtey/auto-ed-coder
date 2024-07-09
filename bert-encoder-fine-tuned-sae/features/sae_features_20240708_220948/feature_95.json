@@ -1,0 +1,412 @@
+{
+    "index": 95,
+    "label": "Formal narrative and factual content",
+    "attributes": "elevated or formal tone, narrative storytelling, specific factual information, historical references, direct quotes, specific time frames, references to laws, court cases, sports events, and specific individuals",
+    "reasoning": "The texts in the samples appear to have an elevated or formal tone, use narrative storytelling or provide specific factual information about events. They also often include historical references, direct quotes, or specific time frames, including references to laws, court cases, sports events, and specific individuals. Unlike the other samples, they do not contain conversational language, personal opinions about contemporary issues, informal expressions, or direct addresses to others in a casual or argumentative manner.",
+    "density": 0.003122316018240399,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "Starless are the nights of travel,\nBleak the winter wind;\nRun with terror all before you\nAnd regret behind.",
+            "act": 0.18533910810947418
+        },
+        {
+            "text": "Is o composite?",
+            "act": 0.1822134256362915
+        },
+        {
+            "text": "Trunk nodded.",
+            "act": 0.1505410224199295
+        },
+        {
+            "text": "Is o composite?",
+            "act": 0.14988188445568085
+        },
+        {
+            "text": "Result\n\nHello John Doe !",
+            "act": 0.1429673582315445
+        },
+        {
+            "text": "The Cardinal mixed defenses, attacked the rim, pounced on Cal lapses.",
+            "act": 0.13998918235301971
+        },
+        {
+            "text": "The first three open men and women Oceania athletes to finish the Marathon and Half Marathon will be presented with the Oceania Championship medals.",
+            "act": 0.1394626945257187
+        },
+        {
+            "text": "Tom Carter jinked across the city defence and delivered the ball to Hitchcock, who unleashed a shot from fully 40 yards out past the transfixed Joe Croft and into the far corner of the net.",
+            "act": 0.1393384486436844
+        },
+        {
+            "text": "Then, pulling at the collar, he hauled off his load after\nhim along the highroad.",
+            "act": 0.13850389420986176
+        },
+        {
+            "text": "O eye!",
+            "act": 0.1327236294746399
+        },
+        {
+            "text": "O eye!",
+            "act": 0.1322898417711258
+        },
+        {
+            "text": "The Frenchman was fifth after the opening run before straddling a gate in the second and failing to score any World Cup points.",
+            "act": 0.1310444325208664
+        },
+        {
+            "text": "Trunk followed.",
+            "act": 0.1287984699010849
+        },
+        {
+            "text": "She followed and Trunk sealed it.",
+            "act": 0.128195658326149
+        },
+        {
+            "text": "The storm is burning initial and foremost by market chance.",
+            "act": 0.1258193999528885
+        },
+        {
+            "text": "The company also notified the U.S.",
+            "act": 0.12564757466316223
+        },
+        {
+            "text": "The Switzerland international, who came through the ranks at FC Zurich, moves to Forest for the remainder of the 2018-19 season.",
+            "act": 0.12463991343975067
+        },
+        {
+            "text": "\"You mustn't return to the city.\"",
+            "act": 0.123273104429245
+        },
+        {
+            "text": "He spent a month on loan at York City in 1991 before eventually leaving Portsmouth to join Birmingham City at the start of the 1992\u201393 season.",
+            "act": 0.12304918467998505
+        },
+        {
+            "text": "The 19-year-old Norwegian attacked again in his final run but lost time due to two mistakes in the middle section.",
+            "act": 0.12228962779045105
+        },
+        {
+            "text": "399 U.S. at 82, 90 S.Ct.",
+            "act": 0.12075785547494888
+        },
+        {
+            "text": "A minute later, the Belgian winger pounced on Kane's header from Lennon's cross to put Spurs within reach of extra time.",
+            "act": 0.11928535997867584
+        },
+        {
+            "text": "\"Do you intend to stay down here much longer?\"",
+            "act": 0.11808469891548157
+        },
+        {
+            "text": "Pullman, 312 U.S. at 501, 61 S.Ct.",
+            "act": 0.11798077821731567
+        },
+        {
+            "text": "We LOVE feedback!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "act": 0.11458015441894531
+        },
+        {
+            "text": "Rodgers avoided Troy and targeted Clark.",
+            "act": 0.11025018990039825
+        },
+        {
+            "text": "\" SIR, THE GOLD.\"",
+            "act": 0.10613330453634262
+        },
+        {
+            "text": "However, by the 1906 E.R.",
+            "act": 0.10467323660850525
+        },
+        {
+            "text": "CUP, 1991.",
+            "act": 0.10300436615943909
+        },
+        {
+            "text": "and more \u00bb\n\nTottenham took control of the second half at Manchester United, burying three goals in the Theatre of Dreams to up the pressure on Jose Mourinho.",
+            "act": 0.10193419456481934
+        },
+        {
+            "text": "Rodgers avoided Troy and targeted Clark.",
+            "act": 0.10146266967058182
+        },
+        {
+            "text": "\u2013U.S.",
+            "act": 0.10125522315502167
+        },
+        {
+            "text": "Open it!",
+            "act": 0.1007973849773407
+        },
+        {
+            "text": "\"Give me the reins.\"",
+            "act": 0.09898510575294495
+        },
+        {
+            "text": "326 U.S. at 316, 66 S.Ct.",
+            "act": 0.09770235419273376
+        },
+        {
+            "text": "CUP, 1970.",
+            "act": 0.09659460932016373
+        },
+        {
+            "text": "$json .",
+            "act": 0.0956205427646637
+        },
+        {
+            "text": "!!!!!!!!!!!!!!!!!!!!",
+            "act": 0.0954098179936409
+        },
+        {
+            "text": "Second metro bomber?",
+            "act": 0.09528081119060516
+        },
+        {
+            "text": "\u201cWe invite the respectable U.S.",
+            "act": 0.09442941844463348
+        },
+        {
+            "text": "\u201cGet up.\u201d Trunk said.",
+            "act": 0.09430891275405884
+        },
+        {
+            "text": "Graver Tank, 339 U.S. at 609, 70 S.Ct.",
+            "act": 0.09239022433757782
+        },
+        {
+            "text": "Junior Secondary/High School lasts three years, as does Senior Secondary School.",
+            "act": 0.09180143475532532
+        },
+        {
+            "text": "Graver Tank, 339 U.S. at 608, 70 S.Ct.",
+            "act": 0.09173137694597244
+        },
+        {
+            "text": "Dumb!",
+            "act": 0.09121537208557129
+        },
+        {
+            "text": "\" I'd better open the door.\"",
+            "act": 0.09057648479938507
+        },
+        {
+            "text": "He could.",
+            "act": 0.09032517671585083
+        },
+        {
+            "text": "******************************************************************",
+            "act": 0.09011273086071014
+        },
+        {
+            "text": "\"Willard!\"",
+            "act": 0.09006386995315552
+        },
+        {
+            "text": "\" John!\"",
+            "act": 0.08987577259540558
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

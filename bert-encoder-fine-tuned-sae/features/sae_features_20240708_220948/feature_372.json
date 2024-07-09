@@ -1,0 +1,412 @@
+{
+    "index": 372,
+    "label": "Presence of technical code elements",
+    "attributes": "code syntax, functions, programming errors, structured programming language",
+    "reasoning": "The samples contain a mix of technical language, historical information, medical references, and structured programming code, indicating they belong to diverse and specialized contexts. Upon analyzing, the most specific attribute shared by the samples is the inclusion of code syntax, functions, and programming errors. No such elements are found in the other samples, which are more conversational and discussion-based without any presence of technical code or structured programming language.",
+    "density": 0.002187519277217058,
+    "confidence": 16.0,
+    "high_act_samples": [
+        {
+            "text": "msg: \u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b5\u03c0\u03b9\u03c4\u03ac\u03c7\u03c5\u03bd\u03c3\u03b7\u03c2 %s, \u03b7 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7 \u03b4\u03b5\u03bd \u03c6\u03bf\u03c1\u03c4\u03ce\u03b8\u03b7\u03ba\u03b5.",
+            "act": 0.30367183685302734
+        },
+        {
+            "text": "\u0397 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03bf\u03c0\u03b5\u03af.",
+            "act": 0.23088857531547546
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.22121629118919373
+        },
+        {
+            "text": "Let it dry.",
+            "act": 0.16992929577827454
+        },
+        {
+            "text": "Blend until smooth.",
+            "act": 0.1554529368877411
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.13141873478889465
+        },
+        {
+            "text": "Cl- efflux could be stimulated by external Cl- and HCO3- and was inhibited by DIDS.",
+            "act": 0.12132355570793152
+        },
+        {
+            "text": "Ray Usher\n\nRay Usher (16 October 1904 \u2013 15 April 1964) was a former Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).",
+            "act": 0.11755027621984482
+        },
+        {
+            "text": "Cal Crutchlow set the pace shortly after, then also fell (at Turn 5).",
+            "act": 0.1090223416686058
+        },
+        {
+            "text": "Error 0x%x\nmsg: \u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 Cell.",
+            "act": 0.10320477932691574
+        },
+        {
+            "text": "A small fraction of the FF is converted to the SH, which accumulates a phase difference before it is back-converted.",
+            "act": 0.10027218610048294
+        },
+        {
+            "text": "Error 0x%x\nmsg: \u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b1\u03bd\u03bf\u03af\u03b3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03ce\u03b4\u03b9\u03ba\u03b1 Cell.",
+            "act": 0.09886808693408966
+        },
+        {
+            "text": "+#include <inttypes.h>\n #include <sparsehash/internal/sparseconfig.h>\n #include <config.h>\n #ifdef HAVE_INTTYPES_H",
+            "act": 0.09863462299108505
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.09128830581903458
+        },
+        {
+            "text": "SCLC is a centrally located mass of the lungs.",
+            "act": 0.08737222105264664
+        },
+        {
+            "text": "PAC usually stays silent until it spreads or extends to impinge on another structure.",
+            "act": 0.08630605787038803
+        },
+        {
+            "text": "PLGA particles alone used as control did not prevent pRBC sequestration in the brain.",
+            "act": 0.08350148051977158
+        },
+        {
+            "text": "Let it air dry.",
+            "act": 0.08303336054086685
+        },
+        {
+            "text": "This effect is mediated by the endothelial NO-synthase (NOS III).",
+            "act": 0.08199561387300491
+        },
+        {
+            "text": "Add onion; stir, then discard ice and immediately drain well.",
+            "act": 0.08199404925107956
+        },
+        {
+            "text": "*/\n  void handleUnhandledError(Throwable t)\n  {\n      print(\"unhandledError: %s\", t);\n  }\n}",
+            "act": 0.08117323368787766
+        },
+        {
+            "text": "He convened an oversight hearing into the spread of noxious weeds across California and carried legislation to promote the reactivation of the Auburn Dam.",
+            "act": 0.08113575726747513
+        },
+        {
+            "text": "Transfer techniques include direct injection into damaged tissue and injection into vessels that supply blood to the tissue.",
+            "act": 0.07959955185651779
+        },
+        {
+            "text": "Total RNA was isolated with the TRIZOL RNA isolation kit (Fisher), and mRNA was reversely transcribed with the RNAscript II kit (ABI).",
+            "act": 0.07752887159585953
+        },
+        {
+            "text": "Only the finger and epidermal growth factor domain are each entirely encoded by unique single exons.",
+            "act": 0.07728388160467148
+        },
+        {
+            "text": "This protein lacks any orthologs outside the closely related *Trypanosoma theileri, Trypomanosoma rangeli*, and *Trypanosoma grayii*.",
+            "act": 0.07517077773809433
+        },
+        {
+            "text": "Kill enemy fish, absorb their DNA, and gain their race as an option to use.",
+            "act": 0.0727483406662941
+        },
+        {
+            "text": "Disperse the Structure XL in water and stir until complete homogenity.",
+            "act": 0.0723351240158081
+        },
+        {
+            "text": "generated the Drd1 mutant rat.",
+            "act": 0.07204803079366684
+        },
+        {
+            "text": "Only small microvesicles secreted from the corpus distal to the cauda regions were CD9-positive.",
+            "act": 0.07145912200212479
+        },
+        {
+            "text": "1Characterization of Esrrb-expressing cancer cell line.",
+            "act": 0.07051340490579605
+        },
+        {
+            "text": "Elimination of salts from the surface of the vomeronasal organ, similar to the olfactory system, did not affect responses to odorants.",
+            "act": 0.0693858414888382
+        },
+        {
+            "text": "Stir to combine.",
+            "act": 0.06930163502693176
+        },
+        {
+            "text": "Bulk index is used to import data that are stored in files or in the triple store.",
+            "act": 0.06867503374814987
+        },
+        {
+            "text": "have been elevated and C4 reduced.",
+            "act": 0.06809155642986298
+        },
+        {
+            "text": "The spleen is markedly enlarged (splenomegaly), congested and soft with a prominent white pulp.",
+            "act": 0.06648146361112595
+        },
+        {
+            "text": "They also modulate outflow facility through the trabecular outflow pathway.",
+            "act": 0.06639409810304642
+        },
+        {
+            "text": "Konstantinos Garefis\n\nKonstantinos Garefis (Greek: \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0393\u03b1\u03c1\u03ad\u03c6\u03b7\u03c2) was a Greek chieftain of the Macedonian Struggle.",
+            "act": 0.06638994812965393
+        },
+        {
+            "text": "Chemotherapy works by preventing the disease from spreading, while radiation uses high-energy particles to destroy the cancer cells.",
+            "act": 0.06616201251745224
+        },
+        {
+            "text": "Separation was achieved using a high resolution anion exchange column.",
+            "act": 0.06489536911249161
+        },
+        {
+            "text": "The adenosquamous carcinoma is a rare combined tumour of non-small cell lung cancer (NSCLC).",
+            "act": 0.06461340934038162
+        },
+        {
+            "text": "At times the air-ship seemed to be standing quite still, head to wind.",
+            "act": 0.06396546214818954
+        },
+        {
+            "text": "He has been one of those delaying things before and working against getting FAA grants to fund the needed work.",
+            "act": 0.062003523111343384
+        },
+        {
+            "text": "Inside every living cell are molecule-building factories called ribosomes.",
+            "act": 0.06112223118543625
+        },
+        {
+            "text": "Exclude is called with a mutex held within\n// the Logger, so that doesn't need to use a mutex.",
+            "act": 0.06090737134218216
+        },
+        {
+            "text": "Cooler's Revenge - After Frieza Saga if the Spirit Bomb killed Frieza(due to no SSJ until the last fight).",
+            "act": 0.05995167791843414
+        },
+        {
+            "text": "Such membrane-bound M-CSF may be cleaved to release secreted M-CSF.",
+            "act": 0.05959485471248627
+        },
+        {
+            "text": "Used to access internal Java classes without\n * needing tools.jar on the classpath.",
+            "act": 0.05958422273397446
+        },
+        {
+            "text": "And completely aside, a proper Manhattan should be stirred.",
+            "act": 0.05926639586687088
+        },
+        {
+            "text": "And completely aside, a proper Manhattan should be stirred.",
+            "act": 0.05926639586687088
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

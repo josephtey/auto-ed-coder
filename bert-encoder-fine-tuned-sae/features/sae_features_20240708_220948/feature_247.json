@@ -1,0 +1,412 @@
+{
+    "index": 247,
+    "label": "Structured factual and narrative text",
+    "attributes": "Well-formed sentences or paragraphs, factual information, declarative sentences, narratives, specific events or actions, avoidance of informal language, avoidance of personal anecdotes, avoidance of opinionated debates",
+    "reasoning": "The samples contain well-formed sentences or paragraphs exhibiting either factual information, declarative sentences, or narratives, often involving specific events, actions, or general information. They avoid informal language, opinionated debates, or personal anecdotes commonly found in a conversational or forum-post setting.",
+    "density": 0.0010629160913158805,
+    "confidence": 65.0,
+    "high_act_samples": [
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.15869082510471344
+        },
+        {
+            "text": "\"Let's get rid of it.\"",
+            "act": 0.1505221128463745
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.14362581074237823
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.14362581074237823
+        },
+        {
+            "text": "Cincinnati has World Series aspirations again this season and are currently 2.5 games behind the division leading Cardinals for the top record in the National League.",
+            "act": 0.13939304649829865
+        },
+        {
+            "text": "The long-anticipated sequel, Shenmue III, is in development at Ys Net and currently slated for release for PlayStation 4 and PC in December.",
+            "act": 0.12039045989513397
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.11825580149888992
+        },
+        {
+            "text": "The Panthers will take on the New Orleans Saints on Sunday for the right to continue competing in the playoffs.",
+            "act": 0.11248751729726791
+        },
+        {
+            "text": "Carty could not reached for comment.",
+            "act": 0.10694921761751175
+        },
+        {
+            "text": "Trunk pulled Cal to his feet and brought him back into the cargo hold.",
+            "act": 0.09737108647823334
+        },
+        {
+            "text": "When it is secure, join the other box strip end by under-lapping the flange, then continue attaching.",
+            "act": 0.08985649794340134
+        },
+        {
+            "text": "\"Here's a present for you.\"",
+            "act": 0.08695346117019653
+        },
+        {
+            "text": "The top two teams in the final BCS standings on Dec. 5 play in the championship game Jan. 10 in Glendale, Ariz.",
+            "act": 0.08693378418684006
+        },
+        {
+            "text": "Yet when Stan gets his umbrella stuck down there, Oliver manages to lift the grille without any effort.",
+            "act": 0.0843445211648941
+        },
+        {
+            "text": "For the INNER EDGE piece, the plain section at top remains in place as part of boxing shape.",
+            "act": 0.08169141411781311
+        },
+        {
+            "text": "They\u2019d lose ground to rivals\n\nLiverpool missing out would almost certainly mean Manchester United being in the Champions League \u2013 and possibly Arsenal too, should Arsene Wenger\u2019s side scrape fourth and United win the Europa League.",
+            "act": 0.07879166305065155
+        },
+        {
+            "text": "Give l(3).",
+            "act": 0.07699916511774063
+        },
+        {
+            "text": "Q:\n\nKernel of the induced map of the wedge product\n\nLet $A$ be a noetherian ring and let $M$ be a finitely generated $A$-module.",
+            "act": 0.07362255454063416
+        },
+        {
+            "text": "Trump isn't racist.",
+            "act": 0.07322612404823303
+        },
+        {
+            "text": "Trump isn't racist.",
+            "act": 0.07322612404823303
+        },
+        {
+            "text": "Cap of sleeve to end of rolled up cuff.",
+            "act": 0.07097607851028442
+        },
+        {
+            "text": "At a restaurant downtown, Mr. Red, Mr. Blue, and Mr. White meet for lunch.",
+            "act": 0.06737608462572098
+        },
+        {
+            "text": "Trunk yanked Nesser out of the pilot seat and Sasha took his place.",
+            "act": 0.0633191242814064
+        },
+        {
+            "text": "Transformers: Dark of the Moon, the third film in the blockbuster Transformers franchise, is returning to 246 IMAX domestic locations for an extended two-week run from Friday, Aug. 26 through Thursday, Sept. 8.",
+            "act": 0.0628809928894043
+        },
+        {
+            "text": "C. For the OUTER EDGE piece, the plain section at top must be cut separately, then joined.",
+            "act": 0.06211087107658386
+        },
+        {
+            "text": "Holland returns to the role of Peter Parker in Spider-Man: Homecoming, which is out here on 7 July.",
+            "act": 0.06187644600868225
+        },
+        {
+            "text": "Nicht mehr anzeigen\n\nDas k\u00f6nnte dich auch noch interessieren:",
+            "act": 0.0607430636882782
+        },
+        {
+            "text": "The Trenton Thunder open their season on Thursday, April 6, against the Erie Seawolves (Detroit Tigers Double-A affiliate).",
+            "act": 0.06055181473493576
+        },
+        {
+            "text": "the lemma holds.",
+            "act": 0.060053206980228424
+        },
+        {
+            "text": "Dies sollte auch die Anzahl von Personen mit verkn\u00fcpften Daten in den einzelnen Abschnitten enthalten.",
+            "act": 0.059559375047683716
+        },
+        {
+            "text": "Which is, of course, completely untrue.",
+            "act": 0.05882403999567032
+        },
+        {
+            "text": "The brioche bun?",
+            "act": 0.056119658052921295
+        },
+        {
+            "text": "With the month of May drawing to a close, Jon Lester will take the mound for the Boston Red Sox to face Bruce Chen in the last game of a troubling series against the Kansas City Royals.",
+            "act": 0.05567612871527672
+        },
+        {
+            "text": "Mar.",
+            "act": 0.05547763407230377
+        },
+        {
+            "text": "Their first sauce of the range is stocked across the UK, in Belgium and Nigeria.",
+            "act": 0.055200789123773575
+        },
+        {
+            "text": "With his head bent, and his big feet spread apart, he began explaining his reasons for thinking the abbe's plan chimerical.",
+            "act": 0.05404428392648697
+        },
+        {
+            "text": "\" Let's get out of here.\"",
+            "act": 0.053624190390110016
+        },
+        {
+            "text": "The Jackets or the Oilers would be low on Malone's list of options on July 1st, and they would have to go on a full-scale recruiting campaign to get him signed.",
+            "act": 0.05310521274805069
+        },
+        {
+            "text": "\"We've gotta find out about Russell.\"",
+            "act": 0.05279740318655968
+        },
+        {
+            "text": "Jean, seated on the settle, his\nchin on a level with the table, was already eating his soup.",
+            "act": 0.051935285329818726
+        },
+        {
+            "text": "Mar.",
+            "act": 0.05139661580324173
+        },
+        {
+            "text": "Mar.",
+            "act": 0.05053716152906418
+        },
+        {
+            "text": "Mar.",
+            "act": 0.05053716152906418
+        },
+        {
+            "text": "But there isn't much follow through, and there's even less\nby the admirers of the book.",
+            "act": 0.050353094935417175
+        },
+        {
+            "text": "He sits peaceably at his master's shop-door.",
+            "act": 0.04952084273099899
+        },
+        {
+            "text": "More generally, we have:\n(1) If $A$ is any commutative ring, and $f : M \\to N$ is a surjective homomorphism of $A$-modules, then the kernel of the induced map $\\wedge f : \\wedge M \\to \\wedge N$ is the left ideal generated by $\\mathrm{ker} f$ in the exterior algebra $\\wedge M$.",
+            "act": 0.046834103763103485
+        },
+        {
+            "text": "Trunk unlocked the cuffs from the wall then re-cuffed his hands together while Sasha dug a pistol out of her locker and charged it.",
+            "act": 0.04643435776233673
+        },
+        {
+            "text": "Each team won once on its home ice and once on the road, the highlight being the Jackets 2-1 shoot-out win at Calgary on Feb. 1, which was the fourth win of a five-game winning streak from Jan. 24 - Feb. 2.",
+            "act": 0.045754674822092056
+        },
+        {
+            "text": "Theorem \\[th2\\] holds.",
+            "act": 0.04560040682554245
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.045333512127399445
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

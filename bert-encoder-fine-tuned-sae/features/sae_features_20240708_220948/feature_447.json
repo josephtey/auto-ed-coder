@@ -1,0 +1,412 @@
+{
+    "index": 447,
+    "label": "Multilingual text samples",
+    "attributes": "Multilingual content including non-Latin scripts, presence of various languages including Arabic, Greek, Portuguese",
+    "reasoning": "Upon examining the samples, the attribute that stands out as being shared by all texts within the <positive-samples> tag and none of the texts within the <negative-samples> tag is the presence of multiple languages. The samples contain a diverse set of languages including Arabic, Greek, Portuguese, and others, indicating multilingual content. This specific attribute does not appear in the <negative-samples>, wherein the texts are primarily in English.",
+    "density": 0.0006975386849260467,
+    "confidence": 23.0,
+    "high_act_samples": [
+        {
+            "text": "\"Reliant, come in, Reliant.\"",
+            "act": 0.14850875735282898
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.13217265903949738
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.13217265903949738
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.12886209785938263
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.12034327536821365
+        },
+        {
+            "text": "Moreover, I knew in that moment and the subsequent moments to follow, there was no turning away.",
+            "act": 0.11553489416837692
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.11035799235105515
+        },
+        {
+            "text": "Isto \u00e9, querer dizer qualquer coisa, legein ti s\u0113mainein ti, tal \u00e9 a decis\u00e3o que Arist\u00f3teles exige a todos os homens, se for ser um homem.",
+            "act": 0.1048414334654808
+        },
+        {
+            "text": "You remember how I trusted,\nHow my thoughts were all of him,\nDraw those curtains higher, Mother,\nFor the light is growing dim.",
+            "act": 0.09636080265045166
+        },
+        {
+            "text": "como as coisas que voce faz diariamente podem afectar o seu score.",
+            "act": 0.08753683418035507
+        },
+        {
+            "text": "\" AND, GENTLEMEN, IF YOU WOULD, PLEASE.\"",
+            "act": 0.0868258848786354
+        },
+        {
+            "text": "That is all.",
+            "act": 0.08416806906461716
+        },
+        {
+            "text": "\"ARE YOU MORE PHYSICIAN, DO YOU THINK, OR ASSASSIN?\"",
+            "act": 0.08332616835832596
+        },
+        {
+            "text": "Privately, though, as Ben would later tell his parents and others, he struggled with questions about his sexual identity.",
+            "act": 0.08246739953756332
+        },
+        {
+            "text": "Al\u00e9m disso, ali, portanto, que n\u00e3o se podia ensinar, a n\u00e3o ser que, como se sup\u00f5em alguns tivesse sido aos alunos dominicanos.",
+            "act": 0.07838708162307739
+        },
+        {
+            "text": "% len(new_ids) return paste_hits 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 # # Check Pastebin for keyword list.",
+            "act": 0.07262223213911057
+        },
+        {
+            "text": "\"Antonio, listen to me.\"",
+            "act": 0.06718945503234863
+        },
+        {
+            "text": "That is all.",
+            "act": 0.0652291476726532
+        },
+        {
+            "text": "pray don't take me.",
+            "act": 0.06323947757482529
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.06321830302476883
+        },
+        {
+            "text": "\"I'm afraid there's been a slight problem.\"",
+            "act": 0.06027919799089432
+        },
+        {
+            "text": "\"I'm kissing you, burying my face in your neck.\"",
+            "act": 0.05836240202188492
+        },
+        {
+            "text": "H\u00e1 seus reparos, o que ainda s\u00f3 tivesse sido longe de Paris que Tom\u00e1s ensinasse, mesmo que fosse aos Dominicanos, os livros que estavam v\u00e1rias vezes proibidos.",
+            "act": 0.05586744099855423
+        },
+        {
+            "text": "International calling billed separately.",
+            "act": 0.05412524938583374
+        },
+        {
+            "text": "Assim \u00e9 evidente que compete ao fil\u00f3sofo, isto \u00e9, \u00e0quele que estuda como naturalmente se apresenta qualquer ess\u00eancia, investigar tamb\u00e9m a respeito dos princ\u00edpios silog\u00edsticos.",
+            "act": 0.05273210257291794
+        },
+        {
+            "text": "Imbestigador\n\nImbestigador () is a Philippine television investigative docudrama show broadcast by GMA Network.",
+            "act": 0.05214101821184158
+        },
+        {
+            "text": "International calling billed separately.",
+            "act": 0.0519394651055336
+        },
+        {
+            "text": "The court distinguished the Edwards case, noting that in that case the plaintiffs sought to enforce a lien against a stranger to the obligations to pay benefits and that there was a concern of double recovery.",
+            "act": 0.05109371244907379
+        },
+        {
+            "text": "\" Tell me, please.\"",
+            "act": 0.04868103563785553
+        },
+        {
+            "text": "A total of 104 (30%) first-ECN students had responses placed in class 3 or 4, which appears to represent students more challenged by professional expectations.",
+            "act": 0.04860185831785202
+        },
+        {
+            "text": "Sendo este o mais firme dos princ\u00edpios, deve-se acrescentar \u2013 de acordo com o mesmo e h\u00e1 ainda outras determina\u00e7\u00f5es que devem ser feitas acerca deste principio, cabendo, sejam quais forem, ser determinadas, [nas dificuldades l\u00f3gicas], sem as quais parece uma contradi\u00e7\u00e3o, quando n\u00e3o \u00e9.",
+            "act": 0.04851628839969635
+        },
+        {
+            "text": "Hughes also said that it would be \"inappropriate\" to comment on pending litigation.",
+            "act": 0.0479888841509819
+        },
+        {
+            "text": "As hypothesized, and in line with previous research among SUD inpatients ([@b0200]), the current study showed that higher mental distress was associated with lower OQOL trajectories.",
+            "act": 0.04790447652339935
+        },
+        {
+            "text": "That is all.",
+            "act": 0.044909898191690445
+        },
+        {
+            "text": "\"For the sake of the mission.\"",
+            "act": 0.04453100264072418
+        },
+        {
+            "text": "These findings contradict the concept that retrieval practice, quizzing in particular, directly boosts exam outcomes, and overall academic performance ([@ref27]).",
+            "act": 0.04406195133924484
+        },
+        {
+            "text": "\"Goodbye, Axel.\"",
+            "act": 0.042391471564769745
+        },
+        {
+            "text": "The Dillingham Court stated that Shaw, and other cases where preemption was found, involved state statutes which mandated employee benefit structures or their administration, and that such requirements amounted to a \"connection with\" ERISA plans.",
+            "act": 0.04154949635267258
+        },
+        {
+            "text": "You remember how I trusted,\nHow my thoughts were all of him,\nDraw those curtains higher, Mother,\nFor the light is growing dim.",
+            "act": 0.03860635310411453
+        },
+        {
+            "text": "The company was wholly owned by Filipino and engaged in transportation and shipping in the Visayas and Mindanao.",
+            "act": 0.0378531888127327
+        },
+        {
+            "text": "Medications were highlighted with yellow and attributes were highlighted with light gray.",
+            "act": 0.0371972993016243
+        },
+        {
+            "text": "Soft and warm and human.",
+            "act": 0.036188360303640366
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.0361785963177681
+        },
+        {
+            "text": "They collided and spun across the infield and pit lane, impacting the inside wall before sliding back across Turn 1.",
+            "act": 0.035886965692043304
+        },
+        {
+            "text": "The correlation of survival with antibodies to HPV16, to oncoproteins E6 and E7, and to type of HPV DNA was evaluated using multivariate Cox regression analysis, including stage, age, histology, and hospital in the model.",
+            "act": 0.03535464406013489
+        },
+        {
+            "text": "\"I won't ask you again Sweetie.\"",
+            "act": 0.03471612185239792
+        },
+        {
+            "text": "\"Gwendoline, I'm begging you.\"",
+            "act": 0.033576492220163345
+        },
+        {
+            "text": "\"Michael, please.\"",
+            "act": 0.03347908705472946
+        },
+        {
+            "text": "Within these studies, factors related to active, public and passive transport among older adolescents were investigated.",
+            "act": 0.03342476487159729
+        },
+        {
+            "text": "Quanto ao segundo, o interesse reside em saber: como a metaf\u00edsica foi recebida na universidade medieval, sobretudo pelos \"realistas\", e, em que consiste o processo de coment\u00e1rio elaborado por Tom\u00e1s de Aquino, como leitor que fez avan\u00e7ar o pensamento de Arist\u00f3teles, assim como Lukasiewcz ao pensar a possibilidade de uma l\u00f3gica que admite a contradi\u00e7\u00e3o, isto \u00e9, trivalente.",
+            "act": 0.03314853459596634
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

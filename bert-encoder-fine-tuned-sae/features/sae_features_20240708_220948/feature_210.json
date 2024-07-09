@@ -1,0 +1,412 @@
+{
+    "index": 210,
+    "label": "Contains specific factual information",
+    "attributes": "Contains names of people, mentions specific locations, includes dates or timeframes, references specific events, describes professional roles or biographical details, mentions organizations or places of institutional context",
+    "reasoning": "Upon examining the texts provided within the samples, I noted that the samples contain more specific historical, factual, professional, and named entities such as names, dates, locations, specific roles, events, organizations, and detailed scenarios. These texts appear to provide concrete information or valuable data points, often within a clear and structured context. On the other hand, the other samples generally lack such specificity and factual detail, and appear more conversational, personal, reactive, or abstract without providing concrete historical facts or named entities.",
+    "density": 0.00037486772863372576,
+    "confidence": 7.0,
+    "high_act_samples": [
+        {
+            "text": "Maria Jose Alvarado was headed to London to appear in this year\u2019s Miss World pageant on Sunday.",
+            "act": 0.15663768351078033
+        },
+        {
+            "text": "Karla Ventura serves paella.",
+            "act": 0.11366306990385056
+        },
+        {
+            "text": "All leagues from the Bezirksligas onwards were elevated one tier.",
+            "act": 0.10366905480623245
+        },
+        {
+            "text": "Journalism \nAt a young age, he was an editor for La Juventud, a Spanish newspaper.",
+            "act": 0.09561289101839066
+        },
+        {
+            "text": "Mandos was also an illustrator for Brabantia Nostra magazine, and a well-known glass painter, mural artist and fine artist.",
+            "act": 0.08654626458883286
+        },
+        {
+            "text": "Ingrid Wacker\n\nIngrid Wacker (died 4 August 2009) was a German film editor.",
+            "act": 0.08013502508401871
+        },
+        {
+            "text": "His first Broadway role was in the company of \u201cAbe Lincoln in Illinois\u201d (1938).",
+            "act": 0.07498719543218613
+        },
+        {
+            "text": "She is based on Melissa Duck from the original theatrical shorts.",
+            "act": 0.0653308853507042
+        },
+        {
+            "text": "Consume 100 most recent Facebook posts containing the word \u201cpetaluma\u201d using searchPages().",
+            "act": 0.058649372309446335
+        },
+        {
+            "text": "In the comic books, Bumblebee is a tech genius and DC Comics\u2019 first black female super hero.",
+            "act": 0.055485352873802185
+        },
+        {
+            "text": "ES3 became the \u201cstandard\u201d for what the majority of browsers would support, underscored by the popularity of older IE browsers.",
+            "act": 0.05221765860915184
+        },
+        {
+            "text": "The venue played host to 28 test matches from 1986-2015 with Tier 1 rivals Australia, England, France, Ireland, Italy, New Zealand, Scotland, South Africa and Wales all playing at the ground.",
+            "act": 0.05089406296610832
+        },
+        {
+            "text": "In a bid to win over the DUP, May also said on Wednesday that she intended to put forward further domestic proposals to protect the internal market of the United Kingdom.",
+            "act": 0.050765104591846466
+        },
+        {
+            "text": "Boronia Heights State School opened on 29 January 1990.",
+            "act": 0.05055868625640869
+        },
+        {
+            "text": "16 Change Racing) and Bryce Miller (No.",
+            "act": 0.04871482029557228
+        },
+        {
+            "text": "First black Democrat presidential nominee.",
+            "act": 0.046051185578107834
+        },
+        {
+            "text": "In 1970, the aircraft was re-introduced into the Italian Air Force Service, when the basic piston-engine aircraft regained a role in the selection of pilots.",
+            "act": 0.04463709890842438
+        },
+        {
+            "text": "To Firefly, Free Build is their version of Sandbox.",
+            "act": 0.04005596786737442
+        },
+        {
+            "text": "The representative\u2019s comments drew strong condemnation from his colleagues, but when Senator Warren was asked to respond, she ignored the personal insults and challenged the Representative to put up his political dukes and fight it out over financial regulations.",
+            "act": 0.03646131604909897
+        },
+        {
+            "text": "Born in Axton, Virginia on August 11, 1913, Earles started making money as a five-year-old, selling unwanted leaves from his father's tobacco farm.",
+            "act": 0.03209098428487778
+        },
+        {
+            "text": "Mosley as Mitchell\u2019s biggest challenger.",
+            "act": 0.03201223164796829
+        },
+        {
+            "text": "\u201cI don\u2019t have to be an elected official,\u201d he hastened.",
+            "act": 0.030594676733016968
+        },
+        {
+            "text": "For the first 50 years \u2013 until 1988, manufacturing jobs exceeded government jobs.",
+            "act": 0.0301341712474823
+        },
+        {
+            "text": "Obama is taking his \u201cvictory\u201d lap, making his \u201cfarewell\u201d speeches.",
+            "act": 0.029703430831432343
+        },
+        {
+            "text": "thus toggling visibility of windows and applications on the current workspace.",
+            "act": 0.028497997671365738
+        },
+        {
+            "text": "Elen Roger Jones\n\nElen Roger Jones (27 August 1908 \u2013 15 April 1999) was a Welsh actress and teacher.",
+            "act": 0.028291836380958557
+        },
+        {
+            "text": "Like Florida, Virginia is considered a swing state.",
+            "act": 0.02795177698135376
+        },
+        {
+            "text": "was desperate to show her congressional clout to save her reelection campaign.",
+            "act": 0.02745598554611206
+        },
+        {
+            "text": "The England international started Manchester United\u2019s 2-1 win against Leicester City in their Premier League opener at Old Trafford at the start of the campaign.",
+            "act": 0.027193032205104828
+        },
+        {
+            "text": "In 1930 she became a teacher at her former primary school, Llanallgo.",
+            "act": 0.02596569061279297
+        },
+        {
+            "text": "In response to her frustration, Tennessee Republican Chairman Scott Golden told the Tennessean that Mancini\u2019s words only hurt the image of the state while insisting Republicans are committed to \u201clift all Tennesseans up,\u201d through education and employment.",
+            "act": 0.02590562403202057
+        },
+        {
+            "text": "In comparison, they combined for a mark of 37-39 in 2012.",
+            "act": 0.024340130388736725
+        },
+        {
+            "text": ");\n    doRunStrongestPeakTest(backgroundStrategy.get());\n  }\n\n  void testThatFindsStrongestPeakWhenAbsoluteBackgroundStrategyIsUsed() {\n    auto backgroundStrategy = std::make_unique<AbsoluteBackgroundStrategy>(3.",
+            "act": 0.024133577942848206
+        },
+        {
+            "text": "Its main shareholder was BEA (British European Airlines), but on independence the Republic took control of the majority stake.",
+            "act": 0.023483827710151672
+        },
+        {
+            "text": "The House proposal contained almost none of Republicans\u2019 initial conditions for ending the shutdown and raising the debt ceiling.",
+            "act": 0.02343885973095894
+        },
+        {
+            "text": "Earles died at age 86 on November 16, 1999 at his Martinsville home.",
+            "act": 0.022923298180103302
+        },
+        {
+            "text": "The regime forces advanced into all of these areas despite the recent Turkey\u2019s movements and Turkish forces deployment in new areas.",
+            "act": 0.022249743342399597
+        },
+        {
+            "text": "Act 10 prevailed and other conservative state governments soon followed with their own anti-union legislation.",
+            "act": 0.02194896712899208
+        },
+        {
+            "text": "H. Clay Earles\n\nHenry Clay Earles (August 11, 1913 \u2013 November 16, 1999) was the founder and chairman of the board of Martinsville Speedway, a NASCAR stock car racing track that Earles built in 1947 in Ridgeway, Virginia that was one of the circuit's first paved oval tracks and stands as one of its shortest.",
+            "act": 0.021790266036987305
+        },
+        {
+            "text": "Warren Counters GOP Rep. Who Called Her \u201cDarth Vader\u201d: \u201cI\u2019m More of A Princess Leia Type\u201d\n\nWhen Republican representative Blaine Luetkemeyer of Missouri attacked Senator Elizabeth Warren for her strong stance on finance reform and her dogged determination to hold Wall Street accountable, the Senator hit back with a challenge.",
+            "act": 0.02148587256669998
+        },
+        {
+            "text": "After losing her 2018 gubernatorial bid, Abrams openly considered a 2020 run for Senate and the White House.",
+            "act": 0.021454475820064545
+        },
+        {
+            "text": "The College began in a leased building at 43 Badminton Road Croydon.",
+            "act": 0.021320320665836334
+        },
+        {
+            "text": "'.$glprt_subtype.'",
+            "act": 0.020579315721988678
+        },
+        {
+            "text": "'.$glprt_subtype.'",
+            "act": 0.020579315721988678
+        },
+        {
+            "text": "Player of the Month\n\nMOM in this month\u2019s only game, with an assist.",
+            "act": 0.020435545593500137
+        },
+        {
+            "text": "FIDDLE",
+            "act": 0.019030462950468063
+        },
+        {
+            "text": "great post.",
+            "act": 0.01902807503938675
+        },
+        {
+            "text": "They use the ditzy \u201cteenage girl\u201d voices featured so prominantly in high school cartoons ever since the 80s",
+            "act": 0.018459156155586243
+        },
+        {
+            "text": "Docs here\n\nFeature: Improve conan_build_info command maintaining old functionality.",
+            "act": 0.01845146343111992
+        },
+        {
+            "text": ");\n    doRunStrongestPeakTest(backgroundStrategy.get());\n  }\n\n  void testThatFindsAllPeaksWhenAbsoluteBackgroundStrategyIsUsed() {\n    // GIVEN\n    auto backgroundStrategy = std::make_unique<AbsoluteBackgroundStrategy>(3.",
+            "act": 0.018392708152532578
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

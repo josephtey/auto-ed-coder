@@ -1,0 +1,412 @@
+{
+    "index": 511,
+    "label": "Repetitive word sequences",
+    "attributes": "Contains repetitive words or sequences",
+    "reasoning": "To determine the most specific attribute shared by all samples within the <positive-samples> tags, I closely analyzed both sets of samples. All samples within <positive-samples> contain words or acronyms that occur in repetitive sequences. For example, 'Soc.' is repeated multiple times, 'Nos.' is repeated twice, and the word 'Whatever.' is also repeated several times in the same context. This recurring pattern isn't present in the samples within <negative-samples>.",
+    "density": 0.002306148305265705,
+    "confidence": 12.0,
+    "high_act_samples": [
+        {
+            "text": "Reg.",
+            "act": 0.16214530169963837
+        },
+        {
+            "text": "Duke Richard Walter John Montagu Douglas Scott and Baron Ralph Douglas-Scott-Montagu are high level members of the Montagu clan.",
+            "act": 0.13010862469673157
+        },
+        {
+            "text": "Design and development\nThe P.148 was an all-metal low-wing cantilever monoplane with fixed tailwheel landing gear.",
+            "act": 0.12821881473064423
+        },
+        {
+            "text": "I had this hair dryer!",
+            "act": 0.12123246490955353
+        },
+        {
+            "text": "A body fell on top of her.",
+            "act": 0.11941517889499664
+        },
+        {
+            "text": "Food packaging industry is the major consumer for packaging films.",
+            "act": 0.11650450527667999
+        },
+        {
+            "text": "Soc.",
+            "act": 0.11126074194908142
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10952094197273254
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10952094197273254
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10952094197273254
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10887645184993744
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10873359441757202
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10767312347888947
+        },
+        {
+            "text": "Playing in her first senior event, SUN started her giant slaying spree in Tokyo, eliminating world number four & number one seed, FENG Tianwei (SGP), two-time World Junior Champion WANG Manyu (CHN) en route to face off her teammate CHEN in the final.",
+            "act": 0.10753655433654785
+        },
+        {
+            "text": "She\nhisses and her face warps into a malformed spotted thing.",
+            "act": 0.10588164627552032
+        },
+        {
+            "text": "Whatever.",
+            "act": 0.10315340757369995
+        },
+        {
+            "text": "Whatever.",
+            "act": 0.10302454233169556
+        },
+        {
+            "text": "Whatever.",
+            "act": 0.1019858717918396
+        },
+        {
+            "text": "In contrast, when the thermal load of the evaporator is large, the suction pressure Ps becomes higher, In this case, the necessary discharge capacity of the compressor 2 for obtaining the suction pressure Ps is large, and the driving power of the compressor 2 becomes large.",
+            "act": 0.10145151615142822
+        },
+        {
+            "text": "Soc.",
+            "act": 0.10112564265727997
+        },
+        {
+            "text": "Whatever.",
+            "act": 0.10044686496257782
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09939204156398773
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09890155494213104
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09834742546081543
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09810425341129303
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09726710617542267
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09653860330581665
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09653860330581665
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09629730880260468
+        },
+        {
+            "text": "\"You're going to play such a big role,\" Trump told Granite State residents packed into the well of Exeter's old-style town hall, also noting that he still leads many polls.",
+            "act": 0.09591248631477356
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09580813348293304
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09567034244537354
+        },
+        {
+            "text": "The method includes receiving the quasi orthogonal masking function and permuting the quasi orthogonal masking function to provide a further quasi orthogonal masking function.",
+            "act": 0.09559950232505798
+        },
+        {
+            "text": "Or a pretty floral skirt?",
+            "act": 0.09551793336868286
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09527832269668579
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09359288215637207
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09311164915561676
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09311164915561676
+        },
+        {
+            "text": "Whatever.",
+            "act": 0.09294046461582184
+        },
+        {
+            "text": "Satin finish\n.",
+            "act": 0.09254603087902069
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09074291586875916
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09074291586875916
+        },
+        {
+            "text": "Soc.",
+            "act": 0.09074291586875916
+        },
+        {
+            "text": "Or pizza, chicken, steak, pasta, vegies.",
+            "act": 0.08673559129238129
+        },
+        {
+            "text": "Nos.",
+            "act": 0.0861378014087677
+        },
+        {
+            "text": "Nos.",
+            "act": 0.0861378014087677
+        },
+        {
+            "text": "Yaremko, J.Phys.A: Math.Theor.",
+            "act": 0.08613727986812592
+        },
+        {
+            "text": "Nos.",
+            "act": 0.08478628098964691
+        },
+        {
+            "text": "Rylan is wearing this with her hair straight, I am wearing it with waves, and our mom is wearing it with curly hair.",
+            "act": 0.08429163694381714
+        },
+        {
+            "text": "Nos.",
+            "act": 0.08322951197624207
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

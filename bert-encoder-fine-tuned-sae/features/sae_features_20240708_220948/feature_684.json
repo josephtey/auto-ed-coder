@@ -1,0 +1,412 @@
+{
+    "index": 684,
+    "label": "Technical or formal content",
+    "attributes": "structured content, specialized terminology, formal tone, instructional or informational purpose, presence of headings or forms",
+    "reasoning": "The samples contain technical, formal, or structured content often related to specialized fields such as law, science, technology, or medicine. Many samples include structured forms, headings, or specialized terminologies and notations. Additionally, they exhibit an informational or instructional tone without casual conversation or personal opinions, unlike the other samples which are primarily conversational, opinion-based, informal, and contain irrelevant discourse or personal sentiments.",
+    "density": 0.0016323354259493881,
+    "confidence": 52.0,
+    "high_act_samples": [
+        {
+            "text": "There are two methods for yeast dough rising.",
+            "act": 0.15328487753868103
+        },
+        {
+            "text": "The lock-in amplifier 125 is a two-phase digital lock-in amplifier.",
+            "act": 0.14870516955852509
+        },
+        {
+            "text": "___________________________________\n                                                       DAVID G. HAYES, JUDGE\n\n\n\n\n                                                 -8-",
+            "act": 0.13665926456451416
+        },
+        {
+            "text": "They are always treated as parenthetical elements and are set off from the rest of the sentence with a comma or a pair of commas (sometimes by a dash or pair of dashes).",
+            "act": 0.1346307098865509
+        },
+        {
+            "text": "Just add color.",
+            "act": 0.11798829585313797
+        },
+        {
+            "text": "Traits\n\nTraits are treated as classes.",
+            "act": 0.11404616385698318
+        },
+        {
+            "text": "Transcription\nAspiration may be transcribed , long (strong) aspiration .",
+            "act": 0.10657734423875809
+        },
+        {
+            "text": "Video modeling is a mode of teaching that uses video recording.",
+            "act": 0.10613053292036057
+        },
+        {
+            "text": "The feed rates are controlled by controlling the speed of the two motors.",
+            "act": 0.10469960421323776
+        },
+        {
+            "text": "copy\nTo:______________________________\nFrom:__________________________\nKeeping, Transportation\nService.charge)\nadministrative duties for event planning.",
+            "act": 0.10170913487672806
+        },
+        {
+            "text": "In that machine, separate drive motors are required for causing radial and axial feed of the tool.",
+            "act": 0.09584048390388489
+        },
+        {
+            "text": "Patients in Hungarian and Slovak centers were randomized.",
+            "act": 0.08420455455780029
+        },
+        {
+            "text": "For one way of transcribing pre-voicing and other timing variants, see extensions to the IPA#Diacritics.",
+            "act": 0.07925021648406982
+        },
+        {
+            "text": "Leave retrying to upstream.",
+            "act": 0.07783631235361099
+        },
+        {
+            "text": "The new Facebook\n\n______________________End_______________________",
+            "act": 0.07271526008844376
+        },
+        {
+            "text": "To:______________________________\nFrom:__________________________\nMedication Reminders,Change\nLight\nWill be\nresponsible\nfor all [email protected]\nAd is House\nO.K.",
+            "act": 0.0708814337849617
+        },
+        {
+            "text": "__________________________________\n                                      MICHAEL H. WOJCIK, Judge",
+            "act": 0.06961933523416519
+        },
+        {
+            "text": "Preamp controls the gain or amount of overdrive.",
+            "act": 0.06902419775724411
+        },
+        {
+            "text": "Right here are some baking guidelines to get you began.",
+            "act": 0.06745081394910812
+        },
+        {
+            "text": "When the liver is damaged, excessive blood flows into the liver, blocking the sinusoids.",
+            "act": 0.06653601676225662
+        },
+        {
+            "text": "Specialist labs and equipment are supported by Faculty Technicians.",
+            "act": 0.06608134508132935
+        },
+        {
+            "text": "Best wishes,\n\nAlex Guang Yu\n\n\n__________________________________________________\nDo You Yahoo!?",
+            "act": 0.06589663773775101
+        },
+        {
+            "text": "When I do these hex encoded values are removed from the text entirely.",
+            "act": 0.062440175563097
+        },
+        {
+            "text": "Amenorm : An ideal ayurvedic formulation for the successful\nmanagement of secondary Amenorrhoea.",
+            "act": 0.06155616417527199
+        },
+        {
+            "text": "The posterior\u2010anterior x\u2010axis run from the origin to the nasion, the y\u2010axis run from right to the left ear, perpendicular to x in the plane of the three fiducials, and the inferior\u2010superior z\u2010axis run perpendicular to the x\u2010y plane toward the vertex.",
+            "act": 0.061039749532938004
+        },
+        {
+            "text": "JN participated in collection of data.",
+            "act": 0.060778070241212845
+        },
+        {
+            "text": "Students assets are treated more harshly for aid purposes.",
+            "act": 0.060496438294649124
+        },
+        {
+            "text": "The expression of this desire is that which gives form as a channel to that desire.",
+            "act": 0.05982014164328575
+        },
+        {
+            "text": "Two cylinders and pistons are oriented at angles of approximately ninety degrees to each other, with the crown of each piston oriented toward a shared plane of symmetry.",
+            "act": 0.05958022549748421
+        },
+        {
+            "text": "Of course, an aspirated consonant will not always be followed by a voiced sound, in which case VOT cannot be used to measure it.)",
+            "act": 0.059251755475997925
+        },
+        {
+            "text": "Culturing of the sinuses may be needed to direct antibiotic therapy.",
+            "act": 0.05924970284104347
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.0592237152159214
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.0592237152159214
+        },
+        {
+            "text": "Preferably, the treatment element is fitted on a stirrer or mixer having several radially outwardly directed vanes.",
+            "act": 0.05906419828534126
+        },
+        {
+            "text": "When their influence is permanently removed, new pace-makers do not develop in myometrium caudal to the lesion.",
+            "act": 0.056539617478847504
+        },
+        {
+            "text": "Introducing Not the Bee \u2014 a brand new humor-based news site run by Adam himself.",
+            "act": 0.05648371949791908
+        },
+        {
+            "text": "Consciousness is associated with actions of the FRM.",
+            "act": 0.0564214363694191
+        },
+        {
+            "text": "\u201cThe memos describe sex videos involving prostitutes with Trumpzilla.",
+            "act": 0.05623190477490425
+        },
+        {
+            "text": "Darryl Kyte\n\nDarryl Kyte is a lawyer, writer, producer and television personality in Canada.",
+            "act": 0.05602359399199486
+        },
+        {
+            "text": "\\[F5tc\\] corresponds to bending towards the minor groove at the fifth AT base pair of the middle A-tract.",
+            "act": 0.055337656289339066
+        },
+        {
+            "text": "P6 and P7 primers were utilized to amplify the vector for Gibson assembly.",
+            "act": 0.05423486605286598
+        },
+        {
+            "text": "External requirements set by training institutions may stimulate inactive trainers and trainees.",
+            "act": 0.054112762212753296
+        },
+        {
+            "text": "The enhancer sequences and adjacent nucleic acid sequences, together with their bound transcription factors, are able to bend to contact the transcriptional complex bound to the promoter.",
+            "act": 0.05407946929335594
+        },
+        {
+            "text": "Watch this discussion.Stop watching this discussion.",
+            "act": 0.05317867919802666
+        },
+        {
+            "text": "Generate \u2026\n\nAre you new to baking cakes and cookies?",
+            "act": 0.05240345373749733
+        },
+        {
+            "text": "usage: See usage\nat literally.",
+            "act": 0.050947729498147964
+        },
+        {
+            "text": "Tento krok zna\u010dn\u011b zjednodu\u0161\u00ed pr\u00e1ci na\u0161im t\u00fdm\u016fm v datacentru.",
+            "act": 0.050928276032209396
+        },
+        {
+            "text": "Aspirated stops followed by a sonorant have a voice onset time greater than this amount, called a positive VOT.",
+            "act": 0.05060318857431412
+        },
+        {
+            "text": "Rosemarie Griffin is a speech language pathologist, board certified behavior analyst and product developer.",
+            "act": 0.0494176484644413
+        },
+        {
+            "text": "All are coming under the umbrella for Mechanical Design\nServices.",
+            "act": 0.049377474933862686
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

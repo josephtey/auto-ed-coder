@@ -1,0 +1,412 @@
+{
+    "index": 222,
+    "label": "Context-specific informative content",
+    "attributes": "specific details, contextual information, structured data, observations, instructions, narratives, descriptions",
+    "reasoning": "All the texts in the samples contain specific details, contextual information, or structured data that contribute to their informative or narrative nature. These texts range from geographical information, familial relationships, species observations, instructions, structured data snippets, written dialogue or verse, event descriptions, and narrative accounts. Such details are absent in the samples, which are either discussing abstract concepts, personal opinions, or general facts without specific contexts.",
+    "density": 0.005589799801652265,
+    "confidence": 25.0,
+    "high_act_samples": [
+        {
+            "text": "Other soils include Canaveral Fine Sand, Quartzipsamments, Captiva Fine Sand, McKee Mucky Clay Loam, and Kesson Muck.",
+            "act": 0.19405294954776764
+        },
+        {
+            "text": "Charles is Anthony\u2019s father.",
+            "act": 0.16967366635799408
+        },
+        {
+            "text": "Outstanding views of many good species, including this tiny Antwren.",
+            "act": 0.16081418097019196
+        },
+        {
+            "text": "AUTHOR = \"David V.",
+            "act": 0.1589803844690323
+        },
+        {
+            "text": "The track measures  around, with a pair of  straightaways and tight turns banked at 12 degrees, described as two dragstrips with tight turns.",
+            "act": 0.1583508402109146
+        },
+        {
+            "text": "Other Jedi to join soon after were Kyp Durron, Cilghal, Mara Jade, and Dal Konur.",
+            "act": 0.15533609688282013
+        },
+        {
+            "text": "Lay my head upon your bosom,\nHold me closer, Mother dear.",
+            "act": 0.1538669317960739
+        },
+        {
+            "text": "Lay my head upon your bosom,\nHold me closer, Mother dear.",
+            "act": 0.15123040974140167
+        },
+        {
+            "text": "The river rises on Dartmoor National Park, an upland granite mass that reaches over 600 m high.",
+            "act": 0.14550898969173431
+        },
+        {
+            "text": "EDITED :\nAfter executing dput(head(mydata,20)); it looks something like below\n    structure(list(Q3_1 = c(\"1\", \"1\", \"1\", \"5\", \"6\", \"3\", \"2\", \"\", \n\"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q6_1 = c(\"2\", \"2\", \"1\", \"2\", \"6\", \n\"3\", \"2\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q12_1 = c(\"1\", \"1\", \n\"8\", \"7\", \"1\", \"4\", \"7\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q15_1 = c(\"1\", \n\"1\", \"4\", \"5\", \"1\", \"9\", \"8\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), \n    Q18_1 = c(\"2\", \"2\", \"1\", \"6\", \"4\", \"9\", \"3\", \"\", \"\", \"6\", \n    \"\", \"\", \"\", \"\", \"\"), Q21_1 = c(\"1\", \"1\", \"2\", \"3\", \"3\", \"4\", \n    \"8\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q24_1 = c(\"1\", \"1\", \n    \"1\", \"2\", \"2\", \"8\", \"8\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), \n    Q27_1 = c(\"1\", \"2\", \"3\", \"4\", \"5\", \"2\", \"9\", \"\", \"\", \"\", \n    \"\", \"\", \"\", \"\", \"\"), Q30_1 = c(\"2\", \"2\", \"2\", \"2\", \"2\", \"2\", \n    \"2\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q36_1 = c(\"6\", \"2\", \n    \"2\", \"2\", \"2\", \"6\", \"6\", \"\", \"\", \"4\", \"\", \"\", \"\", \"9\", \"7\"\n    ), Q39_1 = c(\"10\", \"2\", \"2\", \"2\", \"2\", \"2\", \"2\", \"4\", \"2\", \n    \"\", \"\", \"3\", \"7\", \"10\", \"9\"), Q42_1 = c(\"1\", \"2\", \"3\", \"4\", \n    \"5\", \"6\", \"7\", \"9\", \"5\", \"4\", \"\", \"\", \"7\", \"\", \"5\"), Q45_1 = c(\"1\", \n    \"2\", \"2\", \"2\", \"2\", \"2\", \"2\", \"\", \"\", \"5\", \"\", \"\", \"8\", \"4\", \n    \"\"), Q48_1 = c(\"7\", \"2\", \"3\", \"4\", \"5\", \"6\", \"8\", \"\", \"6\", \n    \"\", \"5\", \"\", \"1\", \"8\", \"\"), Q51_1 = c(\"1\", \"2\", \"3\", \"8\", \n    \"3\", \"4\", \"4\", \"9\", \"8\", \"6\", \"4\", \"8\", \"1\", \"7\", \"7\"), Q54_1 = c(\"1\", \n    \"2\", \"3\", \"7\", \"4\", \"4\", \"4\", \"1\", \"4\", \"6\", \"\", \"1\", \"\", \n    \"\", \"2\"), Q60_1 = c(\"1\", \"2\", \"3\", \"3\", \"3\", \"3\", \"3\", \"3\", \n    \"6\", \"\", \"\", \"10\", \"\", \"\", \"9\"), Q63_1 = c(\"1\", \"1\", \"1\", \n    \"1\", \"1\", \"1\", \"1\", \"1\", \"1\", \"\", \"\", \"1\", \"5\", \"\", \"\"), \n    Q66_1 = c(\"4\", \"4\", \"4\", \"7\", \"6\", \"4\", \"4\", \"7\", \"3\", \"\", \n    \"7\", \"\", \"4\", \"\", \"1\"), Q69_1 = c(\"3\", \"3\", \"5\", \"4\", \"7\", \n    \"4\", \"5\", \"5\", \"5\", \"\", \"\", \"\", \"7\", \"\", \"1\"), Q72_1 = c(\"3\", \n    \"4\", \"5\", \"4\", \"5\", \"6\", \"6\", \"3\", \"8\", \"\", \"8\", \"1\", \"\", \n    \"7\", \"6\"), Q74_1 = c(\"4\", \"5\", \"5\", \"5\", \"2\", \"4\", \"5\", \"4\", \n    \"4\", \"5\", \"4\", \"3\", \"3\", \"5\", \"2\"), Q75_1 = c(\"5\", \"2\", \"3\", \n    \"5\", \"4\", \"3\", \"4\", \"4\", \"3\", \"4\", \"1\", \"2\", \"2\", \"4\", \"5\"\n    ), Q76_1 = c(\"1\", \"2\", \"1\", \"4\", \"5\", \"2\", \"5\", \"1\", \"2\", \n    \"5\", \"5\", \"2\", \"2\", \"2\", \"5\")), row.names = c(5L, 7L, 9L, \n11L, 12L, 16L, 17L, 18L, 21L, 24L, 26L, 32L, 34L, 35L, 40L), class = \"data.frame\")\n\nA:\n\nI would first change your blank \"\" values to NA missing values, then the functions na.omit or complete.cases can be used to do what you want:\nmydata[mydata == \"\"] <- NA\n\n# then either of these should work\nresult1 <- na.omit(mydata)\nresult2 <- mydata[complete.cases(mydata), ]\n\nYou may want to address the \"\" earlier in your workstream - the function you use to read the data into R (maybe read.csv() or similar) probably has a way to specify that blanks should be treated as missing values.",
+            "act": 0.14535580575466156
+        },
+        {
+            "text": "Seeking revenge when he learns his father's killer has returned, he finds himself arrested at attempting to avenge his father's death.",
+            "act": 0.1430942565202713
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.1367606520652771
+        },
+        {
+            "text": "Oakton is right in the heart of Fairfax County, with Vienna to the east, Reston to the north, Fairfax to the west and Fairfax City to the south.",
+            "act": 0.1366247683763504
+        },
+        {
+            "text": "Parents are anguished.",
+            "act": 0.13332946598529816
+        },
+        {
+            "text": "Tanaskovi\u0107'\n- 'J.",
+            "act": 0.13324928283691406
+        },
+        {
+            "text": "Wetlands, salt marshes, mangroves, and other swampy formations make up the uplands and submerged lands.",
+            "act": 0.13244272768497467
+        },
+        {
+            "text": "Features some unusual fruit trees and a variety of root crops where food stored underground can be harvested as needed.",
+            "act": 0.1296035498380661
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.12555773556232452
+        },
+        {
+            "text": "Avoid all but the airports and train stations in Naples and Milan and head to Cinque Terre, Sicily or Umbria.",
+            "act": 0.12310443073511124
+        },
+        {
+            "text": "decyzja = input('Chcesz gra\u0107?",
+            "act": 0.12166505306959152
+        },
+        {
+            "text": "decyzja = input('Chcesz gra\u0107?",
+            "act": 0.12166505306959152
+        },
+        {
+            "text": "Pete Puma (voiced by John Kassir) \u2013 A dimwitted puma who is one of Daffy Duck's friends and does various jobs around town.",
+            "act": 0.12035852670669556
+        },
+        {
+            "text": "Barton proceeds to storm Avengers Tower alone and manages to soundly thrash a fair number of Dark Avengers \u2014 including throwing Mac \u201cVenom\u201d Gargan out a window by his ear \u2014 before being subdued and imprisoned.",
+            "act": 0.1188439354300499
+        },
+        {
+            "text": "Jara confirm karoge from your friend?",
+            "act": 0.11759815365076065
+        },
+        {
+            "text": "Acer help work area is implied for your solace as it were.",
+            "act": 0.11690053343772888
+        },
+        {
+            "text": "Wang'\n- 'J.",
+            "act": 0.11684329062700272
+        },
+        {
+            "text": "She was put in the boot of a car, driven to a wooded area and buried in a \u2018shallow grave\u2019.",
+            "act": 0.11531025171279907
+        },
+        {
+            "text": "\u201cI\u2019m simply waiting on\u201d Bevin.",
+            "act": 0.11415859311819077
+        },
+        {
+            "text": "The newer structure consisted of a  high stone ellipse,  along the major axis by  along the minor.",
+            "act": 0.11348319798707962
+        },
+        {
+            "text": "parsed unexpectedly.",
+            "act": 0.1125764399766922
+        },
+        {
+            "text": "Looking down on the town from the hills above it, today the urban rooftops of Suyapa are almost completely hidden by a canopy of mature trees.",
+            "act": 0.10967536270618439
+        },
+        {
+            "text": "Johnny Barrett is like Oedipus, a man with a brilliant intellect, supremely confident of himself and his mental powers, trying to track down a murderer, to uncover the truth of a horrible crime, only to succumb to insanity and ruin.",
+            "act": 0.10965524613857269
+        },
+        {
+            "text": "Life has been a weary burden,\nSince that hour of deepest woe,\nrun that way,\nThey are well I know.",
+            "act": 0.10918407142162323
+        },
+        {
+            "text": "Above the arch, it continues in the subgaleal space with the superficial temporal fascia deeply.",
+            "act": 0.10867879539728165
+        },
+        {
+            "text": "The game also allows the player to open cash registers for small amount of cash (robbing the business), and blowing up a Securicar armored truck (scattering money on the street for the player to pick up).",
+            "act": 0.10576579719781876
+        },
+        {
+            "text": "Viren'\n- 'M.",
+            "act": 0.10515529662370682
+        },
+        {
+            "text": "Many EmX stations are located in the median, allowing passengers to easily travel in either direction, and buses have doors on both sides.",
+            "act": 0.10460066050291061
+        },
+        {
+            "text": "Projecting stone bay windows define the fa\u00e7ade's ground floor corners.",
+            "act": 0.10416018962860107
+        },
+        {
+            "text": "Lanta Marine Park is at the southern end of the island,\nwith mountainous views cascading down to white sands and turquoise seas.",
+            "act": 0.10409849137067795
+        },
+        {
+            "text": "Crash : Small map in which all 3 players are close to each other (in single player mode) making it instant action, no time or need to conquer the small neutral planets.-, plus \u2013 you are able to crash enemies spaceships in mid-air.",
+            "act": 0.10364054888486862
+        },
+        {
+            "text": "It\u2019s easy to hop onto I-66, a major east-west commuting highway or onto the Dulles Toll Road/Access Road to head to the airport on into the District.",
+            "act": 0.10361333191394806
+        },
+        {
+            "text": "Lisa discourages him on grounds that meeting is not important.",
+            "act": 0.10333909839391708
+        },
+        {
+            "text": "'I'm worried about them being kidnapped.",
+            "act": 0.10216822475194931
+        },
+        {
+            "text": "Jumbo Curious George\n\nLittle heroes can imagine racing to the rescue with one of their favorite Autobots.",
+            "act": 0.10169058293104172
+        },
+        {
+            "text": "Velissaris'\n- 'B.",
+            "act": 0.10157883912324905
+        },
+        {
+            "text": "Kokalj'\n- 'R.",
+            "act": 0.10156542807817459
+        },
+        {
+            "text": "Conversely, Scarlett can pick em off while duel weilding handguns while being flung through the air upside down by an explosion of aforementioned fuel tanks.",
+            "act": 0.10094080120325089
+        },
+        {
+            "text": "\"'You interested into paint?\"",
+            "act": 0.10028781741857529
+        },
+        {
+            "text": "Make your escape by taking the fight to two lawless factions \u2013 crazy warlords and ruthless rebels \u2013 in environments that range from mountain peaks to swampy island bogs.",
+            "act": 0.10026865452528
+        },
+        {
+            "text": "\u201cI assume he means a thank you from the family.",
+            "act": 0.09937357157468796
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

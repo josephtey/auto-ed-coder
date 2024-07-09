@@ -1,0 +1,412 @@
+{
+    "index": 762,
+    "label": "Factual and structured content",
+    "attributes": "Presence of factual or structured information, Historical descriptions, Technical details, Biographical entries, Scientific data, Sports statistics",
+    "reasoning": "I analyzed the texts in the provided samples and determined that the most specific attribute shared by all the samples within the first group is the presence of factual or structured information. This includes historical descriptions, technical details, biographical entries, scientific data, sports statistics, and other factual or structured content. In contrast, the other group primarily comprises informal, opinionated, conversational, or speculative texts.",
+    "density": 0.002239716049558463,
+    "confidence": 46.0,
+    "high_act_samples": [
+        {
+            "text": "The river is formed from two main tributaries, the East and West Dart.",
+            "act": 0.2748079001903534
+        },
+        {
+            "text": "He made 70 appearances in the Football League playing for Portsmouth, York City, Birmingham City and Exeter City.",
+            "act": 0.23908625543117523
+        },
+        {
+            "text": "\ud83d\ude42 BTW, these are all local.",
+            "act": 0.22270995378494263
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.21849209070205688
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.21849209070205688
+        },
+        {
+            "text": "It is a left tributary of the Lutter.",
+            "act": 0.20756453275680542
+        },
+        {
+            "text": "Ingrid Wacker\n\nIngrid Wacker (died 4 August 2009) was a German film editor.",
+            "act": 0.19932164251804352
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.19320693612098694
+        },
+        {
+            "text": "FIDDLE",
+            "act": 0.18193142116069794
+        },
+        {
+            "text": "He represented England at youth level.",
+            "act": 0.18070049583911896
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.18031656742095947
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.1787179410457611
+        },
+        {
+            "text": "Hans Walter Wild is the former mayor of Bayreuth.",
+            "act": 0.16500720381736755
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.16003409028053284
+        },
+        {
+            "text": "selected from alkyl, alkenyl, aryl, and aralkyl.",
+            "act": 0.15970583260059357
+        },
+        {
+            "text": "being the null coalescing operator.",
+            "act": 0.15666861832141876
+        },
+        {
+            "text": "He played for Strathclyde, Leith Athletic, Lincoln City and Newton Heath.",
+            "act": 0.15277892351150513
+        },
+        {
+            "text": "selected from alkyl, alkenyl, aryl, and aralkyl.",
+            "act": 0.1504482626914978
+        },
+        {
+            "text": "He enjoyed a spell in the first team, and ended the 1900\u201301 campaign with 14 Second Division appearances to his name.",
+            "act": 0.14913064241409302
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.1435389220714569
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.1426619589328766
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.1381218135356903
+        },
+        {
+            "text": "May be in Oban 1841 but in 1851 1861 in Greenock - Mary a widow\n1868 - 1901.",
+            "act": 0.1354333609342575
+        },
+        {
+            "text": "Wainwright joined Burslem Port Vale in November 1900 and made his debut at the Athletic Ground in a 3\u20132 win over Barnsley on 1 December.",
+            "act": 0.1326371729373932
+        },
+        {
+            "text": "Ellis Barker Wine Cooler\n\nAs many of you know, I LOVE Ellis Barker silver.",
+            "act": 0.12920424342155457
+        },
+        {
+            "text": "ICF stadium, Kambar Arangam bus stop), ICF, Chennai - 38.",
+            "act": 0.12523967027664185
+        },
+        {
+            "text": "Tom Yvo Adrien Waes (Antwerpen, 7 november 1968) is een Belgisch acteur, televisieregisseur, presentator en zanger.",
+            "act": 0.12042286992073059
+        },
+        {
+            "text": "The flowers are large and conspicuous, 4\u201315\u00a0cm diameter, with 5 (occasionally 6-8) white petals; flowering is in late winter or early spring.",
+            "act": 0.11969202011823654
+        },
+        {
+            "text": "Finkenbach (Lutter)\n\nFinkenbach is a small river of North Rhine-Westphalia, Germany.",
+            "act": 0.11902651935815811
+        },
+        {
+            "text": "In 1984 Monk moved to Sheffield, where she has lived ever since.",
+            "act": 0.11765900999307632
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.11710269004106522
+        },
+        {
+            "text": "Usher was a playing coach at Golden Point in 1934 and the following year moved to Tasmania, where he coached Lefroy and Burnie.",
+            "act": 0.11387235671281815
+        },
+        {
+            "text": "CP at 22.",
+            "act": 0.11054883152246475
+        },
+        {
+            "text": "They are attracted to and thrive in areas cut by the BrushMaster.",
+            "act": 0.10952930152416229
+        },
+        {
+            "text": "He served as the first deputy speaker of parliament from 1965 to 1966.",
+            "act": 0.10664331167936325
+        },
+        {
+            "text": "In 1974 she moved to Staithes, Yorkshire and began to write.",
+            "act": 0.10602585971355438
+        },
+        {
+            "text": "The most famous player on the Inverness football team is Dennis Wyness who has scored over 100 goals.",
+            "act": 0.1042439267039299
+        },
+        {
+            "text": "Ray Usher\n\nRay Usher (16 October 1904 \u2013 15 April 1964) was a former Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).",
+            "act": 0.1019226685166359
+        },
+        {
+            "text": "CONTRAST:\n\n1Th 5:16 \u00b6\nRejoice evermore.",
+            "act": 0.09855879843235016
+        },
+        {
+            "text": "Bundesliga S\u00fcd\n Runners-up: 1979\n Bayernliga\n Champions: (8) 1959 (north), 1969, 1971, 1985, 1987, 2005, 2008, 2014 (north)\n Runners-up: (2) 1958 (north), 1995\n Landesliga Bayern-Nord\n Champions: (2) 1998, 2001\n Runners-up: 2000\n 2.",
+            "act": 0.09836413711309433
+        },
+        {
+            "text": "by Lysa Salsbury).",
+            "act": 0.0969000905752182
+        },
+        {
+            "text": "Daughter Mary Graham 1819 married 1840 Archibald MacDougall.",
+            "act": 0.09620798379182816
+        },
+        {
+            "text": "History\n\nGenalta station opened as Belair Road.",
+            "act": 0.09437071532011032
+        },
+        {
+            "text": "Victorian grasslands earless dragon (Tympanocryptis pinguicolla) \u2014 Last seen in 1969.",
+            "act": 0.0922490805387497
+        },
+        {
+            "text": "within the West and the East Webburn.",
+            "act": 0.09115796536207199
+        },
+        {
+            "text": "References\n\n4.Land grabbing case on Peela adds twist to SIT probe into mega scam\n\n5.Son shine in politics\n\nCategory:Telugu Desam Party politicians\nCategory:Andhra Pradesh MLAs 2014\u20132019",
+            "act": 0.09083648025989532
+        },
+        {
+            "text": "FSV Mainz 05 kommt.",
+            "act": 0.08780738711357117
+        },
+        {
+            "text": "Notes\n\nExternal links\n Official website of the Government of Andhra Pradesh\n\n \nCategory:Environment of Andhra Pradesh",
+            "act": 0.08718010038137436
+        },
+        {
+            "text": "In 1964, he teamed with Brian Setchell to win the Thruxton 500 endurance race.",
+            "act": 0.08442217856645584
+        },
+        {
+            "text": "That's a paradox that really makes you think, which is what art's all about.",
+            "act": 0.08398901671171188
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

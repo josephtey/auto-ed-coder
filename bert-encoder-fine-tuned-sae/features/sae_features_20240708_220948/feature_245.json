@@ -1,0 +1,412 @@
+{
+    "index": 245,
+    "label": "Factual and detailed descriptions",
+    "attributes": "factual, descriptive, explicit, structured information, specific details, proper nouns, technical terms, formal tone, informative",
+    "reasoning": "All the samples seem to be more factual, descriptive, explicit, or informative in nature. They include specific details, proper nouns, technical terms, events, references to places, objects, conditions, characters, or procedures. These are either directly related to defined entities, specific topics, structured information distinctively detailed, or possess a formal or academic tone. None of these attributes are shared by the other samples which have a more informal, conversational, or speculative tone.",
+    "density": 0.006723893309797334,
+    "confidence": 35.0,
+    "high_act_samples": [
+        {
+            "text": "Blood stained the side of the road.",
+            "act": 0.18927283585071564
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.1860532909631729
+        },
+        {
+            "text": "Gordonia (plant)\n\nGordonia is a genus of flowering plants in the family Theaceae, related to Franklinia, Camellia and Stewartia.",
+            "act": 0.1597527712583542
+        },
+        {
+            "text": "Prestonia, Missouri\n\nPrestonia is an unincorporated community in Ozark County, Missouri, United States.",
+            "act": 0.15795180201530457
+        },
+        {
+            "text": "Taylor drove into the median and overcorrected.",
+            "act": 0.15676666796207428
+        },
+        {
+            "text": "Oscar had been missing since May, Miguel since February.",
+            "act": 0.15104538202285767
+        },
+        {
+            "text": "\u201cWe try to strengthen language skills,\u201d he said.",
+            "act": 0.14829318225383759
+        },
+        {
+            "text": "\u201cAttends.",
+            "act": 0.14370590448379517
+        },
+        {
+            "text": "Thirst, gone.",
+            "act": 0.14180514216423035
+        },
+        {
+            "text": "Shoes, socks, calves are all as black\nas ink.",
+            "act": 0.14065800607204437
+        },
+        {
+            "text": "To date, confirmed cases have been found in many countries worldwide.",
+            "act": 0.13948945701122284
+        },
+        {
+            "text": "\u201cIt\u2019s obviously spreading fast,\" Joseph said.",
+            "act": 0.13440556824207306
+        },
+        {
+            "text": "The line of ships, most of them traders and haulers, inched forward.",
+            "act": 0.13435669243335724
+        },
+        {
+            "text": "Carrots too.",
+            "act": 0.1334376037120819
+        },
+        {
+            "text": "Such cases are very rare, but still exist.",
+            "act": 0.13100837171077728
+        },
+        {
+            "text": "Lymphomas\nThe malignant lymphomas represent multiple diseases with diverse morphologic and clinical expressions.",
+            "act": 0.12862227857112885
+        },
+        {
+            "text": "The fruit is a dry five-valved capsule, with 1-4 seeds in each section.",
+            "act": 0.12626022100448608
+        },
+        {
+            "text": "Williamson, 919\nS.W.2d at 83.",
+            "act": 0.12449552118778229
+        },
+        {
+            "text": "They are followed by Fiorina, Pataki and Graham.",
+            "act": 0.12447051703929901
+        },
+        {
+            "text": "%).",
+            "act": 0.1235474944114685
+        },
+        {
+            "text": "Ryan simply could not keep up.",
+            "act": 0.12197442352771759
+        },
+        {
+            "text": "Jakob has become very sick and his illness is unfortunately preventing us from continuing.",
+            "act": 0.12124039232730865
+        },
+        {
+            "text": "Frank Gore is higher than Eli.",
+            "act": 0.11956974864006042
+        },
+        {
+            "text": "All of them are healthy, heart worm negative, spayed or neutered and current on vaccinations.",
+            "act": 0.11898007988929749
+        },
+        {
+            "text": "Boronia Heights, Queensland\n\nBoronia Heights is a suburb of Logan City, Queensland, Australia.",
+            "act": 0.11827622354030609
+        },
+        {
+            "text": "Curt decides to help Henry catch the rustlers instead.",
+            "act": 0.11777525395154953
+        },
+        {
+            "text": "2004); see also United States v. Perez, 225 F. App\u2019x 241 (5th Cir.",
+            "act": 0.11765691637992859
+        },
+        {
+            "text": "Monarchy of Thailand\n\u2013\nThe monarchy of Thailand refers to the constitutional monarchy and monarch of the Kingdom of Thailand.",
+            "act": 0.11722591519355774
+        },
+        {
+            "text": "But, with the fast progress, Cebu skyline is growing and continuously growing.",
+            "act": 0.11647427082061768
+        },
+        {
+            "text": "You are not well.",
+            "act": 0.11616343259811401
+        },
+        {
+            "text": "Collection<String> strings = tagStringMap.get(tag);",
+            "act": 0.11584009230136871
+        },
+        {
+            "text": "\"Oh, your lips are so soft.\"",
+            "act": 0.1145702451467514
+        },
+        {
+            "text": "They just manage to struggle out.",
+            "act": 0.11336054652929306
+        },
+        {
+            "text": "Md., 218 F.Supp.",
+            "act": 0.11319747567176819
+        },
+        {
+            "text": "One dead at the hospital \u2013 the child.",
+            "act": 0.11297989636659622
+        },
+        {
+            "text": "See\nGarner v. State, 464 S.W.2d 111, 112 (Tex.",
+            "act": 0.11147117614746094
+        },
+        {
+            "text": "As he speaks, the\nguides\u2019 wounds close over.",
+            "act": 0.11125136911869049
+        },
+        {
+            "text": "They are left on the stem after the petals have fallen off.",
+            "act": 0.11026360094547272
+        },
+        {
+            "text": "483, 154 S.W.2d 854 (1941); Payne v. State, 109 Tex.Crim.",
+            "act": 0.10890131443738937
+        },
+        {
+            "text": "Williams v. State, 902 S.W.2d 505, 507 (Tex.",
+            "act": 0.1073462963104248
+        },
+        {
+            "text": "Citing\nFuller v. State, 829 S.W.2d 191 (Tex.",
+            "act": 0.10673492401838303
+        },
+        {
+            "text": "In United States v. Harvard, 103 F.3d 412 (5th Cir.",
+            "act": 0.10565848648548126
+        },
+        {
+            "text": "On and on, crisscrossing Camp Strake, through the woods, down the dirt roads, along the lake: rusty nail, rusty nail, rusty nail.",
+            "act": 0.10532142221927643
+        },
+        {
+            "text": "Burks v.\nState, 876 S.W.2d 877, 903 (Tex.",
+            "act": 0.1049589067697525
+        },
+        {
+            "text": "Both mother and baby are doing well.",
+            "act": 0.10433343797922134
+        },
+        {
+            "text": "Trunk followed.",
+            "act": 0.10400085151195526
+        },
+        {
+            "text": "They swim, they dive and, most importantly, they catch fish \u2013 thus earning them their common name.",
+            "act": 0.1039886474609375
+        },
+        {
+            "text": "The male parent, \u2018Sunny Amanda\u2019, has a pale-yellow flower color with terracotta-brown at the flower petal apices, medium flower size and brown disc florets.",
+            "act": 0.10366742312908173
+        },
+        {
+            "text": "Co., 86 F.Supp.",
+            "act": 0.10316307842731476
+        },
+        {
+            "text": "Findings were compared with tumor growth and treatment option.",
+            "act": 0.10254780948162079
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 202,
+    "label": "Formal and structured information",
+    "attributes": "Formal and structured information, Legal references, Architectural descriptions, Administrative or retention policies, Specific historical events",
+    "reasoning": "After examining the texts in both sets of samples, it appears that all texts within the positive samples contain formal and structured information such as legal references, architectural descriptions, administrative or retention policies, and specific historical events. None of the texts in the negative samples contain such formal and structured information; instead, they include informal conversation, opinion, and commentary.",
+    "density": 0.007663435211942621,
+    "confidence": 50.0,
+    "high_act_samples": [
+        {
+            "text": "Double garage, with large closed-in deck above.",
+            "act": 0.2964794933795929
+        },
+        {
+            "text": "Stepped double gable garden block.",
+            "act": 0.26539939641952515
+        },
+        {
+            "text": "First floor has two sash windows with keystones, ground floor has tripartite window with rusticated dividing piers.",
+            "act": 0.2566490173339844
+        },
+        {
+            "text": "Under larger gable casement in architrave surround on first floor.",
+            "act": 0.22906750440597534
+        },
+        {
+            "text": "Small keyhole feature detail at centre front.",
+            "act": 0.22803212702274323
+        },
+        {
+            "text": "MCR 7.302(H)(1).",
+            "act": 0.22066818177700043
+        },
+        {
+            "text": "Driver cleared after investigation.",
+            "act": 0.20512542128562927
+        },
+        {
+            "text": "Duplicates: Retain in office while active, then destroy by\n\nlandfill.",
+            "act": 0.1945304423570633
+        },
+        {
+            "text": "Although rates on bills have risen, they are lower than historical levels.",
+            "act": 0.19146881997585297
+        },
+        {
+            "text": "They do it for the estate tax and corporate income tax.",
+            "act": 0.1913156360387802
+        },
+        {
+            "text": "Ground floor has recessed sash to east and casement to north.",
+            "act": 0.1890053153038025
+        },
+        {
+            "text": "Three storey tower block has low pitch pyramid slate roof.",
+            "act": 0.18676559627056122
+        },
+        {
+            "text": "Panelled door flanked by broad stucco pilasters.",
+            "act": 0.1861972063779831
+        },
+        {
+            "text": "Budget records: Retain 3 years in office, then destroy by recycling.",
+            "act": 0.17988255620002747
+        },
+        {
+            "text": "I know that for content I have moved I should be using 301 and content that I have deleted I should be using a 410.",
+            "act": 0.17518219351768494
+        },
+        {
+            "text": "Congresswoman shot dead.",
+            "act": 0.17421118915081024
+        },
+        {
+            "text": "Garden block has low slate roof.",
+            "act": 0.16554561257362366
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.16484473645687103
+        },
+        {
+            "text": "Argued April 25, 1963.",
+            "act": 0.16081711649894714
+        },
+        {
+            "text": "Each district is divided into multiple mandals, and each mandal has many villages.",
+            "act": 0.15880060195922852
+        },
+        {
+            "text": "Argued November 4, 1963.",
+            "act": 0.15735284984111786
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.15391643345355988
+        },
+        {
+            "text": "Stucco on exterior.",
+            "act": 0.153867706656456
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by recycling.",
+            "act": 0.15367893874645233
+        },
+        {
+            "text": "Projecting stone bay windows define the fa\u00e7ade's ground floor corners.",
+            "act": 0.15302017331123352
+        },
+        {
+            "text": "Three recessed sash windows to first floor.",
+            "act": 0.15179945528507233
+        },
+        {
+            "text": "The new lanes would be elevated and situated between the main lanes and access road in each direction for most of the 15-mile stretch, and the existing highway and access lanes would remain free.",
+            "act": 0.15122480690479279
+        },
+        {
+            "text": "Transcripts of the account\nshow that the IRS issued notice and demand for each of\nthe tax periods involved and those periods remain\nunpaid.",
+            "act": 0.1508423388004303
+        },
+        {
+            "text": "Fish and Wildlife Service (Public Domain).",
+            "act": 0.14796458184719086
+        },
+        {
+            "text": "2009-20-Appeal.",
+            "act": 0.1477600485086441
+        },
+        {
+            "text": "Privacy Policy",
+            "act": 0.1472667157649994
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.14689268171787262
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.14582696557044983
+        },
+        {
+            "text": "Three miRNAs were upregulated in cell lines with increased migratory ability, while two were downregulated.",
+            "act": 0.14422716200351715
+        },
+        {
+            "text": "The main thing is these three are off the street\u201d.",
+            "act": 0.14237120747566223
+        },
+        {
+            "text": "Under small gable casement window and panelled door with semi-circular fanlight.",
+            "act": 0.14148183166980743
+        },
+        {
+            "text": "The 1954 additions use brick and stone similar to the original section.",
+            "act": 0.1413392722606659
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.14089184999465942
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.13999046385288239
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.13999046385288239
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.13999046385288239
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.13989420235157013
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.13882091641426086
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.13882091641426086
+        },
+        {
+            "text": "Sat Aug 6. mostly unrelated, complain about FBI email system.",
+            "act": 0.13408465683460236
+        },
+        {
+            "text": "RETENTION: Retain 1 year in office, then destroy by landfill.",
+            "act": 0.13375546038150787
+        },
+        {
+            "text": "New York city consists of 5 boroughs each of which is a country of New York State.",
+            "act": 0.1332908719778061
+        },
+        {
+            "text": "\u201cThe labor market is continuing to create jobs.",
+            "act": 0.13328363001346588
+        },
+        {
+            "text": "I reside in Pittsburgh, Pennsylvania with my husband, our two sons, and Golden Retriever.",
+            "act": 0.13288845121860504
+        },
+        {
+            "text": "Argued November 8, 1961.",
+            "act": 0.132080540060997
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

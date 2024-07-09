@@ -1,0 +1,412 @@
+{
+    "index": 700,
+    "label": "Narrative action descriptions",
+    "attributes": "discussion of actions or experiences by people or characters, descriptive narrative style",
+    "reasoning": "After closely reading both sets of samples, it is apparent that the shared attribute among the samples is a focus on discussing people or characters engaging in specific activities, experiences, or actions. This includes descriptions of actions taken by individuals, their reactions to events, or the outcomes resulting from their actions. On the other hand, the other samples tend to focus on opinions, rhetorical questions, debates, or providing information without detailing specific narrative activities.",
+    "density": 0.0002562387005850784,
+    "confidence": 12.0,
+    "high_act_samples": [
+        {
+            "text": "Bumgarner rebounded after his worst outing of the season, when he gave up five runs in six innings against Philadelphia on Monday.",
+            "act": 0.081581711769104
+        },
+        {
+            "text": "After removing the suit, I found bad bruises all over my arms.",
+            "act": 0.07246077060699463
+        },
+        {
+            "text": "I found it much less good.",
+            "act": 0.06935208290815353
+        },
+        {
+            "text": "Each enemy defeated in this manner turns into a food item that can be picked up for extra points.",
+            "act": 0.06767670810222626
+        },
+        {
+            "text": "Defeating multiple enemies at once awards higher scores and causes more valuable food items to appear.",
+            "act": 0.06507797539234161
+        },
+        {
+            "text": "Sometimes it's a bit too much at once.",
+            "act": 0.06255409121513367
+        },
+        {
+            "text": "Other items, such as umbrellas, allow to skip numerous levels, moving closer to the final level.",
+            "act": 0.058515310287475586
+        },
+        {
+            "text": "n personal; ten en cuenta que es muy estar siempre bien presentable y a la moda; otro aspecto indispensable es la seguridad, puesto que un hombre t.\n\n-\n\nDuradera maquillaje no es lo mismo que un tatuaje normal, pasando por las clases puede ayudar a asegurarse de que los que ofrecen el proceso de saber exactamente lo que est.",
+            "act": 0.05076722800731659
+        },
+        {
+            "text": "Eso acaso no prueba que son felices en el enclaustramiento en el que los hemos puesto?\u2019 De la misma manera, los hombres que se visten como mujeres y adoptan comportamientos femeninos estereotipados son graciosos por su comportamiento estereotipado y la audiencia infiere que no son los estereotipos los que son graciosos, sino las mujeres en s\u00ed\u201d.",
+            "act": 0.0503833070397377
+        },
+        {
+            "text": "A player loses one life upon touching any free enemies or their projectiles (rocks, fireballs, lasers, bottles).",
+            "act": 0.04248253256082535
+        },
+        {
+            "text": "Cast your vote in head-to-head match ups between titles, and the top vote-getters will move on to the next round.",
+            "act": 0.041663482785224915
+        },
+        {
+            "text": "Elen competed in the local eisteddfodau.",
+            "act": 0.039748795330524445
+        },
+        {
+            "text": "La mayor\u00eda de los muertos, entre los que al menos ocho menores, una de ellos una beb\u00e9 de apenas ocho meses, fue por disparos.",
+            "act": 0.038994595408439636
+        },
+        {
+            "text": "Generally, the results are blocked and the player must scratch off material or pull tabs to reveal the results of the instant game.",
+            "act": 0.037968650460243225
+        },
+        {
+            "text": "I find that the hotter the tool, the frizzier my hair gets.",
+            "act": 0.0375407412648201
+        },
+        {
+            "text": "More serious side effects include blistering, irritation, and peeling.",
+            "act": 0.03744649887084961
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es lindo o entretenido cuando son hombres los que se mofan de las mujeres a trav\u00e9s del drag?",
+            "act": 0.03379829227924347
+        },
+        {
+            "text": "I got a bit cross yesterday and burned quite a lot of stuff.",
+            "act": 0.03331105411052704
+        },
+        {
+            "text": "Even their sound effects were humorous.",
+            "act": 0.027020618319511414
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es gracioso que los hombres se vistan como mujeres y no que las mujeres se vistan cho hombres?",
+            "act": 0.02467907965183258
+        },
+        {
+            "text": "Sin embargo, no me convence que eso de convertir a las mujeres en caricaturas extremas para re\u00edrnos de ellas sea de alg\u00fan modo \u201cprogresista\u201d.",
+            "act": 0.023194462060928345
+        },
+        {
+            "text": "\"I'm sorry I let you down!\"",
+            "act": 0.021960824728012085
+        },
+        {
+            "text": "But sometimes some of them mus tow change carefully.",
+            "act": 0.02046211063861847
+        },
+        {
+            "text": "Debe haber una raz\u00f3n por la cual las mujeres no le hacen esto a los hombres: lo de convertir la masculinidad en entretenimiento o en una broma.",
+            "act": 0.0183078795671463
+        },
+        {
+            "text": "I just want to eat you up.",
+            "act": 0.016884490847587585
+        },
+        {
+            "text": "We free your blinds from odours, nicotine, grease, and all sorts of stains.",
+            "act": 0.016443714499473572
+        },
+        {
+            "text": "Sometimes it is as if they can\u2019t see them at all.",
+            "act": 0.01642945408821106
+        },
+        {
+            "text": "\"AWWWWWWWWWW!\"",
+            "act": 0.013653963804244995
+        },
+        {
+            "text": "It just may take a bit of effort.",
+            "act": 0.01343412697315216
+        },
+        {
+            "text": "These points can be redeemed for different set of rewards such as store credits and free shipping.",
+            "act": 0.012147068977355957
+        },
+        {
+            "text": "They are dead, but they smell good.",
+            "act": 0.011068567633628845
+        },
+        {
+            "text": "They don't look real squishy though.",
+            "act": 0.010170474648475647
+        },
+        {
+            "text": "It\u2019s blunt and often quite stupid.",
+            "act": 0.009069636464118958
+        },
+        {
+            "text": "\"Tell me, Mary Carrot, please!\"",
+            "act": 0.008660711348056793
+        },
+        {
+            "text": "\"You look skinnier!\"",
+            "act": 0.00837542861700058
+        },
+        {
+            "text": "Y no puedo dejar de preguntarme lo mismo.",
+            "act": 0.00770617974922061
+        },
+        {
+            "text": "\"I ate tons of stuff!\"",
+            "act": 0.007330767344683409
+        },
+        {
+            "text": "I find that I want to eat only very small portions.",
+            "act": 0.00726900203153491
+        },
+        {
+            "text": "\"Take your clothes off!\"",
+            "act": 0.007155261468142271
+        },
+        {
+            "text": "La deuxi\u00e8me fut donn\u00e9e au b\u0153uf pour son esprit sportif et la troisi\u00e8me au tigre qui avait l'air si courageux.",
+            "act": 0.006330839823931456
+        },
+        {
+            "text": "\"Je suis Anarchiste, moi!\"",
+            "act": 0.0062827314250171185
+        },
+        {
+            "text": "But all those features take some time to figure out and the many straps and wires tangle easily.",
+            "act": 0.005562275182455778
+        },
+        {
+            "text": "Forged alloy wheels are tougher and also can be more expensive.",
+            "act": 0.004035636316984892
+        },
+        {
+            "text": "If you don't do this, TServerSocket will create its own default threads (to fire the OnClient(Read|Write) events in the main thread), which will interfere with your manual threads.",
+            "act": 0.0036471406929194927
+        },
+        {
+            "text": "These disappear once the level is cleared, or when a player loses a life.",
+            "act": 0.002936094533652067
+        },
+        {
+            "text": "Para aclarar, no creo que todos los drag queens est\u00e1n trabajando intencionalmente a favor de la subordinaci\u00f3n de las mujeres (pero qui\u00e9n sabe, no le he preguntado a ninguno), tampoco creo que si usted disfruta de drag shows lo convierta autom\u00e1ticamente en una persona mala y mis\u00f3gina.",
+            "act": 0.0026073227636516094
+        },
+        {
+            "text": "People just keep stepping over the bologna like it's not there, but it smells so bad, that you can't help but notice.",
+            "act": 0.0021858583204448223
+        },
+        {
+            "text": "In the 100th and final level, players face a boss.",
+            "act": 0.0012755687348544598
+        },
+        {
+            "text": "Este resultado sugiere que la capacidad de respuesta de la industria para contener el traslado de los precios a sus productos es eficiente y, tal vez, que el cambio hacia conductas sanas de los consumidores tambi\u00e9n puede ser transitorio.",
+            "act": 0.001271537970751524
+        },
+        {
+            "text": "Como mujeres, nos esforzamos mucho para ser \u201cparte del chiste\u201d.",
+            "act": 0.0010652239434421062
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 690,
+    "label": "Descriptive and detailed content",
+    "attributes": "Highly descriptive content, detailed descriptions, substantial informational depth, contextually rich",
+    "reasoning": "The distinguishing feature of the samples is that they all contain highly descriptive and specific content, often including detailed descriptions of food items, recipes, locations, scientific information, technical code, procedural instructions, or historical facts. Each sample provides substantial value in terms of informational depth and context. Conversely, the other samples are conversational, lack detailed descriptions, or consist of fragmented or opinion-based discourse.",
+    "density": 0.0012574676973156624,
+    "confidence": 23.0,
+    "high_act_samples": [
+        {
+            "text": "Served upon a bed of greens, it was layered with more ricotta cheese than ground beef.",
+            "act": 0.14934398233890533
+        },
+        {
+            "text": "We began with a salad of warm, coarsely chopped red beets, tossed with crumbled goat cheese and roasted almonds, served atop fresh arugula \u2014 its peppery flavor balanced with a dressing of brown-sugar vinaigrette.",
+            "act": 0.13335943222045898
+        },
+        {
+            "text": "Facts/procedural history\n              Landowner owns a single-family dwelling situated on two lots\ncomprising approximately two acres in Indian Lake Borough, Somerset County,\nPennsylvania.",
+            "act": 0.12770521640777588
+        },
+        {
+            "text": "That's why your code is not working\nso i've fixed it in my case you have to change in your css code, html code and jquery code\ncheck this fiddle http://jsfiddle.net/yNg95/2/\nhere is Html\n<div class=\"header\" id=\"one\">hi</div>\n<div class=\"border\" id=\"two\">\n    hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>\n</div>\n\nhere is css code\n*{margin:0; padding:0;}\nbody {\n    background-image:url(../images/bg.png);\n    background-repeat:repeat;\n    color: #FFFFFF;\n    overflow:hidden;\n}\n\n.header{\n    position: absolute;\n    left: 0;\n    top: 0;\n    right:0;\n    height: 120px;\n    background-color: black;\n    box-shadow: 0px 0px 40px #000000;\n}\n\n.border{\n    position: absolute;\n    left: 25%;\n    z-index:0;\n    width: 50%;\n    top:120px;\n    /*height: 100%;*/\n    background-color: white;\n    color: black;\n    padding: 5px;\n    overflow-y:scroll;\n}\n\nhere is jquery code\nvar one, two;\n    one = $('.header').outerHeight(true);\n    two = $(window).height() - one;\n    console.log(one, two)\n    $('#two').css({height : two})\n\nhere is the fiddle for another option only by pure css\nhttp://jsfiddle.net/sarfarazdesigner/neR4U/",
+            "act": 0.12436038255691528
+        },
+        {
+            "text": "*\n*/\n\n#include \"gazebo/transport/CallbackHelper.hh\"\n\nusing namespace gazebo;\nusing namespace transport;\n\nunsigned int CallbackHelper::idCounter = 0;\n\n/////////////////////////////////////////////////\nCallbackHelper::CallbackHelper(bool _latching)\n  : latching(_latching), id(idCounter++)\n{\n}\n\n/////////////////////////////////////////////////\nCallbackHelper::~CallbackHelper()\n{\n}\n\n/////////////////////////////////////////////////\nstd::string CallbackHelper::GetMsgType() const\n{\n  return std::string();\n}\n\n/////////////////////////////////////////////////\nbool CallbackHelper::GetLatching() const\n{\n  std::lock_guard<std::mutex> lock(this->latchingMutex);\n  return this->latching;\n}\n\n/////////////////////////////////////////////////\nvoid CallbackHelper::SetLatching(bool _latch)\n{\n  std::lock_guard<std::mutex> lock(this->latchingMutex);\n  this->latching = _latch;\n}\n\n/////////////////////////////////////////////////\nunsigned int CallbackHelper::GetId() const\n{\n  return this->id;\n}",
+            "act": 0.1203097254037857
+        },
+        {
+            "text": "In the fine town of Burfordville sits a mill and a covered bridge.",
+            "act": 0.11787242442369461
+        },
+        {
+            "text": "The 14q32 chromosomal band uniquely contains a very large cluster (\\>100) of non-coding RNAs, including snoRNAs, microRNAs, and long non-coding RNAs, which is the largest known miRNA cluster in the genome (54 miRNAs).",
+            "act": 0.11446970701217651
+        },
+        {
+            "text": "We wish to thank Dott.",
+            "act": 0.10959720611572266
+        },
+        {
+            "text": "The next day, when she fancied a snack, I surreptitiously put the now incognito cheese triangles on her plate beside some cucumber and tomato.",
+            "act": 0.10494403541088104
+        },
+        {
+            "text": "IDEAL MEAL: Dinner at the big table with five friends passing around perfectly executed, Italian delights like scungilli salad, broccoletti drenched in olive oil and garlic, penne puttanesca, and shrimp fra diavolo.",
+            "act": 0.1026858389377594
+        },
+        {
+            "text": "In addition, this locus contains a large cluster of non-coding elements, both miRNAs and other small nucleolar RNAs (snoRNAs) and long non-coding RNAs \\[[@CR7], [@CR8]\\].",
+            "act": 0.0990428477525711
+        },
+        {
+            "text": "I used dried mango, papaya, apricots, and dates.",
+            "act": 0.0979352742433548
+        },
+        {
+            "text": "Flaky pastry triangles with various fillings \u2014 spinach, spiced ground beef and tart cheese.",
+            "act": 0.09707146883010864
+        },
+        {
+            "text": "Prabheer kaur chathia\n\nexcellent\n\nShahla khan\n\nIts amazing .",
+            "act": 0.09352564066648483
+        },
+        {
+            "text": "In Sect.",
+            "act": 0.09346295893192291
+        },
+        {
+            "text": "Epidemiology, Genetic Recombination, and Pathogenesis of Coronaviruses.",
+            "act": 0.09209280461072922
+        },
+        {
+            "text": "In Sect.",
+            "act": 0.08937529474496841
+        },
+        {
+            "text": "My companion had a \u201cHam Sammie,\u201d a baked croissant sandwich that paired smoked local ham with Swiss cheese.",
+            "act": 0.08681447803974152
+        },
+        {
+            "text": "Yorktown Battlefield.",
+            "act": 0.08465080708265305
+        },
+        {
+            "text": "Very hearty noodles with an almost buttery-tasting broth, it's even more of a meal with added baked chicken, green onions, and a hard-boiled egg.",
+            "act": 0.08443000912666321
+        },
+        {
+            "text": "Add sifted flour, cocoa powder,vanilla sugar, and baking powder to the bowl and whisk thoroughly.",
+            "act": 0.08184915781021118
+        },
+        {
+            "text": "He is buried in Nantwich cemetery with his wife Emily and daughter Doris.",
+            "act": 0.08059728890657425
+        },
+        {
+            "text": "Here is my current code:\n    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>\n<script>\n    var one = $('#header').height(),\n    two = parseInt($(window).height() - one);\n    $('#border').height(two)\n</script>\n\n<div class=\"header\" id=\"one\">hi</div>\n<div class=\"border\" id=\"two\">hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br><div>\n\nCSS:\nbody {\n    margin: 0;\n    background-image:url(../images/bg.png);\n    background-repeat:repeat;\n    color: #FFFFFF;\n    height: 100%;\n}\n\n.header\n{\n    position: absolute;\n    left: 0px;\n    top: 0px;\n    width: 100%;\n    height: 120px;\n    background-color: black;\n    box-shadow: 0px 0px 40px #000000;\n}\n\n.border\n{\n    position: absolute;\n    left: 25%;\n    z-index:0;\n    top: 120px;\n    width: 50%;\n    background-color: white;\n    color: black;\n    padding: 5px;\n    overflow-y:scroll;\n}\n\nThanks!",
+            "act": 0.07873456925153732
+        },
+        {
+            "text": "\"Ms. Benthem received a last-minute opportunity... to attend an all-expenses-paid teaching seminar in Maui.\"",
+            "act": 0.07676274329423904
+        },
+        {
+            "text": "Design and development\nThe P.148 was an all-metal low-wing cantilever monoplane with fixed tailwheel landing gear.",
+            "act": 0.07612951099872589
+        },
+        {
+            "text": "Reproduced Record (R.R.)",
+            "act": 0.07528698444366455
+        },
+        {
+            "text": "* <p>\n     * Available options are:\n     *\n     * <table>\n     *     <caption>Repair Options</caption>\n     *     <thead>\n     *         <tr>\n     *             <th>key</th>\n     *             <th>value</th>\n     *             <th>default (when key not given)</th>\n     *         </tr>\n     *     </thead>\n     *     <tbody>\n     *         <tr>\n     *             <td>parallelism</td>\n     *             <td>\"sequential\", \"parallel\" or \"dc_parallel\"</td>\n     *             <td>\"sequential\"</td>\n     *         </tr>\n     *         <tr>\n     *             <td>primaryRange</td>\n     *             <td>\"true\" if perform repair only on primary range.</td>\n     *             <td>false</td>\n     *         </tr>\n     *         <tr>\n     *             <td>incremental</td>\n     *             <td>\"true\" if perform incremental repair.</td>\n     *             <td>false</td>\n     *         </tr>\n     *         <tr>\n     *             <td>trace</td>\n     *             <td>\"true\" if repair is traced.</td>\n     *             <td>false</td>\n     *         </tr>\n     *         <tr>\n     *             <td>jobThreads</td>\n     *             <td>Number of threads to use to run repair job.</td>\n     *             <td>1</td>\n     *         </tr>\n     *         <tr>\n     *             <td>ranges</td>\n     *             <td>Ranges to repair.",
+            "act": 0.07465845346450806
+        },
+        {
+            "text": "We shall proceed.",
+            "act": 0.07392586022615433
+        },
+        {
+            "text": "#!/usr/bin/env bash\n\n###############################################################################\n# Mission Control\n###############################################################################\n\n# Disable Dashboard\ndefaults write com.apple.dashboard mcx-disabled -bool true\n\n# Dashboard:\n# 1: Off\n# 2: As Space\n# 3: As Overlay\ndefaults write com.apple.dashboard enabled-state -int 1\n\n# Don\u2019t show Dashboard as a Space\ndefaults write com.apple.dock dashboard-in-overlay -bool true\n\n# Enable Dashboard dev mode (allows keeping widgets on the desktop)\ndefaults write com.apple.dashboard devmode -bool true",
+            "act": 0.07298039644956589
+        },
+        {
+            "text": "usage: See usage\nat literally.",
+            "act": 0.07273179292678833
+        },
+        {
+            "text": "Las autoridades sanitarias que busquen implementar este tipo de impuestos deber\u00edan aprovechar el impacto sobre el precio y la inflaci\u00f3n, sobre todo en los primeros meses de su aplicaci\u00f3n, para fomentar y facilitar el consumo de alternativas saludables como el agua potable, as\u00ed como acompa\u00f1arlo de medidas educativas que modifiquen los h\u00e1bitos de consumo de manera sostenida en el mediano y largo plazo.",
+            "act": 0.07165850698947906
+        },
+        {
+            "text": "We both honed in on the egg burrito, a tortilla filled with fluffy scrambled eggs, grilled peppers, onions and avocado, topped with salsa and sour cream.",
+            "act": 0.07136763632297516
+        },
+        {
+            "text": "Marie, Ontario",
+            "act": 0.06943994760513306
+        },
+        {
+            "text": "This does not include annual property taxes, homeowners insurance, HOA fees, and general maintenance and upkeep costs.",
+            "act": 0.06857011467218399
+        },
+        {
+            "text": "Plasmodium falciparum, similar to many other apicomplexan parasites, contains an apicoplast, a plastid organelle of secondary endosymbiotic origin.",
+            "act": 0.06812120974063873
+        },
+        {
+            "text": "Only once since the end of the 19th Century has Australia dismissed a Test team for a lesser total but ended up beaten \u2013 on a dodgy deck at Mumbai\u2019s Wankhede Stadium against an Indian team that in 2004 included Tendulkar, Dravid, Sehwag, Laxman, Kumble and Harbhajan Singh.",
+            "act": 0.06783725321292877
+        },
+        {
+            "text": "n personal; ten en cuenta que es muy estar siempre bien presentable y a la moda; otro aspecto indispensable es la seguridad, puesto que un hombre t.\n\n-\n\nDuradera maquillaje no es lo mismo que un tatuaje normal, pasando por las clases puede ayudar a asegurarse de que los que ofrecen el proceso de saber exactamente lo que est.",
+            "act": 0.06768578290939331
+        },
+        {
+            "text": "*coli* isolates from bacteremia.",
+            "act": 0.06690171360969543
+        },
+        {
+            "text": "Consider the charcoal-kissed lamb chop, ringed with olive sauce and accompanied by a sweet pepper swollen with shredded braised lamb mixed with Manchego.",
+            "act": 0.06667444109916687
+        },
+        {
+            "text": "References\n.",
+            "act": 0.06572450697422028
+        },
+        {
+            "text": "Add tomato paste and red pepper paste stir for 2-3 minutes.",
+            "act": 0.06555962562561035
+        },
+        {
+            "text": "Smith's Fort Plantation.",
+            "act": 0.06267254799604416
+        },
+        {
+            "text": "###### \n\nConcentrations of PAHs in Sediment (mg/kg)\n\n  PAHs                     Sampling locations                                                  \n  ------------------------ -------------------- -------------- --------------- --------------- --------------\n  Naphthalene              1.03\u00b10.12^a^         1.17\u00b10.01^a^   0.95\u00b10.00^ab^   0.70\u00b10.00^c^    0.66\u00b10.01^c^\n  1-Methylnaphthalene      0.36\u00b10.03^a^         0.41\u00b10.02^a^   0.31\u00b10.03^a^    0.19\u00b10.02^ab^   0.23\u00b10.00^a^\n  2-Methylnaphthalene      0.23\u00b10.06^a^         0.27\u00b10.01^a^   0.19\u00b10.03^a^    0.15\u00b10.03^a^    0.12\u00b10.00^a^\n  Acenaphthylene           1.42\u00b11.11^a^         BDL            BDL             BDL             0.45\u00b10.13^b^\n  Acenaphthene             0.23\u00b10.19^a^         0.09\u00b10.01^b^   0.03\u00b10.01^b^    0.04\u00b10.01^b^    0.05\u00b10.01^b^\n  Fluorene                 1.05\u00b10.53^a^         BDL            BDL             BDL             BDL\n  Phenanthrene             2.00\u00b10.19^a^         BDL            BDL             0.17\u00b10.02^c^    0.74\u00b10.07^b^\n  Anthracene               3.25\u00b10.14^a^         BDL            BDL             0.07\u00b10.01^c^    0.43\u00b10.07^b^\n  Pyrene                   5.43\u00b10.18^a^         0.97\u00b10.04^c^   BDL             0.49\u00b10.00^d^    4.63\u00b12.30^b^\n  Fluoranthene             2.07\u00b10.08^b^         0.64\u00b10.02^d^   1.63\u00b10.01^c^    0.23\u00b10.02^e^    4.73\u00b12.10^a^\n  Benzo(a)anthracene       0.76\u00b10.66^b^         BDL            BDL             0.11\u00b10.01^c^    2.48\u00b10.45^a^\n  Chrysene                 BDL                  BDL            BDL             BDL             4.97\u00b12.45\n  Benzo(k)fluoranthene     BDL                  BDL            BDL             BDL             3.03\u00b11.44\n  Benzo(b)fluoranthene     BDL                  BDL            BDL             BDL             2.80\u00b11.67\n  Benzo(a)pyrene           BDL                  BDL            BDL             BDL             4.10\u00b11.95\n  Benzo(ghi)perylene       BDL                  BDL            BDL             BDL             3.38\u00b11.89\n  Dibenzo(a,h)anthracene   BDL                  BDL            BDL             BDL             BDL\n  Indeno(1,2,3-cd)pyrene   BDL                  BDL            BDL             BDL             3.67\u00b12.34\n  \u2211CPAHs                   0.76                 \\-             \\-              0.11            20.76\n  Total PAHs               17.82                3.55           3.11            2.15            36.46\n\n^\\*^Mean concentrations with different superscripts along the same row are significantly different (P\u22640.05).",
+            "act": 0.06249549984931946
+        },
+        {
+            "text": "AIH can be associated with other autoimmune illnesses such as thyroiditis, Type I diabetes, thrombocytopenia, hemolytic anaemia and ulcerative colitis.",
+            "act": 0.061953574419021606
+        },
+        {
+            "text": "\u2013 Por \"asser\u00e7\u00e3o\" compreendo \u2013 diz o autor \u2013 uma sequ\u00eancia de palavras ou outros s\u00edmbolos percept\u00edveis pela sensa\u00e7\u00e3o cujo significado consiste em afirmar ou negar uma propriedade qualquer a um objeto.",
+            "act": 0.06129390001296997
+        },
+        {
+            "text": "Mary!",
+            "act": 0.0605529323220253
+        },
+        {
+            "text": "Widely virulent races of the stem rust pathogen (Puccinia graminis f. sp.",
+            "act": 0.05995243787765503
+        },
+        {
+            "text": "^\\#^ *P* \\< 0.05 versus control group; ^\\#\\#^ *P* \\< 0.01 versus control group; ^*\u2217*^ *P* \\< 0.05 versus Ang II-treated group; ^*\u2217\u2217*^ *P* \\< 0.01 versus Ang II-treated group.",
+            "act": 0.05901878699660301
+        },
+        {
+            "text": "The resistance of Pseudomonas aeruginosa to chloramphenicol.",
+            "act": 0.05883956328034401
+        },
+        {
+            "text": "with diced ham, bell pepper, onion, and white cheddar and smothered in green chile; the Kitchen Sink Omelet with ham, bacon, green onion, avocado, tomato, white cheddar, and cream cheese; monster-sized breakfast burritos; Huevos Rancheros which had been voted \u201cBest of Albuquerque\u201d by the readers of a local magazine; Chicken Fried Steak and Eggs; biscuits and gravy; and Eggs Benedict.",
+            "act": 0.058041468262672424
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

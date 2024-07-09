@@ -1,0 +1,412 @@
+{
+    "index": 220,
+    "label": "Structured and detailed factual statements",
+    "attributes": "structured factual content, proper nouns, specific technical terminology, references to professional context, references to academic context, references to historical context, well-defined information, specific events, specific individuals, specific domains of knowledge",
+    "reasoning": "The samples in the positive category appear to contain structured factual content with a focus on proper nouns, specific technical terminology, and references to professional, academic, and historical context. These samples are often sentences or phrases that convey clear, defined information, often with references to particular events, individuals, or domains of knowledge. In contrast, the samples in the negative category are more informal and conversational, often reflecting opinions, dialogue, or casual remarks without a strong emphasis on factual or technical content.",
+    "density": 0.003554125680337476,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "The pixel signal lines are signal lines for writing data to pixels.",
+            "act": 0.26307281851768494
+        },
+        {
+            "text": "writing offsets & directions) to the graph nodes.",
+            "act": 0.18527396023273468
+        },
+        {
+            "text": "All of nonnegative polynomials form a convex cone, denoted by PSD.",
+            "act": 0.1803055852651596
+        },
+        {
+            "text": "\").",
+            "act": 0.17882174253463745
+        },
+        {
+            "text": "Traits\n\nTraits are treated as classes.",
+            "act": 0.17009907960891724
+        },
+        {
+            "text": "Social is important especially out of your professional circles.",
+            "act": 0.16527289152145386
+        },
+        {
+            "text": "Helpston railway station\n\nHelpston railway station was a station in Helpston, Cambridgeshire, on the Midland Railway's Syston and Peterborough Railway.",
+            "act": 0.16300249099731445
+        },
+        {
+            "text": "The Barclay family are a Scottish and Quaker baronage with Peter Charles Barclay as the head.",
+            "act": 0.15919095277786255
+        },
+        {
+            "text": "P.\").",
+            "act": 0.15388235449790955
+        },
+        {
+            "text": "Marker Assisted Breeding).",
+            "act": 0.15200453996658325
+        },
+        {
+            "text": "The masks can be applied to the orthogonal vectors to form a new set of vectors that are quasi orthogonal vectors.",
+            "act": 0.1484895795583725
+        },
+        {
+            "text": "working as a consultant or contractor) (see feature image above).",
+            "act": 0.1311083287000656
+        },
+        {
+            "text": "Context always matters.",
+            "act": 0.12486441433429718
+        },
+        {
+            "text": "The \\<geo\\> parameter can be a spatial variable or a spatial RDF literal.",
+            "act": 0.12393048405647278
+        },
+        {
+            "text": "1315.)",
+            "act": 0.12188249826431274
+        },
+        {
+            "text": "pekinensis)].",
+            "act": 0.12093485891819
+        },
+        {
+            "text": "The parameter optimizer performs a calculation for the optimal values of LPL temporal parameters.",
+            "act": 0.1187569797039032
+        },
+        {
+            "text": "The SET-domain proteins have now been found in all eukaryotes/prokaryotes except some lower algae.",
+            "act": 0.11709300428628922
+        },
+        {
+            "text": "677139 to E.H.P.).",
+            "act": 0.11371970921754837
+        },
+        {
+            "text": "A plurality of such masking functions can be found in order to provide a plurality of sets of quasi orthogonal vectors from a single set of orthogonal vectors.",
+            "act": 0.11211960017681122
+        },
+        {
+            "text": "LMS Sentinel 7192\n\nThe London, Midland and Scottish Railway (LMS) Sentinel No.",
+            "act": 0.11170347779989243
+        },
+        {
+            "text": "(On Brian Randolph)\"Brian Randolph is a good football player.",
+            "act": 0.10968875139951706
+        },
+        {
+            "text": "Scaling functions for the corresponding amplitudes are derived as a function of the elastic parameters.'",
+            "act": 0.10879938304424286
+        },
+        {
+            "text": ";)).",
+            "act": 0.10821636021137238
+        },
+        {
+            "text": "1317.)",
+            "act": 0.1079166829586029
+        },
+        {
+            "text": "The sensor-cloud virtualizes physical sensor nodes into virtual sensors.",
+            "act": 0.10501934587955475
+        },
+        {
+            "text": "Cross\u2010seasonal legacy effects of arthropod community on plant fitness in perennial plants.",
+            "act": 0.10399164259433746
+        },
+        {
+            "text": "Francis and Charles would spend years in conflict over the sovereign rule of Burgundy (held by Francis), as well as territories in Italy.",
+            "act": 0.10244808346033096
+        },
+        {
+            "text": "modified musical chairs) to a small group of students.",
+            "act": 0.09993574768304825
+        },
+        {
+            "text": "The prediction of transcription factor binding sites (TFBSs) is crucial for gene expression analysis.",
+            "act": 0.0985700935125351
+        },
+        {
+            "text": "a Java\u2122 virtual machine).",
+            "act": 0.09755948930978775
+        },
+        {
+            "text": "Microbiological studies of inhibition of bacterial growth.",
+            "act": 0.09561441838741302
+        },
+        {
+            "text": "Duke Richard Walter John Montagu Douglas Scott and Baron Ralph Douglas-Scott-Montagu are high level members of the Montagu clan.",
+            "act": 0.09373879432678223
+        },
+        {
+            "text": "Seemed very very O'Reilly-like to me.",
+            "act": 0.09347931295633316
+        },
+        {
+            "text": "1026.)",
+            "act": 0.09330885112285614
+        },
+        {
+            "text": "CREAM, Calet, HERD).",
+            "act": 0.0898423045873642
+        },
+        {
+            "text": "Knights and Court Factors serve royal courts.",
+            "act": 0.08935979008674622
+        },
+        {
+            "text": "Helpston level crossing itself carries the Helpston to Glinton road over the four tracks of the ex-GNR line and the two tracks of the ex-MR line.",
+            "act": 0.08903517574071884
+        },
+        {
+            "text": "Very droll.",
+            "act": 0.0876801609992981
+        },
+        {
+            "text": "An anti-pad is a plane clearance.",
+            "act": 0.08742322027683258
+        },
+        {
+            "text": "The \"\n\"screen's scale factor is applied to this value.\"",
+            "act": 0.08731777966022491
+        },
+        {
+            "text": "\"(imitating Rocky):\" \"Ain't gonna be no rematch.\"",
+            "act": 0.08624349534511566
+        },
+        {
+            "text": "PERSONAL JURISDICTION OVER DISNEY.",
+            "act": 0.08582120388746262
+        },
+        {
+            "text": "3 and the following discussion).",
+            "act": 0.08533895760774612
+        },
+        {
+            "text": "Seriously.)",
+            "act": 0.08514624834060669
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.08475124090909958
+        },
+        {
+            "text": "Paul Wood, a reporter who has been repeatedly operated within UK military and intelligence covert operation zones.",
+            "act": 0.08444666862487793
+        },
+        {
+            "text": "water or air) pass through sensor packages, instruments, or sampling devices.",
+            "act": 0.08414918184280396
+        },
+        {
+            "text": "1025.)",
+            "act": 0.08396899700164795
+        },
+        {
+            "text": "Because of the segregation that existed in baseball, McGraw tried to pass Grant off as a Cherokee Indian.",
+            "act": 0.08343295753002167
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 542,
+    "label": "Fact-based detailed information",
+    "attributes": "References to specific dates, legal case details, scientific data, professional quotes, survey results, geographical locations",
+    "reasoning": "All samples under the specified tag contain references to factual information, events, or specific data. This information includes dates, percentages, legal cases, scientific data, quotes from professionals, survey results, and specific geographical locations. None of these elements are found in the other samples, which tend to be more opinion-based, conversational, or speculative.",
+    "density": 0.005504386901457239,
+    "confidence": 33.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.18278387188911438
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.18278387188911438
+        },
+        {
+            "text": "Shahuanga Punta\n\nShahuanga Punta (possibly from Quechua Shawanka Punta) is a  mountain in the Cordillera Blanca in the Andes of Peru.",
+            "act": 0.17237748205661774
+        },
+        {
+            "text": "RavnAir Alaska Dash 8 flights will continue to operate.",
+            "act": 0.16667680442333221
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.16599209606647491
+        },
+        {
+            "text": "According to the data, in 2010, 18 percent of parents reported adolescents lack of sexual activity a reason, but in 2014 it dropped to 9 percent.",
+            "act": 0.16569961607456207
+        },
+        {
+            "text": "I wasn\u2019t pleased when he replied via text that he would see if he could get home early enough for me to see him.",
+            "act": 0.15012551844120026
+        },
+        {
+            "text": "In 2012, North Brooklyn Cats received a call that an exterminator was trapping cats at this colony.",
+            "act": 0.14889110624790192
+        },
+        {
+            "text": "Catches of sea trout in 2002, the year this study began, were 712 for rod catches and 727 for net catches ([@b15]).",
+            "act": 0.14287324249744415
+        },
+        {
+            "text": "Schools are also getting crunched by state Republicans\u2019 zeal for voucher programs that use public funds to send students to religious and other private schools.",
+            "act": 0.1388998180627823
+        },
+        {
+            "text": "The table is waiting for me and a glass of water.",
+            "act": 0.13675348460674286
+        },
+        {
+            "text": "R\u00fcmeysa stated that she had patients and half of the education, and Fatih Urek requested permission.",
+            "act": 0.13342292606830597
+        },
+        {
+            "text": "Chase: I'm not the one who was being avoidant and stupid.",
+            "act": 0.13147665560245514
+        },
+        {
+            "text": "Of those, 1,167 were children who were newly poisoned in 2004.",
+            "act": 0.1309492141008377
+        },
+        {
+            "text": "In \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.13051065802574158
+        },
+        {
+            "text": "According to a new Georgia law, children who are involved in this type of cyber bullying could face serious charges.",
+            "act": 0.1301291435956955
+        },
+        {
+            "text": "Last month, Children Today served 762 children.",
+            "act": 0.12878666818141937
+        },
+        {
+            "text": "\"The butterflies have started circling and I've sped the process up.\"",
+            "act": 0.1241934671998024
+        },
+        {
+            "text": "Iran said last year it successfully tested its copy of the RQ-170 drone based on one it captured.",
+            "act": 0.12313070148229599
+        },
+        {
+            "text": "\"I am not gonna stand here and be accused of plagiarism by some substitute teacher.\"",
+            "act": 0.12260770052671432
+        },
+        {
+            "text": "\"Give it to me, I'll cook them.\"",
+            "act": 0.12236037105321884
+        },
+        {
+            "text": "It was created to protect egrets and other birds from extinction through plume hunting.",
+            "act": 0.12080613523721695
+        },
+        {
+            "text": "Mr. Baca asked me to bring my usual brand of coffee and makes a shot with it.",
+            "act": 0.11982951313257217
+        },
+        {
+            "text": "He was arrested on six felony counts: bribery conspiracy, solicitation of bribes and gratuities, conspiracy to commit honest services fraud, honest services wire fraud, conspiracy to commit wire fraud, and travel act conspiracy after allegedly accepting kickbacks for steering student-athletes to financial managers.",
+            "act": 0.11845359951257706
+        },
+        {
+            "text": "According the HSUS, 25% of those dogs in shelters are purebred, but in Richmond over 57% of dogs in the Richmond Animal Shelter are purebred dogs.",
+            "act": 0.11800038069486618
+        },
+        {
+            "text": "One of Finnane\u00e2\u20ac\u2122s misrepresentations has Windschuttle making the \u00e2\u20ac\u0153statistical error\u00e2\u20ac?",
+            "act": 0.11720459908246994
+        },
+        {
+            "text": "I\u2019d meant to sound glad he got some rest but it came out like an accusation.",
+            "act": 0.11696892231702805
+        },
+        {
+            "text": "I am looking for:\n\nAre students correctly labeling the double number lines?",
+            "act": 0.11566021293401718
+        },
+        {
+            "text": "ChessieNefercat\n\nWell where are you you fucking tweeting hateful lying vicious racist bitch?",
+            "act": 0.1150776669383049
+        },
+        {
+            "text": "Before his arrest in February, Jeffs was at the center of an alleged plot to collect government Supplemental Nutrition Assistance Program (SNAP) dollars from sect members and redistribute them to sect leadership.",
+            "act": 0.11421669274568558
+        },
+        {
+            "text": "This analysis was based on the rate of increase in the number of 2009 H1N1 influenza cases among the school students.",
+            "act": 0.11165951937437057
+        },
+        {
+            "text": "Intradomiciliary and peridomiciliary infestation indexes were 5.6% and 33.7%, respectively.",
+            "act": 0.11067061871290207
+        },
+        {
+            "text": "The transactions the\nindictment charged as money laundering consisted of expenditures, paid by checks\nwritten by FCI, that allegedly promoted the fraudulent distributorship scheme.",
+            "act": 0.11028321832418442
+        },
+        {
+            "text": "The population was dichotomized on the median PAH value of the entire cohort (2.3 ng/m3).",
+            "act": 0.10893141478300095
+        },
+        {
+            "text": "Wouldn\u00e2\u20ac\u2122t \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.10737205296754837
+        },
+        {
+            "text": "A number of people have referred to Windschuttle\u00e2\u20ac\u2122s Tasmanian death toll.",
+            "act": 0.10719531029462814
+        },
+        {
+            "text": "\"I've got your number from the students reunion which I didn't got to.\"",
+            "act": 0.10684669017791748
+        },
+        {
+            "text": "A recent survey by Realtor.com found 69 percent of recent closers ages 35-54 reported adjusting their home search in response to rising costs, while 77 percent of recent closers ages 18 to 34 reported the same.",
+            "act": 0.10568197816610336
+        },
+        {
+            "text": "Properties are provided courtesy of Big Sky Country MLS.",
+            "act": 0.10562694817781448
+        },
+        {
+            "text": "But at the turn of the 21st century, over 1 in 10 American was poor, 20% of whom where African Americans.",
+            "act": 0.10439144819974899
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.10432944446802139
+        },
+        {
+            "text": "Macks Creek reportedly had been collecting approximately 85% of its revenue from speeding tickets.",
+            "act": 0.10399004817008972
+        },
+        {
+            "text": "Zverev ousted Marin Cilic and Tomas Berdych en route to the last eight.",
+            "act": 0.102462537586689
+        },
+        {
+            "text": "References\nNotes\n\nSources\n\nCategory:1667 births\nCategory:1718 deaths\nCategory:Roundheads\nCategory:Clinton family of New York",
+            "act": 0.10223063081502914
+        },
+        {
+            "text": "Beginning in 2010, student response to receipt of an ECN was documented.",
+            "act": 0.10192566365003586
+        },
+        {
+            "text": "Proportion of boys at the school level did not have significant effect on mathematics performance.",
+            "act": 0.10168341547250748
+        },
+        {
+            "text": "More than 40% of owners fed food waste to miniature swine.",
+            "act": 0.10073774307966232
+        },
+        {
+            "text": "\"I asked my taxi to wait.\"",
+            "act": 0.10031598061323166
+        },
+        {
+            "text": "A:\n\nIf you can express your RemoveSpecialCharacters in SQL, you could have a SQL view presenting your employees with a computed IdentificationNumberWithoutSpecialCharacters column, and then filter on it.",
+            "act": 0.09858692437410355
+        },
+        {
+            "text": "Files leaked by NSA whistleblower Edward Snowden showed the NSA and GCHQ were slurping data from smartphone apps to harvest all manner of personal information from world+dog.",
+            "act": 0.09699446707963943
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

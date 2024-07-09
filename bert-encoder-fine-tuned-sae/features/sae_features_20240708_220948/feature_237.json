@@ -1,0 +1,412 @@
+{
+    "index": 237,
+    "label": "Specific and informative references",
+    "attributes": "references to specific entities or events, formal or informative tone, detailed information or descriptions, structured and punctuated style",
+    "reasoning": "After analyzing the samples, I observed that the texts in the specified group referenced specific, verifiable entities or events such as locations, people, organizations, dates, and scientific findings. Additionally, they tend to have a formal or informative tone, often providing detailed information or descriptions, and use a more structured and punctuated style. In contrast, the texts in the other group appear more conversational or opinion-based, lacking the specific references and structured information found in the specified texts.",
+    "density": 0.002405796688826569,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "Mix with kitty litter, coffee grounds or sawdust.",
+            "act": 0.17530429363250732
+        },
+        {
+            "text": "Trump hiding interpreter notes), then say so.",
+            "act": 0.16128389537334442
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.15454436838626862
+        },
+        {
+            "text": "This would be the same Operation Phakisa that backed the recent oil and gas find off the Southern Cape coast, which Daily Maverick also reported on.",
+            "act": 0.141696497797966
+        },
+        {
+            "text": "Shahuanga Punta\n\nShahuanga Punta (possibly from Quechua Shawanka Punta) is a  mountain in the Cordillera Blanca in the Andes of Peru.",
+            "act": 0.12275476008653641
+        },
+        {
+            "text": "\u201cThey want to walk back yesterday\u2019s comments.",
+            "act": 0.11874160170555115
+        },
+        {
+            "text": "Jeb Bush, Sen. Lindsey Graham, Gov.",
+            "act": 0.11462562531232834
+        },
+        {
+            "text": "Utah, which plays TCU on Saturday, is fifth.",
+            "act": 0.11458305269479752
+        },
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.11160417646169662
+        },
+        {
+            "text": "Sea Shepherd catches critically endangered totoaba poacher in the act.",
+            "act": 0.10388152301311493
+        },
+        {
+            "text": "These currents disturb the nation\u2019s security.",
+            "act": 0.09932141751050949
+        },
+        {
+            "text": "Our plan was to stay late and do some owling.",
+            "act": 0.09877169132232666
+        },
+        {
+            "text": "They say that its to protect their coastal important rivalries.",
+            "act": 0.0969291552901268
+        },
+        {
+            "text": "Bake 10-12 minutes or until golden brown.",
+            "act": 0.09526534378528595
+        },
+        {
+            "text": "Their stake in the future of the country is now 100%.",
+            "act": 0.09444543719291687
+        },
+        {
+            "text": "MUSCOVY DUCK(Cairina moschata)\n\nBRAZILIAN TEAL(Amazonetta brasiliensis)\u2013 Four birds seen flying over the Marchantaria island.",
+            "act": 0.09436513483524323
+        },
+        {
+            "text": "Batizado de Oumuamua, esse asteroide cruza o Sistema Solar periodicamente.",
+            "act": 0.09151444584131241
+        },
+        {
+            "text": "Clay Harbor- Clay was drafted this holiday season as a high quality TE burning.",
+            "act": 0.08712152391672134
+        },
+        {
+            "text": "In Fox v.",
+            "act": 0.08558125048875809
+        },
+        {
+            "text": "On 14 October 1987, route 68 was sold to Sydney Coachlines.",
+            "act": 0.08329330384731293
+        },
+        {
+            "text": "They are attracted to and thrive in areas cut by the BrushMaster.",
+            "act": 0.08189863711595535
+        },
+        {
+            "text": "The Sea Shepherd crew filmed these totoaba poachers as they were\nchecking one of their illegal nets in the protected vaquita habitat.",
+            "act": 0.08148649334907532
+        },
+        {
+            "text": "GUIANAN WARBLING-ANTBIRD(Hypocnemis cantator)\n\nYELLOW-BROWED ANTBIRD(Hypocnemis hypoxantha)\u2013 Fancy little bird seen a couple of times at Ja\u00fa National Park.",
+            "act": 0.07998454570770264
+        },
+        {
+            "text": "Republican New Jersey Gov.",
+            "act": 0.07996556907892227
+        },
+        {
+            "text": "RUFOUS-BELLIED ANTWREN(Isleria guttata)\u2013 Another Guianan Shield endemic well seen during the tour.",
+            "act": 0.07885107398033142
+        },
+        {
+            "text": "\"People who have opted for a floating rate are really\nworried.",
+            "act": 0.07767373323440552
+        },
+        {
+            "text": "AMAZONIAN PYGMY-OWL(Glaucidium hardyi)\n\nBLACK-BANDED OWL(Ciccaba huhula)\u2013 YES!",
+            "act": 0.077544204890728
+        },
+        {
+            "text": "Particularly in situations where such hydrogen may be employed in other refining processes.",
+            "act": 0.07612556219100952
+        },
+        {
+            "text": "PIRATIC FLYCATCHER(Legatus leucophaius)\n\nVARIEGATED FLYCATCHER(Empidonomus varius)\n\nSULPHURY FLYCATCHER(Tyrannopsis sulphurea)\u2013 One of the four species closely related to the Moriche palm trees.",
+            "act": 0.07510414719581604
+        },
+        {
+            "text": "Things go improved with Coke.",
+            "act": 0.07253091037273407
+        },
+        {
+            "text": "Lies distorted by Republicans to grab headlines or make political advertisements.",
+            "act": 0.07218744605779648
+        },
+        {
+            "text": "Lime scale and solid substances dissolved in the water and incrustations, build up particularly around the fine spray holes until they cause them to clog up.",
+            "act": 0.07102708518505096
+        },
+        {
+            "text": "What Sunday's result more likely altered, however, is the public perception that head coach Rex Ryan's boastful bunch should be taken seriously as a major threat in the ongoing battle for AFC supremacy.",
+            "act": 0.0707879588007927
+        },
+        {
+            "text": "* about these apps but make them work.",
+            "act": 0.07048468291759491
+        },
+        {
+            "text": "The smog is often mistaken for seasonal mist.",
+            "act": 0.07014020532369614
+        },
+        {
+            "text": "2005) and Miss.",
+            "act": 0.06790085136890411
+        },
+        {
+            "text": "Further down the track, we hit a nice mixed-species canopy flock with a very cooperative Guianan Woodcreeper, Spot-backed Antwren, Mouse-colored Antshrike, Slaty-capped Shrike-Vireo, and a pair of Pink-throated Becards.",
+            "act": 0.06772726029157639
+        },
+        {
+            "text": "Bake it until nicely brown.",
+            "act": 0.06744465976953506
+        },
+        {
+            "text": "RUFOUS NIGHTJAR(Antrostomus rufus)\u2013 WOW!",
+            "act": 0.06723717600107193
+        },
+        {
+            "text": "The solid cake of product may be moistened and the teeth may be placed in contact with the moistened cake of product.",
+            "act": 0.06657813489437103
+        },
+        {
+            "text": "Texas 2006\n\nGot Bells?",
+            "act": 0.06480526179075241
+        },
+        {
+            "text": "When delivering the scrap metal to R.S.",
+            "act": 0.06476807594299316
+        },
+        {
+            "text": "November to march being the primary swell season.",
+            "act": 0.06471032649278641
+        },
+        {
+            "text": "Afinal, prioridade l\u00f3gica \u2013 prioridade em logos ou defini\u00e7\u00e3o \u2013 \u00e9 apenas um dos tipos de primazias atribu\u00eddas \u00e0s subst\u00e2ncias.",
+            "act": 0.06469374895095825
+        },
+        {
+            "text": "Possibilitando, portanto, uma leitura \"anal\u00edtica\" do Estagirita.",
+            "act": 0.06424300372600555
+        },
+        {
+            "text": "FUSCOUS FLYCATCHER (FUSCOUS)(Cnemotriccus fuscatus fuscatior)\n\nRIVERSIDE TYRANT(Knipolegus orenocensis)\n\nAMAZONIAN BLACK-TYRANT(Knipolegus poecilocercus)\u2013 A pair of birds were seen foraging during our morning at Igarap\u00e9 Miratucu.",
+            "act": 0.06268645077943802
+        },
+        {
+            "text": "Sometimes they may do nothing important and let time pass.",
+            "act": 0.06123177707195282
+        },
+        {
+            "text": "The nucleosides were further split with dilute hydrochloric acid to the bases and D-ribose.",
+            "act": 0.06057163327932358
+        },
+        {
+            "text": "Species have died off from dumps and poisonings.",
+            "act": 0.05969154089689255
+        },
+        {
+            "text": "der Koninklijke Akad.",
+            "act": 0.05870707333087921
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

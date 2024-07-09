@@ -1,0 +1,412 @@
+{
+    "index": 139,
+    "label": "Repetitive letter sequences",
+    "attributes": "Presence of long sequences of repeated letters or characters",
+    "reasoning": "After analyzing the texts provided within both collections of samples, it appears that the common attribute shared specifically by the texts in the first group is the presence of long sequences of repeated letters or characters. This attribute is not observed in any text from the second group.",
+    "density": 0.001361861241998472,
+    "confidence": 6.0,
+    "high_act_samples": [
+        {
+            "text": "POOF GAAAAAAAAAWWWWN!!",
+            "act": 0.1488509625196457
+        },
+        {
+            "text": "else:\n        return False\n\nprint('Oto jest gra, w kt\u00f3rej musisz odgadn\u0105\u0107 kod!",
+            "act": 0.13946877419948578
+        },
+        {
+            "text": "He also writes for magazines, web articles, DVD booklets and more.",
+            "act": 0.13520784676074982
+        },
+        {
+            "text": "Con DAZN vedi oltre 100 match di Serie A in esclusiva e tutta la Serie B IN STREAMING, LIVE E ON DEMAND\n\nMotivo per il quale sono gi\u00e0 a lavoro per le prossime sessioni di mercato di gennaio e di giugno.",
+            "act": 0.1288200467824936
+        },
+        {
+            "text": "DIEEEEEEEEGGGGGOOOOOOOOOOOOOOOO!!!",
+            "act": 0.12689907848834991
+        },
+        {
+            "text": "label = Label(master, text=\"2 Player Guessing Game!",
+            "act": 0.12129143625497818
+        },
+        {
+            "text": "\"Trip, trap, trip, trap! \"",
+            "act": 0.12039237469434738
+        },
+        {
+            "text": "label = Label(master, text=\"2 Player Guessing Game!",
+            "act": 0.11981332302093506
+        },
+        {
+            "text": "Program included naming, logo design, brochure, website, signage, and showroom.",
+            "act": 0.11894609034061432
+        },
+        {
+            "text": "Base coaches are in sitting pose during clutch moments in My Player.",
+            "act": 0.11776220053434372
+        },
+        {
+            "text": "Paredes ha un costo elevato, e lo Zenit non vorrebbe perderlo dopo l\u2019acquisizione a luglio 2017 per circa 25 milioni di euro.",
+            "act": 0.11766059696674347
+        },
+        {
+            "text": "\"What hurts baby?\"",
+            "act": 0.11444709450006485
+        },
+        {
+            "text": "\"Hurry, hurry up, it's late.\"",
+            "act": 0.11178584396839142
+        },
+        {
+            "text": "Si ragiona quindi su cifre pi\u00f9 alte, che il Milan non potr\u00e0 spendere cos\u00ec facilmente, soprattutto se non vorr\u00e0 far 'innervosire' la UEFA.",
+            "act": 0.10820844024419785
+        },
+        {
+            "text": "\u201cThis is the official website of the Mixed Martial Arts llc.",
+            "act": 0.09463491290807724
+        },
+        {
+            "text": "L'ex giocatore della , attualmente allo di San Pietroburgo, avrebbe gi\u00e0 dato il suo placet per un ritorno in .",
+            "act": 0.09330964833498001
+        },
+        {
+            "text": "loving\n14 yearsAdvertiser\u2019s\nwith last client.",
+            "act": 0.0932500809431076
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.09153912961483002
+        },
+        {
+            "text": "Obiekty Zend_Mime_Part\n        mog\u0105 by\u0107 wtedy zmienione poniewa\u017c s\u0105 one przechowywane w tablicy jako referencje.",
+            "act": 0.09139910340309143
+        },
+        {
+            "text": "Scope of work included logo, brochure, direct mail, signage, advertising, showroom and web design.",
+            "act": 0.09071766585111618
+        },
+        {
+            "text": "They offer a DVD player, a desk and heating.",
+            "act": 0.08984726667404175
+        },
+        {
+            "text": "\";\n $body = \"Hi,\\n\\nHow are you?",
+            "act": 0.08725076913833618
+        },
+        {
+            "text": "Delimitata dalla laguna e dal mare, 232; la Venezia pi249; popolare colorata da aneddoti, ricordi e curiosit224.",
+            "act": 0.084511399269104
+        },
+        {
+            "text": "Pi\u00f9 o meno nella stessa zona di campo, c'\u00e8 un altro profilo che fa gola ai rossoneri.",
+            "act": 0.08262429386377335
+        },
+        {
+            "text": "hi saikee\n\ni have 2 hddisk.",
+            "act": 0.08260519802570343
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.08097725361585617
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.08097725361585617
+        },
+        {
+            "text": "Giusto il tempo di architettare la trattativa con la per Higuain e altre due operazioni, ma il lavoro che vogliono svolgere in casa rossonera \u00e8 molto pi\u00f9 grande.",
+            "act": 0.0807201936841011
+        },
+        {
+            "text": "Trip, trap, trip, trap, trip, trap!",
+            "act": 0.08012761920690536
+        },
+        {
+            "text": "3 bed 2 bath up, plus large basement with 3 pc bath, office, huge Rec room, possible extra bedroom, separate outside access.",
+            "act": 0.07567773014307022
+        },
+        {
+            "text": "References\n\n4.Land grabbing case on Peela adds twist to SIT probe into mega scam\n\n5.Son shine in politics\n\nCategory:Telugu Desam Party politicians\nCategory:Andhra Pradesh MLAs 2014\u20132019",
+            "act": 0.07508319616317749
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.07443112879991531
+        },
+        {
+            "text": "Besides writing for ERE, John consults with digital content operations, focusing on the advertising side.",
+            "act": 0.07372299581766129
+        },
+        {
+            "text": "Had enough right wingery for 5 lifetimes.",
+            "act": 0.07268381118774414
+        },
+        {
+            "text": "The Tusk Boar Lord is a huge boar standing 10'4\"ft (just over 3.4 meters i think) from huff to arch in his back.",
+            "act": 0.07137312740087509
+        },
+        {
+            "text": "Properties are provided courtesy of Big Sky Country MLS.",
+            "act": 0.07013088464736938
+        },
+        {
+            "text": "But Demon\u2019s Souls is the more \u201cpure\u201d vision.",
+            "act": 0.0699780136346817
+        },
+        {
+            "text": "Popular Cities\n\nBangalore\n\nChennai\n\nDelhi\n\nMumbai\n\nHyderabad\n\nPune\n\nKolkata\n\nAhmedabad\n\nThis city is currently not listed in Sulekha",
+            "act": 0.0685463547706604
+        },
+        {
+            "text": "\"I'll kill you, stop!\"",
+            "act": 0.06786751747131348
+        },
+        {
+            "text": "Full tubs = plenty of reviews\n\nHaha thx bro!",
+            "act": 0.06780224293470383
+        },
+        {
+            "text": "Wouldn\u00e2\u20ac\u2122t \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.06626632064580917
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.0660310834646225
+        },
+        {
+            "text": "Villa room was big, clean and nice!",
+            "act": 0.06577759981155396
+        },
+        {
+            "text": "As to \"paying more than 100%, well gee, I thouhgt I was bad at math!",
+            "act": 0.0654805451631546
+        },
+        {
+            "text": "Buying those (Congress) MLAs by KCR is shameful.",
+            "act": 0.0653633326292038
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.06536080688238144
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.06536080688238144
+        },
+        {
+            "text": "There is a full list of the movies, OVA's, Specials etc.",
+            "act": 0.06530322879552841
+        },
+        {
+            "text": "Kids Suites are very spacious with 2 TVs to keep adults & kids entertained.",
+            "act": 0.0651850625872612
+        },
+        {
+            "text": "Description\n\nFour Horses is a tiny independent self-publishing video game developer with a love for classic video games and portable gaming.",
+            "act": 0.06358640640974045
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

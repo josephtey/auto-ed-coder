@@ -1,0 +1,412 @@
+{
+    "index": 551,
+    "label": "Structured and descriptive text fragments",
+    "attributes": "Dates, places' names, people's names, time calculations, mathematical notations, visual descriptors, precise context",
+    "reasoning": "The samples have a more structured and diverse set of attributes such as dates, names of places and people, time calculations, mathematical notations, visual descriptors, and contextual details. The samples tend to have standalone, descriptive, or contextual statements or fragments characterized by their brevity and independence whereas negative samples are more conversational and lack structured attributes.",
+    "density": 0.0031270611793623453,
+    "confidence": 10.0,
+    "high_act_samples": [
+        {
+            "text": "Congresswoman shot dead.",
+            "act": 0.22495515644550323
+        },
+        {
+            "text": "Cannot know which one to stop.",
+            "act": 0.1761186718940735
+        },
+        {
+            "text": "Circa 1850 villa.",
+            "act": 0.1625366508960724
+        },
+        {
+            "text": "Andhra Pradesh has 13 districts: Anantapur, Chittoor, Kadapa, East Godavari, Guntur, Krishna, Kurnool, Sri Potti Sreeramulu Nellore, Prakasam, Srikakulam, Visakhapatnam, Vizianagaram and West Godavari.",
+            "act": 0.15831324458122253
+        },
+        {
+            "text": "Irregular two storey and attic rendered villa.",
+            "act": 0.1579674929380417
+        },
+        {
+            "text": "Exquisite pastel tones are entwined and offset by lush, electric swathes of orange, pink, and blue squeezed directly from the tube, further punctuated by alabaster accents that work to illuminate the entire painting.",
+            "act": 0.1564028412103653
+        },
+        {
+            "text": "It takes about 3 to 5 minutes between each cycle.",
+            "act": 0.1371024250984192
+        },
+        {
+            "text": "Importance of K^+^ channels relies on both ionic conduction and permeation-independent mechanisms {#s4}\n=====================================================================================================\n\nThe participation of K^+^ channels in the control of cell cycle could be an early event in evolution.",
+            "act": 0.13083341717720032
+        },
+        {
+            "text": "Stucco on exterior.",
+            "act": 0.12870484590530396
+        },
+        {
+            "text": "7:26 AM\nWhat is 532 minutes before 3:59 PM?",
+            "act": 0.1270071268081665
+        },
+        {
+            "text": "When can you first catch sight of Mercury, completing the fivesome?",
+            "act": 0.12596893310546875
+        },
+        {
+            "text": "Can you hear the sounds of the household?",
+            "act": 0.12176978588104248
+        },
+        {
+            "text": "Double garage, with large closed-in deck above.",
+            "act": 0.11951176822185516
+        },
+        {
+            "text": "Lovely hand-made 50's dress in classic black with small white spot all-over.",
+            "act": 0.11950001865625381
+        },
+        {
+            "text": "Rusticated ground floor.",
+            "act": 0.1187935322523117
+        },
+        {
+            "text": "Rusticated ground floor.",
+            "act": 0.1187935322523117
+        },
+        {
+            "text": "It doesn't take long for Robin to identify the\u2026 whatever Deadpool is.",
+            "act": 0.11290992796421051
+        },
+        {
+            "text": "However, it is in that death that you find larger life, in this incarnation, or in any illusion.",
+            "act": 0.10935303568840027
+        },
+        {
+            "text": "Finally\nwe reach the top, and find the village Kosmas.",
+            "act": 0.10907147824764252
+        },
+        {
+            "text": "Karza's malevolent essence is scattered to the winds.",
+            "act": 0.10814235359430313
+        },
+        {
+            "text": "Two storeys stucco faced, Italianate features.",
+            "act": 0.10632134974002838
+        },
+        {
+            "text": "I'm a little late to the hop, but love seeing all the different results.",
+            "act": 0.10416586697101593
+        },
+        {
+            "text": "1:13 AM\nWhat is 481 minutes after 6:22 AM?",
+            "act": 0.102720245718956
+        },
+        {
+            "text": "25\nWhat is 612 minutes after 6:02 AM?",
+            "act": 0.10178903490304947
+        },
+        {
+            "text": "Rubbing the dowel against the outer\nrim, I circle my home, carrying the sound to every corner.",
+            "act": 0.10084021091461182
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.09992959350347519
+        },
+        {
+            "text": "\u2022 Lasts for three turns.",
+            "act": 0.0997866839170456
+        },
+        {
+            "text": "Three storeys, stucco faced.",
+            "act": 0.09797832369804382
+        },
+        {
+            "text": "Homes encompass functional designs with large open-plan living spaces, and generous verandas.",
+            "act": 0.09717703610658646
+        },
+        {
+            "text": "12:07 PM\nHow many minutes are there between 9:35 PM and 6:03 AM?",
+            "act": 0.09686215221881866
+        },
+        {
+            "text": "You have chosen to leave the house of the Father, to travel the circle path from source to source, from mystery to mystery.",
+            "act": 0.0964319184422493
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.09529871493577957
+        },
+        {
+            "text": "Cooler's Revenge - After Frieza Saga if the Spirit Bomb killed Frieza(due to no SSJ until the last fight).",
+            "act": 0.09507470577955246
+        },
+        {
+            "text": "******************************************************************",
+            "act": 0.09350968152284622
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.09012014418840408
+        },
+        {
+            "text": "When it is over, who knows what you will think of Gruden.",
+            "act": 0.09006921947002411
+        },
+        {
+            "text": "Lowenthal wears a gray pinstripe suit and light-blue shirt, his beard trim and his prematurely gray hair gelled and spiked.",
+            "act": 0.08927005529403687
+        },
+        {
+            "text": "\u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b1\u03bd\u03b5\u03c5\u03c1\u03ad\u03c3\u03b5\u03b9\u03c2 %d bytes \u03c4\u03b7\u03c2 RAM\n\nid: Unable to query Cell codec.",
+            "act": 0.08787058293819427
+        },
+        {
+            "text": "Down by the sea we find the town Gytheio.",
+            "act": 0.08476371318101883
+        },
+        {
+            "text": "The knife punches clean through astral matter.",
+            "act": 0.08380874246358871
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.0826079323887825
+        },
+        {
+            "text": "A shot from an automatic weapon in the temple from her constituent and she survives?",
+            "act": 0.08177060633897781
+        },
+        {
+            "text": "Jesus has ONLY ONE\nchurch.",
+            "act": 0.08041055500507355
+        },
+        {
+            "text": "Kill enemy fish, absorb their DNA, and gain their race as an option to use.",
+            "act": 0.08016429096460342
+        },
+        {
+            "text": "Each of you is an unique being, yet one with all that there is.",
+            "act": 0.07896102219820023
+        },
+        {
+            "text": "In the ensuing kill shot, Fury is flung backwards by three point-blank shots to the forehead, and we can see no blood nor visible gore.",
+            "act": 0.07623539865016937
+        },
+        {
+            "text": "Snowfall averages  per year.",
+            "act": 0.07543765753507614
+        },
+        {
+            "text": "- Lasts four turns\n- Is useless against elemental attacks\n- Can be used only once per battle.",
+            "act": 0.074705570936203
+        },
+        {
+            "text": "Search form\n\nYou are here\n\nA bitter pill?",
+            "act": 0.07417736202478409
+        },
+        {
+            "text": "*Vision impairment still applies for Each Summoned \"clone\".",
+            "act": 0.0741010531783104
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

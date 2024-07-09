@@ -1,0 +1,412 @@
+{
+    "index": 555,
+    "label": "Multilingual content present",
+    "attributes": "contain multilingual sentences or phrases, include non-English languages, feature mixed languages within the same text",
+    "reasoning": "Upon examining the texts, I noticed that the samples contain multilingual sentences or phrases, with several of them including non-English languages such as Spanish, Persian, and others. On the other hand, the non-sample texts are entirely in English. This multilingual attribute is consistent across all samples and is absent in the non-sample texts.",
+    "density": 0.003781893414190879,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.25610414147377014
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 el drag es distinto?",
+            "act": 0.23396989703178406
+        },
+        {
+            "text": "Para Erda, el n\u00famero de fallecidos \u00abno indica nada\u00bb al igual que \u00abel n\u00famero de nazis que murieron en la Guerra Mundial no hace que el nazismo sea algo que uno pueda explicar o comprender\u00bb, ha escrito en Twitter.",
+            "act": 0.22797580063343048
+        },
+        {
+            "text": "DE, desviaci\u00f3n est\u00e1ndar; (T), indica que el producto est\u00e1 sujeto a impuesto.",
+            "act": 0.21980445086956024
+        },
+        {
+            "text": "Es casi imposible uno no sepa qu\u00e9 es.",
+            "act": 0.21709610521793365
+        },
+        {
+            "text": "Y bien hecho que fue as\u00ed.",
+            "act": 0.2158554047346115
+        },
+        {
+            "text": "\u201cLt.",
+            "act": 0.21224312484264374
+        },
+        {
+            "text": "A:\n\nHay varios problemas con este archivo:\n\nUna primer fila que \"rompe\" la estructura\nOtras tres filas que son solo encabezados\nUna columna de fecha que hay que modificar para poder transformarla en una fecha.",
+            "act": 0.2119729071855545
+        },
+        {
+            "text": "A las feministas se nos acusa siempre de no ser \u201cdivertidas\u201d, de no tener sentido del humor y, generalmente, de odiarlo todo.",
+            "act": 0.20753611624240875
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es lindo o entretenido cuando son hombres los que se mofan de las mujeres a trav\u00e9s del drag?",
+            "act": 0.19332297146320343
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.19290880858898163
+        },
+        {
+            "text": "Al contrario, me parece regresivo.",
+            "act": 0.1847970336675644
+        },
+        {
+            "text": "\u00bfHay alguna forma?",
+            "act": 0.18423621356487274
+        },
+        {
+            "text": "No lo hago como una decisi\u00f3n pol\u00edtica o personal; de hecho, no es algo en lo que piense mucho.",
+            "act": 0.18095549941062927
+        },
+        {
+            "text": "\u00abEmpujan a civiles, a mujeres a ni\u00f1os a la l\u00ednea de fuego con el objetivo de obtener v\u00edctimas\u00bb, a\u00f1adi\u00f3 el primer ministro israel\u00ed, que tambi\u00e9n acus\u00f3 a Ham\u00e1s de \u00abpagar\u00bb a los palestinos para participar en las protestas.",
+            "act": 0.17967233061790466
+        },
+        {
+            "text": "As\u00ed en los dos \u00faltimos a\u00f1os la deuda p\u00fablica aument\u00f3 en US$ 80.269 millones.",
+            "act": 0.17917785048484802
+        },
+        {
+            "text": "Quiz\u00e1s hay algo de lo que no me estoy dando cuenta.",
+            "act": 0.17658114433288574
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 los progresistas y feministas mainstream no han hecho una cr\u00edtica de estos shows, en general?",
+            "act": 0.1756982058286667
+        },
+        {
+            "text": "Por lo tanto, un hombre privilegiado tiene el derecho de mofarse de las mujeres y usar lenguaje sexista porque\u2026\u00bfqu\u00e9?",
+            "act": 0.17298591136932373
+        },
+        {
+            "text": "As\u00ed que busco la manera de hacer una sentencia diferente con los mismos resultados.",
+            "act": 0.16977837681770325
+        },
+        {
+            "text": "M\u00e9xico no es el primer pa\u00eds en utilizar este tipo de impuestos.",
+            "act": 0.16917738318443298
+        },
+        {
+            "text": "Si bien hay evidencia creciente de que el impuesto se ha trasladado a los precios, a\u00fan falta determinar su impacto sobre la din\u00e1mica inflacionaria y si este es transitorio o persiste en el tiempo.",
+            "act": 0.16817961633205414
+        },
+        {
+            "text": "Como mujeres, nos esforzamos mucho para ser \u201cparte del chiste\u201d.",
+            "act": 0.1679125726222992
+        },
+        {
+            "text": "La probabilidad alta de mantenerse en reg\u00edmenes de inflaci\u00f3n baja implica que el impacto del impuesto es muy transitorio.",
+            "act": 0.1635201871395111
+        },
+        {
+            "text": "The worst offender is the Black Diamond Icon Polar.",
+            "act": 0.16211359202861786
+        },
+        {
+            "text": "Entre otras declaraciones de miembros del Gobierno israel\u00ed, cada cual m\u00e1s beligerante, destaca la del ultraderechista Gilad Erdan, ministro de Asuntos Estrat\u00e9gicos y Seguridad P\u00fablica, que ha llegado a comparar a equiparar a los palestinos muertos con los nazis.",
+            "act": 0.16053463518619537
+        },
+        {
+            "text": "No voy intencionalmente a muchos shows de drag.",
+            "act": 0.15883921086788177
+        },
+        {
+            "text": "La otra noche estuve en un bar y una porci\u00f3n de la velada tuvo un show con drag queens.",
+            "act": 0.15745066106319427
+        },
+        {
+            "text": "Existen pocos estudios que examinen si el impuesto genera quiebres o cambios de reg\u00edmenes inflacionarios, as\u00ed como la duraci\u00f3n del impacto.",
+            "act": 0.15499582886695862
+        },
+        {
+            "text": "Pero porque no es una gran parte de mi mundo, hab\u00eda escapado mi radar en t\u00e9rminos de un an\u00e1lisis feminista.",
+            "act": 0.1539895087480545
+        },
+        {
+            "text": "It is currently available in English and Spanish.",
+            "act": 0.15387941896915436
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 no se considera un modo de apropiaci\u00f3n en relaci\u00f3n al g\u00e9nero?",
+            "act": 0.15382170677185059
+        },
+        {
+            "text": "La mayor\u00eda de los muertos, entre los que al menos ocho menores, una de ellos una beb\u00e9 de apenas ocho meses, fue por disparos.",
+            "act": 0.15261481702327728
+        },
+        {
+            "text": "Sol S\u00e1nchez @abrazopartio \u2013 \u00bfPor qu\u00e9 disparaban a matar a los Palestinos en Gaza?",
+            "act": 0.15227442979812622
+        },
+        {
+            "text": "Actualizaci\u00f3n con la respuesta de Hubert Ronald\nParece que no puedo descargar pack (data.tables) porque que no exist.",
+            "act": 0.15197622776031494
+        },
+        {
+            "text": "En un art\u00edculo del 2011 llamado \u201c\u00bfEs el drag sexista?\u201d, Kelly Kleiman pregunta: \u00bfPor qu\u00e9 odiamos el performance cuando se trata de \u2018blackface\u2019 pero celebramos la performance en el drag?",
+            "act": 0.15069153904914856
+        },
+        {
+            "text": "Expl\u00edquenmelo por favor.",
+            "act": 0.14845731854438782
+        },
+        {
+            "text": "\u00bfImportamos?",
+            "act": 0.1481185406446457
+        },
+        {
+            "text": "Supongo que esa forma de entretenimiento nunca me ha interesado lo suficiente.",
+            "act": 0.14795716106891632
+        },
+        {
+            "text": "No se registran cambios de r\u00e9gimen significativos que puedan atribuirse a la aplicaci\u00f3n del IEPS en fechas posteriores a la primera vez que se introdujo el impuesto en enero de 2014.",
+            "act": 0.14785505831241608
+        },
+        {
+            "text": "Todos los autores revisaron y aprobaron la versi\u00f3n final.",
+            "act": 0.14763998985290527
+        },
+        {
+            "text": "Y no puedo dejar de preguntarme lo mismo.",
+            "act": 0.14567923545837402
+        },
+        {
+            "text": "La aprobaci\u00f3n del IEPS en noviembre de 2013 y su aplicaci\u00f3n en enero de 2014 forz\u00f3 la ruptura del r\u00e9gimen de inflaci\u00f3n baja de estos productos y deton\u00f3 el cambio a un r\u00e9gimen de inflaci\u00f3n alta.",
+            "act": 0.1431037038564682
+        },
+        {
+            "text": "Pero Divine naci\u00f3 en una casa de clase media, conservadora e interpretaba estereotipos asquerosos de mujeres de clase baja para re\u00edrse.",
+            "act": 0.14062641561031342
+        },
+        {
+            "text": "Pero qu\u00e9 dice la comunidad LGBTQ del drag?",
+            "act": 0.14061979949474335
+        },
+        {
+            "text": "msgstr \"Profil\u0113t izpild\u012bto JavaScript kodu.\"",
+            "act": 0.1384657472372055
+        },
+        {
+            "text": "Enlace con la noticia",
+            "act": 0.13841743767261505
+        },
+        {
+            "text": "\u00bfEs el blackface considerado un insulto y el drag un chiste porque hay alguna diferencia inherente entre \u00e9stos, o porque los afro-estadounidenses no tolerar\u00e1n este rid\u00edculo mientras que el movimiento de las mujeres est\u00e1 constantemente preocupado por demostrar que tiene sentido del humor?",
+            "act": 0.1376439481973648
+        },
+        {
+            "text": "Este estudio se refiere a la persistencia como la probabilidad de que la inflaci\u00f3n econ\u00f3mica permanezca en un r\u00e9gimen inflacionario alto o en uno bajo.",
+            "act": 0.13443626463413239
+        },
+        {
+            "text": "Por \u00faltimo, se ha reportado que el traslado del impuesto aplicado en Berkeley, California a precios fue menor ([@B12]).",
+            "act": 0.1332671195268631
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 440,
+    "label": "Diverse factual and technical texts",
+    "attributes": "diverse contexts, technical instructions, historical references, scientific descriptions, factual information, complex terminology, mixed languages, technical formatting",
+    "reasoning": "Upon examining the samples, it is evident that the positive samples exhibit a diversity of contexts and topics, including technical instructions, historical references, scientific descriptions, travel information, and various facts. These samples often contain detailed, factual, and structured information, and some may include complex terminology or references to specific studies or data. Additionally, the positive samples frequently mix different languages and use technical formatting like citations and special characters. In contrast, the negative samples mainly exhibit informal conversational language, personal opinions, and predominantly discuss current events or political topics, often presented in paragraph form.",
+    "density": 0.000953777385511125,
+    "confidence": 60.0,
+    "high_act_samples": [
+        {
+            "text": "^answer asObject\n\n\n!",
+            "act": 0.16995926201343536
+        },
+        {
+            "text": "^false!",
+            "act": 0.1414073407649994
+        },
+        {
+            "text": "^false!",
+            "act": 0.1414073407649994
+        },
+        {
+            "text": "Dev update!",
+            "act": 0.12846866250038147
+        },
+        {
+            "text": "Pinoy, Tapat Ka Ba?",
+            "act": 0.12751752138137817
+        },
+        {
+            "text": "Cal stood.",
+            "act": 0.10980907082557678
+        },
+        {
+            "text": "Ilari E S\u00e4\u00e4ksj\u00e4rvi: involved in writing the manuscript.",
+            "act": 0.10154218226671219
+        },
+        {
+            "text": "Eksp.",
+            "act": 0.10040903091430664
+        },
+        {
+            "text": "History\nBoronia Heights was known as the Logan Ridges through to the early 1890s.",
+            "act": 0.09918185323476791
+        },
+        {
+            "text": "Kiwanuka.",
+            "act": 0.09658913314342499
+        },
+        {
+            "text": "Later the entire valley became known as The Owens Valley (see First Settlers below).",
+            "act": 0.0930839255452156
+        },
+        {
+            "text": "The river is formed from two main tributaries, the East and West Dart.",
+            "act": 0.08942802250385284
+        },
+        {
+            "text": "Eksp.",
+            "act": 0.08533975481987
+        },
+        {
+            "text": "Poker 473\n\npoker 473\n\n630.",
+            "act": 0.08503074944019318
+        },
+        {
+            "text": "On the eastern shore of the river, Highway 11 separates and travels north towards Geraldton and Hearst.",
+            "act": 0.08486589044332504
+        },
+        {
+            "text": "Between Mattawa and North Bay, many aboriginals and early settlers made use of the Mattawa River, the headwaters of which lie just north of Lake Nipissing.",
+            "act": 0.08044629544019699
+        },
+        {
+            "text": "Republicans are particularly incensed.",
+            "act": 0.07806024700403214
+        },
+        {
+            "text": "Anae also arrived in the ACT this week to link with the Brumbies.",
+            "act": 0.07568667829036713
+        },
+        {
+            "text": "Funkce *auto-rebuild* je aktivov\u00e1na ve v\u00fdchoz\u00edm nastaven\u00ed.",
+            "act": 0.07545410096645355
+        },
+        {
+            "text": "In AD the associations meant the higher the diagnostic understanding, the higher parts of the verbal episodic memory.",
+            "act": 0.07425469160079956
+        },
+        {
+            "text": "In the present study, *KJ* was prepared as per *Sharangadhara* [@bib7] and Sadhale [@bib4], with minor modifications.",
+            "act": 0.07368963956832886
+        },
+        {
+            "text": "Line 75 \u2013 Set VIC chip to use normal ROM area for characters.",
+            "act": 0.07359139621257782
+        },
+        {
+            "text": "In the , Boronia Heights recorded a population of 7,604 people.",
+            "act": 0.0690702274441719
+        },
+        {
+            "text": "Thus, how *Xist* evolved the ability to recruit Spen is of great interest.",
+            "act": 0.06815733015537262
+        },
+        {
+            "text": "Selikhov, Pis\u2019ma Zh.",
+            "act": 0.06618490815162659
+        },
+        {
+            "text": "Percent diversity represents the percentage of the sequence that has diverged from the ancestral TE insertion.",
+            "act": 0.06590713560581207
+        },
+        {
+            "text": "For the linesymbol, fillsymbol and symbol, set ROP2 = esriRasterOpCode.esriROPNotXOrPen.",
+            "act": 0.06520642340183258
+        },
+        {
+            "text": "The Flood of Noah\u2019s day also changed the world.",
+            "act": 0.0629957914352417
+        },
+        {
+            "text": "Tracks are shown for Spen KO +RRM2-4 (+\u00a0/\u00a0-\u00a0*Xist*), Spen full-length, and an IgG control.",
+            "act": 0.060246791690588
+        },
+        {
+            "text": "For instance, related to turangawaewae is the term mana whenua, which pertains to the mana---alluding to force, but usually also with moral or spiritual dimensions---exerted over a territory by a given people.",
+            "act": 0.06009197607636452
+        },
+        {
+            "text": "On July 1 1915  Yoshimizu station was opened.",
+            "act": 0.05899040028452873
+        },
+        {
+            "text": "Gunga galunga .",
+            "act": 0.05684772506356239
+        },
+        {
+            "text": "I tested the data sets combinations (*Lo* vs/ *Ore-R*) and (*Ore-R* /vs *Hi5*).",
+            "act": 0.055938031524419785
+        },
+        {
+            "text": "Viki-leaks?",
+            "act": 0.05381733551621437
+        },
+        {
+            "text": "Official story \u2013 the OIG (Horowitz) gave Mueller the texts between Strzok & Page.",
+            "act": 0.053078580647706985
+        },
+        {
+            "text": "Pro spr\u00e1vnou funk\u010dnost se pros\u00edm ujist\u011bte, \u017ee jste ji nedeaktivovali.",
+            "act": 0.05168091505765915
+        },
+        {
+            "text": "A total of 42 TE were also identified in 25 of the 130 TaSDGs.",
+            "act": 0.051283616572618484
+        },
+        {
+            "text": "Resynchroniza\u010dn\u00ed proces m\u016f\u017ee trvat n\u011bkolik minut a v jeho pr\u016fb\u011bhu m\u016f\u017ee doj\u00edt ke sn\u00ed\u017een\u00ed v\u00fdkonu Va\u0161eho RAIDu.",
+            "act": 0.049965593963861465
+        },
+        {
+            "text": "107880\nCalculate the least common multiple of 333 and 814.",
+            "act": 0.04808324947953224
+        },
+        {
+            "text": "After exchanging breaks midway through the first set, the fourth seeds sealed the opener with another break in the 12th game.",
+            "act": 0.046514444053173065
+        },
+        {
+            "text": "We look into storylines that emerged during the season's second clay-court Masters 1000 event.",
+            "act": 0.04647526890039444
+        },
+        {
+            "text": "Thunder Bay\nThe original routing of Highway\u00a017 travelled into Port Arthur along the Dawson Road, now Highway\u00a0102.",
+            "act": 0.04429486393928528
+        },
+        {
+            "text": "Pain was characterized by the Japanese version of the SF-MPQ2^[@R19]^ before the experiment.",
+            "act": 0.04426874965429306
+        },
+        {
+            "text": "Co-evolution and adaptation of *L*.",
+            "act": 0.04366736859083176
+        },
+        {
+            "text": "Also, Con Kolivas suggests setting HZ to 1000.",
+            "act": 0.04333757236599922
+        },
+        {
+            "text": "**Zjist\u011bte, jak identifikovat vadn\u00fd disk a jak po\u017e\u00e1dat o jeho v\u00fdm\u011bnu.",
+            "act": 0.043015774339437485
+        },
+        {
+            "text": "Zongmi put the dhyanas into the path of humans and gods, the first \"chan\", while the sudden teaching is in the \"fifth chan\".",
+            "act": 0.04293716326355934
+        },
+        {
+            "text": "Zongmi put the dhyanas into the path of humans and gods, the first \"chan\", while the sudden teaching is in the \"fifth chan\".",
+            "act": 0.04293716326355934
+        },
+        {
+            "text": "node v6.9.2\nnpm ERR!",
+            "act": 0.042302634567022324
+        },
+        {
+            "text": "Never would.",
+            "act": 0.04150908812880516
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

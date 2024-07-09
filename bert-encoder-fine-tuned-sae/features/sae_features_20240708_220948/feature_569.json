@@ -1,0 +1,412 @@
+{
+    "index": 569,
+    "label": "Descriptive promotional or informational tone",
+    "attributes": "detailed descriptive content, inclusion of specific names, events, and places, promotional or informational tone, contextually rich passages",
+    "reasoning": "The positive samples are characterized by descriptive passages that contain a variety of thematic content, including information about events, entertainment, achievements, and promotions. They often involve specific names, places, and contexts. The negative samples, on the other hand, are much more conversational and discuss abstract ideas or personal opinions. They lack the structured, factual, and promotional content that is typical in the positive samples.",
+    "density": 0.003577851485947205,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "\u2013 Reuters",
+            "act": 0.19465234875679016
+        },
+        {
+            "text": "Peter Odemwingie with a good kick off the right leg, use of bait Jerome Thomas.",
+            "act": 0.1873990148305893
+        },
+        {
+            "text": "The XFL football joining and a guarantee of \u201csmashmouth\u201d competition.",
+            "act": 0.18628792464733124
+        },
+        {
+            "text": "Leverage?",
+            "act": 0.146561399102211
+        },
+        {
+            "text": "#1 \u2013 the first chapter in a blockbuster new limited series starring fan-favorite characters Peggy Carter and Howard Stark!",
+            "act": 0.14399008452892303
+        },
+        {
+            "text": "Available in February 2016, Doctor Who - The War Doctor 2: Infernal Devices continues the legendary conflict of the Time War.",
+            "act": 0.1346653550863266
+        },
+        {
+            "text": "-\n\nunited kingdom online shop features emerged along with something special to give its beautiful ladies.",
+            "act": 0.13302649557590485
+        },
+        {
+            "text": "\u201cLove is a form of prejudice.",
+            "act": 0.1245245561003685
+        },
+        {
+            "text": "He also has another town hall Thursday night in Portsmouth.",
+            "act": 0.12235724180936813
+        },
+        {
+            "text": "Paul Wood, a reporter who has been repeatedly operated within UK military and intelligence covert operation zones.",
+            "act": 0.12208903580904007
+        },
+        {
+            "text": "Mark Zuckerberg who is worth over 75 billion has been linked with the Phoenix-SK Club.",
+            "act": 0.12096045166254044
+        },
+        {
+            "text": "Coincidence?",
+            "act": 0.115714892745018
+        },
+        {
+            "text": "It is created by Mike Judge who also did Beavis And Butthead.",
+            "act": 0.11430182307958603
+        },
+        {
+            "text": "NYIFF\u2019s \u201c100 Years\u201d series will screen exclusively at Tribeca Cinemas.",
+            "act": 0.11324220150709152
+        },
+        {
+            "text": "This untangling process leads to the surprising conclusion that UK intelligence services fabricated evidence of collusion to create the #TrumpRussia.",
+            "act": 0.11211643368005753
+        },
+        {
+            "text": "Inc. focuses on what the series is best known for \u2013 striking stylish poses to out-dance nasty invaders.",
+            "act": 0.11178088933229446
+        },
+        {
+            "text": "Cover on saturday was 5 Euros, including one drink.",
+            "act": 0.11027619987726212
+        },
+        {
+            "text": "Mind sharing?",
+            "act": 0.10877591371536255
+        },
+        {
+            "text": "Since the launch of the \u00a3140 million scheme in July more than 1.5 million trips have been made on the bikes.",
+            "act": 0.10769402235746384
+        },
+        {
+            "text": "Liability?",
+            "act": 0.10675159096717834
+        },
+        {
+            "text": "Hairstyle #3 - Double twist backs with rope braid bun.",
+            "act": 0.1058802381157875
+        },
+        {
+            "text": "The second-to-last Wednesday Comics is on stands as we speak, the Bat-family is awash with former second bananas (Tim Drake, Damian Wayne and Dick Garyson), and Scott Summers and Emma Frost find themselves calling an island \u201chome\u201d for the second time.",
+            "act": 0.10526382923126221
+        },
+        {
+            "text": "Stealing.",
+            "act": 0.10353605449199677
+        },
+        {
+            "text": "Pranks on set?",
+            "act": 0.10331712663173676
+        },
+        {
+            "text": "This was due to an agreement whereby the Midland carried materials to the site during construction of the Great Northern, and in return the Great Northern offered no competition for services on this section.",
+            "act": 0.10295040160417557
+        },
+        {
+            "text": "Members of UNIT include Kate Stewart, Sam Bishop and Josh Carter\n\nThe Original Series\n\nSeries 1 (2004\u201305)\n\nSpecial (2012)\n\nThe New Series\n\nUNIT was relaunched in 2015 as UNIT: The New Series.",
+            "act": 0.10204065591096878
+        },
+        {
+            "text": "Mr Ellis being Macedon Ranges Cycling Club president Brett Ellis.",
+            "act": 0.09931545704603195
+        },
+        {
+            "text": "The original LTL selection of hand-picked surf accommodation and real estate on walking distance from worldclass surf .",
+            "act": 0.0984945073723793
+        },
+        {
+            "text": "Sex wands exploding.",
+            "act": 0.09790661185979843
+        },
+        {
+            "text": "And last month, William Hill received \u00a36.2-million bill for what the Commission deemed poor anti-money laundering policies and player protection failures.",
+            "act": 0.0978454127907753
+        },
+        {
+            "text": "All Transfort routes will be free to ride on Saturday.",
+            "act": 0.09741479903459549
+        },
+        {
+            "text": "(\"async\") && is!",
+            "act": 0.09699301421642303
+        },
+        {
+            "text": "biopic film \"Straight Outta Compton.",
+            "act": 0.09536237269639969
+        },
+        {
+            "text": "The same goes with She-Ra between the BCI and Classic Media releases (all of the BCI season sets, the best of, the convention/he-man.org exclusive alternate packaging for the best of, the single disc SOTS, and the Classic Media Season 1 Part 1 and Complete Series releases).",
+            "act": 0.09398754686117172
+        },
+        {
+            "text": "At the same time, two doctors \u2026\n\nSouthend rail passengers are able to catch their usual train from Monday 16 March after a speed restriction at Maryland, near Stratford, was lifted.",
+            "act": 0.09297436475753784
+        },
+        {
+            "text": "They are members of the Order of the Garter because they covertly do business in London.",
+            "act": 0.09286922961473465
+        },
+        {
+            "text": "Cooler's Revenge - After Frieza Saga.",
+            "act": 0.09279680252075195
+        },
+        {
+            "text": "Broly: Legendary Super Saiyan - During the Cell Saga.",
+            "act": 0.09160434454679489
+        },
+        {
+            "text": "Dark deeds must be uncovered, foul murders exposed, thefts, deceptions and genocide.",
+            "act": 0.08999801427125931
+        },
+        {
+            "text": "Branding design for The Sterling Mason, a new development by Taconic Investment Partners, with Douglas Elliman Development Marketing.",
+            "act": 0.08860974758863449
+        },
+        {
+            "text": "There is no full body exfoliation or massage.",
+            "act": 0.08810251206159592
+        },
+        {
+            "text": "Moreover, Breivik also suggests that female \u2018emotionalism\u2019 and \u2018compassion\u2019 leads women to betray Europe by making them more sympathetic to multiculturalism.",
+            "act": 0.08751121163368225
+        },
+        {
+            "text": "Return of Cooler - Along side the Android Saga.",
+            "act": 0.08694859594106674
+        },
+        {
+            "text": "NYIFF has the honor of presenting the first US screenings of all three films since their majestic new restoration in this incredible series that is fittingly sponsored by Incredible India!\u201d\n\nIncredible India!",
+            "act": 0.08685608953237534
+        },
+        {
+            "text": "With the R-Line\u2019s official opening next week, FasTracks will have about 75 miles of rail in operation.",
+            "act": 0.08669596910476685
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.086497962474823
+        },
+        {
+            "text": "NSB further criticized that trains running on the northern segment did not run the shorter distance to Holmestrand.",
+            "act": 0.08524719625711441
+        },
+        {
+            "text": "\u201dRemarkable Job\u201d\n\n\u201cMarks Curtain Cleaning services made me amazed with their services.",
+            "act": 0.08519004285335541
+        },
+        {
+            "text": "Thankfully the superkeeper played for us \u2013 Sebasti\u00e9n Robert.",
+            "act": 0.08512066304683685
+        },
+        {
+            "text": "REPRESENTATIVE Queensland U20s Halfback: Jake Clifford\n\nQueensland U20s halfback and man of the match, Jake Clifford, speaks with QRL Media after the U20s State of Origin win.",
+            "act": 0.08495446294546127
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

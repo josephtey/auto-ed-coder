@@ -1,0 +1,412 @@
+{
+    "index": 598,
+    "label": "Technical or specialized content",
+    "attributes": "Contains technical or specialized information",
+    "reasoning": "Upon examining the texts, I noticed that all instances within the samples include technical or specialized information, which may involve user messages, technical logging details, product descriptions, specific locations, or sequences of letters/numbers. These technical or specialized details are absent from the other samples, which consist primarily of conversational or narrative content.",
+    "density": 0.0004887515955604273,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.2756386399269104
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.27206581830978394
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.20067238807678223
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.20067238807678223
+        },
+        {
+            "text": "Total free space on volume: %d MB\nmsg: \u03a4\u03b1 torrents \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd %d MB \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 %d MB.",
+            "act": 0.19248118996620178
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.18868839740753174
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.1858503520488739
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.17242690920829773
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.16016465425491333
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.13701167702674866
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.13259926438331604
+        },
+        {
+            "text": "msg: Cell-h264: \u0395\u03be\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 4.2 \u03c3\u03b5 \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf %d.%d.",
+            "act": 0.11107075959444046
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.09753195196390152
+        },
+        {
+            "text": "Crafted from soft, stretchy cotton, the pack arrives with two plain pairs and one logo printed pair of socks.",
+            "act": 0.06624452024698257
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.06492143124341965
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.06307162344455719
+        },
+        {
+            "text": "The Easy-Flex Rubber Sole Resists Slipping 2\" Illusion Heel from Moda Spana exudes exquisite elegance with its delicate ankle strap town and a dazzling metallic satin fabric.",
+            "act": 0.06259109079837799
+        },
+        {
+            "text": "5,565,798 and 5,708,374.",
+            "act": 0.057752348482608795
+        },
+        {
+            "text": "2 (SP-1230) with Ensign John M. Watson, USNRF, in command.",
+            "act": 0.05684289336204529
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.05673890560865402
+        },
+        {
+            "text": "\u0397 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03bf\u03c0\u03b5\u03af.",
+            "act": 0.05666573345661163
+        },
+        {
+            "text": "Throughout the paper we report fold changes of concentration and amount relative to the mean basal value of the corresponding quantity.",
+            "act": 0.055398449301719666
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.055385567247867584
+        },
+        {
+            "text": "It will involve some combination of tax increases and spending cuts.",
+            "act": 0.055047012865543365
+        },
+        {
+            "text": "Begin to head towards water.",
+            "act": 0.053938597440719604
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.05229135602712631
+        },
+        {
+            "text": "259] units consists of cumulative charges reflecting the sum of the rates for two of the operating companies (Georgia Power and Alabama Power).\"",
+            "act": 0.050482187420129776
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.047426722943782806
+        },
+        {
+            "text": "Indications for ciprofloxacin use were determined from chart review.",
+            "act": 0.04722653701901436
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.045836642384529114
+        },
+        {
+            "text": "Ela naturalmente \u00e9 o princ\u00edpio e o axioma de todos os axiomas.",
+            "act": 0.03960482031106949
+        },
+        {
+            "text": "Colorado City, Ariz., and Hildale, Utah, form the FLDS community of Short Creek.",
+            "act": 0.03934887796640396
+        },
+        {
+            "text": "2,998,380 and 3,050,457.",
+            "act": 0.039024755358695984
+        },
+        {
+            "text": "Jenkins and running back LaMichael James.",
+            "act": 0.03866613283753395
+        },
+        {
+            "text": "The funds ended the year with total assets of $US1.12 trillion.",
+            "act": 0.03778228908777237
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.036785323172807693
+        },
+        {
+            "text": "It states at the main road of rcf to Goindwal sahib in the main entrance of Saidpur.",
+            "act": 0.036323774605989456
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.036046575754880905
+        },
+        {
+            "text": "The substructure of this secondary maximum results from the interaction of the accretion stream with the spiral arm structures that advance progradely in the co-rotating frame.",
+            "act": 0.035524096339941025
+        },
+        {
+            "text": "Redirect to the Gulf Coast.",
+            "act": 0.03521903604269028
+        },
+        {
+            "text": "These concentrations would approximately translate to 10--40\u2009nM.",
+            "act": 0.03474276512861252
+        },
+        {
+            "text": "% len(new_ids) return paste_hits 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 # # Check Pastebin for keyword list.",
+            "act": 0.034567415714263916
+        },
+        {
+            "text": "The shoe also features a lace-up closure with non-traditional eyestays that add a rugged yet elegant update to the classic Saucony Jazz shoes.",
+            "act": 0.033287808299064636
+        },
+        {
+            "text": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0435\u0442\u044c.",
+            "act": 0.03220004215836525
+        },
+        {
+            "text": "Within those vortices of magnetic fields rests by a slender thread an infinite consciousness.",
+            "act": 0.03007695823907852
+        },
+        {
+            "text": "The shoe is crafted from a combination of suede and leather for that heavy-duty aesthetic.",
+            "act": 0.027458423748612404
+        },
+        {
+            "text": "msg: \u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b5\u03c0\u03b9\u03c4\u03ac\u03c7\u03c5\u03bd\u03c3\u03b7\u03c2 %s, \u03b7 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7 \u03b4\u03b5\u03bd \u03c6\u03bf\u03c1\u03c4\u03ce\u03b8\u03b7\u03ba\u03b5.",
+            "act": 0.02667069435119629
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.02655670791864395
+        },
+        {
+            "text": "Interest Rates & Your Investment Portfolio\n\nReversal in trends would initially bring negative effects to markets.",
+            "act": 0.026291338726878166
+        },
+        {
+            "text": "Kissing Tree is a planned 3,200-home community.",
+            "act": 0.026213327422738075
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

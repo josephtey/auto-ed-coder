@@ -1,0 +1,412 @@
+{
+    "index": 275,
+    "label": "Structured factual references with details",
+    "attributes": "Contains specific factual references, Includes technical or scientific terms, References to historical events or people, Includes structured sequences or data points, Mentions measurable data or hypotheses, Detailed descriptions",
+    "reasoning": "After analyzing the text, I identified that all the samples within the positive-samples contain at least one structured reference to a specific factual concept, place, object, person, or hypothesis. These references often include technical terms, historical events, scientific concepts, structured sequences, or measurable data. The negative-samples, in contrast, are more focused on opinions, discussions, questions, and generalized comments without such structured and factual specifics.",
+    "density": 0.005305090134335512,
+    "confidence": 45.0,
+    "high_act_samples": [
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.23565468192100525
+        },
+        {
+            "text": "Mechanical Engineering?",
+            "act": 0.22169622778892517
+        },
+        {
+            "text": "Your staffs must be thrown down and put to death.",
+            "act": 0.2030104398727417
+        },
+        {
+            "text": "Some people feel nothing while others can feel light movements.",
+            "act": 0.1770351231098175
+        },
+        {
+            "text": "Cauchy proved it true for strictly convex polyhedra.",
+            "act": 0.17353790998458862
+        },
+        {
+            "text": "Trunk held Cal firm and looked to her.",
+            "act": 0.17297488451004028
+        },
+        {
+            "text": "Equivalently, it is a projective variety, defined as the zero locus of three smooth quadrics.",
+            "act": 0.16927307844161987
+        },
+        {
+            "text": "Lay it out with the front facing you, straps out, so you can fit it straight onto your head without any fuss.",
+            "act": 0.1630130112171173
+        },
+        {
+            "text": "It is the three-dimensional case of the rational normal curve, and is the image of a Veronese map of degree three on the projective line.",
+            "act": 0.1540248990058899
+        },
+        {
+            "text": "Twisted cubic\n\nIn mathematics, a twisted cubic is a smooth, rational curve C of degree three in projective 3-space P3.",
+            "act": 0.1525629460811615
+        },
+        {
+            "text": "In Newtonian physics, change and movement were explained by the inertia of bodies and the forces bodies exert on each other.",
+            "act": 0.14480459690093994
+        },
+        {
+            "text": "Image: Wikimedia Commons",
+            "act": 0.14396435022354126
+        },
+        {
+            "text": "\u201cPeople have had concussions.",
+            "act": 0.14146803319454193
+        },
+        {
+            "text": "It is essentially unique, up to projective transformation (the twisted cubic, therefore).",
+            "act": 0.14109113812446594
+        },
+        {
+            "text": "She was still in bed but her eyes were open.",
+            "act": 0.13859379291534424
+        },
+        {
+            "text": "Thawing was performed by letting the hAM rest at room temperature until the substance became liquid.",
+            "act": 0.13605031371116638
+        },
+        {
+            "text": "Seems to work pretty good in our school as we have some guys well over 300+ pounds.",
+            "act": 0.13009071350097656
+        },
+        {
+            "text": ".......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... .......... ..........\n\nALBUQUERQUE, N.M. \u2014 Police have determined the shooting death of a teen, deemed suspicious at first, to be accidental, according to a police spokesman.",
+            "act": 0.12761154770851135
+        },
+        {
+            "text": "Its called Gladio, and its real.",
+            "act": 0.1256246566772461
+        },
+        {
+            "text": "While asleep, no power is dissipated since no operation is taking place.",
+            "act": 0.125545471906662
+        },
+        {
+            "text": "Sobolev spaces.",
+            "act": 0.12531109154224396
+        },
+        {
+            "text": "They know what\u2019s going on.",
+            "act": 0.12495823949575424
+        },
+        {
+            "text": "You may either sit or lay down, but do not meditate.",
+            "act": 0.12413524836301804
+        },
+        {
+            "text": "Totally cool.",
+            "act": 0.1221301332116127
+        },
+        {
+            "text": "Strictly convex polyhedra: Cauchy\u2019s proof\n-----------------------------------------\n\nAlthough Euler\u2019s conjecture is false in general, it is true for many important subclasses of polyhedra.",
+            "act": 0.12190567702054977
+        },
+        {
+            "text": "Driver Joel, Guide Joel, and Guide Gabriel were all warm and welcoming, and the guides were very knowledgeable about Mayan history.",
+            "act": 0.12066569179296494
+        },
+        {
+            "text": "This thing was real tin.",
+            "act": 0.12034279108047485
+        },
+        {
+            "text": "Therefore by a result of Olshanskii, \"SQ-universality of hyperbolic groups\".",
+            "act": 0.11765910685062408
+        },
+        {
+            "text": "The integers labelling distinct topological classes of instantons can be thought of as topological charges.",
+            "act": 0.11757563799619675
+        },
+        {
+            "text": "version: 1\nn_points: 68\n{\n138.01855 89.154579\n139.21136 99.620071\n141.09622 109.68665\n143.36954 119.3373\n147.22928 127.61332\n152.57074 135.18625\n158.65134 141.56909\n165.28262 146.72121\n174.01408 148.01602\n183.21277 146.32979\n190.60913 140.83598\n197.43958 133.6351\n202.74667 124.8311\n206.16403 115.28817\n207.67905 104.79993\n208.76697 94.739845\n209.33478 84.082756\n140.5466 79.584969\n143.79265 74.090782\n149.96266 72.06385\n156.88336 72.542412\n163.54131 74.896339\n173.25909 74.705627\n180.40253 72.099586\n188.18176 71.668297\n195.93837 73.45594\n201.47372 78.314529\n169.05841 82.679474\n168.88893 90.1269\n168.66153 97.418312\n168.50883 104.91183\n161.57272 110.26524\n165.5887 111.73885\n169.79231 112.92709\n174.47914 111.26287\n178.89832 109.82341\n147.75531 84.50544\n151.23106 81.83506\n155.93619 81.721588\n160.43626 85.227837\n156.02707 85.751213\n151.20631 85.890144\n180.62949 84.736366\n184.85313 81.426796\n189.57396 81.218529\n193.62616 83.520905\n189.93019 85.17701\n185.26933 85.270317\n157.39792 123.27344\n162.35428 122.18416\n167.24348 121.3379\n171.39757 122.47024\n175.48361 121.08866\n181.43904 121.58796\n187.50977 122.46669\n181.88339 126.85819\n176.3239 129.28384\n171.93306 130.0006\n167.53238 129.65094\n162.48717 127.85545\n159.54892 123.70994\n167.44278 124.58755\n171.64078 124.97156\n175.83786 124.21425\n185.24542 122.83739\n175.76491 124.44217\n171.51399 125.10707\n167.35634 124.75034\n}",
+            "act": 0.1173824593424797
+        },
+        {
+            "text": "When you exist in the big AAA realm, it can be nomadic for sure.",
+            "act": 0.11338455975055695
+        },
+        {
+            "text": "1981, however, is by nature legal and must be tried by a jury on demand.",
+            "act": 0.11314044892787933
+        },
+        {
+            "text": "You can appear anywhere according to Your desire in any one of Your eternal forms.",
+            "act": 0.11168593913316727
+        },
+        {
+            "text": "Students may also apply.",
+            "act": 0.11158186197280884
+        },
+        {
+            "text": "It is very, very quiet.",
+            "act": 0.11039631813764572
+        },
+        {
+            "text": "\"Your son returns, you stay here.\"",
+            "act": 0.10921651870012283
+        },
+        {
+            "text": "It has been successfully applied to galaxy rotation too.",
+            "act": 0.1090678721666336
+        },
+        {
+            "text": "Clearly, there are days that are really serious and emotional and, on those days, yeah, things are a little different.",
+            "act": 0.10882134735584259
+        },
+        {
+            "text": "Some private enterprise was allowed.",
+            "act": 0.1078961119055748
+        },
+        {
+            "text": "For example, my Chiron is semi square Mars.",
+            "act": 0.10591421276330948
+        },
+        {
+            "text": "The root field has degree 4 so the Galois group has 4 elements.",
+            "act": 0.1056002527475357
+        },
+        {
+            "text": "This electric charge has an interfering effect on the spinning process.",
+            "act": 0.10543712228536606
+        },
+        {
+            "text": "Division MVP?",
+            "act": 0.1046949028968811
+        },
+        {
+            "text": "Old kids did even better.",
+            "act": 0.10442893207073212
+        },
+        {
+            "text": "The cards were valid for five years, upon which they could be automatically renewed upon application.",
+            "act": 0.10428515076637268
+        },
+        {
+            "text": "Most citizens are Sunni Muslims.",
+            "act": 0.10394684225320816
+        },
+        {
+            "text": "Her dead face frozen in shock.",
+            "act": 0.10326478630304337
+        },
+        {
+            "text": "The more and more you do it, the more comfortable you get and the more normal it looks.",
+            "act": 0.10180472582578659
+        },
+        {
+            "text": "Raised with firearms.",
+            "act": 0.10142843425273895
+        },
+        {
+            "text": "Donkeys?",
+            "act": 0.09964142739772797
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

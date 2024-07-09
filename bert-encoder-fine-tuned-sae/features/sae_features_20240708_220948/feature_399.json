@@ -1,0 +1,412 @@
+{
+    "index": 399,
+    "label": "Formal and structured information",
+    "attributes": "Formal writing, structured information, specific details, official contexts, historical events, academic information, formal communication",
+    "reasoning": "The samples exhibit formal writing or structured information, often including specific details such as names, dates, places, formal descriptions, and structured scenarios. These typically appear in contexts like historical events, official reports, academic information, or formal communication. In contrast, the other samples contain informal conversational text, opinions, discussions, or casual commentary without structured or formal presentation.",
+    "density": 0.0027142321617530524,
+    "confidence": 40.0,
+    "high_act_samples": [
+        {
+            "text": "Arkansas, Fort Smith Division.",
+            "act": 0.1895628720521927
+        },
+        {
+            "text": "Staat, Bundesland, Provinz oder Region).",
+            "act": 0.15271268784999847
+        },
+        {
+            "text": "Enjoy these highlights (but forgive the suit.",
+            "act": 0.14435219764709473
+        },
+        {
+            "text": "Various tactical formations, including by military medical personnel, were also among the scenarios included in the exercise.",
+            "act": 0.14273886382579803
+        },
+        {
+            "text": "He fought at the Battle of Peachtree Creek.",
+            "act": 0.14209891855716705
+        },
+        {
+            "text": "Stucco on exterior.",
+            "act": 0.13386769592761993
+        },
+        {
+            "text": "As the plan, he sent a squad to Pabna, on the same day to establish Pakistani presence.",
+            "act": 0.1321708709001541
+        },
+        {
+            "text": "(Name: EmmaRose; Distinguishing characteristics: None.",
+            "act": 0.11865916848182678
+        },
+        {
+            "text": "1995, pet denied,\nuntimely filed).",
+            "act": 0.11836125701665878
+        },
+        {
+            "text": "Charles eventually gained control of Milan, and conquered Rome.",
+            "act": 0.11630554497241974
+        },
+        {
+            "text": "In the \u201cstrategic\u201d definition, readiness is holistic, including elements of force structure, posture, planning, indications and warning, strategic mobility, munitions, and fuel, among many other things.",
+            "act": 0.11573696881532669
+        },
+        {
+            "text": "Key Features\n\nLists underpinning practices and guidelines\n\nRationale, including indications and contraindications of when the skill should be undertaken",
+            "act": 0.11460565030574799
+        },
+        {
+            "text": "Soldiers involved in both battles at Manassas, Antietam and Gettysburg used Hunter Mill.",
+            "act": 0.11109665781259537
+        },
+        {
+            "text": "Clinton's camp, meantime, tried to convince them to hold off.",
+            "act": 0.10893627256155014
+        },
+        {
+            "text": "Sherman demanded the additional $110,670, and sued.",
+            "act": 0.10842692106962204
+        },
+        {
+            "text": "Rodgers avoided Troy and targeted Clark.",
+            "act": 0.10642120987176895
+        },
+        {
+            "text": "Legal in 29 US-Bundesstaaten.",
+            "act": 0.10263236612081528
+        },
+        {
+            "text": "Cloud right away.",
+            "act": 0.09932742267847061
+        },
+        {
+            "text": "Lacking a written report, most of the plan\u2019s juicy details were instead provided by paid consultants, PowerPoint slides and architectural drawings.",
+            "act": 0.09850620478391647
+        },
+        {
+            "text": "Some positioning, some mindsets and some personnel.",
+            "act": 0.09833338111639023
+        },
+        {
+            "text": "Garrett is a surname and given name lujsino Germanic and of Old French origins.",
+            "act": 0.09819690883159637
+        },
+        {
+            "text": "Child factors included child age, sex, and birth order.",
+            "act": 0.09777349978685379
+        },
+        {
+            "text": "DeFelice was to use the loam and fill in the construction of the Connecticut turnpike.",
+            "act": 0.09722208976745605
+        },
+        {
+            "text": "French troops then blockaded the Gulf of Siam and occupied Chantaburi and Trat.",
+            "act": 0.09429635852575302
+        },
+        {
+            "text": "At the disposition stage, the strength or weakness of a case may be viewed as a whole.",
+            "act": 0.09407561272382736
+        },
+        {
+            "text": "Bush erred in the other direction by supporting his commanders\nwith inadequate supervision from above and nearly suffered defeat in Iraq as a\nresult.",
+            "act": 0.09385421127080917
+        },
+        {
+            "text": "Rodgers avoided Troy and targeted Clark.",
+            "act": 0.09253575652837753
+        },
+        {
+            "text": "support 22 bones (Phong shading) or 22 bones (Lambert shading).",
+            "act": 0.09223277121782303
+        },
+        {
+            "text": "Mehr Wettkampfpraxis erhofft er sich in Dortmund.",
+            "act": 0.08956070989370346
+        },
+        {
+            "text": "New, modernized forces were sent again and were divided into two groups approaching the Haw from Chiang Kam and Pichai.",
+            "act": 0.08910195529460907
+        },
+        {
+            "text": "designed the study, wrote the protocol, and undertook the initial analyses.",
+            "act": 0.08906813710927963
+        },
+        {
+            "text": "As part of the exercise, troops performed urban and tunnel warfare tasks, drilled helicopter landings behind enemy lines and simulated extractions under fire.",
+            "act": 0.08781451731920242
+        },
+        {
+            "text": "\" Well.",
+            "act": 0.08521480113267899
+        },
+        {
+            "text": "binarian\n\nyeah.",
+            "act": 0.08511769026517868
+        },
+        {
+            "text": "Take the assistance from our professionals at Acer Technical support: +1-888-306-5155 .",
+            "act": 0.08421463519334793
+        },
+        {
+            "text": "2010/0162415 A1).",
+            "act": 0.08336374908685684
+        },
+        {
+            "text": "Email Address:\n\nLocation\n\nYour Location.",
+            "act": 0.08201818913221359
+        },
+        {
+            "text": "The American firm, which now has offices around the globe, started Q4 of 2018 with a bang, securing $300 million in funding from Tiger Global, Y Combinator, A16Z, Polychain Cap, and a number of other crypto-friendly venture groups.",
+            "act": 0.08050265163183212
+        },
+        {
+            "text": "acknowledges DST, India for DST-INSPIRE fellowship.",
+            "act": 0.0795363113284111
+        },
+        {
+            "text": "It should be soft, but not mushy.",
+            "act": 0.07925974577665329
+        },
+        {
+            "text": "Investigation, Methodology.",
+            "act": 0.07882765680551529
+        },
+        {
+            "text": "They were addressing others, and not necessarily\u2014or not exclusively\u2014as French.",
+            "act": 0.07830952107906342
+        },
+        {
+            "text": "\"Well.",
+            "act": 0.07778430730104446
+        },
+        {
+            "text": "remand denied May 10, 1984).",
+            "act": 0.07229297608137131
+        },
+        {
+            "text": "Hugs hun.",
+            "act": 0.07142911106348038
+        },
+        {
+            "text": "Thesesystematic killings enraged the Bengalis, who declared independence from Pakistan (March 26), to achieve the new state of Bangladesh with Indo-Soviet backing.",
+            "act": 0.07127323746681213
+        },
+        {
+            "text": "Pola Kinski, 60, lives in Germany and is also an actor.",
+            "act": 0.07096604257822037
+        },
+        {
+            "text": "\u2014 Healthy Now in Wisconsin\n\nDear Healthy Now: Compassion?",
+            "act": 0.0702567771077156
+        },
+        {
+            "text": "A little stunned and discouraged, Jotham dodged his spare or floruit with difficulty.",
+            "act": 0.06956265866756439
+        },
+        {
+            "text": "He recognizes New England as his home and has a house in southern Vermont.",
+            "act": 0.0692015290260315
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

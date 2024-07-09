@@ -1,0 +1,412 @@
+{
+    "index": 397,
+    "label": "Contains specific references and entities",
+    "attributes": "contains proper nouns, specific locations, events, named individuals, definitive statements",
+    "reasoning": "After examining the samples provided, it is clear that the samples in the first group consistently contain proper nouns, specific locations, events, named individuals, and definitive statements about specific incidents or entities. In contrast, the second group of samples is primarily composed of conversational statements, opinions, and general discussions without these specific references.",
+    "density": 0.000996483835608638,
+    "confidence": 22.0,
+    "high_act_samples": [
+        {
+            "text": "Inverness Tickets\n\nInverness is one of the hottest football clubs in Scotland.",
+            "act": 0.13977967202663422
+        },
+        {
+            "text": "Both huge football traditional powerhouses with large fan and alumni bases.",
+            "act": 0.11256006360054016
+        },
+        {
+            "text": "The teen replies: \u2018Yeah maybe where you tonight\u2019.",
+            "act": 0.11110791563987732
+        },
+        {
+            "text": "Zuni Constr.",
+            "act": 0.10694828629493713
+        },
+        {
+            "text": "\"Dallas is a great team .",
+            "act": 0.10592834651470184
+        },
+        {
+            "text": "I guess not.",
+            "act": 0.10378299653530121
+        },
+        {
+            "text": "Photographer Callie Shell knows politics.",
+            "act": 0.09876860678195953
+        },
+        {
+            "text": "Ecuador's surfing is focused around the northern reaches of the country and the famous surf town of Atacames.",
+            "act": 0.09276451170444489
+        },
+        {
+            "text": "She secretly recorded him in a police sting.",
+            "act": 0.09079116582870483
+        },
+        {
+            "text": "SFB is also a major economic driver for central Florida.",
+            "act": 0.08286555111408234
+        },
+        {
+            "text": "He hates Mel.",
+            "act": 0.07865460216999054
+        },
+        {
+            "text": "I think you look great.",
+            "act": 0.07701316475868225
+        },
+        {
+            "text": "It's 7pm on Australia Street in Hurstville, a fast-growing suburb in the south-west of Sydney.",
+            "act": 0.0769713968038559
+        },
+        {
+            "text": "Mickie stumbles into the bar late at night and runs into the local coroner.",
+            "act": 0.07490572333335876
+        },
+        {
+            "text": "\u201cAttends.",
+            "act": 0.07387576997280121
+        },
+        {
+            "text": "(By the way, I can see how many of you click on those links.",
+            "act": 0.0737479031085968
+        },
+        {
+            "text": "Formed in 1906, Chivas is one of the biggest and most successful teams in Mexico.",
+            "act": 0.07243083417415619
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.07049030065536499
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.07018710672855377
+        },
+        {
+            "text": "Station layout\nBoonton has one mini-high level side platform.",
+            "act": 0.06853634119033813
+        },
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.06718511879444122
+        },
+        {
+            "text": "There are many top flight forwards that have been presumed available via trade.",
+            "act": 0.0654362291097641
+        },
+        {
+            "text": "I\u2019m guessing not.",
+            "act": 0.06279218196868896
+        },
+        {
+            "text": "The city is now a regional force in finance and business.",
+            "act": 0.05895933881402016
+        },
+        {
+            "text": "Advertisement\n\nSan Jose started out strong.",
+            "act": 0.05753293260931969
+        },
+        {
+            "text": "South-west Sydney especially is devoid of any unifying culture.",
+            "act": 0.05734875425696373
+        },
+        {
+            "text": "Many are renowned for their preserved Red Sea marine life and offshore coral reefs.",
+            "act": 0.053457412868738174
+        },
+        {
+            "text": "'I was in the Brazil squad with Filipe Luis and those two are good friends.",
+            "act": 0.05243407562375069
+        },
+        {
+            "text": "Highway Tours\n\nHighway Tours was an Australian bus company operating services in the south-western suburbs of Sydney, New South Wales.",
+            "act": 0.052166834473609924
+        },
+        {
+            "text": "TripAdvisor Reviews Apartamentos Turquesa Playa Puerto de la Cruz\n\nTravel Blogs from Puerto de la Cruz\n\nThis is it.",
+            "act": 0.04869897663593292
+        },
+        {
+            "text": "Just warehouse.",
+            "act": 0.048214174807071686
+        },
+        {
+            "text": "His hobbies included shooting.",
+            "act": 0.04476398602128029
+        },
+        {
+            "text": "'I'm worried about them being kidnapped.",
+            "act": 0.04397353157401085
+        },
+        {
+            "text": "Tom Carter jinked across the city defence and delivered the ball to Hitchcock, who unleashed a shot from fully 40 yards out past the transfixed Joe Croft and into the far corner of the net.",
+            "act": 0.04368181154131889
+        },
+        {
+            "text": "Normally cats \u2026",
+            "act": 0.043377771973609924
+        },
+        {
+            "text": "He tried desperately to rip this club from the city of Liverpool.",
+            "act": 0.04320548102259636
+        },
+        {
+            "text": "I love lemon.",
+            "act": 0.0422394685447216
+        },
+        {
+            "text": "He instead lets Leighton Baines take the set-piece and the left-back sends the ball over the crossbar.",
+            "act": 0.04190613701939583
+        },
+        {
+            "text": "Euskotren Kargo operated only during nighttime, sharing the railtracks of Euskotren Trena.",
+            "act": 0.04036271572113037
+        },
+        {
+            "text": "His ancestors were associated with the \"Guru Darbars\" some four hundred years ago.",
+            "act": 0.039951082319021225
+        },
+        {
+            "text": "After attempting to seduce him, he hands over a wad of protection money.",
+            "act": 0.039418864995241165
+        },
+        {
+            "text": "You can bet they have used it.",
+            "act": 0.03914981707930565
+        },
+        {
+            "text": "Jack has turned his back on his wealthy family and his wife.",
+            "act": 0.03852241858839989
+        },
+        {
+            "text": "The Jazz Original Vintage sneakers could jazz any outfit up through its extensive color scheme collection.",
+            "act": 0.03848135843873024
+        },
+        {
+            "text": "Choco Cafe on the corner of Lower Water and Salter has closed.",
+            "act": 0.03808724880218506
+        },
+        {
+            "text": "New Leaf Nursery is an exciting new nursery on the Northern Beaches of Sydney specialising in sustainable living that is fun for the whole family.",
+            "act": 0.03762555867433548
+        },
+        {
+            "text": "\"If they are a tech company so is UPS.",
+            "act": 0.0369991660118103
+        },
+        {
+            "text": "Enough people at home know I wasn't down.",
+            "act": 0.03683382645249367
+        },
+        {
+            "text": "In May 1984, routes 68 Hurstville - Earlwood and 229 Kogarah - Roselands Shopping Centre were purchased from EH Blythe and operated under the Bexley Passenger Transport name, these were later operated under the Canterbury Bus Lines brand.",
+            "act": 0.035671647638082504
+        },
+        {
+            "text": "(quoting Cities Serv.",
+            "act": 0.035045456141233444
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

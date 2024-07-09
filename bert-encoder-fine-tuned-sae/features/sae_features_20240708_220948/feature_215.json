@@ -1,0 +1,412 @@
+{
+    "index": 215,
+    "label": "Includes specific citation forms",
+    "attributes": "contains specific citation forms (Id., (eds., (Supp.), includes consistent use of parentheses for referencing, mentions of specific road names, refers to specific geographic locations or landmarks",
+    "reasoning": "The samples exhibit consistent use of specific citation forms, such as '(Id.', '(eds.', and '(Supp.', which appear throughout. These forms are absent in the other samples.",
+    "density": 0.005362032067798862,
+    "confidence": 56.0,
+    "high_act_samples": [
+        {
+            "text": "At min price and potentially playing 20-25 minutes in this contest, he has a good shot at hitting value and possibly exceeding it.",
+            "act": 0.19173358380794525
+        },
+        {
+            "text": "The paper is distributed throughout the Provinces of Phetchaburi and Prachuap Khiri Khan with a focus on the towns of Hua Hin, Cha-Am and Pranburi.",
+            "act": 0.18679161369800568
+        },
+        {
+            "text": "Dusit Palace is surrounded by Ratchwithi Road in the north, Sri Ayutthaya Road in the south, Rachasima Road in the west and U-Thong Nai Road on the east.",
+            "act": 0.15845340490341187
+        },
+        {
+            "text": "(Id.",
+            "act": 0.15755148231983185
+        },
+        {
+            "text": "The elevated yet approachable menu is topped only by the attentive service.",
+            "act": 0.15544210374355316
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1538950353860855
+        },
+        {
+            "text": "(Id.",
+            "act": 0.15335454046726227
+        },
+        {
+            "text": "(eds.",
+            "act": 0.15283139050006866
+        },
+        {
+            "text": "(Id.",
+            "act": 0.14880774915218353
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1486620157957077
+        },
+        {
+            "text": "(Id.",
+            "act": 0.14819352328777313
+        },
+        {
+            "text": "(Id.",
+            "act": 0.14750446379184723
+        },
+        {
+            "text": "Ecuador's surfing is focused around the northern reaches of the country and the famous surf town of Atacames.",
+            "act": 0.14732599258422852
+        },
+        {
+            "text": "From the data, the Shandong team in rebounding and defense done in general, physical needs to be strengthened, can be said that there are some problems, the last league hit our tactics have been figured out after all the other teams, Beasley and Jett in our team\u2019s role is clear to everyone, so we are lack of stamina.\"",
+            "act": 0.14491677284240723
+        },
+        {
+            "text": "pause\n\nCap.",
+            "act": 0.14193201065063477
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1413695365190506
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1413695365190506
+        },
+        {
+            "text": "The weight of the Sync is concentrated away from the attachment point on a swivel.",
+            "act": 0.13948889076709747
+        },
+        {
+            "text": "h/t The Big Lead",
+            "act": 0.1368507444858551
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13481533527374268
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13411490619182587
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13248012959957123
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13248012959957123
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13235317170619965
+        },
+        {
+            "text": "While the players run drills, fans get an up-close view of their size, speed, precision and game planning.",
+            "act": 0.1318836659193039
+        },
+        {
+            "text": "Please remember its your money use it wisely don\u2019t invest without proper knowledge or without professionals advice.",
+            "act": 0.13063624501228333
+        },
+        {
+            "text": "(Id.",
+            "act": 0.12949757277965546
+        },
+        {
+            "text": "(Id.",
+            "act": 0.12949757277965546
+        },
+        {
+            "text": "(Id.",
+            "act": 0.12949757277965546
+        },
+        {
+            "text": "He also has the best view \u2014 from the crease \u2014 of what is working well on the kill.",
+            "act": 0.124002605676651
+        },
+        {
+            "text": "Muak Huak is originated from Isaan, North East of Thailand.",
+            "act": 0.12395413219928741
+        },
+        {
+            "text": "map (oneAttr .",
+            "act": 0.12264056503772736
+        },
+        {
+            "text": "Its primary habitat (especially adults) is sand, sand- shell or coral- mud bottoms from intertidals.",
+            "act": 0.11942902207374573
+        },
+        {
+            "text": "(BT, biceps tendon; RC, rotator cuff.",
+            "act": 0.11917149275541306
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.1189899891614914
+        },
+        {
+            "text": "(Normalized to unity.",
+            "act": 0.11781913042068481
+        },
+        {
+            "text": "Tailgating drivers in the center lane are too close to the car ahead to have any real visibility of the left lane ahead.",
+            "act": 0.11459116637706757
+        },
+        {
+            "text": "In a large bowl combine dry ingredients.",
+            "act": 0.11218336224555969
+        },
+        {
+            "text": "FRANCK FIFE/AFP/Getty Images\n\nCaptain Thiago Silva agreed with Emery and felt his teammates \"played well\" and \"put Marseille in difficult positions.\"",
+            "act": 0.11166127026081085
+        },
+        {
+            "text": "Pro spr\u00e1vnou funk\u010dnost se pros\u00edm ujist\u011bte, \u017ee jste ji nedeaktivovali.",
+            "act": 0.11090172827243805
+        },
+        {
+            "text": "(Id.",
+            "act": 0.11012548208236694
+        },
+        {
+            "text": "label = Label(master, text=\"2 Player Guessing Game!",
+            "act": 0.1100689023733139
+        },
+        {
+            "text": "label = Label(master, text=\"2 Player Guessing Game!",
+            "act": 0.10871589183807373
+        },
+        {
+            "text": ":\n\"Course of performance or practical construction.",
+            "act": 0.10726244002580643
+        },
+        {
+            "text": "He adds that the league is \"hopeful\" that once the union and its negotiating committee review the proposal \"they will share it with the players.",
+            "act": 0.10707709938287735
+        },
+        {
+            "text": "V p\u0159\u00edpad\u011b poruchy disku z\u00e1vis\u00ed v\u0161echna Va\u0161e data na spr\u00e1vn\u00e9 funk\u010dnosti zb\u00fdvaj\u00edc\u00edho disku (\u010di disk\u016f).",
+            "act": 0.10638363659381866
+        },
+        {
+            "text": "Trump markets himself as an astute, tough-talking businessman, unshackled by domestic exactness and dear by his large family.",
+            "act": 0.10481004416942596
+        },
+        {
+            "text": "(Supp.",
+            "act": 0.10471729934215546
+        },
+        {
+            "text": "(Id.",
+            "act": 0.10456976294517517
+        },
+        {
+            "text": "(Id.",
+            "act": 0.10456976294517517
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

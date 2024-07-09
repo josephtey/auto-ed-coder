@@ -1,0 +1,412 @@
+{
+    "index": 90,
+    "label": "Descriptive and factual information",
+    "attributes": "Descriptive language, Factual statements, Statistical data, Historical contexts, Structured content, Observational remarks",
+    "reasoning": "Upon analyzing the text samples, the samples exhibit specific characteristics not found in the other samples. The samples overwhelmingly focus on descriptive details, both structural and situational, and include statistical data, historical contexts, artistic appraisals, and direct observations. These texts often present factual information, descriptive language, and structured content, whereas the other samples tend to be conversational, argumentative, or contain informal social commentary.",
+    "density": 0.0002989451506825914,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "Two storeys stucco faced, Italianate features.",
+            "act": 0.17388737201690674
+        },
+        {
+            "text": "The homeowner vacancy rate was 0.3%; the rental vacancy rate was 5.8%.",
+            "act": 0.15937140583992004
+        },
+        {
+            "text": "This is shown in Fig.",
+            "act": 0.08309338986873627
+        },
+        {
+            "text": "Template RWD Magento.",
+            "act": 0.08226481080055237
+        },
+        {
+            "text": "Two storeys stuccoed low pitched gable end slate roof.",
+            "act": 0.07614194601774216
+        },
+        {
+            "text": "Exquisite pastel tones are entwined and offset by lush, electric swathes of orange, pink, and blue squeezed directly from the tube, further punctuated by alabaster accents that work to illuminate the entire painting.",
+            "act": 0.07581207156181335
+        },
+        {
+            "text": "The second-floor windows have stone lintels.",
+            "act": 0.07221772521734238
+        },
+        {
+            "text": "Projecting stone bay windows define the fa\u00e7ade's ground floor corners.",
+            "act": 0.07153698801994324
+        },
+        {
+            "text": "Irregular two storey and attic rendered villa.",
+            "act": 0.06873437017202377
+        },
+        {
+            "text": "Stomach ache, vomiting, fits and even death.",
+            "act": 0.06707828491926193
+        },
+        {
+            "text": "Open it!",
+            "act": 0.061661843210458755
+        },
+        {
+            "text": "Inequality within countries is also spiking.",
+            "act": 0.061172787100076675
+        },
+        {
+            "text": "These events lasted until the 1929 market crash, and the beginning of the Great Depression.",
+            "act": 0.06089673563838005
+        },
+        {
+            "text": "Three storeys, stucco faced.",
+            "act": 0.056925658136606216
+        },
+        {
+            "text": "Such booms typically bust.",
+            "act": 0.051160357892513275
+        },
+        {
+            "text": "Ground floor has recessed sash to east and casement to north.",
+            "act": 0.04959862306714058
+        },
+        {
+            "text": "About 14.0% of families and 16.3% of the population were below the poverty line, including 23.0% of those under age 18 and 6.0% of those age 65 or over.",
+            "act": 0.04783562943339348
+        },
+        {
+            "text": "This deal includes shipping.",
+            "act": 0.046040188521146774
+        },
+        {
+            "text": "About 11.1% of families and 14.3% of the population were below the poverty line, including 19.9% of those under age 18 and 10.3% of those age 65 or over.",
+            "act": 0.04231486842036247
+        },
+        {
+            "text": "Late Victorian clothing was becoming simpler with more muted colors.",
+            "act": 0.04019036516547203
+        },
+        {
+            "text": "\" Untie me first.\"",
+            "act": 0.03668759763240814
+        },
+        {
+            "text": "Quadruple taxation!",
+            "act": 0.036208685487508774
+        },
+        {
+            "text": "At the same time, the SDP and Classical Liberals rose, while the Greens and the Liberal Democrats fell.",
+            "act": 0.03427329286932945
+        },
+        {
+            "text": "Garden block has low slate roof.",
+            "act": 0.03393816575407982
+        },
+        {
+            "text": "Low pitch gable end slate roof.",
+            "act": 0.03257201239466667
+        },
+        {
+            "text": "Unemployment?",
+            "act": 0.03062826208770275
+        },
+        {
+            "text": "Yorktown Battlefield.",
+            "act": 0.02908683754503727
+        },
+        {
+            "text": "He associated the abolition of slavery in the United States with the bloodshed of the American Civil War.",
+            "act": 0.02869768999516964
+        },
+        {
+            "text": "Double taxation!",
+            "act": 0.02865312434732914
+        },
+        {
+            "text": "Sidney, New York\n\nSidney is a town in Delaware County, New York, United States.",
+            "act": 0.02455657161772251
+        },
+        {
+            "text": "Captured brusquely mid-motion, Bacon\u2019s faces conjure a restlessness of inner thought and intense concentration, but avoid the bruised lacerations and wounded defacements that mark his more tragic self-portraits.",
+            "act": 0.024156229570508003
+        },
+        {
+            "text": "Large windows on the second floor are topped by a series of stone lancet arches supported by stone corbels.",
+            "act": 0.02408510632812977
+        },
+        {
+            "text": "The pathology underlying, both, the development and maintenance of chronic pain is a complex, multi-phase process involving changes in peripheral and central nervous system.",
+            "act": 0.021050075069069862
+        },
+        {
+            "text": "\"Je suis Anarchiste, moi!\"",
+            "act": 0.0168501827865839
+        },
+        {
+            "text": "The Beacon Light\n\nThe Beacon Light is a painting by J. M. W. Turner.",
+            "act": 0.01646921969950199
+        },
+        {
+            "text": "The film unsentimentally captures the pain and loneliness that divorce causes children to feel.",
+            "act": 0.014608184807002544
+        },
+        {
+            "text": "The first with low pitched gables, slate roofs.",
+            "act": 0.014277766458690166
+        },
+        {
+            "text": "PsycWench\n\nHarry Reid predicted the demise of the Tea Party when the economy improved.",
+            "act": 0.013804133050143719
+        },
+        {
+            "text": "Public infrastructure costs money.",
+            "act": 0.01213619764894247
+        },
+        {
+            "text": "dolman style fitted bodice with long sleeves.",
+            "act": 0.011897395364940166
+        },
+        {
+            "text": "Love is melancholy when things almost\u2013but don\u2019t quite\u2013work out.",
+            "act": 0.01146096270531416
+        },
+        {
+            "text": "Public infrastructure costs money.",
+            "act": 0.011443632654845715
+        },
+        {
+            "text": "Everything!",
+            "act": 0.011156137101352215
+        },
+        {
+            "text": "In these respects they resembled the description of completed suicide.",
+            "act": 0.01097800862044096
+        },
+        {
+            "text": "The \u201cUnaffordable Care Act\u201d, otherwise known as ObamaCare will increase capital gains an additional 3.8%.",
+            "act": 0.01091278251260519
+        },
+        {
+            "text": "\" It's nothing like that.\"",
+            "act": 0.00994288083165884
+        },
+        {
+            "text": "Prices subject to change without notice.",
+            "act": 0.009866598062217236
+        },
+        {
+            "text": "Station layout\nBoonton has one mini-high level side platform.",
+            "act": 0.00976890604943037
+        },
+        {
+            "text": "Photo by Benjamin Franklin.",
+            "act": 0.009257587604224682
+        },
+        {
+            "text": "Line 5 (Shanghai Metro)\n\nLine 5 is a southern line of the Shanghai Metro network.",
+            "act": 0.009155633859336376
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

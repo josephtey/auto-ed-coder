@@ -1,0 +1,412 @@
+{
+    "index": 149,
+    "label": "Detailed narrative context in multiple languages",
+    "attributes": "references to specific places, references to specific events, references to specific activities, context of law enforcement or regulation, narrative elements, personal stories, multiple languages, geographic locations, societal conditions",
+    "reasoning": "The texts within the samples contain references to specific places, events, and activities that are often related to law enforcement or societal behaviors, frequently in the context of a particular circumstance such as a quarantine or regulatory environment. These samples include detailed narrative elements and personal stories tied to specific geographic locations and societal conditions. These samples also contain multiple languages and include narrative and explanatory perspectives. On the contrary, the other samples often focus on opinion-based dialogue, conversational tone, and general topics without specific narrative contexts involving law enforcement or regulatory behaviors.",
+    "density": 0.0004602806288287519,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "Fant\u00e1ziad\u00fasabb volt egy fiatalember v\u00e1lasza, miszerint a bar\u00e1tn\u0151je \u00e9ppen akkor tette ki \u0151t az utc\u00e1ra.",
+            "act": 0.19747470319271088
+        },
+        {
+            "text": "Volt, aki szexboltot keresett, m\u00e1s a tengerparton napozott.",
+            "act": 0.18477129936218262
+        },
+        {
+            "text": "Az adatok szerint a feltart\u00f3ztatottak tetemes r\u00e9sze id\u0151s ember, aki r\u00f6vid s\u00e9t\u00e1ra indul, hogy ne legyen eg\u00e9sz nap otthon.",
+            "act": 0.16689807176589966
+        },
+        {
+            "text": "Amer.",
+            "act": 0.16669556498527527
+        },
+        {
+            "text": "Amer.",
+            "act": 0.16669556498527527
+        },
+        {
+            "text": "Amer.",
+            "act": 0.165457621216774
+        },
+        {
+            "text": "Egy \u00e9jjel h\u00e1romkor igazoltatott f\u00e9rfi azt mondta, elromlott a mobiltelefonja, \u00e9s jav\u00edtani viszi \u2013 \u00e1ll az MTI \u00f6sszefoglal\u00f3j\u00e1ban.",
+            "act": 0.16118302941322327
+        },
+        {
+            "text": "A nyitva tart\u00f3 doh\u00e1nyboltok egyik\u00e9ben a tulajdonos k\u00e1v\u00e9h\u00e1zat rendezett be a sarkon bez\u00e1rt pressz\u00f3 p\u00f3tl\u00e1s\u00e1ra pluszbev\u00e9tel rem\u00e9ny\u00e9ben.",
+            "act": 0.160688117146492
+        },
+        {
+            "text": "Amer.",
+            "act": 0.15366186201572418
+        },
+        {
+            "text": "Amer.",
+            "act": 0.15366186201572418
+        },
+        {
+            "text": "Amer.",
+            "act": 0.15346449613571167
+        },
+        {
+            "text": "Amer.",
+            "act": 0.15318264067173004
+        },
+        {
+            "text": "Amer.",
+            "act": 0.15318264067173004
+        },
+        {
+            "text": "M\u00e1s elmagyar\u00e1zta, hogy musz\u00e1j j\u00e1rnia egy keveset, mert esti s\u00e9ta n\u00e9lk\u00fcl nem tud elaludni.",
+            "act": 0.13358575105667114
+        },
+        {
+            "text": "T\u00f6bb mint 50 ezer szem\u00e9ly ellen indult feljelent\u00e9s, mivel ok n\u00e9lk\u00fcl tart\u00f3zkodott k\u00f6zter\u00fcleten, vagyis nem munkav\u00e9gz\u00e9s, eg\u00e9szs\u00e9g\u00fcgyi vagy m\u00e1s s\u00falyos indok miatt ment el otthonr\u00f3l.",
+            "act": 0.1310313642024994
+        },
+        {
+            "text": "Tot\u00f3zni indultam \u2013 \u00edgy indokolta utc\u00e1n tart\u00f3zkod\u00e1s\u00e1t egy f\u00e9rfi, amikor a rend\u0151r\u00f6k megk\u00e9rdezt\u00e9k t\u0151le, mi\u00e9rt s\u00e9t\u00e1l l\u00e1that\u00f3an ok n\u00e9lk\u00fcl.",
+            "act": 0.1255297064781189
+        },
+        {
+            "text": "A szint\u00e9n d\u00e9li Bariban a lakosok kilom\u00e9tereket tesznek meg, hogy olcs\u00f3bb \u00fczletbe menjenek bev\u00e1s\u00e1rolni.",
+            "act": 0.12405945360660553
+        },
+        {
+            "text": "A m\u00e1rcius 8-\u00e1n bevezetett \u201ekij\u00e1r\u00e1si tilalom\u201d \u00f3ta t\u00f6bb mint egymilli\u00f3 olaszt ellen\u0151riztek az utc\u00e1kon \u00e9s k\u00f6zutakon.",
+            "act": 0.1201823353767395
+        },
+        {
+            "text": "The monkeys became so funny that I went out of my way tostart watching their antics.",
+            "act": 0.11565445363521576
+        },
+        {
+            "text": "A bel\u00fcgyminiszt\u00e9rium honlapj\u00e1r\u00f3l let\u00f6lthet\u0151 formanyomtatv\u00e1nyt sokan nem viszik magukkal az orsz\u00e1gban, de a helyv\u00e1ltoztat\u00e1st igazol\u00f3 enged\u00e9ly az ellen\u0151rz\u00e9s pillanat\u00e1ban a rend\u0151r\u00f6kt\u0151l is elk\u00e9rhet\u0151, \u00e9s el\u0151tt\u00fck kit\u00f6lthet\u0151.",
+            "act": 0.11173130571842194
+        },
+        {
+            "text": "A Genovai Egyetem j\u00e1rv\u00e1nyszak\u00e9rt\u0151i szerint ennek ellen\u00e9re az olasz fert\u0151z\u00f6ttek sz\u00e1m\u00e1nak tet\u0151z\u00e9se m\u00e1rcius 23-25-re v\u00e1rhat\u00f3, ez azonban nagyban f\u00fcgg szerint\u00fck az olaszok magatart\u00e1s\u00e1t\u00f3l is, \u00edgy biztosat nem tudni.",
+            "act": 0.11122876405715942
+        },
+        {
+            "text": "Az orsz\u00e1g folyamatosan pr\u00f3b\u00e1l v\u00e9dekezni a j\u00e1rv\u00e1ny ellen, miut\u00e1n karant\u00e9n al\u00e1 helyezt\u00e9k Olaszorsz\u00e1got, m\u00falt h\u00e9ten bez\u00e1rt minden hely, ami nem gy\u00f3gyszert\u00e1r vagy \u00e9lelmiszerbolt.",
+            "act": 0.10727465152740479
+        },
+        {
+            "text": "A telefont\u00e1rsas\u00e1gok adatai szerint Mil\u00e1n\u00f3 lakosainak 43 sz\u00e1zal\u00e9ka m\u00e9g mindig \u201et\u00fal nagy t\u00e1vols\u00e1got\u201d tesz meg, vagyis nem a sarki boltba megy.",
+            "act": 0.10672736167907715
+        },
+        {
+            "text": "Az \u00e9szaki Torton\u00e1ban egy f\u00e9rfi azt mondta, az\u00e9rt megy a v\u00e1ros m\u00e1sik fel\u00e9be v\u00e1s\u00e1rolni, mert egy ottani szupermarketben gy\u0171jti a v\u00e1s\u00e1rl\u00f3i pontokat.",
+            "act": 0.1066870242357254
+        },
+        {
+            "text": "A tapasztalatok azt mutatj\u00e1k, sokakban nem tudatosodott, hogy a hamisan felt\u00fcntetett indok is b\u00fcntetett.",
+            "act": 0.10663154721260071
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.0992136299610138
+        },
+        {
+            "text": "A szic\u00edliai Palermo v\u00e1ros\u00e1ban h\u00e1rom f\u00e9rfit b\u00edrs\u00e1goltak meg, mivel azt mondt\u00e1k, kocogni indultak aut\u00f3val, de egyik \u00f6lt\u00f6nyben \u00e9s nyakkend\u0151ben volt, a m\u00e1sik mellett id\u0151s \u00e9desanyja \u00fclt, a harmadik pedig gyerekeit vitte valahova.",
+            "act": 0.09745833277702332
+        },
+        {
+            "text": "(Ibid.",
+            "act": 0.09204858541488647
+        },
+        {
+            "text": "(citing Miss.",
+            "act": 0.0882604718208313
+        },
+        {
+            "text": "Riminiben egy nyugd\u00edjas \u00e9p\u00edtkez\u00e9st ment el megn\u00e9zni, R\u00f3m\u00e1ban egy iskola udvar\u00e1n grillpartyt tartottak, \u00e9s csod\u00e1lkoztak, hogy mi\u00e9rt oszlatta fel \u0151ket a rend\u0151rs\u00e9g.",
+            "act": 0.08662842214107513
+        },
+        {
+            "text": "A r\u00e9szben lez\u00e1rt r\u00f3mai Leonardo da Vinci rep\u00fcl\u0151t\u00e9ren k\u00e9sz\u00fclt felv\u00e9telek is egym\u00e1s hegy\u00e9n-h\u00e1t\u00e1n szorong\u00f3 utasokat mutattak az elrendelt legal\u00e1bb egym\u00e9teres biztons\u00e1gi t\u00e1vols\u00e1g helyett.",
+            "act": 0.08379575610160828
+        },
+        {
+            "text": "Gy\u00f6tr\u0151dnek a n\u00e9gy fal k\u00f6z\u00f6tt az olaszok\n\nA kij\u00e1r\u00e1si tilalmat megszeg\u0151k tov\u00e1bbra is nagy probl\u00e9m\u00e1t jelentenek Olaszorsz\u00e1gban.",
+            "act": 0.08251427114009857
+        },
+        {
+            "text": "Therefore, to seek the pearl, we should still the waves; if we disturb the water, it will be hard to get.",
+            "act": 0.08215446770191193
+        },
+        {
+            "text": "(\n                cur!",
+            "act": 0.08197265863418579
+        },
+        {
+            "text": "M\u00e1sok horg\u00e1szfelszerel\u00e9sben mondt\u00e1k azt a rend\u0151r\u00f6knek, hogy munk\u00e1ba mennek.",
+            "act": 0.0797562301158905
+        },
+        {
+            "text": "Si ragiona quindi su cifre pi\u00f9 alte, che il Milan non potr\u00e0 spendere cos\u00ec facilmente, soprattutto se non vorr\u00e0 far 'innervosire' la UEFA.",
+            "act": 0.07504355907440186
+        },
+        {
+            "text": "A bez\u00e1rts\u00e1g jelentette probl\u00e9m\u00e1kr\u00f3l az Indexnek is mes\u00e9ltek a helysz\u00ednr\u0151l, az MTI pedig arr\u00f3l \u00edr, hogy horg\u00e1szni \u00e9s tengerparti napoz\u00e1sra is kil\u00f3gnak a h\u00e1zi karant\u00e9nb\u00f3l az olaszok.",
+            "act": 0.07083941996097565
+        },
+        {
+            "text": "Pi\u00f9 o meno nella stessa zona di campo, c'\u00e8 un altro profilo che fa gola ai rossoneri.",
+            "act": 0.06333734095096588
+        },
+        {
+            "text": "Notes.(Amer.",
+            "act": 0.06311823427677155
+        },
+        {
+            "text": "(Which it has been documented that some captive dolphins have done!",
+            "act": 0.0627869963645935
+        },
+        {
+            "text": "They urged the Spaniers to get to St.",
+            "act": 0.06125057861208916
+        },
+        {
+            "text": "(Was that an attempt at poaching birthday greetings?",
+            "act": 0.06006283685564995
+        },
+        {
+            "text": "l'\u200baumentare di prodotti come i kit tatuaggi non permanenti, dai pi.",
+            "act": 0.05508613958954811
+        },
+        {
+            "text": "I believe there\u2019s no such thing as two followers following the same or two leaders leading the same.",
+            "act": 0.05422172322869301
+        },
+        {
+            "text": "(Evid.",
+            "act": 0.051995206624269485
+        },
+        {
+            "text": "There is no menu, and if there was, we wouldn't be able to read it.",
+            "act": 0.04874463751912117
+        },
+        {
+            "text": "Our shoulders square.",
+            "act": 0.04791674390435219
+        },
+        {
+            "text": "(See id.",
+            "act": 0.046607133001089096
+        },
+        {
+            "text": "Calendar Clowns(gr.",
+            "act": 0.043312232941389084
+        },
+        {
+            "text": "(See id.",
+            "act": 0.041437938809394836
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

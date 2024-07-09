@@ -1,0 +1,412 @@
+{
+    "index": 105,
+    "label": "Sports commentary and events",
+    "attributes": "Terms related to sports events, minute-by-minute descriptions, names of players, specific sports actions like 'goal', 'shot', 'kick', context-specific descriptions commonly used in sports commentary",
+    "reasoning": "Upon analyzing the content of both sets of samples, the primary distinction lies in the consistent presence of sports commentary and terminology related to sporting events and actions in all samples from the first set. These elements include terms like 'goal', 'shot', 'kick', 'penalty', 'scored', 'game', specific names of players, and minute-by-minute descriptions of actions typically seen in sports commentary. In contrast, the other set of samples discusses a wide range of topics including reasoning, political events, opinions, and personal views, none of which contain sports-related terminology.",
+    "density": 0.00309859021263067,
+    "confidence": 42.0,
+    "high_act_samples": [
+        {
+            "text": "At one point during the\nrobbery, the distinctive \u201cracking\u201d of a gun was heard.",
+            "act": 0.2244294434785843
+        },
+        {
+            "text": "Kaku scored his fourth goal after a clearance by D.C.'s Kofi Opare landed at his feet.",
+            "act": 0.19342546164989471
+        },
+        {
+            "text": "Then, with 12 minutes left, Chadli cut in from the right before firing a shot past Benfica keeper Jan Oblak.",
+            "act": 0.18644864857196808
+        },
+        {
+            "text": "See Lampard free, he gave the ball to him.",
+            "act": 0.17526470124721527
+        },
+        {
+            "text": "Although the Italian saved, the rebound went loose and he was fortunate to see the resultant cross drop to a defender after he fumbled.",
+            "act": 0.1724681258201599
+        },
+        {
+            "text": "But they began slowly and, after Roberto Soldado scuffed a shot at the back post and then fired over from close range, Garay's first-half goal put a technically superior Benfica in control.",
+            "act": 0.1667938381433487
+        },
+        {
+            "text": "Barca value him at \u20ac50 million (\u00a344m/$57m), despite having bought him for \u20ac40m in the summer.",
+            "act": 0.16605480015277863
+        },
+        {
+            "text": "The beeping sounded, the digging commenced, up came an old rusty nail.",
+            "act": 0.16269312798976898
+        },
+        {
+            "text": "A minute later, the Belgian winger pounced on Kane's header from Lennon's cross to put Spurs within reach of extra time.",
+            "act": 0.16185659170150757
+        },
+        {
+            "text": "pause\n\nCap.",
+            "act": 0.1525667905807495
+        },
+        {
+            "text": "Tom Carter jinked across the city defence and delivered the ball to Hitchcock, who unleashed a shot from fully 40 yards out past the transfixed Joe Croft and into the far corner of the net.",
+            "act": 0.15043535828590393
+        },
+        {
+            "text": "snortsnortsnort!",
+            "act": 0.14905352890491486
+        },
+        {
+            "text": "The last five minutes did see Langley hearts beating faster as Welwyn\u2019s Sam Perrin missed a header at the far post and a huge clearance upfield bounced over keeper Ant Ladyman and fortuitously over the bar.",
+            "act": 0.1435987800359726
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.1435670703649521
+        },
+        {
+            "text": "United have 70 points from 29 games with City on 69.",
+            "act": 0.14234258234500885
+        },
+        {
+            "text": "68TH MINUTE\n\nFollowing a foul on Raheem Sterling, England are awarded a penalty and Rooney converts the spot-kick with power.",
+            "act": 0.13785500824451447
+        },
+        {
+            "text": "Rooney\u2019s contribution included 29 touches, only five in his time on the field in the second half, and two shots, one of which \u2013 the penalty goal \u2013 was on target.",
+            "act": 0.13747741281986237
+        },
+        {
+            "text": "The weight of the Sync is concentrated away from the attachment point on a swivel.",
+            "act": 0.13741828501224518
+        },
+        {
+            "text": "Kick the ball towards the middle of Chelsea goalkeeper Peter Cech and failed driven.",
+            "act": 0.13718244433403015
+        },
+        {
+            "text": "With seven points already produced on her first three shots, McCoy\u2019s second 3-pointer \u2013 from the top of the key right before the first quarter buzzer \u2013 sealed the deal.",
+            "act": 0.13285420835018158
+        },
+        {
+            "text": "Current squad\n\nHonours\nThe club's honours:\n\nLeague\n 2.",
+            "act": 0.1305430382490158
+        },
+        {
+            "text": "He instead lets Leighton Baines take the set-piece and the left-back sends the ball over the crossbar.",
+            "act": 0.13003741204738617
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.1296641230583191
+        },
+        {
+            "text": "Holder 204 includes magnet 270, magnet cavity 272, top portion 274, side portion 276, and flap portions 278.",
+            "act": 0.12268592417240143
+        },
+        {
+            "text": "Peter Odemwingie with a good kick off the right leg, use of bait Jerome Thomas.",
+            "act": 0.12250739336013794
+        },
+        {
+            "text": "Receive cross Carlos Vela, Chris Brunt with gore-free ball into the goal.",
+            "act": 0.12215588986873627
+        },
+        {
+            "text": "Both are reloadable, Boxer-primed ammunition.",
+            "act": 0.12102935463190079
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.12020397186279297
+        },
+        {
+            "text": "ENTER:\nAprilanne Agostino\nClerk of the Court",
+            "act": 0.12005569785833359
+        },
+        {
+            "text": "Free from his contract, Bradl looks set to sign for the Gresini Aprilia squad for the rest of the season, replacing Marco Melandri.",
+            "act": 0.11827953159809113
+        },
+        {
+            "text": "Career\n\nClub\nHe was released from Piast Gliwice on 1 July 2011.",
+            "act": 0.11615132540464401
+        },
+        {
+            "text": "Coverslips were mounted to slides using Prolong Antifade mounting media (Invitrogen).",
+            "act": 0.11424802243709564
+        },
+        {
+            "text": "5TH MINUTE\n\nHaving started like he means business, sprinting after a Jack Wilshere long ball but drifting offside, Rooney decides not to pull rank at a free-kick from around 25 yards from goal.",
+            "act": 0.11390343308448792
+        },
+        {
+            "text": "Fish and Wildlife Service.",
+            "act": 0.11289294809103012
+        },
+        {
+            "text": "Boxing INNER EDGE (to be glued to the left edge) already includes un-notched portion.",
+            "act": 0.11270589381456375
+        },
+        {
+            "text": "at 221.",
+            "act": 0.1120101809501648
+        },
+        {
+            "text": "Trivia\nIn Liga I, Szolomajer played 10 games for FC Baia Mare during the 1994-95 season, one of them as a substitute.",
+            "act": 0.11142674088478088
+        },
+        {
+            "text": "General CommentInteresting thought, Foxfulness.",
+            "act": 0.11114059388637543
+        },
+        {
+            "text": "With 30 seconds left in the first quarter, McCoy gave the Cougars the lead for good at 14-12 when her third shot \u2013 a one-hander in the lane \u2013 swished through the net.",
+            "act": 0.11104053258895874
+        },
+        {
+            "text": "RT-WHO 354.",
+            "act": 0.10656137764453888
+        },
+        {
+            "text": "McCoy had 15 points at the half \u2013 making 6-of-7 first half shots that included three 2-pointers and three 3s \u2013 as Cranford led 32-20 at intermission.",
+            "act": 0.10643476992845535
+        },
+        {
+            "text": "69TH MINUTE\n\nSixty seconds after scoring the penalty, Rooney\u2019s game is over as he is substituted, presumably to be rested.",
+            "act": 0.10625085979700089
+        },
+        {
+            "text": "Enjoy your flintlocks and front-loading muskets, gentlemen!",
+            "act": 0.10466368496417999
+        },
+        {
+            "text": "He stops, and the whip falls from\nhis fingers.",
+            "act": 0.10447228699922562
+        },
+        {
+            "text": "The screw itself works well and the rubber ring ensures that the screw fixes tight and does not rattle when lifting.",
+            "act": 0.10239870846271515
+        },
+        {
+            "text": "Cameron Jerome's tap-in gave visiting Stoke a surprise lead in the 75th minute before Van der Vaart, one of the players clearly distressed by Muamba's collapse, headed his side's late equaliser from Gareth Bale's cross.",
+            "act": 0.10031217336654663
+        },
+        {
+            "text": "and press down whilst twisting so the cup pushes down and it will start extracting.",
+            "act": 0.10016702115535736
+        },
+        {
+            "text": "30TH MINUTE\n\nAfter half-an-hour played, Rooney has had 15 touches of the ball, attempted 10 passes at a success rate of 70%.",
+            "act": 0.09981419891119003
+        },
+        {
+            "text": "He amassed top flight totals of 244 matches and six goals, over the course of 13 seasons.",
+            "act": 0.09909729659557343
+        },
+        {
+            "text": "The latch operates by a spring biased sliding action to engage the door frame or striker plate.",
+            "act": 0.0983898788690567
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

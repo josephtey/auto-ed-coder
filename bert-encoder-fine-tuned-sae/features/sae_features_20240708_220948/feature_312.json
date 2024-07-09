@@ -1,0 +1,412 @@
+{
+    "index": 312,
+    "label": "Factual and event-based content",
+    "attributes": "Factual information, events reporting, results and statistics, objective statements, sports updates, news items, structured details",
+    "reasoning": "Upon examining the content of the samples in both categories, I noticed that all the samples share a similar context of conveying factual information, events, or statements often related to sports, news, and various factual updates. Meanwhile, the other samples predominantly contain personal opinions, informal dialogues, and subjective assertions without a clear emphasis on factual reporting.",
+    "density": 0.002059399926924519,
+    "confidence": 39.0,
+    "high_act_samples": [
+        {
+            "text": "Brandon Moss sent the Cardinals to a walk-off victory on Sunday with an RBI single in the bottom of the ninth inning against the Rockies.",
+            "act": 0.34253475069999695
+        },
+        {
+            "text": "Jason Kubler 4\u20136, 7\u20135, 7\u20136(7\u20133)\n\nWomen's Singles\n\n Misaki Doi def.",
+            "act": 0.183913454413414
+        },
+        {
+            "text": "October 2: The Tigers swept a double header against Washington\u201a winning 9\u20135 and 10\u20132.",
+            "act": 0.17103202641010284
+        },
+        {
+            "text": "New York's preseason credentials were built on two stirring road wins in last year's conference playoffs that sent Gang Green to a surprising appearance in the AFC Championship Game.",
+            "act": 0.15789753198623657
+        },
+        {
+            "text": "He went 2 for 4 against McNally in Game Two, with a seventh-inning double and a two-out ninth-inning single, coming around to score the go-ahead run.",
+            "act": 0.1492583006620407
+        },
+        {
+            "text": "Moss pinch-hit for Mark Reynolds with runners in first and third and one out in the bottom of the ninth inning against Scott Oberg.",
+            "act": 0.1403319388628006
+        },
+        {
+            "text": "As for different stages of jhanas/dhyanas he rejects this idea in ikadeka shushou wo karan and shujou jizai nanzo kufu wo tsuiyasan.",
+            "act": 0.12160457670688629
+        },
+        {
+            "text": "But ace Matt Cain tossed eight innings of three-hit ball in Friday's win, and coupled with Bumgarner's effort, the Giants can claim the four-game series with a victory in Sunday's finale.",
+            "act": 0.12021532654762268
+        },
+        {
+            "text": "Y.Sh.",
+            "act": 0.11900033056735992
+        },
+        {
+            "text": "Outside dining for 18 with barbecue.",
+            "act": 0.1176263615489006
+        },
+        {
+            "text": "With seven points already produced on her first three shots, McCoy\u2019s second 3-pointer \u2013 from the top of the key right before the first quarter buzzer \u2013 sealed the deal.",
+            "act": 0.11618748307228088
+        },
+        {
+            "text": "Beto O'Rourke and Cory Booker have sparked pockets of interest with their high-energy stump styles.",
+            "act": 0.11070986837148666
+        },
+        {
+            "text": "Addison Russell went 1-for-4 with a solo home run in Sunday's win over the Brewers.",
+            "act": 0.10984902083873749
+        },
+        {
+            "text": "It is Wednesday 24th of March 2010, it is the 13th day of our vacation\nin Greece, and we have been two days in Nafplio on Peloponnese.",
+            "act": 0.10967313498258591
+        },
+        {
+            "text": "Each cottage features fan, mini-fridge and hot water shower.",
+            "act": 0.10927607864141464
+        },
+        {
+            "text": "The new Facebook\n\n______________________End_______________________",
+            "act": 0.10859237611293793
+        },
+        {
+            "text": "Et cetera \u2013 Cornerback Perrish Cox grabbed his team-leading fifth interception of the season in the first quarter while Chris Culliver had his third of the year in the third quarter.",
+            "act": 0.10755054652690887
+        },
+        {
+            "text": "It is Thursday 25th of March on our 14th day of vacation in Greece.",
+            "act": 0.10510526597499847
+        },
+        {
+            "text": "Kitchen was renovated in 2013.",
+            "act": 0.10100775212049484
+        },
+        {
+            "text": "McCoy\u2019s game-high 21 points put her career total at 1,011 and it more importantly sparked Cranford to a more-than-convincing 59-39 Union County Conference-Watchung Division victory over Scotch Plains.",
+            "act": 0.10069182515144348
+        },
+        {
+            "text": "Kim and U.D.",
+            "act": 0.10060173273086548
+        },
+        {
+            "text": "Y.S.",
+            "act": 0.10010267794132233
+        },
+        {
+            "text": "Chicago scored two more in the 4th on a single, sacrifice bunt, RBI single, stolen base and double to take a 3\u20131 lead.",
+            "act": 0.10003145784139633
+        },
+        {
+            "text": "36-3",
+            "act": 0.09828515350818634
+        },
+        {
+            "text": "In Thursday night\u2019s 60-50 Watchung Division home setback to Linden, Sebolao \u2013 also a four-year starter \u2013 reached and passed 1,000 career points after pouring in 19 to give her 1,003.",
+            "act": 0.09764754772186279
+        },
+        {
+            "text": "After pushing its home record to 12-5-0-5 with a win over Florida on Friday, Gwinnett lost in regulation and overtime in Greenville.",
+            "act": 0.09659942984580994
+        },
+        {
+            "text": "Bumgarner struck out a season-high 11 over seven innings, Gregor Blanco entered in the fifth as a pinch hitter and drove in four runs, and the San Francisco Giants routed the Atlanta Braves 10-1 Saturday.",
+            "act": 0.09653425216674805
+        },
+        {
+            "text": "J. Sarabadani, A. Naji, D.S.",
+            "act": 0.09590312838554382
+        },
+        {
+            "text": "K. Yip, J.",
+            "act": 0.09584188461303711
+        },
+        {
+            "text": "Taylor Rapp returned the first of his two interceptions for the second-half touchdown that opened the floodgates for Washington on Friday.",
+            "act": 0.09369003772735596
+        },
+        {
+            "text": "Since so many of us will be in town, we might do a meeting too on Friday/Sunday.",
+            "act": 0.09343066811561584
+        },
+        {
+            "text": "The Cougars bounced back from a rare three-game losing streak by defeating Union 49-38 at home in Watchung Division play Thursday.",
+            "act": 0.09304433315992355
+        },
+        {
+            "text": "Chongying Dong, Geoffrey Mason, and Kiyokazu Nagatomo, *Quasi-modular forms and trace functions associated to free boson and lattice vertex operator algebras*, Internat.",
+            "act": 0.09296075999736786
+        },
+        {
+            "text": "Brandon Crawford doubled in a run in the fourth to make it 2-0, one of two hits the left-handed hitting Crawford had off Maholm.",
+            "act": 0.09221746772527695
+        },
+        {
+            "text": "The predicted secondary structure for uridine kinase and the sequence comparison with three kinases having known crystal structures are consistent with uridine kinase having an alpha/beta core structure of the nucleotide-binding fold found in many kinases.",
+            "act": 0.09066231548786163
+        },
+        {
+            "text": "After a victory in Thursday's opener, the Braves have mustered just 10 hits and been outscored 18-3.",
+            "act": 0.08949953317642212
+        },
+        {
+            "text": "The Vikings' first game in three weeks from Thursday against the Saints.",
+            "act": 0.08883466571569443
+        },
+        {
+            "text": "Led the nation with eight interceptions last season for Virginia, including picking off at least one pass in five straight games in conference play in October and November.",
+            "act": 0.08454734086990356
+        },
+        {
+            "text": "The move follows Riley's motion Nov. 22 to create the position.",
+            "act": 0.08301614969968796
+        },
+        {
+            "text": "He missed the Owls\u2019 final scrimmage in April with an undisclosed injury but shared spring game offensive MVP honors with all-conference tight end Harrison Bryant.",
+            "act": 0.08140265941619873
+        },
+        {
+            "text": "Y. Kwon, C. Kim, S. Maeng, and J. Huh, \u201cVirtualizing performance asymmetric multi-core systems,\u201d in Proc.",
+            "act": 0.07966062426567078
+        },
+        {
+            "text": "Prabheer kaur chathia\n\nexcellent\n\nShahla khan\n\nIts amazing .",
+            "act": 0.07895015180110931
+        },
+        {
+            "text": "After being woefully outplayed and outclassed by the powerful New England Patriots in a 45-3 Monday night shellacking that sent shock waves throughout league circles, the Jets followed up with a second consecutive clunker in a 10-6 home loss to the unpredictable Miami Dolphins on Sunday.",
+            "act": 0.07869471609592438
+        },
+        {
+            "text": "Each suite features fan, mini-fridge and hot water shower.",
+            "act": 0.07753190398216248
+        },
+        {
+            "text": "Mitchell also stayed healthy for most of spring ball earlier this year.",
+            "act": 0.07648362219333649
+        },
+        {
+            "text": "Pakistan squads began patrolling Rajshahi from March 25 and the situation was normal, if tense the following day.",
+            "act": 0.07637199014425278
+        },
+        {
+            "text": "\"Course.",
+            "act": 0.076001837849617
+        },
+        {
+            "text": "PTI",
+            "act": 0.07593560218811035
+        },
+        {
+            "text": "Y.S.",
+            "act": 0.07547318935394287
+        },
+        {
+            "text": "Kim, A.O.",
+            "act": 0.074533611536026
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

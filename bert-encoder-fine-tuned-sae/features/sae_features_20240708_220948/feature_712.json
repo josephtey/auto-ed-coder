@@ -1,0 +1,412 @@
+{
+    "index": 712,
+    "label": "Structured and formal content",
+    "attributes": "structured information, specific events, data, facts, formal context, complete sentences, proper punctuation, wide range of topics, direct quotations, citations, well-researched",
+    "reasoning": "The samples can be distinguished by their content and style. The samples contain structured information, often referencing specific events, data, facts, or are part of more formal or technical texts. They include complete sentences with proper punctuation, and cover a wide range of topics such as weather forecasts, scientific findings, and historical or current events. Additionally, some samples include direct quotations and citations, suggesting they are derived from well-researched or formal contexts. In contrast, the other samples are more informal, conversational, and often include dialogue or subjective commentary, frequently lacking structured information or formal tone.",
+    "density": 0.002007203154583114,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "More to follow.",
+            "act": 0.2602038085460663
+        },
+        {
+            "text": "More than 30 million Americans were told to brace for dangerous thunderstorms \u2014 including flooding, hail and possible tornadoes \u2014 as meteorologists warned the weather that has centered on Texas and Oklahoma since Saturday could expand to other areas.",
+            "act": 0.1496552973985672
+        },
+        {
+            "text": "Schrier more or less cops to this.",
+            "act": 0.12283150851726532
+        },
+        {
+            "text": "Pures Appl.",
+            "act": 0.11469011008739471
+        },
+        {
+            "text": "Deductions and interrogations were turned into statements.",
+            "act": 0.11027536541223526
+        },
+        {
+            "text": "Investors drove German rates close to zero earlier in the year.",
+            "act": 0.1098574697971344
+        },
+        {
+            "text": "\u201cGet the other one too Buddie boy.",
+            "act": 0.10926094651222229
+        },
+        {
+            "text": "Still, Earnhardt is red hot right now.",
+            "act": 0.10742813348770142
+        },
+        {
+            "text": "to the effect that Off.",
+            "act": 0.09959187358617783
+        },
+        {
+            "text": "earlier today.",
+            "act": 0.09939447045326233
+        },
+        {
+            "text": "Allerdings ist der Raucherstatus selten in administrativen Gesundheitsdaten enthalten.",
+            "act": 0.09599409997463226
+        },
+        {
+            "text": "I mean, we have that debate in the halls of Congress every day,\u201d Steube said, but explained that Omar\u2019s \u201cremarks\u201d were \u201cnowehere near\u201d criticizing policy decisions.",
+            "act": 0.09594959020614624
+        },
+        {
+            "text": "Robert Mueller.",
+            "act": 0.0904650092124939
+        },
+        {
+            "text": "/*\nCopyright 2017 The Kubernetes Authors.",
+            "act": 0.08981138467788696
+        },
+        {
+            "text": "The more men there are, he found, the more hair they grow to attract mates.",
+            "act": 0.08979818224906921
+        },
+        {
+            "text": "As we explained in Ross, statutes of limitation are \u201cmech-\nanisms to guard against possible .",
+            "act": 0.08896424621343613
+        },
+        {
+            "text": "But consciousness is solely information in various forms, and, as such, can only influence behavior if it is input to processes that determine behavior.",
+            "act": 0.08796235173940659
+        },
+        {
+            "text": "/*\nCopyright 2016 The Kubernetes Authors.",
+            "act": 0.08781927824020386
+        },
+        {
+            "text": "Then said \u201cTell me where we\u2019re going Buddy Boy and I\u2019ll light the way\u201d.",
+            "act": 0.08544399589300156
+        },
+        {
+            "text": "Docs here\n\nmethod to recipes that can be used to add extra logic when inheriting from classes.",
+            "act": 0.08452004194259644
+        },
+        {
+            "text": "That kept things interesting.",
+            "act": 0.08444802463054657
+        },
+        {
+            "text": "The workers coming from Germany to \u2026\n\nFred.",
+            "act": 0.08368724584579468
+        },
+        {
+            "text": "Verhandelingen der Koninklijke Akad.",
+            "act": 0.08289161324501038
+        },
+        {
+            "text": "Schlubby Fries.",
+            "act": 0.0826583281159401
+        },
+        {
+            "text": "Verhandelingen der Koninklijke Akad.",
+            "act": 0.07955770939588547
+        },
+        {
+            "text": "The potential for tornadoes, some of which could be strong, is part of a severe weather threat across Alabama starting early next week and continuing perhaps into Wednesday.",
+            "act": 0.07927381992340088
+        },
+        {
+            "text": "This information is translated by predicates, logical information-conveying entities, forming a relationship for at least one fact from the area of knowledge, the arguments of these predicates being able to be instantiated by particular values of these facts.",
+            "act": 0.07788687199354172
+        },
+        {
+            "text": "More chulhas.",
+            "act": 0.07677079737186432
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.07553035020828247
+        },
+        {
+            "text": "Of these 37,836 were officers and 620,829 were men.",
+            "act": 0.07455423474311829
+        },
+        {
+            "text": "It\u2019s the business of funneling taxpayer money into private companies.",
+            "act": 0.0736476480960846
+        },
+        {
+            "text": "Austin has that devastating pass rush potential.",
+            "act": 0.07198256254196167
+        },
+        {
+            "text": "Yaad rahega payaar ka ye, rangeen zamaana yaad rahega.",
+            "act": 0.07146944850683212
+        },
+        {
+            "text": "And the more I am filled\nThe more hungry I become,\nThe more I drink\nThe thirstier I become.",
+            "act": 0.07136497646570206
+        },
+        {
+            "text": "This pushed many people towards axiomatizing existing mathematical theories [@tarskied].",
+            "act": 0.06836066395044327
+        },
+        {
+            "text": "In Madrid l\u00e4uft sein Vertrag noch bis 2021.",
+            "act": 0.06736714392900467
+        },
+        {
+            "text": "We leave the optimizations on other architectures as future work.",
+            "act": 0.06626275181770325
+        },
+        {
+            "text": "\u201cThat was unprofessional.",
+            "act": 0.06307542324066162
+        },
+        {
+            "text": "Latkes.",
+            "act": 0.06189778447151184
+        },
+        {
+            "text": "Intrsting.",
+            "act": 0.05901850014925003
+        },
+        {
+            "text": "Now, 11 years later, he could well experience the same fate at Manchester United.",
+            "act": 0.05773560702800751
+        },
+        {
+            "text": "JackObin\n\nJust another day in Gun Nut Land.",
+            "act": 0.05750514566898346
+        },
+        {
+            "text": "Those Tennessee boys sure do like Wild prospects.",
+            "act": 0.05717499554157257
+        },
+        {
+            "text": "Roastbeef and more.",
+            "act": 0.05695810168981552
+        },
+        {
+            "text": "M\u00e1sok horg\u00e1szfelszerel\u00e9sben mondt\u00e1k azt a rend\u0151r\u00f6knek, hogy munk\u00e1ba mennek.",
+            "act": 0.05657503753900528
+        },
+        {
+            "text": "Italian officials reported Sunday a total of 431 deaths over the past 24 hours, the lowest number since March 19.",
+            "act": 0.05652899295091629
+        },
+        {
+            "text": "He talked about these great baseball players that are coming from Cuba \u2014 and they are.",
+            "act": 0.0564616322517395
+        },
+        {
+            "text": "And there appeared to be no let up in sight, with Weather Channel meteorologist Kevin Roth predicting the storm would likely refocus on central Texas, as well as branching out to the Ohio Valley and further north later on Tuesday.",
+            "act": 0.056148871779441833
+        },
+        {
+            "text": "I had one or two other similar experiences with these government certified agents.",
+            "act": 0.055213913321495056
+        },
+        {
+            "text": "You should follow this",
+            "act": 0.055057018995285034
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Hmmm.",
+            "act": 0.0
+        },
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

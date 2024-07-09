@@ -1,0 +1,412 @@
+{
+    "index": 43,
+    "label": "Informative with specific references",
+    "attributes": "contain proper nouns, mention specific events or entities, informational tone, detailed descriptions, references to real-world subjects",
+    "reasoning": "The texts in the samples contain specific references to proper nouns, events, or entities such as names of people, places, sports teams, institutions, technological products, and scientific phenomena. These references make the texts specific, informational, and detailed. In contrast, the other samples lack these specific references and are more generic, opinionated, or conversational.",
+    "density": 0.00018031612263394404,
+    "confidence": 17.0,
+    "high_act_samples": [
+        {
+            "text": "Tom Okker and Marty Riessen won the men's doubles title at the 1973 Queen's Club Championships tennis tournament, defeating Ray Keldie and Raymond Moore 6\u20134, 7\u20135 in the final.",
+            "act": 0.11409032344818115
+        },
+        {
+            "text": "\"Ah, so we get down to business,\" the man said, and brought\nhis hands up to lift his hood.",
+            "act": 0.11089157313108444
+        },
+        {
+            "text": "Isto \u00e9 patente, pois, visto os humanos n\u00e3o se enganarem sen\u00e3o a respeito do que ignoram, assim, \u00e9 preciso que aquilo a respeito do que algu\u00e9m n\u00e3o pode se enganar seja o mais conhecido.",
+            "act": 0.07353769242763519
+        },
+        {
+            "text": "The decision here comes down to Carson Palmer and Seattle quarterback Russell Wilson.",
+            "act": 0.06955628097057343
+        },
+        {
+            "text": "Whoa.",
+            "act": 0.04871666431427002
+        },
+        {
+            "text": "\"They still haven't raised their shields.\"",
+            "act": 0.042962685227394104
+        },
+        {
+            "text": "So if the Chiefs win the division, it will likely be because of their improved offense, and I'll go with wide receiver Jeremy Maclin.",
+            "act": 0.041092097759246826
+        },
+        {
+            "text": "The 49ers finished the game with two sacks, which were delivered by Dan Skuta and Quinton Dial.",
+            "act": 0.03344050049781799
+        },
+        {
+            "text": "He joined AS Saint-\u00c9tienne in 2004.",
+            "act": 0.03137889504432678
+        },
+        {
+            "text": "He started the season as MSU's ace and finished it as a mop-up duty reliever.",
+            "act": 0.030164552852511406
+        },
+        {
+            "text": "Em outras palavras, os primeiros princ\u00edpios se tornam conhecidos pela pr\u00f3pria luz do intelecto, que \u00e9 natural deste, e n\u00e3o s\u00e3o adquiridos por racioc\u00ednios, mas pelo simples fato se seus termos se tornarem conhecidos.",
+            "act": 0.02135414443910122
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.020013561472296715
+        },
+        {
+            "text": "O Bee-Zed, por\u00e9m, \u00e9 considerado incomum por causa da estabilidade de sua \u00f3rbita, que permanece a mesma h\u00e1 bilh\u00f5es de anos.",
+            "act": 0.019648341462016106
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.01877373643219471
+        },
+        {
+            "text": "Hunter Pence was intentionally walked to load the bases, and Braves interim manager Carlos Tosca called on Cory Gearrin to relieve Maholm.",
+            "act": 0.015018684789538383
+        },
+        {
+            "text": "Chickillo didn't provide much production in college, but he was miscast as a 3-4 defensive end.",
+            "act": 0.013394920155405998
+        },
+        {
+            "text": "Chickillo didn't provide much production in college, but he was miscast as a 3-4 defensive end.",
+            "act": 0.013394920155405998
+        },
+        {
+            "text": "Disto, conclui-se que, como sustenta Lukasiewicz, deve-se estabelecer que, para Arist\u00f3teles, a lei da contradi\u00e7\u00e3o n\u00e3o deve ser compreendida como uma lei ontol\u00f3gica-geral, mas como uma lei metaf\u00edsica, a qual, em primeiro lugar, deve valer para subst\u00e2ncias e com respeito \u00e0 qual \u00e9 no m\u00ednimo question\u00e1vel se o seu dom\u00ednio de validade estende-se tamb\u00e9m a apar\u00eancias.",
+            "act": 0.013131288811564445
+        },
+        {
+            "text": "Faz duas considera\u00e7\u00f5es e em seguida, estabelece tr\u00eas condi\u00e7\u00f5es do princ\u00edpio mais firme.",
+            "act": 0.012188619002699852
+        },
+        {
+            "text": "\"You design my avatar and I'll do yours.\"",
+            "act": 0.011174147948622704
+        },
+        {
+            "text": "\"WELL, I PRESUME NOT.\"",
+            "act": 0.010517319664359093
+        },
+        {
+            "text": "\"I'll settle for an intelligent question here.\"",
+            "act": 0.009763209149241447
+        },
+        {
+            "text": "You go through our meeting rooms, and you see Warrick Dunn with our running backs, and you see Jeff Garcia working with our young quarterbacks, and you see Joey Galloway and Ike Hilliard with our wide receivers.",
+            "act": 0.008923118934035301
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.008765725418925285
+        },
+        {
+            "text": "Red Downs and Germany Schaefer platooned at the second base position for the Tigers in 1907 and 1908.",
+            "act": 0.007442055735737085
+        },
+        {
+            "text": "Cory Booker kind of tapped the breaks on it, whoa, whoa, whoa, I don\u2019t know.",
+            "act": 0.007290496025234461
+        },
+        {
+            "text": "\"You have Genesis.\"",
+            "act": 0.006980306003242731
+        },
+        {
+            "text": "\"We thought this was Genesis.\"",
+            "act": 0.006640239153057337
+        },
+        {
+            "text": "\"Sulu, get those shields up.\"",
+            "act": 0.0057875351049005985
+        },
+        {
+            "text": "Charley O'Leary was Detroit's starting shortstop from 1904 to 1907.",
+            "act": 0.005702315364032984
+        },
+        {
+            "text": "If the Broncos win the AFC West, it will be because of their defense, in which case linebacker Von Miller is the MVP.",
+            "act": 0.005665308330208063
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.0041486830450594425
+        },
+        {
+            "text": "The Cubs loaded the bases on a single, walk and infield error with one out.",
+            "act": 0.002822986338287592
+        },
+        {
+            "text": "Tied with the offensive line is the running back position.",
+            "act": 0.002637347672134638
+        },
+        {
+            "text": "\"We done with this right here.\"",
+            "act": 0.002562182489782572
+        },
+        {
+            "text": "Com as simula\u00e7\u00f5es - que levaram em conta n\u00e3o apenas a influ\u00eancia da gravidade dos planetas do Sistema Solar, mas tamb\u00e9m o efeito gravitacional de toda a gal\u00e1xia -, os pesquisadores conseguiram reconstruir a trajet\u00f3ria do asteroide h\u00e1 4,5 bilh\u00f5es de anos, quando os planetas estavam terminando de se formar.",
+            "act": 0.002499921713024378
+        },
+        {
+            "text": "He also became rector of Shenfield, Essex, and was instituted to the rectory of Barley, Hertfordshire, 13 April 1751.",
+            "act": 0.0017111883498728275
+        },
+        {
+            "text": "The Buckeyes were 0-for-5 on the power play.",
+            "act": 0.0014887736178934574
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        },
+        {
+            "text": "Besides, we could use some accompaniment for our BeetBox.",
+            "act": 0.0
+        },
+        {
+            "text": "Q:\n\nNullPointerException in getview of custom adapter\n\nI'm getting image from bitmap method and trying to populate the listview.",
+            "act": 0.0
+        },
+        {
+            "text": "But when i call the bitmap function inside getview the nullpointerException error occurs.",
+            "act": 0.0
+        },
+        {
+            "text": "please help me... \nhere is my view Activity class:\npublic class Viewactivity extends Activity{\n\n    TextView tv;\n    ImageView im;\n\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.views);\n\n        ListView mListView = (ListView)findViewById(R.id.listView);\n        //array houlds all images\n        int Images[] = new int[]{\n            R.drawable.confidential,\n            ...     \n            };\n        //array holds all strings to be drawn in the image\n\n        CustomList adaptor = new CustomList(this , Images);\n        mListView.setAdapter(adaptor);\n\n    }\n\n    public Bitmap ProcessingBitmap(int image) {\n        // TODO Auto-generated method stub\n        Bitmap bm1 = null;\n        Bitmap newBitmap = null;\n\n        final String data =getIntent().getExtras().getString(\"keys\");\n        bm1 = ((BitmapDrawable) Viewactivity.this.getResources()\n                .getDrawable(image)).getBitmap();\n        Config config = bm1.getConfig();\n        if(config == null){\n            config = Bitmap.Config.ARGB_8888;\n        }\n\n        newBitmap = Bitmap.createBitmap(bm1.getWidth(), bm1.getHeight(),config);\n        Canvas newCanvas = new Canvas(newBitmap);\n\n        newCanvas.drawBitmap(bm1, 0, 0, null);\n\n        if(data != null){\n            Paint paintText = new Paint(Paint.ANTI_ALIAS_FLAG);\n            paintText.setColor(Color.RED);\n            paintText.setTextSize(300);\n            // paintText.setTextAlign(Align.CENTER);\n            paintText.setStyle(Style.FILL);\n            paintText.setShadowLayer(10f, 10f, 10f, Color.BLACK);\n\n            Rect rectText = new Rect();\n            paintText.getTextBounds(data, 0, data.length(), rectText);\n            paintText.setTextScaleX(1.f);\n\n            newCanvas.drawText(data, \n              0, rectText.height(), paintText);\n\n            Toast.makeText(getApplicationContext(), \n              \"drawText: \" + data, Toast.LENGTH_LONG).show();\n\n        }else{\n            Toast.makeText(getApplicationContext(), \n              \"caption empty!",
+            "act": 0.0
+        },
+        {
+            "text": "\", Toast.LENGTH_LONG).show();\n        }\n        return newBitmap;\n\n    }\n}\n\nthis is my adapter class:\npublic class CustomList extends BaseAdapter{\n\n    Viewactivity act;\n    int[] IMAGES;\n    LayoutInflater inflator;\n    Context sContext;\n    //private String[] TEXTS;\n\n    public CustomList(Context context, int[] images){\n        this.IMAGES = images;\n        //this.TEXTS = texts;\n        this.sContext = context;\n        inflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n    }\n\n    @Override\n    public int getCount() {\n        // TODO Auto-generated method stub\n        return IMAGES.length;\n    }\n\n    @Override\n    public Object getItem(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public long getItemId(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public View getView(int position, View convertView, ViewGroup parent) {\n        // TODO Auto-generated method stub\n        View v = inflator.inflate(R.layout.row_list, parent, false);\n        final ImageView imageView = (ImageView) v.findViewById(R.id.imageView);\n        imageView.setImageBitmap(act.ProcessingBitmap(IMAGES[position]));// line no:52\n        return imageView;\n    }\n}\n\nthis is my logcat:\n12-18 06:16:51.406: E/AndroidRuntime(1388): FATAL EXCEPTION: main\n12-18 06:16:51.406: E/AndroidRuntime(1388): Process: com.emple.example, PID: 1388\n12-18 06:16:51.406: E/AndroidRuntime(1388): java.lang.NullPointerException\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.emple.example.CustomList.getView(CustomList.java:52)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.AbsListView.obtainView(AbsListView.java:2263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.measureHeightOfChildren(ListView.java:1263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.onMeasure(ListView.java:1175)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.measureChild(RelativeLayout.java:689)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.onMeasure(RelativeLayout.java:473)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.widget.ActionBarOverlayLayout.onMeasure(ActionBarOverlayLayout.java:327)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.policy.impl.PhoneWindow$DecorView.onMeasure(PhoneWindow.java:2291)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performMeasure(ViewRootImpl.java:1916)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.measureHierarchy(ViewRootImpl.java:1113)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1295)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1000)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5670)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$CallbackRecord.run(Choreographer.java:761)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doCallbacks(Choreographer.java:574)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doFrame(Choreographer.java:544)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:747)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.handleCallback(Handler.java:733)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.dispatchMessage(Handler.java:95)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Looper.loop(Looper.java:136)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.app.ActivityThread.main(ActivityThread.java:5017)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invokeNative(Native Method)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invoke(Method.java:515)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at dalvik.system.NativeStart.main(Native Method)\n12-18 06:21:51.616: I/Process(1388): Sending signal.",
+            "act": 0.0
+        },
+        {
+            "text": "PID: 1388 SIG: 9\n\nA:\n\nYou haven't initialized your act variable.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

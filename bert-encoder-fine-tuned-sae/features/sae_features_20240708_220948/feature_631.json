@@ -1,0 +1,412 @@
+{
+    "index": 631,
+    "label": "Formal and factual technical content",
+    "attributes": "Inclusion of specific data points, use of formal language, structured citations, focus on technical or official content, frequent use of numbers, dates, and proper nouns, association with regulations or scientific contexts",
+    "reasoning": "Upon analyzing the provided texts, it is evident that the samples have distinct differences in their structure, style, and content. The samples are characterized by their inclusion of specific data points, formal language, and structured citations. Additionally, the samples have a focus on technical, legal, financial, or historical information, emphasizing formal reporting and addressing factual matters. The samples frequently include numbers, dates, abbreviations, and proper nouns, usually associated with official contexts like regulations, scientific papers, or historical records. On the other hand, the alternate samples are informal, argumentative, and conversational, without structured data or formal citations.",
+    "density": 0.002007203154583114,
+    "confidence": 75.0,
+    "high_act_samples": [
+        {
+            "text": "euros (21.8 mil.",
+            "act": 0.1403970569372177
+        },
+        {
+            "text": "In 1995, the eastern side platform was closed when the inbound line was converted to standard gauge as part of the One Nation Adelaide-Melbourne line gauge conversion project.",
+            "act": 0.1361628919839859
+        },
+        {
+            "text": "(App.",
+            "act": 0.12832391262054443
+        },
+        {
+            "text": "B at 1 (55 Fed.Reg.",
+            "act": 0.11991415917873383
+        },
+        {
+            "text": "/*\n * Copyright (c) 2016, Fuzhou Rockchip Electronics Co.,Ltd.",
+            "act": 0.10919541865587234
+        },
+        {
+            "text": "54 Fed.Reg.",
+            "act": 0.10646246373653412
+        },
+        {
+            "text": "54 Fed.Reg.",
+            "act": 0.10646246373653412
+        },
+        {
+            "text": "In June 1979, when manufacturing employment hit its peak, government employment was 16,045,000.",
+            "act": 0.10404417663812637
+        },
+        {
+            "text": "He was last seen in Appsterdam, world capital of app development.",
+            "act": 0.10032094269990921
+        },
+        {
+            "text": "Manufacturing employment peaked in June 1979 at 19,553,000.",
+            "act": 0.0997709333896637
+        },
+        {
+            "text": "On 2 February 1966, she was sold for scrapping to Southern Scrap Material Co., Ltd., along with her sister ships  and , for $151,079.79.",
+            "act": 0.09921937435865402
+        },
+        {
+            "text": "Lecture Notes in Computer Science 4207, Springer Verlag.",
+            "act": 0.0972057431936264
+        },
+        {
+            "text": "54 Fed.Reg.",
+            "act": 0.0951763242483139
+        },
+        {
+            "text": "at 61,559 App.",
+            "act": 0.09487029910087585
+        },
+        {
+            "text": "43 Fed.Reg.",
+            "act": 0.09339980781078339
+        },
+        {
+            "text": "\u261e24/7 hard- and software tech support (+mobile!)",
+            "act": 0.09176842868328094
+        },
+        {
+            "text": "Energy Reg.",
+            "act": 0.08857926726341248
+        },
+        {
+            "text": "In addition to Gov.",
+            "act": 0.08612626791000366
+        },
+        {
+            "text": "Of anything else?",
+            "act": 0.08460881561040878
+        },
+        {
+            "text": "@\"Oranges\" : (_grapes.count ?",
+            "act": 0.08378615230321884
+        },
+        {
+            "text": "@\"Oranges\" : (_grapes.count ?",
+            "act": 0.08378615230321884
+        },
+        {
+            "text": "He had the occasional appearance from the substitutes bench, but only one start in the Capital One Cup and one in the Premier League.",
+            "act": 0.08239851891994476
+        },
+        {
+            "text": "the age of the UMa group\u00a0[@Jones2015].",
+            "act": 0.08209830522537231
+        },
+        {
+            "text": "Thus, As input during irrigation was at least partly counteracted by As mobilization during monsoon flooding.",
+            "act": 0.08199925720691681
+        },
+        {
+            "text": "It took the return of Mitchell Starc to restore a sense of World Cup order, figures of five for 26 reflecting a spell of brutal, high-grade, white-ball fast-bowling that blew away the tail.",
+            "act": 0.08112624287605286
+        },
+        {
+            "text": "She wrapped the gift around her bare shoulders and let the frayed edges accentuate her hips.",
+            "act": 0.08049777895212173
+        },
+        {
+            "text": "MAX will operate in a bus-only lane for most of the route, allowing buses to bypass traffic congestion.",
+            "act": 0.07929456233978271
+        },
+        {
+            "text": "gov, number NCT00376883.",
+            "act": 0.0760018453001976
+        },
+        {
+            "text": "RT-WHO 1624.",
+            "act": 0.07599338889122009
+        },
+        {
+            "text": "The application window for the 2015 Industry Growth Forum is now closed.",
+            "act": 0.07598908990621567
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.074695885181427
+        },
+        {
+            "text": "Strong cash flows from the operations boosted cash on hand by 158% to $213.4 million.",
+            "act": 0.07418101280927658
+        },
+        {
+            "text": "The outflow represented 0.9 per cent of the average amount invested in stock funds during the year.",
+            "act": 0.07393023371696472
+        },
+        {
+            "text": "Since then, manufacturing employment has declined by 7,295,000\u2014or 37.3 percent\u2014to its current level of 12,258,000.",
+            "act": 0.07336165755987167
+        },
+        {
+            "text": "The majority of diesel fuel imports originated in Singapore (85 ML).",
+            "act": 0.0721500962972641
+        },
+        {
+            "text": "Total cash, cash equivalents and short-term investments as of September 30, 2015, amounted to $80.9 million.",
+            "act": 0.07188962399959564
+        },
+        {
+            "text": "There are many top flight forwards that have been presumed available via trade.",
+            "act": 0.07112862169742584
+        },
+        {
+            "text": "The port would take \u201ccontainer, mineral resources and groceries as the main body\u201d, while promoting \u201cpassenger transport and tourism\u201d.",
+            "act": 0.0687546506524086
+        },
+        {
+            "text": "To become an Industry Growth Forum Channel Partner, please contact Renae.Golden@nrel.gov.",
+            "act": 0.06790252774953842
+        },
+        {
+            "text": "The solution appears to be available for download, though traffic to the site was heavy Thursday.",
+            "act": 0.06735321879386902
+        },
+        {
+            "text": "This reporting season has seen disappointments from the traditional defensive stocks such as Telstra (TLS), QBE Insurance (QBE) and Transurban (TCL).",
+            "act": 0.06542916595935822
+        },
+        {
+            "text": "[@Achuthan].",
+            "act": 0.06530597060918808
+        },
+        {
+            "text": "(additional\nO.K.",
+            "act": 0.06521566212177277
+        },
+        {
+            "text": "The funds ended the year with total assets of $US1.12 trillion.",
+            "act": 0.06463196873664856
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.06278188526630402
+        },
+        {
+            "text": "There, the Secretary of Housing and Urban Development was held to have taken major federal action in fulfilling his duties under the Interstate Land Sales Full Disclosure Act.",
+            "act": 0.06242861971259117
+        },
+        {
+            "text": "#6928\n\nin build helper.",
+            "act": 0.06234431639313698
+        },
+        {
+            "text": "/**\n * Copyright (c) 2016-present, Facebook, Inc.\n * All rights reserved.",
+            "act": 0.06072614714503288
+        },
+        {
+            "text": "@HannaHenkel @NZZ\n\n.",
+            "act": 0.060695830732584
+        },
+        {
+            "text": "ICF stadium, Kambar Arangam bus stop), ICF, Chennai - 38.",
+            "act": 0.059011515229940414
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

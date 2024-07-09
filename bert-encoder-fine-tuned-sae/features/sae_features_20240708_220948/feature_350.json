@@ -1,0 +1,412 @@
+{
+    "index": 350,
+    "label": "Multilingual and diverse topics",
+    "attributes": "Multilingual content, diverse topics including architecture, feminism, law, language, music, and personal experiences",
+    "reasoning": "Upon comparing the provided samples, it becomes evident that the most specific attribute shared by all the samples in the first group and none in the second group is the presence of multilingual content and the varied topics they touch upon, ranging from architecture to feminism, law, language, music, and personal experiences. This multilingualism includes the use of English, Spanish, Filipino, Catalan, and possibly other languages. This attribute is absent in all the samples in the second group, which consist of discussions in English only on specific topics, often conversational or opinion-based.",
+    "density": 0.0021115966992659237,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "Ground floor has recessed sash to east and casement to north.",
+            "act": 0.1961599588394165
+        },
+        {
+            "text": "The is a rope and bead border at the top.",
+            "act": 0.1953021138906479
+        },
+        {
+            "text": "How about \u201cmodernism\u201d, \u201cclassical\u201d, \u201cprinciples of the Enlightenment\u201d, or \u201ctonal music\u201d?",
+            "act": 0.186004638671875
+        },
+        {
+            "text": "By the proof of [@21 Prop.",
+            "act": 0.16953840851783752
+        },
+        {
+            "text": "\"This type of language has no place in Canada,\" Sajjan said.",
+            "act": 0.14515124261379242
+        },
+        {
+            "text": "Under larger gable casement in architrave surround on first floor.",
+            "act": 0.14243879914283752
+        },
+        {
+            "text": "\u201cImpressionist art\u201d, \u201cmysterianism\u201d, \u201catonality\u201d, and even \u201cthe Austrian School\u201d were all terms of mockery before being reclaimed.",
+            "act": 0.14208893477916718
+        },
+        {
+            "text": "Combine both cases shows that, not ML implies not Approximate CR-LC.",
+            "act": 0.13340450823307037
+        },
+        {
+            "text": "You should start your tour of this area beginning from Maine in the south and go through Ogunquit before you reach Kennebunkport.",
+            "act": 0.13262930512428284
+        },
+        {
+            "text": "In this case, we have following the version of the Doubling Lemma.",
+            "act": 0.12995018064975739
+        },
+        {
+            "text": "Como mujeres, nos esforzamos mucho para ser \u201cparte del chiste\u201d.",
+            "act": 0.12601184844970703
+        },
+        {
+            "text": "Sin embargo, no me convence que eso de convertir a las mujeres en caricaturas extremas para re\u00edrnos de ellas sea de alg\u00fan modo \u201cprogresista\u201d.",
+            "act": 0.11821412295103073
+        },
+        {
+            "text": "Ang hindi boboto sa kanya, manigas ka sa gutom!",
+            "act": 0.11769860982894897
+        },
+        {
+            "text": "This follows from Lemma 11 of [@Mi].",
+            "act": 0.11768796294927597
+        },
+        {
+            "text": "The two men continued to pull him until they finally stopped.",
+            "act": 0.10924635827541351
+        },
+        {
+            "text": "La otra noche estuve en un bar y una porci\u00f3n de la velada tuvo un show con drag queens.",
+            "act": 0.10769897699356079
+        },
+        {
+            "text": "so we need to straight our frame but it is impossible to do for me.",
+            "act": 0.10513845831155777
+        },
+        {
+            "text": "A las feministas se nos acusa siempre de no ser \u201cdivertidas\u201d, de no tener sentido del humor y, generalmente, de odiarlo todo.",
+            "act": 0.10276621580123901
+        },
+        {
+            "text": "We've tried finding his line already with with 2 different metal detectors.",
+            "act": 0.098668172955513
+        },
+        {
+            "text": "so it is you that are knowing posting lies.",
+            "act": 0.09703841805458069
+        },
+        {
+            "text": "Fernlea Tiny House by Tiny Footprint has a \u201clift bed\u201d that descends at the touch of a button.",
+            "act": 0.09686047583818436
+        },
+        {
+            "text": "That taqwacore stuff, \u201cislamic\u201d punk etc.",
+            "act": 0.09368982166051865
+        },
+        {
+            "text": "kitchen countertop shelf this concrete kitchen was built for less than the entire kitchen is a kitchen countertop shelf rack.",
+            "act": 0.09165030717849731
+        },
+        {
+            "text": "Brahmi, (Bacopa Monniera and Herpestis Monniera) is another important Medhya Rasayana.",
+            "act": 0.09158769249916077
+        },
+        {
+            "text": "Mani Ratnam, whose Roja, Bombay and Dil......",
+            "act": 0.09155315160751343
+        },
+        {
+            "text": "Although in the water is seemed like very tiny needles were puncturing the skin.",
+            "act": 0.08702171593904495
+        },
+        {
+            "text": "What Bennett finds morally objectionable is \u201cgood\u201d Azaria going to prison for killing \u201cevil\u201d Abd al Fatah Al-Sharif.",
+            "act": 0.08671487122774124
+        },
+        {
+            "text": "We have \"raag\" in Hindustani classical music instead.",
+            "act": 0.08625493943691254
+        },
+        {
+            "text": "Green Aracari is a Guianan Shield endemic that we saw visiting the a\u00e7a\u00ed palm trees on the Mari-Mari Lodge grounds.",
+            "act": 0.08605136722326279
+        },
+        {
+            "text": "The XFL football joining and a guarantee of \u201csmashmouth\u201d competition.",
+            "act": 0.08497951179742813
+        },
+        {
+            "text": "msgstr \"\"\n\"Aquesta opcion determina los efi\u00e8ches d'un clic drech sus la barra de t\u00edtol \"\n\"d'una fen\u00e8stra.",
+            "act": 0.0840650424361229
+        },
+        {
+            "text": "As we all know God no less than any precious prize is true that love is a gift Loss of what can make life like hell.",
+            "act": 0.08361344039440155
+        },
+        {
+            "text": "Los productos no gravados considerados para este estudio por su contenido cal\u00f3rico alto son el az\u00facar, la manteca, el chorizo, el tocino, la manteca vegetal y las pizzas.",
+            "act": 0.08112277835607529
+        },
+        {
+            "text": "Then we have Disabled here.",
+            "act": 0.08109411597251892
+        },
+        {
+            "text": "We had great look at Ja\u00fa National Park.",
+            "act": 0.07803574949502945
+        },
+        {
+            "text": "I wonder if there is a way to control hrule thickness with ruled option, so one can use thicker line pre-caption or post of it.",
+            "act": 0.07651703804731369
+        },
+        {
+            "text": "It is the mine of such hidden jazli run that has been hidden from the ages.",
+            "act": 0.07649260014295578
+        },
+        {
+            "text": "A:\n\nHay varios problemas con este archivo:\n\nUna primer fila que \"rompe\" la estructura\nOtras tres filas que son solo encabezados\nUna columna de fecha que hay que modificar para poder transformarla en una fecha.",
+            "act": 0.07483275979757309
+        },
+        {
+            "text": "Bhilare [[*et al.",
+            "act": 0.07431548088788986
+        },
+        {
+            "text": "More...",
+            "act": 0.07408390194177628
+        },
+        {
+            "text": "It then follows from Eq.",
+            "act": 0.07318886369466782
+        },
+        {
+            "text": "[**Polymethylmethacrylate (PMMA).",
+            "act": 0.07245326787233353
+        },
+        {
+            "text": "Tambi\u00e9n concuerdan con una investigaci\u00f3n reciente para Chile que sugiere que los impuestos espec\u00edficos, como el de las bebidas gaseosas, puede diluirse con el tiempo.",
+            "act": 0.07120881229639053
+        },
+        {
+            "text": "French windows to left on ground floor, to the right conservatory extends to north.",
+            "act": 0.07022488862276077
+        },
+        {
+            "text": "Stealth .. invisible mode .. Ewan ko lang kung kaya yan ng mga pulitiko habang namimigay ng kaunting tulong.",
+            "act": 0.0697927176952362
+        },
+        {
+            "text": "Each suite features fan, mini-fridge and hot water shower.",
+            "act": 0.06967902928590775
+        },
+        {
+            "text": "msgstr \"\"\n\"Aquesta opcion determina los efi\u00e8ches d'un clic doble sus la barra de t\u00edtol \"\n\"d'una fen\u00e8stra.",
+            "act": 0.06938689947128296
+        },
+        {
+            "text": "Every time we ...",
+            "act": 0.06898780167102814
+        },
+        {
+            "text": "is due to the fact that in Eq.",
+            "act": 0.06877528876066208
+        },
+        {
+            "text": "prohibitively a capital while we end you in to your platinum place.",
+            "act": 0.06847744435071945
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

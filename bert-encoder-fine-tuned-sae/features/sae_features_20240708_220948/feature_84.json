@@ -1,0 +1,412 @@
+{
+    "index": 84,
+    "label": "Technical or structured content",
+    "attributes": "References to technical or scientific data, presence of structured numerical data, inclusion of dialogue or quotes, mentions of specific events or entities, use of formal or technical terminology",
+    "reasoning": "Upon analyzing the texts within the samples, I identified that the samples contain a higher density of references to specific events, technical terminology, numerical data, and structured dialogue sequences such as lines from a script. None of the samples contain general or informal conversational text, personal opinions, or unstructured narrative that are prevalent within the other samples.",
+    "density": 0.0038056192198006084,
+    "confidence": 22.0,
+    "high_act_samples": [
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.21960529685020447
+        },
+        {
+            "text": "\"Chekov, what's the matter with you?\"",
+            "act": 0.19824561476707458
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.19463743269443512
+        },
+        {
+            "text": "euros (21.8 mil.",
+            "act": 0.18967628479003906
+        },
+        {
+            "text": "\"Last call, Flight 647.\"",
+            "act": 0.1828465461730957
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.177031472325325
+        },
+        {
+            "text": "(It's been tried and tested by our little one!",
+            "act": 0.1714790165424347
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.1692073941230774
+        },
+        {
+            "text": "c.1085\u2013c.1122)\".",
+            "act": 0.16909897327423096
+        },
+        {
+            "text": "Subsequently, the data from the internal logic 111 is set to the output-side boundary cells 104, and this data is then returned from the TDO terminal 106 to the host computer in the serial form.",
+            "act": 0.16837096214294434
+        },
+        {
+            "text": "(Knock it off.",
+            "act": 0.16666582226753235
+        },
+        {
+            "text": "(C.",
+            "act": 0.16289573907852173
+        },
+        {
+            "text": "(C.",
+            "act": 0.15690425038337708
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.15588970482349396
+        },
+        {
+            "text": "If requested data resides in the cache, the system gets a cache \u201chit\u201d and delivers the data to the processor from the cache.",
+            "act": 0.142855703830719
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.14069008827209473
+        },
+        {
+            "text": "\"I put the skin data through the particle analyser.\"",
+            "act": 0.14058926701545715
+        },
+        {
+            "text": "(citing Miss.",
+            "act": 0.139952152967453
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13946104049682617
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.13887114822864532
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1377502977848053
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1377502977848053
+        },
+        {
+            "text": "Arsenic-rich groundwater from shallow tube wells is widely used for the irrigation of boro rice in Bangladesh and West Bengal.",
+            "act": 0.13513518869876862
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13441449403762817
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13431525230407715
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13384152948856354
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13332149386405945
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13299354910850525
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13282066583633423
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13267648220062256
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13267648220062256
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13243640959262848
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13243640959262848
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13243640959262848
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1319669783115387
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1311647593975067
+        },
+        {
+            "text": "(Id.",
+            "act": 0.13005517423152924
+        },
+        {
+            "text": "\"Bodie, I know this kid works up here with you.\"",
+            "act": 0.12969918549060822
+        },
+        {
+            "text": "(By the way, I can see how many of you click on those links.",
+            "act": 0.12809573113918304
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1276039183139801
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1276039183139801
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1275896430015564
+        },
+        {
+            "text": "\"Eagle 1. are you receiving?\"",
+            "act": 0.1271815001964569
+        },
+        {
+            "text": "(Id.",
+            "act": 0.125995472073555
+        },
+        {
+            "text": "(Id.",
+            "act": 0.125995472073555
+        },
+        {
+            "text": "The base station further includes a transmitter/receiver coupled to the processing unit to transmit/receive coded signals.",
+            "act": 0.12525540590286255
+        },
+        {
+            "text": "(Id.",
+            "act": 0.1235557273030281
+        },
+        {
+            "text": "\"Eagle 1 on final approach.\"",
+            "act": 0.12264769524335861
+        },
+        {
+            "text": "(Ibid.",
+            "act": 0.12085496634244919
+        },
+        {
+            "text": "He instead lets Leighton Baines take the set-piece and the left-back sends the ball over the crossbar.",
+            "act": 0.11915203183889389
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

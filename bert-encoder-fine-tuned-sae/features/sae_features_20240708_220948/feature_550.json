@@ -1,0 +1,412 @@
+{
+    "index": 550,
+    "label": "Multilingual content present",
+    "attributes": "Contains multilingual text, Various languages present like English, Russian, Japanese",
+    "reasoning": "The samples within the 'positive samples' section contain a pattern of having multilingual content. Multiple languages such as English, Russian, and Japanese are used in various sentences, indicating the presence of text in more than one language. In contrast, the 'negative samples' section contains text exclusively in English, without any mixture of different languages.",
+    "density": 0.0010059741578525298,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "Minnesota Timberwolves (1992\u20131994)\nPerson played only two seasons with the Timberwolves.",
+            "act": 0.1811186522245407
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.1281290054321289
+        },
+        {
+            "text": "__\n\ud83d\udca5SUPERFANS\ud83d\udca5: Please help us translate this video, and get credit below!",
+            "act": 0.11290895938873291
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.11164189130067825
+        },
+        {
+            "text": "The Bulldogs outshot the Buckeyes 51-18.",
+            "act": 0.10730944573879242
+        },
+        {
+            "text": "\u0412 \u043a\u043e\u0440\u043e\u0431\u043e\u0447\u043d\u043e\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0411\u0438\u0442\u0440\u0438\u043a\u0441 24 \u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 p&p \u0442\u043e \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442.",
+            "act": 0.10555646568536758
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.10362543910741806
+        },
+        {
+            "text": "\u041f\u044b\u0442\u0430\u043b\u0441\u044f \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0442\u044c \u0438 \u0432 catch \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c continue, \u043d\u043e \u0431\u0435\u0437\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043d\u043e.",
+            "act": 0.10254515707492828
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.10026165843009949
+        },
+        {
+            "text": "The teams are scheduled to play their second division game against each other on Feb. 5 at 7 p.m. at Cranford\u2019s Martin Gymnasium.",
+            "act": 0.09944041818380356
+        },
+        {
+            "text": "The Kingston, ON native was drafted 134th overall in the 1982 NHL Draft by the St. Louis Blues.",
+            "act": 0.09836846590042114
+        },
+        {
+            "text": "\u041f\u0438\u043d\u0433\u043e\u0432\u0430\u043b \u0438 \u0442\u0440\u0430\u0441\u0441\u0435\u0440\u043e\u0432\u0430\u043b - \u043e\u0448\u0438\u0431\u043e\u043a \u0438\u043b\u0438 \u043f\u043e\u0442\u0435\u0440\u044c \u043d\u0435\u0442.",
+            "act": 0.09683238714933395
+        },
+        {
+            "text": "The Bulldogs led the Buckeyes 15-3 in shots.",
+            "act": 0.09573677182197571
+        },
+        {
+            "text": "Q:\n\n\u0413\u0434\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043b\u043e\u0433\u0438 \u0440\u0430\u0431\u043e\u0442\u044b NodeJS-PushServer?",
+            "act": 0.09390714019536972
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.09357839822769165
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.09307462722063065
+        },
+        {
+            "text": "All authors read and approved the final submitted manuscript.",
+            "act": 0.09263255447149277
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438\u043b\u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u0432 \u0447\u0451\u043c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430?",
+            "act": 0.09224897623062134
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.08667168021202087
+        },
+        {
+            "text": "\u0412\u044b\u0432\u043e\u0434\u044f \u043b\u043e\u0433\u0438 \u043d\u0430 \u044d\u043a\u0440\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0430 (journalctl -f) \u043e\u0448\u0438\u0431\u043e\u043a \u043d\u0435\u0442.",
+            "act": 0.0843181163072586
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.08316966891288757
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.07972955703735352
+        },
+        {
+            "text": "San Antonio Spurs (1994\u20131998)\nPerson played for the San Antonio Spurs from 1994 through 1998.",
+            "act": 0.07955686748027802
+        },
+        {
+            "text": "\"- Marius & Ann Fields Tulsa, OK",
+            "act": 0.0781867504119873
+        },
+        {
+            "text": "The top four wrestlers in each weight class qualified for the state meet scheduled this Friday and Saturday.",
+            "act": 0.07431264221668243
+        },
+        {
+            "text": "All sponsors will be listed in the state year book.",
+            "act": 0.07409600913524628
+        },
+        {
+            "text": "Gutted that we nearly pulled a miracle and made the Cup final but just about missed out.",
+            "act": 0.07274224609136581
+        },
+        {
+            "text": "The top 10 teams, ranked by GPA, receive academic all-state team honors.",
+            "act": 0.07267102599143982
+        },
+        {
+            "text": "After six games \u2014 all victories \u2014 to start 2013, the Hawks have yielded one power-play goal in 23 times short-handed.",
+            "act": 0.0721854642033577
+        },
+        {
+            "text": "Howard, Clark & Mercer, Douglasville, Glen W. Clark Jr., for Appellee.",
+            "act": 0.0715257078409195
+        },
+        {
+            "text": "I am pleased to congratulate Mr. Trump\n\nI Am Pleased To Congratulate On Behalf Of The People Of Irelandafter Enda Kenny\n\nby Kevin Higgins\n\nDonald J.",
+            "act": 0.07147584855556488
+        },
+        {
+            "text": "The Washington Academy (WA) Raiders boys completed their 2017-18 regular season on Feb. 1 with a 69-53 victory over the John Bapst Crusaders of Bangor.",
+            "act": 0.07092377543449402
+        },
+        {
+            "text": "Super League: Luzern 3-0 Del\u00e9mont\nOuch.",
+            "act": 0.07083997130393982
+        },
+        {
+            "text": "Won the Player of the Month award.",
+            "act": 0.06606335937976837
+        },
+        {
+            "text": "All interns graduate and finish their M.Ed.",
+            "act": 0.06584864854812622
+        },
+        {
+            "text": "They also need to improve a penalty-kill unit that finished 29th in the NHL in 2011-12.",
+            "act": 0.06562391668558121
+        },
+        {
+            "text": "Friday, August 10, 2007\n\nSave the Sharks of Ecuador!",
+            "act": 0.06547603756189346
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.06537388265132904
+        },
+        {
+            "text": "All authors read and approved the final manuscript as submitted.",
+            "act": 0.06347588449716568
+        },
+        {
+            "text": "Their 1907 record of 92\u201358 was the team's best record to that point.",
+            "act": 0.0621214434504509
+        },
+        {
+            "text": "2016 Nova Scotia Scotties Tournament of Hearts\n\nThe 2016 Nova Scotia Scotties Tournament of Hearts, the provincial women's curling championship of Nova Scotia, was held from January 19 to 24 at the Mayflower Curling Club in Halifax.",
+            "act": 0.060606956481933594
+        },
+        {
+            "text": "\u2018\n\nMon Aug 8.",
+            "act": 0.05928956717252731
+        },
+        {
+            "text": "The Flames came to Belfast to face the Giants, as the latter opened their EIHL home season with a 6-4 win.",
+            "act": 0.05614003539085388
+        },
+        {
+            "text": "All authors read and gave their final approval.",
+            "act": 0.05547062307596207
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.05521292984485626
+        },
+        {
+            "text": "After turning professional, he played for the St. Louis Blues in the NHL; the Peoria Rivermen, Chicago Wolves, Milwaukee Admirals, and the Detroit Vipers of the IHL; the Syracuse Crunch of the AHL; and the Chesapeake Icebreakers and Jackson Bandits of the ECHL.",
+            "act": 0.05503186583518982
+        },
+        {
+            "text": "Medicaid is a cooperative federal-state program which provides medical assistance to *962 low income persons.",
+            "act": 0.05492856353521347
+        },
+        {
+            "text": "Both appointees\u2019 terms expire later this year.",
+            "act": 0.05326845496892929
+        },
+        {
+            "text": "Trying to be flashy lost us the Superbowl against Denver in 97-98.",
+            "act": 0.05106822028756142
+        },
+        {
+            "text": "It then passes through Chalk River and enters Canadian Forces Base Petawawa.",
+            "act": 0.0500185489654541
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

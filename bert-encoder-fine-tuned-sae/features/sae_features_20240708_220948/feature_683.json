@@ -1,0 +1,412 @@
+{
+    "index": 683,
+    "label": "Complex and structured texts",
+    "attributes": "Complex sentence structure, Proper grammar, Technical or narrative content, Detailed descriptions",
+    "reasoning": "The texts in the samples share complex sentence structures, proper grammar, and often contain technical, historical, or narrative content. In contrast, the other samples feature conversational language, informal tone, disorganized sentences, and often contain discussions on various topics without structured or technical content. Additionally, the samples include detailed descriptions and information, whereas the other samples contain more casual discourse and fragmented thoughts.",
+    "density": 0.0002894548284386996,
+    "confidence": 26.0,
+    "high_act_samples": [
+        {
+            "text": "FIDDLE",
+            "act": 0.18881410360336304
+        },
+        {
+            "text": "Insert the rod tip into the tip protector and lock the rod handle into the clasp.",
+            "act": 0.12288215756416321
+        },
+        {
+            "text": "I will continue to honor your legacy each day I live.",
+            "act": 0.10407445579767227
+        },
+        {
+            "text": "Olajuwon maintained its architectural and design heritage, including the structure\u2019s spectacular gold-leaf-domed interior and imposing limestone and marble colonnaded exterior.",
+            "act": 0.09831462055444717
+        },
+        {
+            "text": "The posterior branch innervates the anterior and superior auricular and tragus muscles.",
+            "act": 0.0974833220243454
+        },
+        {
+            "text": "Aves, Boavista F.C.",
+            "act": 0.08705133944749832
+        },
+        {
+            "text": "aureus.",
+            "act": 0.07070402055978775
+        },
+        {
+            "text": "Showcases artifacts from historic James Fort.",
+            "act": 0.06166897714138031
+        },
+        {
+            "text": "The LHA divided into two sub-branches; medial and lateral segmental arteries.",
+            "act": 0.06111764907836914
+        },
+        {
+            "text": "Tiba means \"chief\".",
+            "act": 0.05864119529724121
+        },
+        {
+            "text": "The harness's cuirass is muscled to represent classical Greek and Roman armour, and is accompanied by boots that imitate the thong lacing of Roman sandals, with embossed toes to complete the look.In addition to these, there are other pieces of armour and armoured saddles belonging tothat survive to this day.",
+            "act": 0.055665306746959686
+        },
+        {
+            "text": "The medial segmental artery (MSA) supplied the quadrate lobe and anterior region of the left lobe.",
+            "act": 0.05464930087327957
+        },
+        {
+            "text": "I will not endorse any product that I haven't had personal experience with and enjoyed using.",
+            "act": 0.05211261659860611
+        },
+        {
+            "text": "Unlike my husband, I hope to fulfill and carry out this resolution.",
+            "act": 0.05142694711685181
+        },
+        {
+            "text": "And just as a fellow female being, I appreciate those on my side.",
+            "act": 0.05046258121728897
+        },
+        {
+            "text": "The temporal branch divides into an anterior, middle (frontal), and a posterior ramus after it pierces the parotid fascia.",
+            "act": 0.04620850831270218
+        },
+        {
+            "text": "I\u2019ve never known a faith more eager to burn heretics at the stake.",
+            "act": 0.04480048269033432
+        },
+        {
+            "text": "Joseph said Peko (knee), defensive end Derek Wolfe (neck), quarterback Paxton Lynch (ankle) and guard Ron Leary (back) will not play against the Dolphins.",
+            "act": 0.04446321725845337
+        },
+        {
+            "text": "Jawaan Taylor\n\nJawaan Taylor (born November 25, 1997) is an American football offensive tackle for the Jacksonville Jaguars of the National Football League (NFL).",
+            "act": 0.0426475927233696
+        },
+        {
+            "text": "Introduction\n\nThe knee, which is a gliding hinge joint, is the largest synovial joint in the body.",
+            "act": 0.03991570323705673
+        },
+        {
+            "text": "In my years as a doctor I've never wished death upon anyone.",
+            "act": 0.03933551907539368
+        },
+        {
+            "text": "This hotel, club and\nspa is located on 18 acres, offering a peaceful setting nestled in\nnature.",
+            "act": 0.03823533654212952
+        },
+        {
+            "text": "As I have said, I am not a Democrat, and I am not as liberal as people here think I am.",
+            "act": 0.037781693041324615
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.035013630986213684
+        },
+        {
+            "text": "56-acre view parcel enjoys 360-degree panoramic coastline, Channel Island, and majestic mountain views.",
+            "act": 0.0268972497433424
+        },
+        {
+            "text": "The only shoes that have consistently been nice on the eyes,comfortable,and functional are the Prestos.",
+            "act": 0.024534976109862328
+        },
+        {
+            "text": "Hunter Mill Road, which is a major artery through Oakton to this day, served as a key travel way or both Confederate and Union forces.",
+            "act": 0.02341398410499096
+        },
+        {
+            "text": "Restored brick structure is one of only four surviving arcaded court buildings from Colonial Virginia.",
+            "act": 0.022653309628367424
+        },
+        {
+            "text": "Climate\n\nThe climate of Andhra Pradesh is generally hot and humid.",
+            "act": 0.021925335749983788
+        },
+        {
+            "text": "Women, children and the remaining Islamic State men fled from Tal Afar through Kurdish-held territory towards the Turkish border.",
+            "act": 0.021237323060631752
+        },
+        {
+            "text": "It is also a gateway to Medina, the second holiest place in Islam.",
+            "act": 0.02054581604897976
+        },
+        {
+            "text": "Each suite features fan, mini-fridge and hot water shower.",
+            "act": 0.02047473005950451
+        },
+        {
+            "text": "be Support the 2018 NUBAA Commemoration Summit and Salute to Excellence Gala.",
+            "act": 0.017769435420632362
+        },
+        {
+            "text": "; Ribbed cuff.",
+            "act": 0.01739012636244297
+        },
+        {
+            "text": "AFC East | AFC North | AFC South | AFC West\n\nNFC East | NFC North | NFC South | NFC West\n\nMike Rodak, Buffalo Bills reporter: I don't think it makes a whole lot of sense to pick someone other than Tom Brady.",
+            "act": 0.015226900577545166
+        },
+        {
+            "text": "Even though I lost in the semis last year, I crown myself manager of the year.",
+            "act": 0.01486842893064022
+        },
+        {
+            "text": "56-acre view parcel enjoys 360-degree panoramic coastline, Channel Island, and majestic mountain views.",
+            "act": 0.014376429840922356
+        },
+        {
+            "text": "The chewing habit of paan, chhaliya, and tobacco is common in the traditional culture of Pakistan.",
+            "act": 0.013094833120703697
+        },
+        {
+            "text": "Home of President John Tyler, Sherwood Forest is the longest frame dwelling in America and is still owned by Tyler's descendants.",
+            "act": 0.012457458302378654
+        },
+        {
+            "text": "Be that as it may, there is absolutely no excuse for the lack of a Katana figure.",
+            "act": 0.011265547946095467
+        },
+        {
+            "text": "Kitchen was renovated in 2013.",
+            "act": 0.010576879605650902
+        },
+        {
+            "text": "The first true freshman to start at cornerback for Florida State since Deion Sanders, Ramsey made the transition to safety midseason and didn\u2019t miss a beat, finishing with 49 tackles and an INT.",
+            "act": 0.010149775072932243
+        },
+        {
+            "text": "Visitors\u2019 tastes have changed since Undersea Gardens was created.",
+            "act": 0.009213929995894432
+        },
+        {
+            "text": "I don't mean to sound like a curmudgeon but either call the regulation strike zone or change the rule.",
+            "act": 0.008960714563727379
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.007868973538279533
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.007868973538279533
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.007505482062697411
+        },
+        {
+            "text": "Midwest Sec.",
+            "act": 0.007440170273184776
+        },
+        {
+            "text": "Q:\n\nMaple.",
+            "act": 0.0071630533784627914
+        },
+        {
+            "text": "Finally, for $j=3$ we have $$\\begin{aligned}\n\\int_{{\\mathbb{R}}}{\\mathrm{e}}^{-u^*_{\\tau}z\\tau^{\\alpha}}\\left({\\mathrm{e}}^{z\\tau^{\\alpha}}\\wedge1\\right){\\mathrm{e}}^{{\\mathtt{i}}u z}{\\mathrm{d}}z\n&=\\int_{-\\infty}^{0}{\\mathrm{e}}^{-u^*_{\\tau}z\\tau^{\\alpha}}{\\mathrm{e}}^{z\\tau^{\\alpha}}{\\mathrm{e}}^{{\\mathtt{i}}u z}{\\mathrm{d}}z\n+\\int_{0}^{\\infty}{\\mathrm{e}}^{-u^*_{\\tau}z\\tau^{\\alpha}}{\\mathrm{e}}^{{\\mathtt{i}}u z}{\\mathrm{d}}z \\\\\n&=\\left[\\frac{{\\mathrm{e}}^{z\\left({\\mathtt{i}}u-u^*_{\\tau}\\tau^{\\alpha}+\\tau^{\\alpha}\\right)}}\n{\\left({\\mathtt{i}}u-u^*_{\\tau}\\tau^{\\alpha}+\\tau^{\\alpha}\\right)}\\right]_{-\\infty}^{0}\n+\\left[\\frac{{\\mathrm{e}}^{z\\left({\\mathtt{i}}u-u^*_{\\tau}\\tau^{\\alpha}\\right)}}\n{\\left({\\mathtt{i}}u-u^*_{\\tau}\\tau^{\\alpha}\\right)}\\right]_{0}^{\\infty} \n=-C_{\\tau,k,\\alpha}(u),\\end{aligned}$$ which is valid for $0<u^*_{\\tau}(k)<1$.",
+            "act": 0.006484804674983025
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

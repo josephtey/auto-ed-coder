@@ -1,0 +1,412 @@
+{
+    "index": 179,
+    "label": "Structured informational or narrative content",
+    "attributes": "presence of technical or structured content, detailed expositions or event descriptions, inclusion of scientific references, programming code snippets, narrative form",
+    "reasoning": "Upon examining the samples, it's evident that all the samples contain a substantial amount of structured content such as technical information, narratives, lists, programmatic code, or scientific references. Specifically, some samples contain programming code snippets, scientific names, in-depth expositions on certain topics, or narratives detailing events. In contrast, the negative samples are more conversational, informal, and discussion-oriented without such structured content.",
+    "density": 6.168709458529665e-05,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "The Patriots used a trick play -- receiver Danny Amendola threw a pass to running back Dion Lewis -- but Jack ran Lewis down after a 22-yard gain and ripped the ball out of Lewis' grasp as they went to the ground.",
+            "act": 0.1726844757795334
+        },
+        {
+            "text": "-----BEGIN PRIVATE KEY-----\n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\nRV7U7VCPOYmw0cQ3EVODHKcnmsRosMU=\n-----END PRIVATE KEY-----",
+            "act": 0.11731413006782532
+        },
+        {
+            "text": "After surrendering a solo home run to Jacoby Ellsbury to open the game, Samardzija would not allow another run until the fourth inning.",
+            "act": 0.08402799814939499
+        },
+        {
+            "text": "HALF-TIME\n\nJust a few minutes after an inaccurate crossfield pass, Rooney\u2019s half comes to an end with England drawing 0-0 with Norway.",
+            "act": 0.04956270754337311
+        },
+        {
+            "text": "The Jaguars went three-and-out after the turnover, and the Patriots responded with the first of their two fourth-quarter touchdowns.",
+            "act": 0.04201800376176834
+        },
+        {
+            "text": "(2) Xing F, Kong C, Bai L, Qian J, Yuan J, Li Z, Zhang W, Xu JT.",
+            "act": 0.020367195829749107
+        },
+        {
+            "text": "Mr. Zumo isn't of much use as we (still) can not \"tell\" it\nanything.",
+            "act": 0.01757521741092205
+        },
+        {
+            "text": "Kaunisto KM, Roslin T, S\u00e4\u00e4ksj\u00e4rvi IE, Vesterinen EJ.",
+            "act": 0.016660084947943687
+        },
+        {
+            "text": "\"Which one of you is Krebs?\"",
+            "act": 0.014193346723914146
+        },
+        {
+            "text": "On February 1, 1915  the name of the former Yoshimizu station was changed to Horigome station (\u5800\u7c73\u99c5).",
+            "act": 0.01287437416613102
+        },
+        {
+            "text": "On his 68-yard touchdown bomb to Anthony Gonzalez giving the Buckeyes an early 7-0 lead, Smith displayed an unflinching pocket presence and a cannon for an arm.",
+            "act": 0.009129038080573082
+        },
+        {
+            "text": "\" Oh, shit!\"",
+            "act": 0.006360585335642099
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.004240325186401606
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        },
+        {
+            "text": "Besides, we could use some accompaniment for our BeetBox.",
+            "act": 0.0
+        },
+        {
+            "text": "Q:\n\nNullPointerException in getview of custom adapter\n\nI'm getting image from bitmap method and trying to populate the listview.",
+            "act": 0.0
+        },
+        {
+            "text": "But when i call the bitmap function inside getview the nullpointerException error occurs.",
+            "act": 0.0
+        },
+        {
+            "text": "please help me... \nhere is my view Activity class:\npublic class Viewactivity extends Activity{\n\n    TextView tv;\n    ImageView im;\n\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.views);\n\n        ListView mListView = (ListView)findViewById(R.id.listView);\n        //array houlds all images\n        int Images[] = new int[]{\n            R.drawable.confidential,\n            ...     \n            };\n        //array holds all strings to be drawn in the image\n\n        CustomList adaptor = new CustomList(this , Images);\n        mListView.setAdapter(adaptor);\n\n    }\n\n    public Bitmap ProcessingBitmap(int image) {\n        // TODO Auto-generated method stub\n        Bitmap bm1 = null;\n        Bitmap newBitmap = null;\n\n        final String data =getIntent().getExtras().getString(\"keys\");\n        bm1 = ((BitmapDrawable) Viewactivity.this.getResources()\n                .getDrawable(image)).getBitmap();\n        Config config = bm1.getConfig();\n        if(config == null){\n            config = Bitmap.Config.ARGB_8888;\n        }\n\n        newBitmap = Bitmap.createBitmap(bm1.getWidth(), bm1.getHeight(),config);\n        Canvas newCanvas = new Canvas(newBitmap);\n\n        newCanvas.drawBitmap(bm1, 0, 0, null);\n\n        if(data != null){\n            Paint paintText = new Paint(Paint.ANTI_ALIAS_FLAG);\n            paintText.setColor(Color.RED);\n            paintText.setTextSize(300);\n            // paintText.setTextAlign(Align.CENTER);\n            paintText.setStyle(Style.FILL);\n            paintText.setShadowLayer(10f, 10f, 10f, Color.BLACK);\n\n            Rect rectText = new Rect();\n            paintText.getTextBounds(data, 0, data.length(), rectText);\n            paintText.setTextScaleX(1.f);\n\n            newCanvas.drawText(data, \n              0, rectText.height(), paintText);\n\n            Toast.makeText(getApplicationContext(), \n              \"drawText: \" + data, Toast.LENGTH_LONG).show();\n\n        }else{\n            Toast.makeText(getApplicationContext(), \n              \"caption empty!",
+            "act": 0.0
+        },
+        {
+            "text": "\", Toast.LENGTH_LONG).show();\n        }\n        return newBitmap;\n\n    }\n}\n\nthis is my adapter class:\npublic class CustomList extends BaseAdapter{\n\n    Viewactivity act;\n    int[] IMAGES;\n    LayoutInflater inflator;\n    Context sContext;\n    //private String[] TEXTS;\n\n    public CustomList(Context context, int[] images){\n        this.IMAGES = images;\n        //this.TEXTS = texts;\n        this.sContext = context;\n        inflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n    }\n\n    @Override\n    public int getCount() {\n        // TODO Auto-generated method stub\n        return IMAGES.length;\n    }\n\n    @Override\n    public Object getItem(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public long getItemId(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public View getView(int position, View convertView, ViewGroup parent) {\n        // TODO Auto-generated method stub\n        View v = inflator.inflate(R.layout.row_list, parent, false);\n        final ImageView imageView = (ImageView) v.findViewById(R.id.imageView);\n        imageView.setImageBitmap(act.ProcessingBitmap(IMAGES[position]));// line no:52\n        return imageView;\n    }\n}\n\nthis is my logcat:\n12-18 06:16:51.406: E/AndroidRuntime(1388): FATAL EXCEPTION: main\n12-18 06:16:51.406: E/AndroidRuntime(1388): Process: com.emple.example, PID: 1388\n12-18 06:16:51.406: E/AndroidRuntime(1388): java.lang.NullPointerException\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.emple.example.CustomList.getView(CustomList.java:52)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.AbsListView.obtainView(AbsListView.java:2263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.measureHeightOfChildren(ListView.java:1263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.onMeasure(ListView.java:1175)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.measureChild(RelativeLayout.java:689)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.onMeasure(RelativeLayout.java:473)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.widget.ActionBarOverlayLayout.onMeasure(ActionBarOverlayLayout.java:327)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.policy.impl.PhoneWindow$DecorView.onMeasure(PhoneWindow.java:2291)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performMeasure(ViewRootImpl.java:1916)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.measureHierarchy(ViewRootImpl.java:1113)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1295)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1000)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5670)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$CallbackRecord.run(Choreographer.java:761)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doCallbacks(Choreographer.java:574)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doFrame(Choreographer.java:544)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:747)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.handleCallback(Handler.java:733)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.dispatchMessage(Handler.java:95)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Looper.loop(Looper.java:136)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.app.ActivityThread.main(ActivityThread.java:5017)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invokeNative(Native Method)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invoke(Method.java:515)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at dalvik.system.NativeStart.main(Native Method)\n12-18 06:21:51.616: I/Process(1388): Sending signal.",
+            "act": 0.0
+        },
+        {
+            "text": "PID: 1388 SIG: 9\n\nA:\n\nYou haven't initialized your act variable.",
+            "act": 0.0
+        },
+        {
+            "text": "Init it in your adapter constructor.",
+            "act": 0.0
+        },
+        {
+            "text": "Something like:\npublic CustomList(Viewactivitty act, int[] images){\n    this.act = act;\n    this.IMAGES = images;\n    //this.TEXTS = texts;\n    this.sContext = act;\n    inflator = (LayoutInflater)act.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n}",
+            "act": 0.0
+        },
+        {
+            "text": "Syringocystadenoma papilliferum of the cervix presenting as vulvar growth in an adolescent girl.",
+            "act": 0.0
+        },
+        {
+            "text": "Syringocystadenoma papilliferum (SCP) is a rare, benign, adnexal tumour of apocrine or eccrine differentiation.",
+            "act": 0.0
+        },
+        {
+            "text": "It is commonly located on head and neck region.",
+            "act": 0.0
+        },
+        {
+            "text": "We report the case of an 18-year-old woman who presented with a vulvar lobulated growth that was found to arise from the posterior lip of cervix.",
+            "act": 0.0
+        },
+        {
+            "text": "Histopathological examination revealed the diagnosis of SCP.",
+            "act": 0.0
+        },
+        {
+            "text": "To our knowledge, SCP arising from the cervix has never been reported previously in the literature, thus we believe this to be the first case of SCP arising from the posterior lip of the cervix.",
+            "act": 0.0
+        },
+        {
+            "text": "The basic goal of the effective altruism movement is to create efficient philanthropic change by backing programs and innovations that are cost-effective so that each dollar given impacts as many people as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "The underlying tenet is that donor dollars are a limited resource, but dollars are just one of the limiting factors.",
+            "act": 0.0
+        },
+        {
+            "text": "There\u2019s still another major resource that needs to be accounted for: research time.",
+            "act": 0.0
+        },
+        {
+            "text": "There\u2019s a learning curve for calculation-driven cause groups (and donors) to figure out what world-plaguing problems really are the most pressing, what solutions seem the most promising or neglected, and what else might need to be done.",
+            "act": 0.0
+        },
+        {
+            "text": "The problem is there hasn\u2019t been a single resource for accessing all this information in one place.",
+            "act": 0.0
+        },
+        {
+            "text": "To change that, Rethink Priorities, an initiative of the effective altruism awareness and engagement building nonprofit Rethink Charity, has launched Priority Wiki, a publicly editable Wikipedia-like online encyclopedia for cause prioritization wonks.",
+            "act": 0.0
+        },
+        {
+            "text": "It collects and categorizes vetted research around pressing charitable causes and potential interventions.",
+            "act": 0.0
+        },
+        {
+            "text": "\u201cThis is a big problem because thousands of hours are going into this kind of research, and you don\u2019t want people to forget it exists, or maybe try to duplicate efforts, or just not even remember it,\u201d says Peter Hurford, who codeveloped the wiki alongside colleague Marcus Davis.",
+            "act": 0.0
+        },
+        {
+            "text": "\u201cWe\u2019re trying to capture all relevant research under a wide variety of global issues so that everyone can have a go-to spot to get up to speed.\u201d\n\nTo do that, Wiki is organized into six broad types of causes.",
+            "act": 0.0
+        },
+        {
+            "text": "That includes \u201cExistential/Catastrophic Future Risks,\u201d \u201cImproving Research,\u201d \u201cDecisions and Values,\u201d \u201cImproving Policy,\u201d \u201cDeveloping World Health and Economic Development,\u201d \u201cDeveloped World Health and Economic Development,\u201d and \u201cSpecific Scientific Research.\u201d Each entry is then comprised of related topics.",
+            "act": 0.0
+        },
+        {
+            "text": "Under the catastrophe heading, for instance, there\u2019s biosecurity, nuclear security, climate change, and geomagnetic storms.",
+            "act": 0.0
+        },
+        {
+            "text": "As the developers explain in an open letter about their efforts, the wiki is currently populated with a collection of research by effective altruism research organizations including Open Philanthropy, GiveWell, 80,000 Hours, and Animal Charity Evaluators.",
+            "act": 0.0
+        },
+        {
+            "text": "Many of these are formatted in what\u2019s commonly referred to as a \u201cshallow review,\u201d or high-level overview of each issue, and various important statistics and findings.",
+            "act": 0.0
+        },
+        {
+            "text": "\u201cThat gives you a lot of opportunities to dive into the problem and make a more structured way than dumping someone a 60-item reading list,\u201d says Hurford.",
+            "act": 0.0
+        },
+        {
+            "text": "Contributors are already revising the content and sharing data about things the originators hadn\u2019t considered.",
+            "act": 0.0
+        },
+        {
+            "text": "Two recent additions include information about psychedelics and drug reform, and how to prevent or reduce aging-related diseases to extend our natural lifespan.",
+            "act": 0.0
+        },
+        {
+            "text": "Essays\n\nPhilosophers who think everyday morality is objective should examine the evidence, argues Joshua Knobe.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

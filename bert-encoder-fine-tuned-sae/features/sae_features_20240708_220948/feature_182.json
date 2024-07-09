@@ -1,0 +1,412 @@
+{
+    "index": 182,
+    "label": "Informative with historical references",
+    "attributes": "references to historical figures, factual information, formal writing style, mentions of specific events or contributions, academic tone",
+    "reasoning": "Upon analyzing the texts, it becomes clear that the samples share a commonality where the text often references specific historical figures, events, contributions, or achievements. Additionally, the samples are largely informative, factual, and exhibit characteristics of formal or academic writing. Unlike the other samples, they do not contain conversational language, opinionated discourse, or informal tone.",
+    "density": 0.0009822483522428005,
+    "confidence": 40.0,
+    "high_act_samples": [
+        {
+            "text": "Therefore\n\nAnd Jesus answering saith unto them, Have faith in God.",
+            "act": 0.12479263544082642
+        },
+        {
+            "text": "He has been called one of the greatest and most influential African Americans in history.",
+            "act": 0.12039580196142197
+        },
+        {
+            "text": "Along with Henry Vansickle, Charles Putnam, Allen Van Fleet, and the McGee brothers, Bishop was one of the very first white settlers in the valley.",
+            "act": 0.11480312049388885
+        },
+        {
+            "text": "Known to many as \u201cgod of the internet,\u201d he pioneered many research breakthroughs and was at the forefront of systems that support networking today.",
+            "act": 0.10953439772129059
+        },
+        {
+            "text": "James Clinton (soldier)\n\nJames Clinton ( \u2013 24 January 1718) was an Irish soldier and politician who sired the American branch of the prominent Clinton family including 4th Vice President of the United States George Clinton and Revolutionary War Major General James Clinton.",
+            "act": 0.10796312242746353
+        },
+        {
+            "text": "spawned his figure of 20,000 Aborigines killed throughout Australia.",
+            "act": 0.09909690916538239
+        },
+        {
+            "text": "Beyond the \u201cStar Wars\u201d franchise, the signature moment in ILM\u2019s impact on moviemaking hinged on Lucas\u2019 decision to turn the company into a resource for the entire industry \u2014 one that has created \u201csome of the most iconic images that cinema has ever seen\u201d and \u201crevolutionized\u201d the business, as the narration by Tom Cruise puts it.",
+            "act": 0.0964445099234581
+        },
+        {
+            "text": "In between winning the Apple Design Award and travelling around the world, Lee co-founded Tapulous, makers of the first popular iPhone game.",
+            "act": 0.09187066555023193
+        },
+        {
+            "text": "Particularly in SA2, he was at his peak.",
+            "act": 0.09140932559967041
+        },
+        {
+            "text": "Trying in his own strength, just led to death.",
+            "act": 0.09015074372291565
+        },
+        {
+            "text": "The sex ratio was 0.8892.",
+            "act": 0.0849895030260086
+        },
+        {
+            "text": "if Jesus had our lives to live.\u201d And Jesus is supposed to have our lives to live.",
+            "act": 0.08214681595563889
+        },
+        {
+            "text": "The age of the patients ranged from 43 years to 77 years; the average age was 63 years.",
+            "act": 0.07425596565008163
+        },
+        {
+            "text": "All have sinned.",
+            "act": 0.07195436954498291
+        },
+        {
+            "text": "years got saved,\ngloriously saved.",
+            "act": 0.07079381495714188
+        },
+        {
+            "text": "John Russell described: \u201cBacon wrenched, reversed, abbreviated, jellified and generally reinvented the human image.",
+            "act": 0.0703389048576355
+        },
+        {
+            "text": "After each choice, participants were shown feedback about the other players' decisions and resulting payouts.",
+            "act": 0.06900286674499512
+        },
+        {
+            "text": "The community takes its name from a nearby creek of the same name, which most likely was named after the local Mack or Hack family.",
+            "act": 0.06742888689041138
+        },
+        {
+            "text": "\u201cWe lost a lot of people who developed the expertise over the years to reach kids at their various learning styles,\u201d says John Matthews, who led Madison\u2019s teachers\u2019 union for 48 years.",
+            "act": 0.06658580154180527
+        },
+        {
+            "text": "Then Pakistani squad disabled the telephone and telegraph lines.",
+            "act": 0.06634387373924255
+        },
+        {
+            "text": "Home of President John Tyler, Sherwood Forest is the longest frame dwelling in America and is still owned by Tyler's descendants.",
+            "act": 0.06512532383203506
+        },
+        {
+            "text": "Kumar is a veteran of Silicon Valley, having worked at Google, Microsoft, Dell, and McKinsey.",
+            "act": 0.06222433224320412
+        },
+        {
+            "text": "ZINGANO, Marco.",
+            "act": 0.06119455769658089
+        },
+        {
+            "text": "First American settlers \nThe first American explorers in the Owens Valley of Eastern California included the famous mountain men Jedediah Smith in 1826 and Joseph Walker in 1834.",
+            "act": 0.061176832765340805
+        },
+        {
+            "text": "Got it.",
+            "act": 0.0607539527118206
+        },
+        {
+            "text": "Apple CEO Tim Cook has called augmented reality \u201cincredibly interesting\u201d in the past.",
+            "act": 0.058004509657621384
+        },
+        {
+            "text": "ANGIONI, Lucas.",
+            "act": 0.056933365762233734
+        },
+        {
+            "text": "The community was named after one Mr. Preston, the proprietor of a local mill.",
+            "act": 0.056338611990213394
+        },
+        {
+            "text": "Career\nAfter the war, Fontaine inherited his father's plantations and managed them, becoming a planter in his own right.",
+            "act": 0.05545899644494057
+        },
+        {
+            "text": "Trump has made his wealth in business ventures over the course of 40 years.",
+            "act": 0.05534966662526131
+        },
+        {
+            "text": "Lee et al.",
+            "act": 0.0551421158015728
+        },
+        {
+            "text": "By 1862, a frontier settlement (and later town), known as Bishop Creek, was established a couple of miles east of the San Francis Ranch.",
+            "act": 0.05514106899499893
+        },
+        {
+            "text": "Following Dyer\u2019s passing, Bacon launched into a series of epic eulogies that would lead into his Black Triptychs, which bespeak the artist\u2019s immeasurable loss and grief.",
+            "act": 0.05477133020758629
+        },
+        {
+            "text": "Fremont lost a cannon that he had brought along in case of Indian attacks somewhere near present-day Bridgeport, California (about 80 miles north of Bishop).",
+            "act": 0.05305390805006027
+        },
+        {
+            "text": "Lee et al.",
+            "act": 0.05224200710654259
+        },
+        {
+            "text": "His 17-year coaching career ended when Person was ensnared in a college recruitment scandal and pleaded guilty to a bribery charge.",
+            "act": 0.052083250135183334
+        },
+        {
+            "text": "Prior to his judicial service, Taylor was a lawyer in Ingham County, where he practiced for 20 years with the final 16 as a partner in the firm of Denfield, Timmer and Taylor.",
+            "act": 0.05188993364572525
+        },
+        {
+            "text": "Pavao's actions led to a revolt among the Croatian nobility, who successfully reached out to King Charles to help them remove Pavao.",
+            "act": 0.051802169531583786
+        },
+        {
+            "text": "We therefore tested whether neural activity during choice reflected expectations about others' cooperation.",
+            "act": 0.050926584750413895
+        },
+        {
+            "text": "So will you.",
+            "act": 0.05088179185986519
+        },
+        {
+            "text": "God says His word is settled forever in heaven.",
+            "act": 0.050727199763059616
+        },
+        {
+            "text": "Andert went on to become one of the top officials at St. John's Abbey.",
+            "act": 0.050204087048769
+        },
+        {
+            "text": "Clinton's camp, meantime, tried to convince them to hold off.",
+            "act": 0.04902355745434761
+        },
+        {
+            "text": "*520 The arbitration proceeding instituted by Cheyenne included Sletten and Exber; Garcia later joined therein.",
+            "act": 0.046317122876644135
+        },
+        {
+            "text": "The items were related to the level of agreement about students' views on mathematics.",
+            "act": 0.04509701952338219
+        },
+        {
+            "text": "While working for the County, Mr. Eberle sustained a serious knee injury which resulted in the filing of a workers' compensation claim and the payment of temporary total disability benefits.",
+            "act": 0.04453038051724434
+        },
+        {
+            "text": "Open the eyes of our hearts to see Christ, receive Christ, and enjoy Christ.",
+            "act": 0.044132549315690994
+        },
+        {
+            "text": "The most renowned early explorer to visit the area was John C. Fremont.",
+            "act": 0.04331604763865471
+        },
+        {
+            "text": "Hispanic or Latino of any race were 0.37% of the population.",
+            "act": 0.04194016009569168
+        },
+        {
+            "text": "He was his chief legal counsel and one of his confidantes.",
+            "act": 0.03867281228303909
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

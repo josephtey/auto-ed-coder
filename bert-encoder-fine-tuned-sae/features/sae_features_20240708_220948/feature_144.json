@@ -1,0 +1,412 @@
+{
+    "index": 144,
+    "label": "Scientific and bird-related content",
+    "attributes": "mention specific bird species, detailed scientific descriptions, nature-related terminology",
+    "reasoning": "Upon reviewing the samples in both categories, the most specific attribute that is shared by all texts in the samples and none of the other samples is the mention of specific bird species and detailed scientific or nature-related descriptions. The samples include specific bird names, bird species, detailed biological terms, and descriptions of specific natural phenomena or entities. This distinct focus on birds and detailed explanations relevant to nature or science is absent from the other samples.",
+    "density": 0.0006690677181943712,
+    "confidence": 58.0,
+    "high_act_samples": [
+        {
+            "text": "If you like this article, please give it a thumb up in Stumbleupon.",
+            "act": 0.1454329639673233
+        },
+        {
+            "text": "Flock action was good as well, and we eventually tallied Waved and Golden-collared woodpeckers, Curve-billed Scythebill, Ash-winged Antwren, Olive-green Tyrannulet, Guianan Tyrannulet, Short-tailed Pygmy-Tyrant, Yellow-throated Flycatcher, and a male Glossy-backed Becard, along with Red-billed Pied-Tanager and numerous other tanagers, dacnis, and honeycreepers.",
+            "act": 0.1295175552368164
+        },
+        {
+            "text": "Visiting during nesting season (late November through late July), one can expect to see brown pelican, wood storks, white ibises, black-crowned night herons, double-crested cormorants, reddish, snowy, and great egrets, and great blue, little blue and tricolored herons.",
+            "act": 0.12418904900550842
+        },
+        {
+            "text": "Any information is welcome.",
+            "act": 0.1222287118434906
+        },
+        {
+            "text": "In the 1800s, the Swedish botanist Carl Linnaeus named the genus Tropaeolaceae, which included nasturtium, after the Latin work tropaeolum, meaning trophy.",
+            "act": 0.110345259308815
+        },
+        {
+            "text": "Please advise what you would suggest.",
+            "act": 0.10568425059318542
+        },
+        {
+            "text": "\u2018You\u2019re\nmost welcome.",
+            "act": 0.10073190927505493
+        },
+        {
+            "text": "We find consistently that the sites that change at the chromatin and RNA level belong to specific subsets of ERVKs including ETns, and we found that these ERVK subfamilies are also bound by Spen RRMs in multiple cell lines and conditions (Spen FL and RRM-FLAG).",
+            "act": 0.08980335295200348
+        },
+        {
+            "text": "We recommend reading each review carefully.",
+            "act": 0.08278203755617142
+        },
+        {
+            "text": "GUIANAN TYRANNULET(Zimmerius acer)\n\nAMAZONIAN TYRANNULET(Inezia subflava)\n\nSHORT-TAILED PYGMY-TYRANT(Myiornis ecaudatus)\n\nDOUBLE-BANDED PYGMY-TYRANT(Lophotriccus vitiosus)\n\nSNETHLAGE'S TODY-TYRANT(Hemitriccus minor pallens)\n\nTODY-TYRANT SP.",
+            "act": 0.0787322074174881
+        },
+        {
+            "text": "Okay,\nI exaggerate.",
+            "act": 0.07248064130544662
+        },
+        {
+            "text": "OLIVACEOUS WOODCREEPER(Sittasomus griseicapillus)\n\nLONG-TAILED WOODCREEPER(Deconychura longicauda)\n\nWHITE-CHINNED WOODCREEPER(Dendrocincla merula)\n\nPLAIN-BROWN WOODCREEPER(Dendrocincla fuliginosa)\n\nWEDGE-BILLED WOODCREEPER(Glyphorynchus spirurus)\n\nLONG-BILLED WOODCREEPER(Nasica longirostris)\u2013 This elegant bird may reach into some deep holes to catch insects using that long bill.",
+            "act": 0.07220382988452911
+        },
+        {
+            "text": "Accordingly, I respectfully dissent.",
+            "act": 0.06521821022033691
+        },
+        {
+            "text": "Further down the track, we hit a nice mixed-species canopy flock with a very cooperative Guianan Woodcreeper, Spot-backed Antwren, Mouse-colored Antshrike, Slaty-capped Shrike-Vireo, and a pair of Pink-throated Becards.",
+            "act": 0.06481767445802689
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.06470164656639099
+        },
+        {
+            "text": "The three forms of M-CSF are translated from different mRNA precursors, which encode polypeptide monomers of 256 to 554 amino acids, having a 32 amino acid signal sequence at the amino terminal and a putative transmembrane region of approximately 23 amino acids near the carboxyl terminal.",
+            "act": 0.0643216073513031
+        },
+        {
+            "text": "They also find that the disc is somewhat lopsided and has not yet become circular.",
+            "act": 0.06415776163339615
+        },
+        {
+            "text": "Please advise.",
+            "act": 0.06321170926094055
+        },
+        {
+            "text": "During meiosis, the SC mediates synapsis of homologous chromosomes.",
+            "act": 0.062195733189582825
+        },
+        {
+            "text": "Please seek legal advice for all topics you wish to follow on with.",
+            "act": 0.06127290427684784
+        },
+        {
+            "text": "PEARLY ANTSHRIKE(Megastictus margaritatus)\n\nDUSKY-THROATED ANTSHRIKE(Thamnomanes ardesiacus)\n\nCINEREOUS ANTSHRIKE(Thamnomanes caesius)\u2013 Widespread over the Amazon, this bird is a nuclear species in the understory mixed species flocks.",
+            "act": 0.06049260497093201
+        },
+        {
+            "text": "(By the way, I can see how many of you click on those links.",
+            "act": 0.058402009308338165
+        },
+        {
+            "text": "Click New.",
+            "act": 0.054478637874126434
+        },
+        {
+            "text": "\"H. CLAY EVANS\n\nClick tabs to swap between content that is broken into logical sections.",
+            "act": 0.05447071045637131
+        },
+        {
+            "text": "Ruminiclostridium cellulolyticum and Lachnoclostridium phytofermentans are cellulolytic clostridia either producing extracellular multienzymatic complexes termed cellulosomes or secreting free cellulases respectively.",
+            "act": 0.05423127859830856
+        },
+        {
+            "text": "The 14q32 chromosomal band uniquely contains a very large cluster (\\>100) of non-coding RNAs, including snoRNAs, microRNAs, and long non-coding RNAs, which is the largest known miRNA cluster in the genome (54 miRNAs).",
+            "act": 0.05413568764925003
+        },
+        {
+            "text": "Here's an oversimplification of the strange setup: In all living cells, ribosomes are broken up into two independently floating parts.",
+            "act": 0.053881045430898666
+        },
+        {
+            "text": "Charadriidae (Plovers and Lapwings)\n\nPIED LAPWING(Vanellus cayanus)\n\nSOUTHERN LAPWING(Vanellus chilensis)\n\nJacanidae (Jacanas)\n\nWATTLED JACANA(Jacana jacana)\n\nScolopacidae (Sandpipers and Allies)\n\nHUDSONIAN GODWIT(Limosa haemastica)\n\nWHITE-RUMPED SANDPIPER(Calidris fuscicollis)\n\nSOUTH AMERICAN SNIPE(Gallinago paraguaiae)\n\nSPOTTED SANDPIPER(Actitis macularius)\n\nSOLITARY SANDPIPER(Tringa solitaria)\n\nLaridae (Gulls, Terns, and Skimmers)\n\nYELLOW-BILLED TERN(Sternula superciliaris)\n\nLARGE-BILLED TERN(Phaetusa simplex)\u2013 Common along the rivers.",
+            "act": 0.053381986916065216
+        },
+        {
+            "text": "In the first episode, Bugs openly admits that Daffy is his best friend, despite his faults.",
+            "act": 0.05266091227531433
+        },
+        {
+            "text": "Caprimulgidae (Nightjars and Allies)\n\nSHORT-TAILED NIGHTHAWK(Lurocalis semitorquatus)\n\nBAND-TAILED NIGHTHAWK(Nyctiprogne leucopyga)\n\nBLACKISH NIGHTJAR(Nyctipolus nigrescens)\n\nCOMMON PAURAQUE(Nyctidromus albicollis)\n\nLADDER-TAILED NIGHTJAR(Hydropsalis climacocerca)\u2013 We saw a female incubating her egg at Marchantaria island.",
+            "act": 0.05230709910392761
+        },
+        {
+            "text": "11\nThe Department of Labor has been hesitant to create per se rules as to what constitutes unforeseen business circumstances, and encourages a case-by-case examination of the facts.",
+            "act": 0.05149572715163231
+        },
+        {
+            "text": "SYCE3 is strongly conserved among mammals and localizes to the central element (CE) of the SC.",
+            "act": 0.0510982908308506
+        },
+        {
+            "text": "Your suggestions for filling in the blanks are most welcome.",
+            "act": 0.04779383912682533
+        },
+        {
+            "text": "Click New.",
+            "act": 0.04551056772470474
+        },
+        {
+            "text": "I read your blog when I see a link that goes by that looks interesting.",
+            "act": 0.04528133571147919
+        },
+        {
+            "text": "If you have an account, please login before commenting.",
+            "act": 0.04393070191144943
+        },
+        {
+            "text": "With regard to the meaning of the present passage, it is proper to observe, that the whole Gospel consists of two parts, \u2014 forgiveness of sins, and repentance Now, as Matthew denominates\nthe first of these the kingdom of heaven, we may conclude, that men are in a state of deadly enmity with God, and altogether shut out from the heavenly kingdom, till\nGod receives them into favor.",
+            "act": 0.04341914504766464
+        },
+        {
+            "text": "We recommend that you seek individual advice before acting on any information in this site.",
+            "act": 0.04305361956357956
+        },
+        {
+            "text": "If you wish to purchase our services, please do not rely solely on the information in this website.",
+            "act": 0.04203609377145767
+        },
+        {
+            "text": "* M. haemovis\" infect reproductive tissues and undergo transplacental transmission during pregnancy in small ruminants.",
+            "act": 0.04190932214260101
+        },
+        {
+            "text": "During the American Civil War of 1861-1865, he joined the Confederate States Army and served as a private and aide-de-camp.",
+            "act": 0.04166264086961746
+        },
+        {
+            "text": "BLACK-THROATED TROGON(Trogon rufus)\n\nMomotidae (Motmots)\n\nAMAZONIAN MOTMOT(Momotus momota)[*]\n\nAlcedinidae (Kingfishers)\n\nRINGED KINGFISHER(Megaceryle torquata)\n\nAMAZON KINGFISHER(Chloroceryle amazona)\n\nGREEN KINGFISHER(Chloroceryle americana)\n\nGREEN-AND-RUFOUS KINGFISHER(Chloroceryle inda)\n\nAMERICAN PYGMY KINGFISHER(Chloroceryle aenea)\n\nBucconidae (Puffbirds)\n\nWHITE-NECKED PUFFBIRD(Notharchus hyperrhynchus)\u2013 Replaces Guianan Puffbird on the west of the Negro river.",
+            "act": 0.04095322638750076
+        },
+        {
+            "text": "I respectfully dissent.",
+            "act": 0.039456289261579514
+        },
+        {
+            "text": "The authors identify that RRM3 domain of SPEN is responsible for binding to ERV and insertion of ERV into an A-repeat deficient *Xist* can rescue binding of *Xist* RNA to SPEN, which result in local gene silencing.",
+            "act": 0.03941406309604645
+        },
+        {
+            "text": ";; Mozilla Extensions\n-moz-appearance\n-moz-background-clip\n-moz-background-inline-policy\n-moz-background-origin\n-moz-background-size\n-moz-binding\n-moz-border-bottom-colors\n-moz-border-image\n-moz-border-left-colors\n-moz-border-radius\n-moz-border-radius-bottomleft\n-moz-border-radius-bottomright\n-moz-border-radius-topleft\n-moz-border-radius-topright\n-moz-border-right-colors\n-moz-border-top-colors\n-moz-box-align\n-moz-box-direction\n-moz-box-flex\n-moz-box-flexgroup\n-moz-box-ordinal-group\n-moz-box-orient\n-moz-box-pack\n-moz-box-shadow\n-moz-box-sizing\n-moz-column-count\n-moz-column-gap\n-moz-column-rule\n-moz-column-rule-color\n-moz-column-rule-style\n-moz-column-rule-width\n-moz-column-width\n-moz-opacity\n-moz-transform\n-moz-transform-origin\n-moz-transition\n-moz-transition-delay\n-moz-transition-duration\n-moz-transition-property\n-moz-transition-timing-function\n-moz-user-select\n\n;*2\n-moz-mac-unified-toolbar\n-moz-none\n-moz-win-borderless-glass\n-moz-win-browsertabbar-toolbox\n-moz-win-communications-toolbox\n-moz-win-glass\n-moz-win-media-toolbox\nAliceBlue\nAntiqueWhite\nAqua\nAquamarine\nAzure\nBeige\nBisque\nBlack\nBlanchedAlmond\nBlue\nBlueViolet\nBrown\nBurlyWood\nCadetBlue\nChartreuse\nChocolate\nCoral\nCornflowerBlue\nCornsilk\nCrimson\nCyan\nDarkBlue\nDarkCyan\nDarkGoldenrod\nDarkGray\nDarkGreen\nDarkGrey\nDarkKhaki\nDarkMagenta\nDarkOliveGreen\nDarkOrange\nDarkOrchid\nDarkRed\nDarkSalmon\nDarkSeaGreen\nDarkSlateBlue\nDarkSlateGray\nDarkSlateGrey\nDarkTurquoise\nDarkViolet\nDeepPink\nDeepSkyBlue\nDimGray\nDimGrey\nDodgerBlue\nFireBrick\nFloralWhite\nForestGreen\nFuchsia\nGainsboro\nGhostWhite\nGold\nGoldenrod\nGray\nGreen\nGreenYellow\nGrey\nHoneydew\nHotPink\nIndianRed\nIndigo\nIvory\nKhaki\nLavender\nLavenderBlush\nLawnGreen\nLemonChiffon\nLightBlue\nLightCoral\nLightCyan\nLightGoldenrodYellow\nLightGray\nLightGreen\nLightGrey\nLightPink\nLightSalmon\nLightSeaGreen\nLightSkyBlue\nLightSlateGray\nLightSlateGrey\nLightSteelBlue\nLightYellow\nLime\nLimeGreen\nLinen\nMagenta\nMaroon\nMediumAquamarine\nMediumBlue\nMediumOrchid\nMediumPurple\nMediumSeaGreen\nMediumSlateBlue\nMediumSpringGreen\nMediumTurquoise\nMediumVioletRed\nMidnightBlue\nMintCream\nMistyRose\nMoccasin\nNavajoWhite\nNavy\nOldLace\nOlive\nOliveDrab\nOrange\nOrangeRed\nOrchid\nPaleGoldenrod\nPaleGreen\nPaleTurquoise\nPaleVioletRed\nPapayaWhip\nPeachPuff\nPeru\nPink\nPlum\nPowderBlue\nPurple\nRed\nRosyBrown\nRoyalBlue\nSaddleBrown\nSalmon\nSandyBrown\nSeaGreen\nSeaShell\nSienna\nSilver\nSkyBlue\nSlateBlue\nSlateGray\nSlateGrey\nSnow\nSpringGreen\nSteelBlue\nTan\nTeal\nThistle\nTomato\nTurquoise\nViolet\nWheat\nWhite\nWhiteSmoke\nYellow\nYellowGreen\nall\nauto\nbaseline\nborder\nborder-box\nbottom\nbounding-box\nbutton\ncenter\ncheckbox\ncheckbox-container\ncheckbox-small\ncontain\ncontent\ncontent-box\ncontinuous\ncover\ncubic-bezier\ncurrentColor\ndashed\ndialog\ndotted\ndouble\neach-box\nease\nease-in\nease-in-out\nease-out\nend\nflavor\ngroove\nhidden\nhorizontal\ninherit\ninitial\ninset\njustify\nleft\nlinear\nlistbox\nmatrix\nmedium\nmenuitem\nmenulist\nmenulist-button\nmenulist-textfield\nmenupopup\nnone\nnormal\noutset\npadding\npadding-box\nprogressbar\nradio\nradio-container\nradio-small\nresizer\nreverse\nridge\nright\nrotate\nscaleY\nscrollbarbutton-down\nscrollbarbutton-left\nscrollbarbutton-right\nscrollbarbutton-up\nscrollbartrack-horizontal\nscrollbartrack-vertical\nseparator\nskewY\nsolid\nstart\nstatusbar\nstretch\ntab\ntabpanels\ntext\ntextfield\nthick\nthin\ntoolbar\ntoolbarbutton\ntoolbox\ntooltip\ntop\ntranslateY\ntransparent\ntreeheadercell\ntreeheadersortarrow\ntreeitem\ntreetwistyopen\ntreeview\ntreewisty\nvertical\nwindow",
+            "act": 0.038809098303318024
+        },
+        {
+            "text": "At Las Vegas last week, Earnhardt likely would have finished in the bottom half of the top 10 had he not gambled late in the race on track position by not pitting during the final caution flag of the race.",
+            "act": 0.038488250225782394
+        },
+        {
+            "text": "In humans, the TLR family includes 10 transmembrane proteins that play a crucial role in host defense: they recognize molecular characteristics of microorganisms, known as pathogen-associated molecular patterns (PAMPs) highly conserved between different classes of microorganisms.",
+            "act": 0.03799504041671753
+        },
+        {
+            "text": "His father, John Fontaine (1792-1866), had served as the Mayor of Columbus from 1836 to 1837, and he was a planter.",
+            "act": 0.03660406544804573
+        },
+        {
+            "text": "In the same paragraph, the plurality states that trial judges may insure that proceedings are orderly, without unnecessary interruptions and delays.",
+            "act": 0.03640691936016083
+        },
+        {
+            "text": "SHINY COWBIRD(Molothrus bonariensis)\n\nGIANT COWBIRD(Molothrus oryzivorus)\n\nORIOLE BLACKBIRD(Gymnomystax mexicanus)\n\nFringillidae (Finches, Euphonias, and Allies)\n\nPLUMBEOUS EUPHONIA(Euphonia plumbea)\n\nGOLDEN-BELLIED EUPHONIA(Euphonia chrysopasta)\n\nGOLDEN-SIDED EUPHONIA(Euphonia cayennensis)\u2013 A male seen from the ZF-2 INPA tower.",
+            "act": 0.03590371459722519
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

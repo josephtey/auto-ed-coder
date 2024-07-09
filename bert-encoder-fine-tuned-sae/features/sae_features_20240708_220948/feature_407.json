@@ -1,0 +1,412 @@
+{
+    "index": 407,
+    "label": "Structured factual statements with specifics",
+    "attributes": "contain specific names, dates, places, or events, structured and formatted to present clear information, factual in nature",
+    "reasoning": "The texts that are within the specified tags contain factual information, names, dates, places, or events. They often include specific names of people, locations, or objects and can frequently be associated with events such as openings, reports, games, or historical details. Moreover, these texts are structured and formatted to present clear and direct pieces of information. On the other hand, texts in the other tags contain casual conversations, opinions, and arguments without structured or factual data presentation.",
+    "density": 0.004972928855799298,
+    "confidence": 50.0,
+    "high_act_samples": [
+        {
+            "text": "Boronia Heights State School opened on 29 January 1990.",
+            "act": 0.24805091321468353
+        },
+        {
+            "text": "Education\n\nThe Boronia Heights State School, a government primary (P-6) school, is located at 194 Middle Road ().",
+            "act": 0.2469109147787094
+        },
+        {
+            "text": "This home is also serviced by Guildford Park Secondary.",
+            "act": 0.24541182816028595
+        },
+        {
+            "text": "Boronia Heights was gazetted as a suburb in October 1991 and was named after the first residential housing estate in the area.",
+            "act": 0.2310842126607895
+        },
+        {
+            "text": "Scott Parnell, general manager of the Port Hope Area Initiative, stands near the town's harbour.",
+            "act": 0.2262958437204361
+        },
+        {
+            "text": "REPRESENTATIVE Queensland U20s Halfback: Jake Clifford\n\nQueensland U20s halfback and man of the match, Jake Clifford, speaks with QRL Media after the U20s State of Origin win.",
+            "act": 0.20082788169384003
+        },
+        {
+            "text": "James Neesham entered the attack and 81 for three became 81 for four as Marcus Stoinis was caught behind, before Neesham held a one-handed caught and bowled just above the grass to get rid of Glenn Maxwell.",
+            "act": 0.19885879755020142
+        },
+        {
+            "text": "Australian Medical Association federal councillor Dr Antonio Di Dio described both Lucas and Burrow's actions as irresponsible.",
+            "act": 0.19775927066802979
+        },
+        {
+            "text": "Ashford Emmanuel Inkumsah\n\nAshford Emmanuel Inkumsah was a Ghanaian chemist and politician.",
+            "act": 0.1951410323381424
+        },
+        {
+            "text": "Boronia Heights, Queensland\n\nBoronia Heights is a suburb of Logan City, Queensland, Australia.",
+            "act": 0.1892150193452835
+        },
+        {
+            "text": "Sydney Missionary and Bible College\n\nSydney Missionary and Bible College (SMBC) is an independent, evangelical interdenominational Bible college in Sydney, New South Wales, Australia.",
+            "act": 0.1866960972547531
+        },
+        {
+            "text": "Jarrell Cove is a WA state park and has a dock, campground with full\nfacilities.",
+            "act": 0.18650199472904205
+        },
+        {
+            "text": "Western Australia coach and former Australia batsman Justin Langer has touted Mitchell Marsh as an Australia captain of the future, while declaring the national selectors should include him in the team for the third Ashes Test in Perth on what is likely to be a pancake flat WACA Ground pitch.",
+            "act": 0.18070565164089203
+        },
+        {
+            "text": "Her football career has only continued to build since then and in 2018, she was selected in the South Australian Under-18 state football team and named in Woodville-West Torrens Football Club inaugural SANFLW team.",
+            "act": 0.1774483174085617
+        },
+        {
+            "text": "Mrs.Prema and Mrs.Arivukkarasi have sung Science songs.",
+            "act": 0.1726350486278534
+        },
+        {
+            "text": "The place is famous for hiking a swell at the Blue Pearl Bay and Dolphin Point.",
+            "act": 0.16476334631443024
+        },
+        {
+            "text": "Glanmire Garden Fencing and Precast manufacture top quality quality timber fencing at worth for funds prices.",
+            "act": 0.1604895144701004
+        },
+        {
+            "text": "C\u00e9sar Andrade\n\nCesar Andrade is a Brazilian professional vert skater.",
+            "act": 0.15957440435886383
+        },
+        {
+            "text": "Empress Gifty\n\nEmpress Gifty (used to be called Empress Gifty Osei) is an award-winning Ghanaian gospel musician and fashionista.",
+            "act": 0.15936192870140076
+        },
+        {
+            "text": "Main Street and Roys Street will be closed for the event.",
+            "act": 0.15781894326210022
+        },
+        {
+            "text": "Public Schools : This home is serviced by Lena Shaw Elementary.",
+            "act": 0.15766900777816772
+        },
+        {
+            "text": "Quality Payment Scheme (QPS) 2017\n\nUnder the new community pharmacy contract the government announced a Quality Payment Scheme (QPS) for community pharmacies.",
+            "act": 0.15626631677150726
+        },
+        {
+            "text": "Guildford Park Secondary has a rating of 4/10.",
+            "act": 0.15475742518901825
+        },
+        {
+            "text": "Other places to explore at Bora Bora include the Mount Otemanu and the beautiful Vanilla Bean Farm having the perfect backdrop.",
+            "act": 0.14491672813892365
+        },
+        {
+            "text": "The cam shows a live stream of Cairns inner city and includes views of the Cairns Marina, Reef Fleet Terminal, Casino, Cairns Esplanade & Parklands.",
+            "act": 0.1440696269273758
+        },
+        {
+            "text": "Albert Anae was a teammate of Toua\u2019s at the Reds.",
+            "act": 0.14332136511802673
+        },
+        {
+            "text": "\u03b1-mouse Alexafluor-488 and Alexafluor-568 antibodies were used as secondary antibodies.",
+            "act": 0.14102382957935333
+        },
+        {
+            "text": "Under the direction of Sydney Little, \"The Concrete King\", the reservoir was constructed between 1929 and 1932 .",
+            "act": 0.13963726162910461
+        },
+        {
+            "text": "The national language of Malaysia---Malay language is identified as the main language in teaching and learning, whereas Singapore chose the international language---English to be the teaching and learning medium though Singapore has four national languages: English, Malay, Chinese, and Tamil.",
+            "act": 0.13608033955097198
+        },
+        {
+            "text": "Elder Butler moans.",
+            "act": 0.1341530829668045
+        },
+        {
+            "text": "FORMER rugby league champions and current NSW selectors last night described player manager Khoder Nasser as \"un-Australian\" and an \"absolute disgrace\" for his criticism of former Test captain Laurie Daley.",
+            "act": 0.13263607025146484
+        },
+        {
+            "text": "PITCH REPORT\n\nThe match played in the Adelaide Oval, there is no possibility of rain inside this match.",
+            "act": 0.13262532651424408
+        },
+        {
+            "text": "pico-mountain-azores\n\nMt.",
+            "act": 0.13097409904003143
+        },
+        {
+            "text": "The measure is co-sponsored by senators Marco Rubio, a Florida Republican, Johnny Isakson, a Georgia Republican, and Jon Tester, a Montana Democrat.",
+            "act": 0.1305498629808426
+        },
+        {
+            "text": "The scrum half will be playing for the Brumbies.",
+            "act": 0.12958848476409912
+        },
+        {
+            "text": "Amenities\nThe Boronia Bushland Reserve offers opportunities for bushwalking, barbecues and picnics.",
+            "act": 0.12873856723308563
+        },
+        {
+            "text": "References\n\nExternal links \n Sydney Missionary and Bible College\n\nCategory:Seminaries and theological colleges in New South Wales\nCategory:Education in Sydney\nCategory:Bible colleges\nCategory:Educational institutions established in 1916\nCategory:Australian College of Theology",
+            "act": 0.12866665422916412
+        },
+        {
+            "text": "\u2014 Matthew Sheffield",
+            "act": 0.1285068839788437
+        },
+        {
+            "text": "\u201cThe Prime Minister\u2019s statement was disgraceful,\u201d said opposition Labour lawmaker Lisa Nandy, who represents a Brexit-supporting area.",
+            "act": 0.12763914465904236
+        },
+        {
+            "text": "Kragbron\n\nTaaibos Lifestyle Estate is a new developing estate in the Free State province of South Africa and part of the Metsimaholo Local Municipality.",
+            "act": 0.12671782076358795
+        },
+        {
+            "text": "No 6B Cathedral Street lies within one of the most photographed streets in Scotland.",
+            "act": 0.12656158208847046
+        },
+        {
+            "text": "History\n\nGenalta station opened as Belair Road.",
+            "act": 0.12618239223957062
+        },
+        {
+            "text": "The core sections were built in 1932 and extensions were added on in 1954 and 1962.",
+            "act": 0.12560102343559265
+        },
+        {
+            "text": "It is a not-for-profit, public corporation.",
+            "act": 0.12483028322458267
+        },
+        {
+            "text": "She picked up several awards along the way and was named in the Woodville-West Torrens Football Club Under-15 talent squad.",
+            "act": 0.12374090403318405
+        },
+        {
+            "text": "We are member led and run on democratic lines \u2013 1 member: 1 vote.",
+            "act": 0.12363863736391068
+        },
+        {
+            "text": "Pico, the tallest point in the Atlantic Ocean.",
+            "act": 0.123054139316082
+        },
+        {
+            "text": "The Times of Swaziland, the kingdom\u2019s only independent newspaper, reports that Minister of Justice and Constitutional Affairs Ndumiso Mamba resigned \u2018following certain allegations circulating in the country and internationally\u2019.",
+            "act": 0.12249920517206192
+        },
+        {
+            "text": "Sabah\u2013Sarawak Gas Pipeline\n\nSabah\u2013Sarawak Gas Pipeline (SSGP) is a 500 kilometre Malaysian natural gas pipeline that linked Kimanis in Sabah to Bintulu in Sarawak.",
+            "act": 0.12209483236074448
+        },
+        {
+            "text": "Located not far from Port Hope harbour, the building will be demolished, the soil remediated, and new structures built.",
+            "act": 0.1211077943444252
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

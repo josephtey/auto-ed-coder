@@ -1,0 +1,412 @@
+{
+    "index": 268,
+    "label": "Enthusiastic and expressive engagement",
+    "attributes": "positive expressions, cheerfulness, exclamatory phrases, requests for actions, personal opinions, expressive language, informal language, enthusiasm, dynamic action",
+    "reasoning": "The samples contain more positive expressions, cheerfulness, exclamatory phrases, requests for actions (like 'please help' or 'connect with me'), and personal opinions (like 'I love it'). These attributes all give an overall impression of engagement, excitement, and personal involvement. They also use expressive and informal language, showing enthusiasm and a preference for dynamic action.",
+    "density": 0.004778377249799517,
+    "confidence": 47.0,
+    "high_act_samples": [
+        {
+            "text": "I've done one for a couple years in a 20 gallon and it was a great tank.",
+            "act": 0.15439429879188538
+        },
+        {
+            "text": "A Playstation 3 Exclusive!",
+            "act": 0.1512412428855896
+        },
+        {
+            "text": "LOCK ON The New World LOCK ON The New World\nHave confidence and jump into the new world Jump into\nLOCK ON The New World LOCK ON The New World\nLets sow creative and fantastic seeds\n\nGo!",
+            "act": 0.1483733355998993
+        },
+        {
+            "text": "I am using it on top of a concrete block wall so am not sure how it would hold up mounted in the ground.",
+            "act": 0.1458231806755066
+        },
+        {
+            "text": "200 ppi\n\n100 ppi\n\nI hope you like them!",
+            "act": 0.1431008279323578
+        },
+        {
+            "text": "I LOVE YOU!",
+            "act": 0.14252062141895294
+        },
+        {
+            "text": "Free build is where you must play normally without a mission.",
+            "act": 0.13645432889461517
+        },
+        {
+            "text": "Special 04: Yo!",
+            "act": 0.13295502960681915
+        },
+        {
+            "text": "Someone please help!",
+            "act": 0.12372057139873505
+        },
+        {
+            "text": "I love her!",
+            "act": 0.12324613332748413
+        },
+        {
+            "text": "BarackMyWorld\n\nI can't argue with that.",
+            "act": 0.12248632311820984
+        },
+        {
+            "text": "Go Jeremy Go!",
+            "act": 0.12158878147602081
+        },
+        {
+            "text": "Somebody can explain me step by step - how can I do this?",
+            "act": 0.11930084228515625
+        },
+        {
+            "text": "3 overall on draft night.",
+            "act": 0.11679452657699585
+        },
+        {
+            "text": "But I couldn\u2019t let go such an amazing player!",
+            "act": 0.11630681902170181
+        },
+        {
+            "text": "Now stop.",
+            "act": 0.11618402600288391
+        },
+        {
+            "text": "Will do.",
+            "act": 0.1160830706357956
+        },
+        {
+            "text": "Connect with me!",
+            "act": 0.11497408151626587
+        },
+        {
+            "text": "I could not even touch my face in that thing.",
+            "act": 0.11391126364469528
+        },
+        {
+            "text": "Jagrati\n\nI have come in juvena Herbals first time & I am totally satisfied from here and I want to come here again and again .",
+            "act": 0.11311091482639313
+        },
+        {
+            "text": "SubExp <$> internaliseExp1 \"cond\" ce)\n        (internaliseBody te)\n        (internaliseBody fe)\n  bindExtSizes (E.toStruct ret) retext ses\n  return ses\n\n-- Builtin operators are handled specially because they are\n-- overloaded.",
+            "act": 0.11098326742649078
+        },
+        {
+            "text": "Sonny, although growing up in Sydney since he was 15, was also unable to qualify for rugby league's pinnacle the State of Origin series (NSW versus Queensland).",
+            "act": 0.11000518500804901
+        },
+        {
+            "text": "Please help!",
+            "act": 0.10985247790813446
+        },
+        {
+            "text": "At first we were a little afraid that in the one hand \u2013 sharp stones could make it through the outer sole and secondly that it\u2019s going to be really tough on our ankles and joints.",
+            "act": 0.10976592451334
+        },
+        {
+            "text": "Three storeys, stucco faced.",
+            "act": 0.10957697778940201
+        },
+        {
+            "text": "It never hurts to ask!",
+            "act": 0.10786277055740356
+        },
+        {
+            "text": "Please help!",
+            "act": 0.10469266772270203
+        },
+        {
+            "text": "Il est int\u00e9ressant de noter que tr\u00e8s peu de personnes en dehors du monde Asiatique sont \u00e0 m\u00eame de comprendre l'importance des cinq \u00e9l\u00e9ments, et surtout leur relation avec le fonctionnement du Zodiaque Chinois.",
+            "act": 0.10344104468822479
+        },
+        {
+            "text": "20 to pre baby 1 weight).",
+            "act": 0.10331682115793228
+        },
+        {
+            "text": "Please help!",
+            "act": 0.10214918851852417
+        },
+        {
+            "text": "Love, love, love this piece!!!!",
+            "act": 0.10214480757713318
+        },
+        {
+            "text": "return 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 # # Send email to you!",
+            "act": 0.1019456535577774
+        },
+        {
+            "text": "Land Ho!",
+            "act": 0.10159043967723846
+        },
+        {
+            "text": "It's so simple!",
+            "act": 0.09886330366134644
+        },
+        {
+            "text": "boy you sure are brave.",
+            "act": 0.09776303172111511
+        },
+        {
+            "text": "class SuperAdminPermit < CanTango::RolePermit\n  def initialize ability\n    super\n  end\n\n  def static_rules\n    can :manage, :all\n  end  \nend",
+            "act": 0.09704606235027313
+        },
+        {
+            "text": "These are sold by the case only, and only 3 are available.",
+            "act": 0.09542880952358246
+        },
+        {
+            "text": "And, Russia who backs the dictator, Russia warned us to back off.",
+            "act": 0.09359322488307953
+        },
+        {
+            "text": "State Highway\n\nComm\u2019n, 192 So.",
+            "act": 0.09355136752128601
+        },
+        {
+            "text": "Haha I love this!",
+            "act": 0.09324516355991364
+        },
+        {
+            "text": "Make the New York Giants Blast HP Envy 13t (2018) decal skin yours today!",
+            "act": 0.09262913465499878
+        },
+        {
+            "text": "Help!",
+            "act": 0.09223282337188721
+        },
+        {
+            "text": "I love it so much!",
+            "act": 0.09187281131744385
+        },
+        {
+            "text": "He lives in the country.",
+            "act": 0.09097838401794434
+        },
+        {
+            "text": "The midsole is accompanied with AIR model.",
+            "act": 0.08964821696281433
+        },
+        {
+            "text": "R package version 1.1--1.).",
+            "act": 0.08944948762655258
+        },
+        {
+            "text": "But he says he still wouldn't have built something so large.",
+            "act": 0.08858972787857056
+        },
+        {
+            "text": "I love him!",
+            "act": 0.08808174729347229
+        },
+        {
+            "text": "I can\u2019t even.",
+            "act": 0.08694656193256378
+        },
+        {
+            "text": "Additionally, these models are typically trained via maxi- mum likelihood and teacher forcing.",
+            "act": 0.08650975674390793
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

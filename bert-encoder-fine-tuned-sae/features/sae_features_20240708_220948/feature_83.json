@@ -1,0 +1,412 @@
+{
+    "index": 83,
+    "label": "Contains numerical values or named entities",
+    "attributes": "contains numerical values or named entities",
+    "reasoning": "Upon close examination of the samples, the attribute that stands out is that every sample in the first group contains at least one numerical value (digit or percentage) or the mention of a named entity such as a person, location, or specific terminology. This kind of detail is absent in the other group.",
+    "density": 0.00029419998956064554,
+    "confidence": 33.0,
+    "high_act_samples": [
+        {
+            "text": "() are shown.",
+            "act": 0.1191331222653389
+        },
+        {
+            "text": "She feels better (coffee to the rescue!",
+            "act": 0.1140284389257431
+        },
+        {
+            "text": "Mademoiselle Genseigne has eight\nleft, she is told, but she has no notion if it is eight hats or eight\nhandkerchiefs, or possibly eight apples or eight feathers.",
+            "act": 0.11171964555978775
+        },
+        {
+            "text": "In high-grade lesions, it is TP53 in which its suppressor function is lost, as well as overexpression of the oncogenes EGFR/Erb-B2 receptor tyrosine kinase 1 (ERBB1) and\u00a0Erb-B2 receptor tyrosine kinase 2 (ERBB2), and other alterations they exhibit.",
+            "act": 0.10138806700706482
+        },
+        {
+            "text": "But Germaine was not ill very\nlong and she was not very bad, and now she is getting well again.",
+            "act": 0.09891470521688461
+        },
+        {
+            "text": "\"And, Barb, it's a pleasure to see you, too.\"",
+            "act": 0.0850696861743927
+        },
+        {
+            "text": "Slightly rounded edges.",
+            "act": 0.08166825026273727
+        },
+        {
+            "text": "63%\n\nQ.",
+            "act": 0.07070868462324142
+        },
+        {
+            "text": "These results suggest that central opioid receptors are involved in the stimulating effect of morphine on the hypothalamo-pituitary-adrenocortical axis.",
+            "act": 0.06710413843393326
+        },
+        {
+            "text": "\" How's the Sausage job?\"",
+            "act": 0.0526944175362587
+        },
+        {
+            "text": "There were 102 households of which 30.4% had children under the age of 18 living with them, 40.2% were married couples living together, 13.7% had a female householder with no husband present, 7.8% had a male householder with no wife present, and 38.2% were non-families.",
+            "act": 0.04936489090323448
+        },
+        {
+            "text": "\"Can I get the cloth?\"",
+            "act": 0.04758664593100548
+        },
+        {
+            "text": "\"How's the leg by the way?\"",
+            "act": 0.04509145766496658
+        },
+        {
+            "text": "\"Late for work, rolling out the door with the shakes.\"",
+            "act": 0.04469265043735504
+        },
+        {
+            "text": "9\nLet v = 12 - 27.",
+            "act": 0.043496452271938324
+        },
+        {
+            "text": "\"Did you sleep well at my house?\"",
+            "act": 0.04231730103492737
+        },
+        {
+            "text": "Germaine's doll fell ill at the same time as her little\nmamma, and now she is getting well with her.",
+            "act": 0.040447674691677094
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.038636647164821625
+        },
+        {
+            "text": "& Indemn.",
+            "act": 0.03789112716913223
+        },
+        {
+            "text": "Genuine thanks.",
+            "act": 0.03645221143960953
+        },
+        {
+            "text": "\"Oh, it's nice.\"",
+            "act": 0.0362585186958313
+        },
+        {
+            "text": "Update, 5:45 p.m.",
+            "act": 0.033345431089401245
+        },
+        {
+            "text": "The 2/67th Armored served with the 2nd Armored Division during World War II, fighting in Operation Torch, the Tunisian Campaign, the Allied invasion of Sicily, the Normandy Campaign, the Northern France Campaign, the Rhineland Campaign, the Ardennes-Alsace Campaign, and the Central Europe Campaign.",
+            "act": 0.032936956733465195
+        },
+        {
+            "text": "Akt/PKB signalling pathway\n AMPK signalling pathway\n cAMP-dependent pathway\n Eph/ephrin signalling pathway\n Hedgehog signalling pathway\n Hippo signalling pathway\n Insulin signal transduction pathway\n JAK-STAT signalling pathway\n MAPK/ERK signalling pathway\n mTOR signalling pathway\n Nodal signalling pathway\n Notch signalling pathway\n PI3K/AKT/mTOR signalling pathway\n TGF beta signalling pathway\n TLR signalling pathway\n VEGF signalling pathway\n Wnt signalling pathway\n\nReferences\n\nCategory:Molecular biology\nCategory:Cell signaling",
+            "act": 0.030693314969539642
+        },
+        {
+            "text": "41\nLet g = 53 - 83.",
+            "act": 0.030300192534923553
+        },
+        {
+            "text": "ex.",
+            "act": 0.029507704079151154
+        },
+        {
+            "text": "Some authors allow negative values to mark voicing that begins during the period of articulatory closure for the consonant and continues in the release, for those unaspirated voiced stops in which there is no voicing present at the instant of articulatory closure.",
+            "act": 0.025468405336141586
+        },
+        {
+            "text": "Let d be o(-5).",
+            "act": 0.023969538509845734
+        },
+        {
+            "text": "Jupiler Pro League: Genk 1-0 Westerlo\nTough to take, we put up a fight but a goalkeeping error by Verbauwhede ruined it all.",
+            "act": 0.020422913134098053
+        },
+        {
+            "text": "There were 109 households out of which 36.7% had children under the age of 18 living with them, 52.3% were married couples living together, 9.2% had a female householder with no husband present, and 36.7% were non-families.",
+            "act": 0.020133910700678825
+        },
+        {
+            "text": "Update, 4:05 p.m.",
+            "act": 0.020071836188435555
+        },
+        {
+            "text": "4\nWhich is the closest to 2/7?",
+            "act": 0.018800370395183563
+        },
+        {
+            "text": "Eustace consensual and frivolous silences its tautologization or wins with aspiration.",
+            "act": 0.01772800087928772
+        },
+        {
+            "text": "The results also suggest that lipids in olfactory receptor membranes are important in odor reception.",
+            "act": 0.01558423787355423
+        },
+        {
+            "text": "With a \"fully voiced stop\", the VOT coincides with the onset of the stop; with a \"partially voiced stop\", such as English  in initial position, voicing begins sometime during the closure (occlusion) of the consonant.",
+            "act": 0.014826245605945587
+        },
+        {
+            "text": "\"How's your leg?\"",
+            "act": 0.014257736504077911
+        },
+        {
+            "text": "Non-syndromic fourth molars are more common than syndromic fourth molars.",
+            "act": 0.013779696077108383
+        },
+        {
+            "text": "They also find that the disc is somewhat lopsided and has not yet become circular.",
+            "act": 0.013752743601799011
+        },
+        {
+            "text": "\"How am I, how I'm doing.\"",
+            "act": 0.013419128954410553
+        },
+        {
+            "text": "In 4% the LMCA coursed inferiorly, remaining within 5 mm of the left aortic sinus of Valsalva at a vertical distance >5 mm from the inferior margin of the LMCA ostium.",
+            "act": 0.012813389301300049
+        },
+        {
+            "text": "Let d be u(-15).",
+            "act": 0.01076044887304306
+        },
+        {
+            "text": "Kees Akerboom Jr.\n\nKees Akerboom Jr. (born 20 December 1983)  is a retired Dutch basketball player.",
+            "act": 0.010707028210163116
+        },
+        {
+            "text": "Jupiler Pro League Euro Playoffs Grp B: Lokeren 0-0 Westerlo\nNot a very good start to the playoffs, we were lucky to come away from this with a point.",
+            "act": 0.01060197502374649
+        },
+        {
+            "text": "\"I'm glad you feel that way, but you scared me with this.\"",
+            "act": 0.00904654711484909
+        },
+        {
+            "text": "It is generally believed that odorants bind to receptor proteins and activate cAMP-dependent channels located in olfactory cilia.",
+            "act": 0.009011052548885345
+        },
+        {
+            "text": "Update, 4:50 p.m.",
+            "act": 0.008385088294744492
+        },
+        {
+            "text": "Drd1 agonist-induced cAMP production) for constitutive activity of the receptor.",
+            "act": 0.007719315588474274
+        },
+        {
+            "text": "\"He hadn't answered yet, but it had that answering ring tone, and so I said, 'Hey, Nathan, what's up?'\"",
+            "act": 0.00755290687084198
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05ea\u05e8 \u05d4\u05ea\u05d5\u05de\u05da \u05d1\u05db\u05de\u05d4 \u05e9\u05e4\u05d5\u05ea \u05d9\u05e8\u05e6\u05d4 \u05dc\u05d4\u05e6\u05d9\u05d2 \u05ea\u05d5\u05db\u05df \u05d1\u05d0\u05d5\u05ea\u05d4 \u05e9\u05e4\u05d4 \u05e9\u05d4\u05de\u05e9\u05ea\u05de\u05e9 \u05db\u05e8\u05d2\u05e2 \u05e6\u05d5\u05e4\u05d4 \u05d1\u05d4.",
+            "act": 0.007208526134490967
+        },
+        {
+            "text": "1\nWhich is greater: 15325 or 15326?",
+            "act": 0.006026647984981537
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

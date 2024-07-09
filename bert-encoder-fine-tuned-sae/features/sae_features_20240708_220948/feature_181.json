@@ -1,0 +1,412 @@
+{
+    "index": 181,
+    "label": "Multilingual and special characters",
+    "attributes": "Contain multiple languages, Include non-Latin scripts, Incorporate special characters like emojis",
+    "reasoning": "All the positive samples contain multiple languages, including non-Latin scripts such as Greek, Hebrew, Russian, or other special characters like emojis. None of the negative samples contain any non-Latin scripts or special characters outside of standard punctuation.",
+    "density": 0.001504216075656849,
+    "confidence": 64.0,
+    "high_act_samples": [
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.24523115158081055
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.18866769969463348
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.17575833201408386
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.1613823026418686
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.14958496391773224
+        },
+        {
+            "text": "16\nSuppose 79",
+            "act": 0.14226044714450836
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.12074311822652817
+        },
+        {
+            "text": "\u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05e1\u05ea\u05de\u05db\u05ea \u05e2\u05dc \u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05e8\u05d0\u05e9\u05d9\u05d9\u05dd \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea.",
+            "act": 0.11537697166204453
+        },
+        {
+            "text": "Here are Alexander the Great and Zaire, and Pyrrhus and Merope, Mahomet,\nHarlequin, Pierrot, Scapin, Blaise and Babette.",
+            "act": 0.11388824135065079
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.1127435490489006
+        },
+        {
+            "text": "Panelled door flanked by broad stucco pilasters.",
+            "act": 0.11020808666944504
+        },
+        {
+            "text": "This dazzling charm is topped with an antique gold clasp and hardware.",
+            "act": 0.1090015396475792
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.10722438246011734
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.10520384460687637
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.1033521220088005
+        },
+        {
+            "text": "\u05ea\u05d6\u05e8\u05e7 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d9\u05d4\u05d9\u05d4 \u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05de\u05d5\u05d3\u05d4 \u05d0\u05e9\u05e8 \u05dc\u05d0 \u05e7\u05d9\u05d9\u05de\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.10306891053915024
+        },
+        {
+            "text": "';",
+            "act": 0.1028151735663414
+        },
+        {
+            "text": "As she went on her way, stepping soberly along like a staid, grown-up\nperson, she heard behind her a merry twittering of birds, and turning\nround to look, she saw they were the same little pensioners she had fed\nwhen they were hungry.",
+            "act": 0.10189274698495865
+        },
+        {
+            "text": "();\n\n        let v = match *cur!(true)?",
+            "act": 0.09873232990503311
+        },
+        {
+            "text": "\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05d1\u05dc\u05d1\u05d3 \u05d1\u05e9\u05de\u05d5\u05ea \u05e4\u05d5\u05ea\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.09817880392074585
+        },
+        {
+            "text": "You\u2019re praying for a big piece of deep, rich chocolate cake with heaps of sugary icing or some warm, fresh baked chocolate chip cookies or a triple scoop ice cream sundae and then, she sits a baked apple in front of you\u2026 and it\u2019s got raisins in it, and bits of weird fruit and its brown and shriveled and mushy.",
+            "act": 0.09693113714456558
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.09581679105758667
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.09460175782442093
+        },
+        {
+            "text": "Q:\n\n\u041f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 JavaScript\n\n\u0423 \u043c\u0435\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b.",
+            "act": 0.09455075114965439
+        },
+        {
+            "text": "The adenosquamous carcinoma is a rare combined tumour of non-small cell lung cancer (NSCLC).",
+            "act": 0.08851040154695511
+        },
+        {
+            "text": "Or pizza, chicken, steak, pasta, vegies.",
+            "act": 0.08549847453832626
+        },
+        {
+            "text": "This bay was\nthe gift of a poor man; and the presents of the poor are somehow sweeter\nperhaps than any others.",
+            "act": 0.08275217562913895
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.08244802802801132
+        },
+        {
+            "text": "Let i(v) = v + 7.",
+            "act": 0.08172700554132462
+        },
+        {
+            "text": ";\n                if is!",
+            "act": 0.07809215039014816
+        },
+        {
+            "text": "\u05ea\u05de\u05d9\u05db\u05d4 \u05d1 AR \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05e2\u05dc \u05e4\u05d9 DBMS.",
+            "act": 0.0780215635895729
+        },
+        {
+            "text": "\u201cA house divided against itself cannot stand.",
+            "act": 0.07639159262180328
+        },
+        {
+            "text": "\u0421\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043d\u0443\u0436\u043d\u043e \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0443 \u043d\u0430 \u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e undefined: word[i-1] == undefined\n\u041f\u0440\u0438\u043c\u0435\u0440:\n\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.07517587393522263
+        },
+        {
+            "text": "word[i].toUpperCase() : word[i];\n}\nalert(wordEnd);\n\n\u041d\u0430\u0434\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442 \u0443\u0441\u043b\u043e\u0432\u0438\u0435, \u0435\u0441\u0442\u044c \u043b\u0438 \u0447\u0442\u043e-\u0442\u043e \u0432\u043e\u043e\u0431\u0449\u0435 \u0434\u043e \u0431\u0443\u043a\u0432\u044b, \u0432\u043e\u0442 \u044f \u0438 \u0434\u0443\u043c\u0430\u044e \u043a\u0430\u043a \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043f\u0443\u0441\u0442\u043e\u0442\u0430 \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438.",
+            "act": 0.07461031526327133
+        },
+        {
+            "text": "In the right circumstances its a great gun and I do carry it some.",
+            "act": 0.07219379395246506
+        },
+        {
+            "text": "Andhra Pradesh has 13 districts: Anantapur, Chittoor, Kadapa, East Godavari, Guntur, Krishna, Kurnool, Sri Potti Sreeramulu Nellore, Prakasam, Srikakulam, Visakhapatnam, Vizianagaram and West Godavari.",
+            "act": 0.0721651166677475
+        },
+        {
+            "text": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0435\u0442\u044c.",
+            "act": 0.07205066829919815
+        },
+        {
+            "text": "The last 10 mm port was introduced below the left ribcage in the anterior axial line for the atraumatic Babcock.",
+            "act": 0.07192499190568924
+        },
+        {
+            "text": "See Lampard free, he gave the ball to him.",
+            "act": 0.07182703167200089
+        },
+        {
+            "text": "being the null conditional operator and ?",
+            "act": 0.07096321135759354
+        },
+        {
+            "text": "Delicious bits of milk chocolate covered English Toffee are mixed throughout and sprinkled on top of a delicious, hand-dipped vanilla Milkshake for plenty of craveable Heath Bar flavor.",
+            "act": 0.06968387216329575
+        },
+        {
+            "text": "Fixation of the greater omentum for prevention of delayed gastric emptying after left hepatectomy with lymphadenectomy for cholangiocarcinoma.",
+            "act": 0.06964395195245743
+        },
+        {
+            "text": "\"Feels like if the mayor's chair ain't gonna go to Royce, it should be hers.\"",
+            "act": 0.06929215788841248
+        },
+        {
+            "text": "\u05de\u05e4\u05ea\u05d7 \u05e8\u05d0\u05e9\u05d9 \u05de\u05d5\u05e8\u05db\u05d1 \u05de\u05db\u05d9\u05dc \u05e9\u05e0\u05d9 \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8.",
+            "act": 0.06851287186145782
+        },
+        {
+            "text": ";\n\n        if is!",
+            "act": 0.06821838766336441
+        },
+        {
+            "text": "at \u00b6\u00b6 17-18, 21.",
+            "act": 0.06758642941713333
+        },
+        {
+            "text": "with diced ham, bell pepper, onion, and white cheddar and smothered in green chile; the Kitchen Sink Omelet with ham, bacon, green onion, avocado, tomato, white cheddar, and cream cheese; monster-sized breakfast burritos; Huevos Rancheros which had been voted \u201cBest of Albuquerque\u201d by the readers of a local magazine; Chicken Fried Steak and Eggs; biscuits and gravy; and Eggs Benedict.",
+            "act": 0.067539282143116
+        },
+        {
+            "text": "We performed fixation of the greater omentum to the peritoneum to prevent DGE and other complications in patients undergoing left hepatectomy with lymphadenectomy for cholangiocarcinoma.",
+            "act": 0.06684089452028275
+        },
+        {
+            "text": "He also became rector of Shenfield, Essex, and was instituted to the rectory of Barley, Hertfordshire, 13 April 1751.",
+            "act": 0.06667425483465195
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, PostgreSQL \u05dc\u05d0 \u05e8\u05d2\u05d9\u05e9 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05e9\u05de\u05d5\u05ea \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc, \u05d5\u05d0\u05e0\u05d5 \u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05ea\u05d7\u05d5\u05dd \u05d0\u05ea \u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05ea\u05e0\u05d0\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05e9\u05dd \u05d4\u05e2\u05de\u05d5\u05d3\u05d4 \u05de\u05db\u05d9\u05dc \u05e9\u05d9\u05dc\u05d5\u05d1 \u05e9\u05dc \u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea \u05d5\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.06653668731451035
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

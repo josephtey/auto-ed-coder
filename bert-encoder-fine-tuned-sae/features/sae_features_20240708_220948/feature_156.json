@@ -1,0 +1,412 @@
+{
+    "index": 156,
+    "label": "Technical and educational content",
+    "attributes": "contain technical or educational content, discuss academic or technical subjects, provide instructions or guides, sometimes include code snippets or mathematical formulas, formal tone",
+    "reasoning": "By analyzing the provided samples, I noticed that all the texts in the samples collection are professional, technical, or educational in nature. They either discuss academic subjects, technical details, or provide instructions, and also sometimes contain code snippets or mathematical formulas. In contrast, the other samples are informal discussions, contemplations, or opinion pieces that do not follow a structured, informative, or instructional format.",
+    "density": 0.00017082580039005224,
+    "confidence": 62.0,
+    "high_act_samples": [
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.187864288687706
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.0804106667637825
+        },
+        {
+            "text": "in Biblical Counseling, in addition to certification with the Association of Certified Biblical Counselors (ACBC) and the International Association of Biblical Counselors (IABC).",
+            "act": 0.0752655565738678
+        },
+        {
+            "text": "The relationships of this trellis take the form Concept 1\u2282Concept 2 where the sign \u2282designates the subsumption relation between two concepts.",
+            "act": 0.07375311106443405
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.0546853169798851
+        },
+        {
+            "text": "Like many sentences with an if- clause, it's difficult to slot this into the traditional five classes of conditionals, zero, first, second, third and mixed.",
+            "act": 0.04959797486662865
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.04783371835947037
+        },
+        {
+            "text": "In theory, not only could it contain the metaphysical discussions that have been bandied about in the ep3 thread, but it could also contain the description of the formulae from the OP... as well as potential future disussions as we learn more about the backgrounds/workings of the other characters in the show.",
+            "act": 0.043084271252155304
+        },
+        {
+            "text": "In theory, not only could it contain the metaphysical discussions that have been bandied about in the ep3 thread, but it could also contain the description of the formulae from the OP... as well as potential future disussions as we learn more about the backgrounds/workings of the other characters in the show.",
+            "act": 0.043084271252155304
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.03958144038915634
+        },
+        {
+            "text": "(Normalized to unity.",
+            "act": 0.03745705634355545
+        },
+        {
+            "text": "Once the boys\u00e2\u20ac\u2122 are stripped to their garments, Elder Peterson notices that Elder Butler\u00e2\u20ac\u2122s penis is hard, and he hopes Brother Samuels doesn\u00e2\u20ac\u2122t notice.",
+            "act": 0.03583785891532898
+        },
+        {
+            "text": "We both met at university where we were doing the same degree in Computer Network Management; a fascinating concoction of the study of sine waves, frequency modulation, tort law, artificial intelligence and maths, amongst other things.",
+            "act": 0.035377684980630875
+        },
+        {
+            "text": "V. Pegoraro and P. Slusallek, *On the Evaluation of the Complex-Valued Exponential Integral*, Journal of Graphics, GPU, and Game Tools, **15** (3), (2011), 183-198.",
+            "act": 0.03476287052035332
+        },
+        {
+            "text": "\u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05e1\u05ea\u05de\u05db\u05ea \u05e2\u05dc \u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05e8\u05d0\u05e9\u05d9\u05d9\u05dd \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea.",
+            "act": 0.03278014808893204
+        },
+        {
+            "text": "For the same example, if a citizen and the noncitizen were pooling their money to pay the costs, you would prorate only the noncitizen's share.",
+            "act": 0.02729521133005619
+        },
+        {
+            "text": "Litecoin (LTC)\n\nBitcoin\u2019s little brother, Litecoin, is another promising cryptocurrency that might surge in the future years.",
+            "act": 0.020192423835396767
+        },
+        {
+            "text": "L. D\u2019Ambrosio and E. Mitidieri, A priori estimates, positivity results, and nonexistence theorems for quasilinear degenerate elliptic inequalities, Adv.",
+            "act": 0.019740989431738853
+        },
+        {
+            "text": "Marginal density expansions for diffusions and stochastic volatility, Part I: Theoretical foundations.",
+            "act": 0.018252918496727943
+        },
+        {
+            "text": "\u05e9\u05de\u05d5\u05ea \u05d4\u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05de\u05ea\u05d9\u05d9\u05d7\u05e1\u05d5\u05ea \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05d5\u05e2\u05e8\u05db\u05d9\u05d4\u05dd, \u05d1\u05d4\u05ea\u05d0\u05dd.",
+            "act": 0.017418619245290756
+        },
+        {
+            "text": "Let s(q) = -4*j(q) - 11*o(q).",
+            "act": 0.016969138756394386
+        },
+        {
+            "text": "J. Chen, G, Tian, Compactification of moduli space of harmonic mappings.",
+            "act": 0.016178039833903313
+        },
+        {
+            "text": "Marginal density expansions for diffusions and stochastic volatility, Part II: Applications.",
+            "act": 0.015353347174823284
+        },
+        {
+            "text": "Half-Open\nJoda-Time uses the Half-Open approach to spans of time, where the beginning is inclusive and the ending is exclusive.",
+            "act": 0.01313504483550787
+        },
+        {
+            "text": "\"Well, we start out by finding your file.\"",
+            "act": 0.012726076878607273
+        },
+        {
+            "text": "\u05d9\u05e9 \u05dc\u05e7\u05e8\u05d5\u05d0 \u05dc\u05de\u05ea\u05d5\u05d3\u05d4 \u05d4 getErrors() \u05dc\u05e7\u05d1\u05dc\u05ea \u05d4\u05e9\u05d2\u05d9\u05d0\u05d5\u05ea \u05e9\u05d7\u05d6\u05e8\u05d5\n}\n~~~\n\n\u05db\u05e9\u05d4\u05de\u05d9\u05d3\u05e2 \u05dc\u05e2\u05d3\u05db\u05d5\u05df \u05d0\u05d5 \u05d4\u05d5\u05e1\u05e4\u05d4 \u05e9\u05dc \u05e8\u05e9\u05d5\u05de\u05d4 \u05de\u05ea\u05e7\u05d1\u05dc \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4 \u05d1\u05e2\u05d6\u05e8\u05ea \u05d8\u05d5\u05e4\u05e1 HTML , \u05d0\u05e0\u05d5 \u05e6\u05e8\u05d9\u05db\u05d9\u05dd \u05dc\u05d4\u05e6\u05d9\u05d1 \u05d0\u05d5\u05ea\u05dd \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05de\u05d9\u05dd \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.012168238870799541
+        },
+        {
+            "text": "Contact Bear Roofing & Exteriors to get started on your roofing or home exterior project.",
+            "act": 0.010125837288796902
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05e8\u05db\u05d9\u05dd \u05d1\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e9\u05dc \u05d8\u05d1\u05dc\u05d4 \u05db\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.009455536492168903
+        },
+        {
+            "text": "Q:\n\nIs the trio's Polyjuice escapade in Chamber of Secrets ever discovered?",
+            "act": 0.007968856953084469
+        },
+        {
+            "text": "Let c(s) = -5*a(s) - 7*i(s).",
+            "act": 0.007256745360791683
+        },
+        {
+            "text": "Traits\n\nTraits are treated as classes.",
+            "act": 0.007201089523732662
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e9\u05e8\u05e9\u05e8 \u05db\u05de\u05d4 \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d5\u05db\u05ea\u05d5\u05e6\u05d0\u05d4 \u05de\u05db\u05da \u05dc\u05d1\u05e6\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d4\u05e8\u05d1\u05d4 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05d4\u05db\u05d5\u05dc\u05dc\u05ea \u05d9\u05d5\u05ea\u05e8 \u05ea\u05e0\u05d0\u05d9\u05dd.",
+            "act": 0.007002268917858601
+        },
+        {
+            "text": "We denote the statistics computation method as *stat* here and it can be widely used statistics such as average value (mean), median value (median) and maximum value (max).",
+            "act": 0.006310581229627132
+        },
+        {
+            "text": "In fact, the surface integration is equivalent to taking of coincidence limit in Dirac\u2019s scheme.",
+            "act": 0.005449510179460049
+        },
+        {
+            "text": "Bower for pure dependency management, Browserify and Component/Duo for actually building scripts and bundling them together.",
+            "act": 0.0028405364137142897
+        },
+        {
+            "text": "Asymptotics for exponential L\u00e9vy processes and their volatility smile: survey and new results.",
+            "act": 0.0010479751508682966
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        },
+        {
+            "text": "Besides, we could use some accompaniment for our BeetBox.",
+            "act": 0.0
+        },
+        {
+            "text": "Q:\n\nNullPointerException in getview of custom adapter\n\nI'm getting image from bitmap method and trying to populate the listview.",
+            "act": 0.0
+        },
+        {
+            "text": "But when i call the bitmap function inside getview the nullpointerException error occurs.",
+            "act": 0.0
+        },
+        {
+            "text": "please help me... \nhere is my view Activity class:\npublic class Viewactivity extends Activity{\n\n    TextView tv;\n    ImageView im;\n\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.views);\n\n        ListView mListView = (ListView)findViewById(R.id.listView);\n        //array houlds all images\n        int Images[] = new int[]{\n            R.drawable.confidential,\n            ...     \n            };\n        //array holds all strings to be drawn in the image\n\n        CustomList adaptor = new CustomList(this , Images);\n        mListView.setAdapter(adaptor);\n\n    }\n\n    public Bitmap ProcessingBitmap(int image) {\n        // TODO Auto-generated method stub\n        Bitmap bm1 = null;\n        Bitmap newBitmap = null;\n\n        final String data =getIntent().getExtras().getString(\"keys\");\n        bm1 = ((BitmapDrawable) Viewactivity.this.getResources()\n                .getDrawable(image)).getBitmap();\n        Config config = bm1.getConfig();\n        if(config == null){\n            config = Bitmap.Config.ARGB_8888;\n        }\n\n        newBitmap = Bitmap.createBitmap(bm1.getWidth(), bm1.getHeight(),config);\n        Canvas newCanvas = new Canvas(newBitmap);\n\n        newCanvas.drawBitmap(bm1, 0, 0, null);\n\n        if(data != null){\n            Paint paintText = new Paint(Paint.ANTI_ALIAS_FLAG);\n            paintText.setColor(Color.RED);\n            paintText.setTextSize(300);\n            // paintText.setTextAlign(Align.CENTER);\n            paintText.setStyle(Style.FILL);\n            paintText.setShadowLayer(10f, 10f, 10f, Color.BLACK);\n\n            Rect rectText = new Rect();\n            paintText.getTextBounds(data, 0, data.length(), rectText);\n            paintText.setTextScaleX(1.f);\n\n            newCanvas.drawText(data, \n              0, rectText.height(), paintText);\n\n            Toast.makeText(getApplicationContext(), \n              \"drawText: \" + data, Toast.LENGTH_LONG).show();\n\n        }else{\n            Toast.makeText(getApplicationContext(), \n              \"caption empty!",
+            "act": 0.0
+        },
+        {
+            "text": "\", Toast.LENGTH_LONG).show();\n        }\n        return newBitmap;\n\n    }\n}\n\nthis is my adapter class:\npublic class CustomList extends BaseAdapter{\n\n    Viewactivity act;\n    int[] IMAGES;\n    LayoutInflater inflator;\n    Context sContext;\n    //private String[] TEXTS;\n\n    public CustomList(Context context, int[] images){\n        this.IMAGES = images;\n        //this.TEXTS = texts;\n        this.sContext = context;\n        inflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n    }\n\n    @Override\n    public int getCount() {\n        // TODO Auto-generated method stub\n        return IMAGES.length;\n    }\n\n    @Override\n    public Object getItem(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public long getItemId(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public View getView(int position, View convertView, ViewGroup parent) {\n        // TODO Auto-generated method stub\n        View v = inflator.inflate(R.layout.row_list, parent, false);\n        final ImageView imageView = (ImageView) v.findViewById(R.id.imageView);\n        imageView.setImageBitmap(act.ProcessingBitmap(IMAGES[position]));// line no:52\n        return imageView;\n    }\n}\n\nthis is my logcat:\n12-18 06:16:51.406: E/AndroidRuntime(1388): FATAL EXCEPTION: main\n12-18 06:16:51.406: E/AndroidRuntime(1388): Process: com.emple.example, PID: 1388\n12-18 06:16:51.406: E/AndroidRuntime(1388): java.lang.NullPointerException\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.emple.example.CustomList.getView(CustomList.java:52)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.AbsListView.obtainView(AbsListView.java:2263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.measureHeightOfChildren(ListView.java:1263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.onMeasure(ListView.java:1175)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.measureChild(RelativeLayout.java:689)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.onMeasure(RelativeLayout.java:473)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.widget.ActionBarOverlayLayout.onMeasure(ActionBarOverlayLayout.java:327)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.policy.impl.PhoneWindow$DecorView.onMeasure(PhoneWindow.java:2291)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performMeasure(ViewRootImpl.java:1916)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.measureHierarchy(ViewRootImpl.java:1113)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1295)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1000)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5670)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$CallbackRecord.run(Choreographer.java:761)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doCallbacks(Choreographer.java:574)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doFrame(Choreographer.java:544)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:747)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.handleCallback(Handler.java:733)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.dispatchMessage(Handler.java:95)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Looper.loop(Looper.java:136)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.app.ActivityThread.main(ActivityThread.java:5017)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invokeNative(Native Method)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invoke(Method.java:515)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at dalvik.system.NativeStart.main(Native Method)\n12-18 06:21:51.616: I/Process(1388): Sending signal.",
+            "act": 0.0
+        },
+        {
+            "text": "PID: 1388 SIG: 9\n\nA:\n\nYou haven't initialized your act variable.",
+            "act": 0.0
+        },
+        {
+            "text": "Init it in your adapter constructor.",
+            "act": 0.0
+        },
+        {
+            "text": "Something like:\npublic CustomList(Viewactivitty act, int[] images){\n    this.act = act;\n    this.IMAGES = images;\n    //this.TEXTS = texts;\n    this.sContext = act;\n    inflator = (LayoutInflater)act.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n}",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

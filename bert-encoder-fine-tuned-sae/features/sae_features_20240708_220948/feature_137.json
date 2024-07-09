@@ -1,0 +1,412 @@
+{
+    "index": 137,
+    "label": "Technical descriptions and instructions",
+    "attributes": "frequent use of concrete technical terms, specific instructional context, technical environment, precise language",
+    "reasoning": "By examining the text samples closely, I identified that the defining characteristic of the samples in the positive group is their frequent use of specific, concrete terms and phrases, particularly in a technical, instructional, or descriptive context \u2014 for instance, references to programming, software, and technical details. These samples often include instructions, specific actions, and scenarios in a technical environment. The language tends to be precise, focused on certain actions or problem-solving in the context of technology or coding. In contrast, the samples in the negative group largely consist of abstract discussions, opinions, dialogues, and commentary without the same level of precise technical detail or instructional tone.",
+    "density": 0.002723722483996944,
+    "confidence": 45.0,
+    "high_act_samples": [
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.2631677985191345
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.2538752257823944
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.2181989997625351
+        },
+        {
+            "text": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0435\u0442\u044c.",
+            "act": 0.21742720901966095
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.18634770810604095
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.1726662963628769
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.17195935547351837
+        },
+        {
+            "text": "This integral was until the beautiful vessel and alerted made as the sandal lender parameter's access of political transaction, original definitions and knowledge nozzle( generating the specific engine).",
+            "act": 0.17107273638248444
+        },
+        {
+            "text": "Newhouse.",
+            "act": 0.1701722890138626
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438\u043b\u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u0432 \u0447\u0451\u043c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430?",
+            "act": 0.16796305775642395
+        },
+        {
+            "text": "S: Jalen Ramsey, Florida State.",
+            "act": 0.16780272126197815
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.16492845118045807
+        },
+        {
+            "text": "\u0422\u0435\u0445.",
+            "act": 0.1643328219652176
+        },
+        {
+            "text": "WR: Rashad Greene, Florida State.",
+            "act": 0.16366109251976013
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.1528741419315338
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.14750142395496368
+        },
+        {
+            "text": "Q:\n\n\u041f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 JavaScript\n\n\u0423 \u043c\u0435\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b.",
+            "act": 0.14697496592998505
+        },
+        {
+            "text": "She\nhisses and her face warps into a malformed spotted thing.",
+            "act": 0.14695627987384796
+        },
+        {
+            "text": "MSU signee Chase Vallot was selected 40th overall by Kansas City.",
+            "act": 0.14451465010643005
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.1438518464565277
+        },
+        {
+            "text": "TE: Nick O'Leary, Florida State.",
+            "act": 0.1398075371980667
+        },
+        {
+            "text": "LB: Denzel Perryman, Miami.",
+            "act": 0.13592089712619781
+        },
+        {
+            "text": "It scowls at me, growing massive fangs and a pair of clawed\narms.",
+            "act": 0.12525002658367157
+        },
+        {
+            "text": "Spole\u010dnost OVH nen\u00ed administr\u00e1torsk\u00fdm subjektem t\u011bchto stroj\u016f a nedisponuje \u017e\u00e1dn\u00fdmi p\u0159\u00edstupov\u00fdmi pr\u00e1vy.",
+            "act": 0.12227573990821838
+        },
+        {
+            "text": "\u0412 \u043a\u043e\u0440\u043e\u0431\u043e\u0447\u043d\u043e\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0411\u0438\u0442\u0440\u0438\u043a\u0441 24 \u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 p&p \u0442\u043e \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442.",
+            "act": 0.12100900709629059
+        },
+        {
+            "text": "\u0412\u044b\u0432\u043e\u0434\u044f \u043b\u043e\u0433\u0438 \u043d\u0430 \u044d\u043a\u0440\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0430 (journalctl -f) \u043e\u0448\u0438\u0431\u043e\u043a \u043d\u0435\u0442.",
+            "act": 0.12045887112617493
+        },
+        {
+            "text": "Life\n\n\u00c6lnoth may have been prior in the Benedictine community founded in Odense as a daughter house of the Abbey at Evesham.",
+            "act": 0.11849091947078705
+        },
+        {
+            "text": "Schrier is a pediatrician from Sammamish.",
+            "act": 0.11599132418632507
+        },
+        {
+            "text": "CBS grades the 6-foot-4, 275-pounder as a high-Day 3 prospect.",
+            "act": 0.11545369029045105
+        },
+        {
+            "text": "CBS grades the 6-foot-4, 275-pounder as a high-Day 3 prospect.",
+            "act": 0.11545369029045105
+        },
+        {
+            "text": "Sweat spills down my skin.",
+            "act": 0.11535145342350006
+        },
+        {
+            "text": "Tato \u010d\u00edsla jsou odes\u00edl\u00e1na technik\u016fm v na\u0161ich datacentrech, co\u017e zajist\u00ed vyhnut\u00ed se p\u0159\u00edpadn\u00fdm chyb\u00e1m v pr\u016fb\u011bhu v\u00fdm\u011bny Va\u0161eho disku.",
+            "act": 0.113623708486557
+        },
+        {
+            "text": "He also became rector of Shenfield, Essex, and was instituted to the rectory of Barley, Hertfordshire, 13 April 1751.",
+            "act": 0.11321214586496353
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.11158178001642227
+        },
+        {
+            "text": "She's received co-endorsements from the Kittitas Democrats and the 5th District Democrats.",
+            "act": 0.11085478961467743
+        },
+        {
+            "text": "Obiekty Zend_Mime_Part\n        mog\u0105 by\u0107 wtedy zmienione poniewa\u017c s\u0105 one przechowywane w tablicy jako referencje.",
+            "act": 0.10953298211097717
+        },
+        {
+            "text": "sunken Temple sulfur his spit without preparation.",
+            "act": 0.10884637385606766
+        },
+        {
+            "text": "I only use semi-permanent color on my hair by Loreal Healthy Look or Clairol Natural Instincts.",
+            "act": 0.10794968903064728
+        },
+        {
+            "text": "\u041f\u044b\u0442\u0430\u043b\u0441\u044f \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0442\u044c \u0438 \u0432 catch \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c continue, \u043d\u043e \u0431\u0435\u0437\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043d\u043e.",
+            "act": 0.10773246735334396
+        },
+        {
+            "text": "The\nangel lights flit over them, concentrating at their wounds.",
+            "act": 0.10505367815494537
+        },
+        {
+            "text": "Source",
+            "act": 0.10292558372020721
+        },
+        {
+            "text": "Pro nalezen\u00ed p\u0159\u00edstupov\u00e9 cesty ke sv\u00fdm disk\u016fm postupujte podle instrukc\u00ed v\u00e1\u017e\u00edc\u00edch se k V\u00e1mi vyu\u017e\u00edvan\u00e9mu typu RAID ovlada\u010de.",
+            "act": 0.10161866247653961
+        },
+        {
+            "text": "Zazwyczaj jednak nie jest to potrzebne.",
+            "act": 0.10082067549228668
+        },
+        {
+            "text": "Hampshire Treasures\n\nPage 243 - St Thomas\n\nKent Hall.",
+            "act": 0.10016288608312607
+        },
+        {
+            "text": "our driver and guide Hores not sure I spelt that right where awesome, very attentive and knowledgeable.",
+            "act": 0.0998765379190445
+        },
+        {
+            "text": "Q:\n\n\u0413\u0434\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043b\u043e\u0433\u0438 \u0440\u0430\u0431\u043e\u0442\u044b NodeJS-PushServer?",
+            "act": 0.09889604151248932
+        },
+        {
+            "text": "CBS grades Chickillo as a high-Day 3 prospect, about where his stock was last season.",
+            "act": 0.09810426831245422
+        },
+        {
+            "text": "KR: Kermit Whitfield, Florida State.",
+            "act": 0.09645289182662964
+        },
+        {
+            "text": "Left-handed reliever Xavier Cedeno was optioned to Triple-A Syracuse.",
+            "act": 0.09610302746295929
+        },
+        {
+            "text": "Her\nskin is a battered wasteland of dry flakes and dull red patches.",
+            "act": 0.09580058604478836
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

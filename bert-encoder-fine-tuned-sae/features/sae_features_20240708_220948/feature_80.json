@@ -1,0 +1,412 @@
+{
+    "index": 80,
+    "label": "Structured assessment questions",
+    "attributes": "structured data, numerical values, multiple-choice options, question and answer format, consistent topics",
+    "reasoning": "The primary distinguishing feature between the samples is that the first group contains structured data in a question and answer format, often with a numerical value or multiple-choice options, and focuses on specific, consistent topics or assessments. The second group, on the other hand, consists of free-form text, discussions, and opinions without any structured data elements like multiple-choice questions or numerical ratings.",
+    "density": 0.0009680128688769628,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.24394865334033966
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nYes, considerably *3 points*\n\nYes, to some extent *2 points*\n\nNo adaptation at all *1 point*\n\nThank you.",
+            "act": 0.19467148184776306
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Association with relevant diagnosis and illness *4 points*\n\n\u25a1 Association with a relevant diagnostic name, but without knowing the implications of the diagnosis *3 points*\n\n\u25a1 Association with illness, but no diagnosis *2 points*\n\n\u25a1 Does not know *1 point*\n\n**9.",
+            "act": 0.18490709364414215
+        },
+        {
+            "text": "for swimming, boating, kayaking, canoeing, sport fishing, and other educational and recreational pursuits.",
+            "act": 0.18456797301769257
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Yes, very problematic *3 points*\n\n\u25a1 Yes, to some extent *2 points*\n\n\u25a1 No problems at all *1 point*\n\n**8.",
+            "act": 0.176687553524971
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Worried (specified) *3 points*\n\n\u25a1 Generally but vaguely worried *2 points*\n\n\u25a1 Not worried *1 point*\n\n**10.",
+            "act": 0.16677765548229218
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Prominent cognitive symptoms *3 points*\n\n\u25a1 Some cognitive symptoms *2 points*\n\n\u25a1 No cognitive symptoms *1 point*\n\n**7.",
+            "act": 0.16526401042938232
+        },
+        {
+            "text": "\"Like, he some type of faggot or something.\"",
+            "act": 0.16287581622600555
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct -- one year\\'s error *2 points*\n\n\u25a1 Not correct -- several years\\' errors *1 point*\n\n**2.",
+            "act": 0.16053040325641632
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Protocol**\n\nDate of the investigation\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSubject code:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Introduction**\n\nDuring this investigation I am going to ask you questions, and to ask you to perform tasks.",
+            "act": 0.14514778554439545
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Significantly changed *3 points*\n\n\u25a1 Same as before *2 points*\n\n\u25a1 Does not know/remember *1 point*\n\n**4.",
+            "act": 0.1432885229587555
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Relevant diagnosis *3 points*\n\n\u25a1 Irrelevant diagnosis *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**5.",
+            "act": 0.14003457129001617
+        },
+        {
+            "text": "(If the patient still works, he/she is asked about the present profession)**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**3.",
+            "act": 0.13754791021347046
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Good understanding *3 points*\n\n\u25a1 Partial understanding *2 points*\n\n\u25a1 Does not know what it means *1 point*\n\n**6.",
+            "act": 0.1322183758020401
+        },
+        {
+            "text": "5, provides:\nNo person shall be denied the enjoyment of any civil or military right, nor be discriminated against in the exercise of any civil or military right, nor be segregated in the militia or in the public schools, because of religious principles, race, color, ancestry or national origin.\"",
+            "act": 0.12685783207416534
+        },
+        {
+            "text": "Visiting during nesting season (late November through late July), one can expect to see brown pelican, wood storks, white ibises, black-crowned night herons, double-crested cormorants, reddish, snowy, and great egrets, and great blue, little blue and tricolored herons.",
+            "act": 0.11994024366140366
+        },
+        {
+            "text": "5\n\fweapons violations, carjackings, burglaries, identity thefts, and shootings.",
+            "act": 0.11944267898797989
+        },
+        {
+            "text": "\"(b) Authorize the association or any facilities furnished by it to act for him in any manner with respect to all or any specified part of such products and any services to be furnished by him.",
+            "act": 0.11912284791469574
+        },
+        {
+            "text": "References\n\nBibliography\n\n \n \n \n \n\n \n\nCategory:Liberty ships\nCategory:Ships built in Baltimore\nCategory:1942 ships\nCategory:Beaumont Reserve Fleet",
+            "act": 0.11719368398189545
+        },
+        {
+            "text": "Actually this same price trend has occurred for all the major and minor crops (corn, spring wheat, winter wheat, durum wheat, barley, silage corn\u2026.).",
+            "act": 0.11388427019119263
+        },
+        {
+            "text": "\"(c) Buy or procure all or a specified part of goods or services from or through the association or any facilities furnished by it.",
+            "act": 0.11278528720140457
+        },
+        {
+            "text": "shall be free from substances attributable to sewage, industrial waste, or other waste in concentrations, amounts, or combinations which contravene established standards or interfere directly or indirectly with designated uses of such water or which are inimical or harmful to human, animal, plant, or aquatic life.",
+            "act": 0.1123703122138977
+        },
+        {
+            "text": "Eidsfoss was, along with the Eidsfoss Station, sold to Eidsfoss Verk, and remained there until it has scrapped in 1957.",
+            "act": 0.10780424624681473
+        },
+        {
+            "text": "Pelican Island is home to many nesting birds including brown pelicans, great egrets, snowy egrets, reddish egrets, great blue heron, little blue heron, tricolored heron, black-crowned night heron, American white ibis, glossy ibis, double-crested cormorant, anhinga, and American oystercatcher.",
+            "act": 0.10583563894033432
+        },
+        {
+            "text": "\"Illegal removal by means of mines of a house located near the cemetery.\"",
+            "act": 0.1051972508430481
+        },
+        {
+            "text": "18th-century brick house with original woodwork built on land given to John Rolfe as a dowry gift for his marriage to Pocahontas.",
+            "act": 0.09907283633947372
+        },
+        {
+            "text": "Influence of 8q24.3 copy number alteration on other cancer-related genes expression located in 8q24.3 loci and comparison of expression with HSF1 per tissue.",
+            "act": 0.09484437853097916
+        },
+        {
+            "text": "1865-01\n Shipwrecks01\nShipwrecks",
+            "act": 0.09239057451486588
+        },
+        {
+            "text": "References\n\nDepartment of the Navy Naval History and Heritage Command Online Library of Selected Images: Civilian Ships: Louise # 2 (Pilot Boat Schooner, 1900).",
+            "act": 0.08601397275924683
+        },
+        {
+            "text": "\u201cI\u2019ve been referred to as a coon and as an Uncle Tom.",
+            "act": 0.0848555713891983
+        },
+        {
+            "text": "Various crimes were featured, including kidnapping, slavery, child abuse, and various drug-related crimes.",
+            "act": 0.08335939049720764
+        },
+        {
+            "text": "Amenities include outdoor pool, docking for your boat, gym, sauna and game room.",
+            "act": 0.07885082066059113
+        },
+        {
+            "text": "Father denied knowing of Mother's drug use during the\npregnancy, but acknowledged that Mother had a drug problem and\nadmitted his own prior use of illegal drugs.",
+            "act": 0.0760430246591568
+        },
+        {
+            "text": "It was a great start to that morning, which, over the next 2-3 hours, produced a fine assemblage of river-island specialties, such as Blackish-gray Antshrike, Black-crested Antshrike, Ash-breasted Antbird, Black-chinned Antbird, Klages\u2019s Antwren, Leaden Antwren, Streak-throated Hermit and Blue-chinned Sapphire, Snethlage\u2019s Tody-Tyrant, and Long-billed, Straight-billed, Zimmer\u2019s and Striped woodcreepers!",
+            "act": 0.07448936998844147
+        },
+        {
+            "text": "), as did Rufous-tailed Xenops and Ferruginous-backed Antbird.",
+            "act": 0.07424020767211914
+        },
+        {
+            "text": "Other primates\n\nThe other 14 species include woolly monkeys, capuchins, squirrel monkeys, marmosets, cotton-top tamarins, siamang gibbons, golden-cheeked gibbons and other gibbons.",
+            "act": 0.07342550903558731
+        },
+        {
+            "text": "She used to complain about her scratchy throat (which never sounded scratchy) and constantly request cough drops.",
+            "act": 0.07205666601657867
+        },
+        {
+            "text": "In the fine town of Burfordville sits a mill and a covered bridge.",
+            "act": 0.07132384926080704
+        },
+        {
+            "text": "Approximate Size: 3.5 Acres\n\nFormer Use: Steel fabrication for construction projects.",
+            "act": 0.07070085406303406
+        },
+        {
+            "text": "Scale-breasted and Crimson-crested woodpeckers also showed nicely.",
+            "act": 0.06943009048700333
+        },
+        {
+            "text": "All the subjects were black or Hispanic and obese, and had at least one or more symptoms of metabolic syndrome, a cluster of risk factors that includes hypertension, high blood sugar, abnormal cholesterol and excess body fat around the waist.",
+            "act": 0.06815214455127716
+        },
+        {
+            "text": "can covers areas up to 10 sq.",
+            "act": 0.06706003844738007
+        },
+        {
+            "text": "References\n\nCategory:Unincorporated communities in Jackson County, Kentucky\nCategory:Unincorporated communities in Kentucky",
+            "act": 0.06643577665090561
+        },
+        {
+            "text": "Other soils include Canaveral Fine Sand, Quartzipsamments, Captiva Fine Sand, McKee Mucky Clay Loam, and Kesson Muck.",
+            "act": 0.0640140101313591
+        },
+        {
+            "text": "Among the finds were the remains of the earlier amphitheatres and of an even older Roman building existing on the site.",
+            "act": 0.06279752403497696
+        },
+        {
+            "text": "Heterogeneous CNA of genes within the 8q24.3 region have been categorized as heterogeneous.",
+            "act": 0.062488771975040436
+        },
+        {
+            "text": "Marie, Ontario",
+            "act": 0.060324326157569885
+        },
+        {
+            "text": "Large amount of kids receive free and or reduced lunch.",
+            "act": 0.059929683804512024
+        },
+        {
+            "text": "They started in December 2012 after Maliki issued\narrest warrants for some of then Finance Minister Rafi Issawi\u2019s bodyguards who\nhails from Fallujah.",
+            "act": 0.05951701104640961
+        },
+        {
+            "text": "Flock action was good as well, and we eventually tallied Waved and Golden-collared woodpeckers, Curve-billed Scythebill, Ash-winged Antwren, Olive-green Tyrannulet, Guianan Tyrannulet, Short-tailed Pygmy-Tyrant, Yellow-throated Flycatcher, and a male Glossy-backed Becard, along with Red-billed Pied-Tanager and numerous other tanagers, dacnis, and honeycreepers.",
+            "act": 0.058963842689991
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

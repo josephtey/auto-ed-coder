@@ -1,0 +1,412 @@
+{
+    "index": 136,
+    "label": "Legal and administrative excerpts",
+    "attributes": "includes legal disclaimers, includes document management metadata, formal tone",
+    "reasoning": "The most specific attribute shared by all the samples within <positive-samples> and not in <negative-samples> is the frequent presence of metadata such as 'RETENTION', 'IN NO EVENT SHALL', and document management or legal disclaimers. These elements suggest that many of the texts in these samples are excerpts from legal, technical, or administrative documents. This attribute is not present in any of the samples categorized under <negative-samples>, which primarily comprise conversational or informal text.",
+    "density": 0.007597002956235379,
+    "confidence": 36.0,
+    "high_act_samples": [
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.3588673174381256
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.2537012994289398
+        },
+        {
+            "text": "RETENTION: Retain in office while active or until superseded, then destroy by landfill.",
+            "act": 0.2183515429496765
+        },
+        {
+            "text": "Sarebbe una chance da non farsi sfuggire.",
+            "act": 0.20542266964912415
+        },
+        {
+            "text": "IN NO EVENT SHALL THE\n AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\n LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\n OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\n THE SOFTWARE.",
+            "act": 0.19882816076278687
+        },
+        {
+            "text": "These instead focus more on humankind standing apart from nature (rather than being 'of it'), subjugating it.",
+            "act": 0.19753985106945038
+        },
+        {
+            "text": "RETENTION: Retain in office until superseded, then destroy by shredding then landfill.",
+            "act": 0.19628280401229858
+        },
+        {
+            "text": "& Indemn.",
+            "act": 0.19095590710639954
+        },
+        {
+            "text": "ha!",
+            "act": 0.19063933193683624
+        },
+        {
+            "text": "msgstr  \"N\u00e3o existem pain\u00e9is ativos.",
+            "act": 0.1889776885509491
+        },
+        {
+            "text": "Bad Fe!",
+            "act": 0.182113379240036
+        },
+        {
+            "text": "RT-WHO 354-55, 1649-50.",
+            "act": 0.1812278926372528
+        },
+        {
+            "text": "IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR\n    ANY  SPECIAL ,  DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES\n    WHATSOEVER  RESULTING  FROM  LOSS  OF USE, DATA OR PROFITS, WHETHER IN AN\n    ACTION  OF  CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF\n    OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.",
+            "act": 0.18016500771045685
+        },
+        {
+            "text": "Fitting in?",
+            "act": 0.17985990643501282
+        },
+        {
+            "text": "Un profilo di alto livello, a costo zero.",
+            "act": 0.17566996812820435
+        },
+        {
+            "text": "Duplicates: Retain in office while active, then destroy by\n\nlandfill.",
+            "act": 0.17514175176620483
+        },
+        {
+            "text": "RT-WHO 354-55, 1649-50.",
+            "act": 0.1674332618713379
+        },
+        {
+            "text": "The planes containing the right and left portal pedicles (hepatic scissurae) transversely divide the sectors into eight segments.",
+            "act": 0.16659295558929443
+        },
+        {
+            "text": "General CommentInteresting thought, Foxfulness.",
+            "act": 0.16649997234344482
+        },
+        {
+            "text": "- **\u010cas a datum intervence.",
+            "act": 0.1655341237783432
+        },
+        {
+            "text": "euros (21.8 mil.",
+            "act": 0.16493898630142212
+        },
+        {
+            "text": "This translates to our secondary animation being\n    // dismissed.",
+            "act": 0.16392920911312103
+        },
+        {
+            "text": "Ignorant fuckin' bastards.",
+            "act": 0.16349545121192932
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.16117015480995178
+        },
+        {
+            "text": "Just warehouse.",
+            "act": 0.1611102819442749
+        },
+        {
+            "text": "\u201cImpressionist art\u201d, \u201cmysterianism\u201d, \u201catonality\u201d, and even \u201cthe Austrian School\u201d were all terms of mockery before being reclaimed.",
+            "act": 0.1610548198223114
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term distributed, then\n\ndestroy by shredding then landfill.",
+            "act": 0.1605181097984314
+        },
+        {
+            "text": "\"Nemesis?\"",
+            "act": 0.15891775488853455
+        },
+        {
+            "text": "(DF, deltoid fascia, SS, supraspinatus.",
+            "act": 0.1565757393836975
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.1562422811985016
+        },
+        {
+            "text": "Tente novamente.",
+            "act": 0.15557217597961426
+        },
+        {
+            "text": "L'ex giocatore della , attualmente allo di San Pietroburgo, avrebbe gi\u00e0 dato il suo placet per un ritorno in .",
+            "act": 0.15532344579696655
+        },
+        {
+            "text": "Mani Ratnam, whose Roja, Bombay and Dil......",
+            "act": 0.15266846120357513
+        },
+        {
+            "text": "RETENTION: Retain in office 2 years after termination or until final disposition of charge or civil action, then destroy by shredding then landfill.",
+            "act": 0.15251469612121582
+        },
+        {
+            "text": "RETENTION: Retain in office 2 years after termination or until final disposition of charge or civil action, then destroy by shredding then landfill.",
+            "act": 0.15251469612121582
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.15203146636486053
+        },
+        {
+            "text": "Geralmente, as simula\u00e7\u00f5es consideram, no m\u00e1ximo, mil possibilidades\", explicou Helena.",
+            "act": 0.15087012946605682
+        },
+        {
+            "text": "Leonardo e Maldini sono approdati al (per la seconda volta) troppo tardi questa estate.",
+            "act": 0.1503201574087143
+        },
+        {
+            "text": "\u201cJai has relocated all the way from SF to Bangalore and hit the ground running on his first day co-hosting a Mi fan meet-up with his partner in crime +Rohit Ghalsasi,\u201d he added.",
+            "act": 0.14943799376487732
+        },
+        {
+            "text": "Paredes ha un costo elevato, e lo Zenit non vorrebbe perderlo dopo l\u2019acquisizione a luglio 2017 per circa 25 milioni di euro.",
+            "act": 0.14542290568351746
+        },
+        {
+            "text": "Historically the region comprising the state was known as Andhraapatha, Andhradesa, Andhraavani, and Andhra vishaya.",
+            "act": 0.1453014463186264
+        },
+        {
+            "text": "sati_demise\n\nFUCK THOSE FUCKING FUCKS.",
+            "act": 0.14409708976745605
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.14309442043304443
+        },
+        {
+            "text": "to 80mi.",
+            "act": 0.14195945858955383
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.14079560339450836
+        },
+        {
+            "text": "(App.",
+            "act": 0.14067959785461426
+        },
+        {
+            "text": "(See Federal Def.",
+            "act": 0.13971483707427979
+        },
+        {
+            "text": "Riiiight.",
+            "act": 0.13830074667930603
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.13818682730197906
+        },
+        {
+            "text": "He also answers to El Mascara Nerdragious.",
+            "act": 0.13258688151836395
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

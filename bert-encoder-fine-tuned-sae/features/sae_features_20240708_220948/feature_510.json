@@ -1,0 +1,412 @@
+{
+    "index": 510,
+    "label": "Diverse narrative and informational content",
+    "attributes": "personal opinions, historical references, complex sentence structures, diversity in content, use of direct quotes and expressions of uncertainty, non-standard vocabulary or symbols",
+    "reasoning": "Upon examining the texts, it becomes clear that the samples which are grouped under one category tend to be snippets that include personal opinions, reflections, or factual statements. They contain a variety of sentence structures and expressions of uncertainty, historical facts, reports, and direct quotes. This diversity in content creates a distinct set of characteristics, which is mainly the stylistic variety and informational depth. These samples also include complex narrative constructs and the occasional use of non-standard vocabulary or symbols.",
+    "density": 0.0035161643913619086,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "But I did not feel repentant so I didn\u2019t.",
+            "act": 0.21212877333164215
+        },
+        {
+            "text": "I guess not.",
+            "act": 0.18449373543262482
+        },
+        {
+            "text": "1 according to the abovementioned process is expressed:\nD(\u201c1\u201d); G(\u201c2\u201d); C(\u201c11\u201d); B(\u201c111\u201d); E (\u201c112\u201d); A(\u201c1111\u201d, \u201c1121\u201d); F(\u201c1112\u201d, \u201c1122\u201d); H(\u201c21\u201d, \u201c113\u201d); I(\u201c211\u201d, \u201c1131\u201d).",
+            "act": 0.18390311300754547
+        },
+        {
+            "text": "I can\u2019t \u2014 I don\u2019t know.",
+            "act": 0.16642650961875916
+        },
+        {
+            "text": "I don't know.",
+            "act": 0.15157069265842438
+        },
+        {
+            "text": "I don\u2019t know.",
+            "act": 0.1419629603624344
+        },
+        {
+            "text": "As far as the future, I\u2019m not sure.",
+            "act": 0.14116892218589783
+        },
+        {
+            "text": "I\u2019m not sure.",
+            "act": 0.1405414342880249
+        },
+        {
+            "text": "Historical commemoration \n\n A statue was erected in his honor in the plaza of Alegria, Cebu.",
+            "act": 0.13937726616859436
+        },
+        {
+            "text": "I don\u2019t know.",
+            "act": 0.1359146535396576
+        },
+        {
+            "text": "I don\u2019t know.",
+            "act": 0.1336309015750885
+        },
+        {
+            "text": "Says it\u2019s been \u201cdownward spiral\u201d since.",
+            "act": 0.13057267665863037
+        },
+        {
+            "text": "\u201cExcuse me?",
+            "act": 0.12658759951591492
+        },
+        {
+            "text": "Member shall deliver all milk produced under his control for market: to Association or such other person at such time and place and in such form and manner as shall be designated by Association.",
+            "act": 0.1210545152425766
+        },
+        {
+            "text": "I don't know.",
+            "act": 0.11940693855285645
+        },
+        {
+            "text": "I don\u2019t think they ever realised something had happened.",
+            "act": 0.11915294826030731
+        },
+        {
+            "text": "As someone who was sceptical and sure they\u2019d not \u2018get me\u2019, they did.",
+            "act": 0.11730217188596725
+        },
+        {
+            "text": "It seems very dry,\u201d in a nasally voice.",
+            "act": 0.1152089536190033
+        },
+        {
+            "text": "Gallery\n\nReferences\n\nCategory:1833 births\nCategory:1911 deaths\nCategory:19th-century English photographers\nCategory:20th-century British photographers\nCategory:People from Ipswich",
+            "act": 0.11455779522657394
+        },
+        {
+            "text": "Figueiredo, we had a nice flock moving on the forest edge, much lower than usual, for several minutes.",
+            "act": 0.11415942758321762
+        },
+        {
+            "text": "Communities and locations in Sidney\nEast Sidney\nFranklin Depot'\nSidney \u2013 the Village of Sidney\nSidney Center\nSouth Unadilla\nYoungs\n\nNotable people\n Mary Jane Aldrich (1833\u20131909), temperance reformer and lecturer.",
+            "act": 0.11368374526500702
+        },
+        {
+            "text": "I hope not.",
+            "act": 0.113316610455513
+        },
+        {
+            "text": "players\nCategory:Year of death missing\nCategory:Association football forwards\nCategory:Footballers from Glasgow\nCategory:English Football League players",
+            "act": 0.11270279437303543
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.11081613600254059
+        },
+        {
+            "text": "They don\u2019t calumniate any other, since they don\u2019t wish to repairs a category.",
+            "act": 0.10942891240119934
+        },
+        {
+            "text": "players\nCategory:English Football League players\nCategory:Deaths from prostate cancer\nCategory:Deaths from cancer in England",
+            "act": 0.10814826935529709
+        },
+        {
+            "text": "Community Plan for Holloway are currently running an online survey.",
+            "act": 0.10774216055870056
+        },
+        {
+            "text": "I was very happy to see someone \u201con the outside\u201d make this important observation.",
+            "act": 0.10709388554096222
+        },
+        {
+            "text": "William Vick\n\nWilliam Vick (1833, Ebley \u2013 15 April 1911, Merton) was an English photographer active in Ipswich, Suffolk from 1868 until the 1890s.",
+            "act": 0.10280810296535492
+        },
+        {
+            "text": "It was sooooooo fun,\u201d he tweeted.",
+            "act": 0.10097678005695343
+        },
+        {
+            "text": "of LMS 40, 87\u2013192,(1980).",
+            "act": 0.0982399433851242
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.0969230979681015
+        },
+        {
+            "text": "Vice President for Student and Campus Life Ryan Lombardi expressed \u201cprofound sadness\u201d at the death of Narasipura.",
+            "act": 0.09630428999662399
+        },
+        {
+            "text": "The Council is composed of 36 UNESCO Member States elected by the General Conference of UNESCO at its ordinary sessions held every two years.",
+            "act": 0.09596958011388779
+        },
+        {
+            "text": "less than 18 years, 18 to 45 years and Over 45 years) and five for income level.",
+            "act": 0.09426775574684143
+        },
+        {
+            "text": "Sidney, New York\n\nSidney is a town in Delaware County, New York, United States.",
+            "act": 0.09387984871864319
+        },
+        {
+            "text": "I\u2019ve had a really dark feeling ever since.",
+            "act": 0.09273514151573181
+        },
+        {
+            "text": "Personal life\nL\u00f3pez-Bago married Milagros Ojeda Varona, his  first wife, who was President of the Red Cross in Larache and his second wife, Manuela Ruiz Juan, who was president of the Red Cross committee for the Spanish Republic in exile in France.",
+            "act": 0.08946019411087036
+        },
+        {
+            "text": "That got weird.",
+            "act": 0.08938509225845337
+        },
+        {
+            "text": "I don't know why.",
+            "act": 0.08884672075510025
+        },
+        {
+            "text": "Tom\u00e1s al Libro Gamma de la Metaf\u00edsica.",
+            "act": 0.08838726580142975
+        },
+        {
+            "text": "I am soooooo done with this.",
+            "act": 0.08778546005487442
+        },
+        {
+            "text": "**310** (1998), 571\u2013600.",
+            "act": 0.08775753527879715
+        },
+        {
+            "text": "The results are listed in Supplementary Tables S2 and S3.",
+            "act": 0.08675487339496613
+        },
+        {
+            "text": "He noted that if I didn\u2019t\nsomeone else would.",
+            "act": 0.08644890785217285
+        },
+        {
+            "text": "From this small family came one of the most celebrated of all Rossini tenors \u2013 Manuel Garcia the elder; his son, the most influential teacher of all; and two of the century\u2019s most illustrious singers \u2013 Malibran and Viardot-Garcia.",
+            "act": 0.0863441750407219
+        },
+        {
+            "text": "DIEEEEEEEEGGGGGOOOOOOOOOOOOOOOO!!!",
+            "act": 0.08629662543535233
+        },
+        {
+            "text": "I think they've been very dishonest.",
+            "act": 0.0860910713672638
+        },
+        {
+            "text": "I could not provide answers concerning timetable and speicifc location for the plant.",
+            "act": 0.08329503238201141
+        },
+        {
+            "text": "I hope so.",
+            "act": 0.08218875527381897
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

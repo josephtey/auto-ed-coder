@@ -1,0 +1,412 @@
+{
+    "index": 692,
+    "label": "Technical and academic textual content",
+    "attributes": "technical terms, foreign languages, numerical values, professional or academic contexts, specialized symbols, grammatically complete sentences, context-specific information",
+    "reasoning": "The samples exhibit a wide range of topics and subjects, often including technical terms, foreign languages, numerical values, professional or academic contexts, and a mix of common and specialized symbols. Additionally, a lot of the samples are grammatically complete sentences and phrases that often contain context-specific information. These attributes are not found in the other samples, which often consist of informal language, conversations, or emotionally charged discussions, devoid of technical or academically oriented content.",
+    "density": 0.0004745161121945896,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "al.",
+            "act": 0.21886706352233887
+        },
+        {
+            "text": "al.",
+            "act": 0.21589918434619904
+        },
+        {
+            "text": "al.",
+            "act": 0.21335120499134064
+        },
+        {
+            "text": "al.",
+            "act": 0.20857521891593933
+        },
+        {
+            "text": "al.",
+            "act": 0.20517010986804962
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.13996556401252747
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.13996556401252747
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.12163817882537842
+        },
+        {
+            "text": "We\u2019re all different.",
+            "act": 0.11528114974498749
+        },
+        {
+            "text": "Stucco on exterior.",
+            "act": 0.11367729306221008
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.11367179453372955
+        },
+        {
+            "text": "Robert Mueller.",
+            "act": 0.08578284084796906
+        },
+        {
+            "text": "The homeowner vacancy rate was 0.3%; the rental vacancy rate was 5.8%.",
+            "act": 0.07307663559913635
+        },
+        {
+            "text": "based on tilt, and beverage family/brand.",
+            "act": 0.07233916223049164
+        },
+        {
+            "text": "Good but not elite.",
+            "act": 0.07143287360668182
+        },
+        {
+            "text": "Such booms typically bust.",
+            "act": 0.07032772898674011
+        },
+        {
+            "text": "\"Thank you.",
+            "act": 0.06511233747005463
+        },
+        {
+            "text": "They can conflict too.",
+            "act": 0.06484334170818329
+        },
+        {
+            "text": "(b).",
+            "act": 0.060959767550230026
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.0608515627682209
+        },
+        {
+            "text": "That and they won't be as rich.",
+            "act": 0.05319926142692566
+        },
+        {
+            "text": "I guess not.",
+            "act": 0.05234106257557869
+        },
+        {
+            "text": "Me too.",
+            "act": 0.051312413066625595
+        },
+        {
+            "text": "73\u201392.",
+            "act": 0.04830610752105713
+        },
+        {
+            "text": "46.",
+            "act": 0.0455290861427784
+        },
+        {
+            "text": "\"Sleep well?\"",
+            "act": 0.04504350945353508
+        },
+        {
+            "text": "JAEGER, Werner.",
+            "act": 0.04501732066273689
+        },
+        {
+            "text": "39\u201356.",
+            "act": 0.04486028105020523
+        },
+        {
+            "text": "Peer-Reviewed/Refereed.",
+            "act": 0.04416197910904884
+        },
+        {
+            "text": "Theirs was a low-income family.",
+            "act": 0.04403992369771004
+        },
+        {
+            "text": "\"It's a mystery solved.",
+            "act": 0.04373695328831673
+        },
+        {
+            "text": "I won't change.",
+            "act": 0.043434809893369675
+        },
+        {
+            "text": "212-241., 1990.",
+            "act": 0.042909201234579086
+        },
+        {
+            "text": "They're our mentors and role models.",
+            "act": 0.04083102568984032
+        },
+        {
+            "text": "His lineage and holdings made him an obvious candidate to succeed Maximilian as Holy Roman Emperor.",
+            "act": 0.0354427769780159
+        },
+        {
+            "text": "Discovery of Methyl (5 Z)-[2-(2,4,5-Trioxopyrrolidin-3-ylidene)-4-oxo-1,3-thiazolidin-5-ylidene]acetates as Antifungal Agents against Potato Diseases.",
+            "act": 0.03509315475821495
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.0334327332675457
+        },
+        {
+            "text": "We'll have to embrace it.",
+            "act": 0.03192741051316261
+        },
+        {
+            "text": "221.",
+            "act": 0.03096340224146843
+        },
+        {
+            "text": "It was first described by Daimaru et al.",
+            "act": 0.03092239424586296
+        },
+        {
+            "text": "210-239.",
+            "act": 0.03000141680240631
+        },
+        {
+            "text": "msg: Cell-h264: \u0395\u03be\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 4.2 \u03c3\u03b5 \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf %d.%d.",
+            "act": 0.029849641025066376
+        },
+        {
+            "text": "Ct. 66(C).",
+            "act": 0.029849138110876083
+        },
+        {
+            "text": "Coalitions cannot be blamed.",
+            "act": 0.028879377990961075
+        },
+        {
+            "text": "\"We're service-oriented, you and I.\"",
+            "act": 0.02851713076233864
+        },
+        {
+            "text": "We face hard problems.",
+            "act": 0.026985298842191696
+        },
+        {
+            "text": "This invention is an improvement on the prior application in which a new family of alkylpolyether siloxanes are provided by hydrosilylation of the alkylhydrido siloxanes in the prior application.",
+            "act": 0.026912759989500046
+        },
+        {
+            "text": "ZINGANO, Marco.",
+            "act": 0.026084717363119125
+        },
+        {
+            "text": "46.",
+            "act": 0.02594422921538353
+        },
+        {
+            "text": "The collaboration released three colorways: burgundy, navy, beige.",
+            "act": 0.025464672595262527
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

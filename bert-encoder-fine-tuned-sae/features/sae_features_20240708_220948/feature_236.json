@@ -1,0 +1,412 @@
+{
+    "index": 236,
+    "label": "Academic structured data and annotations",
+    "attributes": "structured data, annotations, references, specific formatting, academic elements",
+    "reasoning": "The texts within the samples contain structured data, annotations, and references that are typical in academic or formally detailed documents. They include elements such as tables, figures, reference citations, specific formatting for mathematical expressions, detailed timelines, and specific instructions. These elements are absent in the other samples, which consist primarily of informal conversations and casual text with no structured data or references.",
+    "density": 0.00572266431306675,
+    "confidence": 85.0,
+    "high_act_samples": [
+        {
+            "text": "\u201cAttends.",
+            "act": 0.21792753040790558
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.2097589671611786
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.2020864486694336
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.2020864486694336
+        },
+        {
+            "text": "STROBE-Punkte                                                                                                                                                                                                                                                                                                                                    RECORD-Punkte\n  ------------------------------------------------------------------- ----- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Titel und Abstract**                                                                                                                                                                                                                                                                                                                                                                                                     \n\n                                                                      1     \\(a\\) Machen Sie das Studiendesign im Titel oder Abstract kenntlich, indem Sie daf\u00fcr einen allgemein gebr\u00e4uchlichen Begriff verwenden\\                                                                                                                                                                                                           RECORD 1.1: Der verwendete Datentyp sollte im Titel oder Abstract angegeben werden.",
+            "act": 0.1903591752052307
+        },
+        {
+            "text": "clearly referred to something else.",
+            "act": 0.18038049340248108
+        },
+        {
+            "text": "Parts of the city wall still survive today in the old city.",
+            "act": 0.1769276261329651
+        },
+        {
+            "text": "Among the finds were the remains of the earlier amphitheatres and of an even older Roman building existing on the site.",
+            "act": 0.17342692613601685
+        },
+        {
+            "text": "Further works revealed that the structure was largely intact underneath the ground.",
+            "act": 0.17227502167224884
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.17035415768623352
+        },
+        {
+            "text": "North Shore, soon.",
+            "act": 0.16181419789791107
+        },
+        {
+            "text": "Joe ended.",
+            "act": 0.15348763763904572
+        },
+        {
+            "text": "[](pone.0168594.t002){#pone.0168594.t002g}\n\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Feedback semi-structured group interviews                                                                                                                                                                                             Adaptations intervention\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Stronger emphasis should be put on the focus of the lesson (i.e.",
+            "act": 0.15062713623046875
+        },
+        {
+            "text": "The first building within this area was a single story structure, used by the king, his consorts.",
+            "act": 0.14630940556526184
+        },
+        {
+            "text": "Future expansion\nThe 2nd phase may continue south to Haiwan town.",
+            "act": 0.14588013291358948
+        },
+        {
+            "text": "So in Progress but on hold.",
+            "act": 0.14567799866199493
+        },
+        {
+            "text": "-------------------------------------------\nBatch: 1\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 10:00:10|10   |0.0|1.0 |\n+-------------------+-----+---+----+\n\n-------------------------------------------\nBatch: 2\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 3\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 10:00:20|20   |0.0|0.0 |\n+-------------------+-----+---+----+\n\n-------------------------------------------\nBatch: 4\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 5\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 10:00:30|10   |0.0|1.0 |\n+-------------------+-----+---+----+\n\n-------------------------------------------\nBatch: 6\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 7\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 8\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 11:00:30|40   |0.0|0.0 |\n+-------------------+-----+---+----+\n\nI know watermark drop state by use maxevent-time in window, but in dropduplicate, I don't know how it clear state?",
+            "act": 0.14431284368038177
+        },
+        {
+            "text": "She was walking.",
+            "act": 0.1436890959739685
+        },
+        {
+            "text": "This place was earlier known as the \u201cIsle of the Gods\u2019 which it is actually.",
+            "act": 0.13982149958610535
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term distributed, then\n\ndestroy by shredding then landfill.",
+            "act": 0.1387237012386322
+        },
+        {
+            "text": "They played for the dignitaries and marched off again.",
+            "act": 0.13489754498004913
+        },
+        {
+            "text": "for the problem?",
+            "act": 0.13055986166000366
+        },
+        {
+            "text": "There would be a \u201clarge entertainment city with comprehensive functions such as leisure, vacation, tourism, food, entertainment, hotels, casinos and golf courses\u201d.",
+            "act": 0.12721037864685059
+        },
+        {
+            "text": "Archaeological remains of the William Rogers pottery factory believed to be the largest known enterprise of its type in Colonial America.",
+            "act": 0.12596380710601807
+        },
+        {
+            "text": "would probably turn out okay.",
+            "act": 0.12557999789714813
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term distributed, then destroy by shredding then landfill.",
+            "act": 0.1250365674495697
+        },
+        {
+            "text": "At least some of the money still requires additional approval.",
+            "act": 0.1248970776796341
+        },
+        {
+            "text": "Deadline approaching.",
+            "act": 0.12466999888420105
+        },
+        {
+            "text": "from the site of UT\u2019s planned purchase.",
+            "act": 0.12267482280731201
+        },
+        {
+            "text": "Clear?",
+            "act": 0.12188106775283813
+        },
+        {
+            "text": "any idea?",
+            "act": 0.12172307074069977
+        },
+        {
+            "text": "But it is also, despite headlines describing it as \u201csweeping\u201d and an \u201coverhaul,\u201d a very modest bill.",
+            "act": 0.11986683309078217
+        },
+        {
+            "text": "The place is also famous for shopping as well.",
+            "act": 0.11818660795688629
+        },
+        {
+            "text": "Once home to 80,000 people, it was deserted by its inhabitants and then choked with refugees.",
+            "act": 0.11639243364334106
+        },
+        {
+            "text": "Probably looked better than it was.",
+            "act": 0.11615583300590515
+        },
+        {
+            "text": "It means \u2018exalted or highest social standing\u2019.",
+            "act": 0.11550097167491913
+        },
+        {
+            "text": "Line 85 \u2013 End.",
+            "act": 0.11407668888568878
+        },
+        {
+            "text": "Modern times: No info on Google means it does not\nexist.",
+            "act": 0.11264833807945251
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.1124849021434784
+        },
+        {
+            "text": "###### \n\nData quality assessment (DQA) activities implementation schedule, 2017\n\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Phase 1: preparation                  January 2-March 14, 2017\n  ------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                        Identifying resources, partners, and staff, scheduling activities, venues, and transport, finalizing protocol and data collection tools (printed or electronic).",
+            "act": 0.11193843185901642
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.11192584037780762
+        },
+        {
+            "text": "\"Approaching Neutral Zone.\"",
+            "act": 0.11070718616247177
+        },
+        {
+            "text": "Next train station (line 1) is five minutes by feet.",
+            "act": 0.11017683148384094
+        },
+        {
+            "text": "Materials and methods {#s4}\n=====================\n\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Reagent type\\             Designation                          Source or reference   Identifiers                                                                                                                                   Additional information\n  (species) or resource                                                                                                                                                                                                              \n  ------------------------- ------------------------------------ --------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------\n  Gene (mouse)              Spen                                 RefSeq                [NM_019763.2](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nucleotide&term=NM_019763&doptcmdl=GenBank&tool=genome.ucsc.edu)   \n\n  Cell line (mouse)         TXY WT and TXY deltaA                Dr. Edith Heard       Xist-WT and Xist-deltaA                                                                                                                       Cell lines have a doxycycline inducible Xist gene + / - the A repeat region\n\n  Cell line (mouse)         HATX WT and HATX Spen KO             Dr. Anton Wutz        WT, *Spen* KO                                                                                                                                 KO cells have a deletion\\\n                                                                                                                                                                                                                                     of the majority of the Spen gene.",
+            "act": 0.10968457162380219
+        },
+        {
+            "text": "At least the match is at home, next month.",
+            "act": 0.10944843292236328
+        },
+        {
+            "text": "A point source together with surrounded \u201ccloud\u201d constitute dressed charged particle.",
+            "act": 0.10848637670278549
+        },
+        {
+            "text": "Gythio is at the north-eastern end of Mani.",
+            "act": 0.1080818772315979
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term submitted, then\n\ndestroy by shredding then landfill.",
+            "act": 0.10794757306575775
+        },
+        {
+            "text": "Would be grateful for any pointers.",
+            "act": 0.10696537792682648
+        },
+        {
+            "text": "The Palace of the Roman governor and the local Circus are certainly very popular, but Roman Museum is still the most visited one.",
+            "act": 0.10662390291690826
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

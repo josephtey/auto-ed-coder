@@ -1,0 +1,412 @@
+{
+    "index": 356,
+    "label": "Formal and structured language usage",
+    "attributes": "formal writing style, structured sentences, legal or official language, specific factual statements, numerical data",
+    "reasoning": "After analyzing both sets of samples, it is clear that the texts within the samples share a formal writing style in the context of official statements, legal language, sports commentary, and structured formats such as itemized lists. These texts often contain specific factual statements, numerical data, and structured sentences that are typically seen in formal writing. On the other hand, the other samples use an informal, conversational tone and discuss personal opinions, anecdotal content, or casual observations without a structured or factual focus.",
+    "density": 0.0034449869745327203,
+    "confidence": 50.0,
+    "high_act_samples": [
+        {
+            "text": "(c).",
+            "act": 0.3281802833080292
+        },
+        {
+            "text": "& S. Ry.",
+            "act": 0.25757473707199097
+        },
+        {
+            "text": "Haley to be U.S.",
+            "act": 0.18293137848377228
+        },
+        {
+            "text": "Haley to be U.S.",
+            "act": 0.18204274773597717
+        },
+        {
+            "text": "Haley to be U.S.",
+            "act": 0.17147980630397797
+        },
+        {
+            "text": "6621(c).",
+            "act": 0.17019353806972504
+        },
+        {
+            "text": "can covers areas up to 10 sq.",
+            "act": 0.1673138439655304
+        },
+        {
+            "text": "_______________________.",
+            "act": 0.1629042625427246
+        },
+        {
+            "text": "12 oz.",
+            "act": 0.1614142209291458
+        },
+        {
+            "text": "12 oz.",
+            "act": 0.1614142209291458
+        },
+        {
+            "text": "1.5(c).",
+            "act": 0.1600034534931183
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.15919382870197296
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.15919382870197296
+        },
+        {
+            "text": "Traded him to same owner, but traded back for him.",
+            "act": 0.15841136872768402
+        },
+        {
+            "text": "MCR 7.302(H)(1).",
+            "act": 0.15156221389770508
+        },
+        {
+            "text": "Barca value him at \u20ac50 million (\u00a344m/$57m), despite having bought him for \u20ac40m in the summer.",
+            "act": 0.15052925050258636
+        },
+        {
+            "text": "46(c)",
+            "act": 0.14902804791927338
+        },
+        {
+            "text": "=)",
+            "act": 0.14669962227344513
+        },
+        {
+            "text": "Davis was forged and that he never authorized that sale.",
+            "act": 0.14378869533538818
+        },
+        {
+            "text": "Mourinho said United signed Lukaku because he is a ready-made Premier League player, having had lots of experience in England, which hopefully would allow him to fit in immediately.",
+            "act": 0.14270177483558655
+        },
+        {
+            "text": "________________________________________________________________\n\n       Appeal from the Iowa District Court for Polk County, Christopher L.\n\nMcDonald, Judge.",
+            "act": 0.14094001054763794
+        },
+        {
+            "text": "According to documents obtained by the Times, Trump declared a loss of $916 million on his 1995 tax return, enabling him to legally avoid paying taxes for up to 18 years.",
+            "act": 0.14043359458446503
+        },
+        {
+            "text": "___________________________________\n                                                       DAVID G. HAYES, JUDGE\n\n\n\n\n                                                 -8-",
+            "act": 0.14026257395744324
+        },
+        {
+            "text": "The vehicle's value was estimated at $4400.",
+            "act": 0.137716606259346
+        },
+        {
+            "text": "The new Facebook\n\n______________________End_______________________",
+            "act": 0.13617832958698273
+        },
+        {
+            "text": "CUP, 2011.",
+            "act": 0.13385988771915436
+        },
+        {
+            "text": "1.47(C); R.C.",
+            "act": 0.13359485566616058
+        },
+        {
+            "text": "\"It's 60 sq.",
+            "act": 0.13253562152385712
+        },
+        {
+            "text": "number of zone visits to the two cups.",
+            "act": 0.13086405396461487
+        },
+        {
+            "text": "(a).",
+            "act": 0.1298108547925949
+        },
+        {
+            "text": "number of zone visits to the two cups.",
+            "act": 0.12934741377830505
+        },
+        {
+            "text": "Not\ntie.",
+            "act": 0.1282949596643448
+        },
+        {
+            "text": "Trump is now being groomed.",
+            "act": 0.1262301802635193
+        },
+        {
+            "text": "United had two bids rejected for the England centre-back, with the second offer understood to be \u00a360m.",
+            "act": 0.12596309185028076
+        },
+        {
+            "text": "While Earnhardt said he\u2019s obviously pleased with the success that he and the No.",
+            "act": 0.12480857968330383
+        },
+        {
+            "text": "_______________ .",
+            "act": 0.12340910732746124
+        },
+        {
+            "text": "Neither team has officially confirmed the trade.",
+            "act": 0.12164975702762604
+        },
+        {
+            "text": "He has a great combination of power and speed.",
+            "act": 0.11835935711860657
+        },
+        {
+            "text": "__________________________________\n                                      MICHAEL H. WOJCIK, Judge",
+            "act": 0.11564803123474121
+        },
+        {
+            "text": "64-oz.",
+            "act": 0.1121598333120346
+        },
+        {
+            "text": "It says that it includes a new campaign, a new multiplayer, and a new sandbox mode.",
+            "act": 0.1119765192270279
+        },
+        {
+            "text": "\"'Clear.",
+            "act": 0.1108604297041893
+        },
+        {
+            "text": "\"Same blood, but not the same heart.\"",
+            "act": 0.11069139838218689
+        },
+        {
+            "text": "Z.",
+            "act": 0.11028827726840973
+        },
+        {
+            "text": "_________________________\nMiller, J.",
+            "act": 0.10814660042524338
+        },
+        {
+            "text": "This is still $7 Billion.",
+            "act": 0.10592446476221085
+        },
+        {
+            "text": "This is still $7 Billion.",
+            "act": 0.10592446476221085
+        },
+        {
+            "text": "will be doubled by a generous supporter.",
+            "act": 0.10571690648794174
+        },
+        {
+            "text": "CUP, 1991.",
+            "act": 0.10533472895622253
+        },
+        {
+            "text": "2015\n\nQ.",
+            "act": 0.10522530972957611
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

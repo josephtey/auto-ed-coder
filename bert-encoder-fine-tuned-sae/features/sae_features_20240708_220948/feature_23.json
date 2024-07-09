@@ -1,0 +1,412 @@
+{
+    "index": 23,
+    "label": "Multilingual and technical content with structure",
+    "attributes": "multilingual text, specialized technical terms, structured fragments (e.g., code, data descriptions, mathematical expressions)",
+    "reasoning": "The samples contain elements of multilingualism, specialized technical or scientific terms, and structured fragments like code, mathematical expressions, or data-descriptions which are not found in the other samples.",
+    "density": 0.004152015981702659,
+    "confidence": 75.0,
+    "high_act_samples": [
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.24447502195835114
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.199583038687706
+        },
+        {
+            "text": "[Connectivity during working memory (WM) retention.",
+            "act": 0.17519237101078033
+        },
+        {
+            "text": "# :ref:`panic mode.",
+            "act": 0.1675594598054886
+        },
+        {
+            "text": "[Optic nerve analysis in light and dark conditions.",
+            "act": 0.1643553227186203
+        },
+        {
+            "text": "[Prey identification success with different extraction methods or genetic markers.",
+            "act": 0.15730665624141693
+        },
+        {
+            "text": "[**I.",
+            "act": 0.1533958613872528
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.15167807042598724
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.15135246515274048
+        },
+        {
+            "text": "[Vertical analysis of the retina.",
+            "act": 0.1495015174150467
+        },
+        {
+            "text": "[*Adhesion radius.",
+            "act": 0.14927752315998077
+        },
+        {
+            "text": "[*Bottom Panel.",
+            "act": 0.14918361604213715
+        },
+        {
+            "text": "\u201cI don\u2019t want to go on the DL.",
+            "act": 0.14743448793888092
+        },
+        {
+            "text": "[Horizontal analysis of the retina in light and dark conditions.",
+            "act": 0.14395710825920105
+        },
+        {
+            "text": "[Dilation of coronary and left renal veins.",
+            "act": 0.14280612766742706
+        },
+        {
+            "text": "For this reason you should never turn your back on family.",
+            "act": 0.14047358930110931
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.1397470086812973
+        },
+        {
+            "text": "\u201cLove is a form of prejudice.",
+            "act": 0.1389273852109909
+        },
+        {
+            "text": "[Analysis of COG function differences between CK and BFP3 soils.",
+            "act": 0.1385415643453598
+        },
+        {
+            "text": "\u201cThis was my block.",
+            "act": 0.13562200963497162
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.13446767628192902
+        },
+        {
+            "text": "Sodano was also one of Marcial Maciel\u2019s most ardent supporters.",
+            "act": 0.13437943160533905
+        },
+        {
+            "text": "[Detection of FXIII-A expression on analysis of serial dilutions.",
+            "act": 0.13184720277786255
+        },
+        {
+            "text": "I never thought of it that way.",
+            "act": 0.131484255194664
+        },
+        {
+            "text": "Radical resection is the treatment of choice.",
+            "act": 0.1312025636434555
+        },
+        {
+            "text": "[**Figure 6.",
+            "act": 0.12896214425563812
+        },
+        {
+            "text": "[Number of indicators by type and level.",
+            "act": 0.12820494174957275
+        },
+        {
+            "text": "Valeria",
+            "act": 0.12735189497470856
+        },
+        {
+            "text": "[Cross\u2010frequency phase\u2010amplitude coupling.",
+            "act": 0.12713675200939178
+        },
+        {
+            "text": "You don\u2019t need a \u2018personal brand\u2019 when you have passion.",
+            "act": 0.12691806256771088
+        },
+        {
+            "text": "[Effects of treatments on secondary branch development in the distal response zone of plants in Experiment 1.",
+            "act": 0.1241813451051712
+        },
+        {
+            "text": "I've never taken that position.",
+            "act": 0.12292024493217468
+        },
+        {
+            "text": "[**Polycarbonate (PC).",
+            "act": 0.12272696197032928
+        },
+        {
+            "text": "Gilberto was known for his demanding acoustic and noise-control standards.",
+            "act": 0.12182475626468658
+        },
+        {
+            "text": "I've never taken that position.",
+            "act": 0.12101370096206665
+        },
+        {
+            "text": "[**Figure 5.",
+            "act": 0.1204557865858078
+        },
+        {
+            "text": "[Decision-tree algorithm of the variables associated with tractional macular detachment.",
+            "act": 0.11741739511489868
+        },
+        {
+            "text": "[Data collection procedure.",
+            "act": 0.11695802211761475
+        },
+        {
+            "text": "[**Figure 7.",
+            "act": 0.11623510718345642
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.11387494206428528
+        },
+        {
+            "text": "[*Acknowledgement.",
+            "act": 0.11384902149438858
+        },
+        {
+            "text": "[**Code availability.",
+            "act": 0.1136026605963707
+        },
+        {
+            "text": "I prefer it that way.",
+            "act": 0.11260046064853668
+        },
+        {
+            "text": "[Improvement chart for correction task.",
+            "act": 0.11249731481075287
+        },
+        {
+            "text": "[Path diagram of the tested model.",
+            "act": 0.11225516349077225
+        },
+        {
+            "text": "I always forget about kirby.",
+            "act": 0.11192967742681503
+        },
+        {
+            "text": "[**Figure 4.",
+            "act": 0.11152497678995132
+        },
+        {
+            "text": "[Original DCE-MRI images/ADC maps and corresponding color-coded feature maps as overlays of the tumor area of triple negative (TN) and luminal A breast cancer.",
+            "act": 0.10998505353927612
+        },
+        {
+            "text": "E [Noble Aff.",
+            "act": 0.1094193309545517
+        },
+        {
+            "text": "[Design scheme for Bell-state measurement.",
+            "act": 0.10753586888313293
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 267,
+    "label": "Scientific or technical descriptions",
+    "attributes": "contain technical or scientific terminology, detailed descriptions related to specific fields, provide scientific context, include references to data or studies",
+    "reasoning": "The most specific attribute shared by all the samples in the first group is that they contain technical or scientific terminology and detailed descriptions related to specific fields such as biology, chemistry, or technical research. These passages provide scientific context, terminology, and references to data or specific studies. None of the samples in the second group exhibit these characteristics; they are more conversational, casual, and lack technical or scientific specificity.",
+    "density": 0.0005504386901457239,
+    "confidence": 56.0,
+    "high_act_samples": [
+        {
+            "text": "\"Come\non, we're getting ready to open gifts.\"",
+            "act": 0.14073878526687622
+        },
+        {
+            "text": "\"Did you sleep well at my house?\"",
+            "act": 0.07679238170385361
+        },
+        {
+            "text": "Overall Met% of ACSL3 promoter is shown.",
+            "act": 0.07560395449399948
+        },
+        {
+            "text": "The red line annotates the highly conserved C-terminal region (675--720 aa).",
+            "act": 0.06770863384008408
+        },
+        {
+            "text": "\"You really know your stuff, babe.\"",
+            "act": 0.06482125073671341
+        },
+        {
+            "text": "The Cd (small) and Yb atoms (large) form a shell structure.",
+            "act": 0.059197213500738144
+        },
+        {
+            "text": "His father, John Fontaine (1792-1866), had served as the Mayor of Columbus from 1836 to 1837, and he was a planter.",
+            "act": 0.05849475786089897
+        },
+        {
+            "text": "Yb atoms are located at the centers of the pentagons.",
+            "act": 0.05745568871498108
+        },
+        {
+            "text": "\"I thought we was going straight out.\"",
+            "act": 0.057410456240177155
+        },
+        {
+            "text": "\"How's your leg?\"",
+            "act": 0.05719977989792824
+        },
+        {
+            "text": "\"We spent all evening playing video games.\"",
+            "act": 0.05588863417506218
+        },
+        {
+            "text": "At birth they\ninherited a single-hearted, noble temper.",
+            "act": 0.05387696251273155
+        },
+        {
+            "text": "\"YOU'LL BE VERY FINE.\"",
+            "act": 0.052274320274591446
+        },
+        {
+            "text": "The broth had been simmering for hours with vegetables.",
+            "act": 0.051922813057899475
+        },
+        {
+            "text": "The (55)Fe-labeled lower band was identified as NifX by N-terminal sequencing.",
+            "act": 0.04996896907687187
+        },
+        {
+            "text": "\"I ain't got time for your shit.\"",
+            "act": 0.04927652329206467
+        },
+        {
+            "text": "\"If we're discussing your feet, I'll look at your feet.\"",
+            "act": 0.04881574586033821
+        },
+        {
+            "text": "\"Surely, you have a big appetite by now.\"",
+            "act": 0.048458825796842575
+        },
+        {
+            "text": "The capsid, which comprises 162 capsomere subunits arranged in icosahedral symmetry, houses the viral genome.",
+            "act": 0.0461779423058033
+        },
+        {
+            "text": "O Bee-Zed, por\u00e9m, \u00e9 considerado incomum por causa da estabilidade de sua \u00f3rbita, que permanece a mesma h\u00e1 bilh\u00f5es de anos.",
+            "act": 0.04256339743733406
+        },
+        {
+            "text": "In addition, the perinuclear ER-like distribution of ectopically-expressed AnkB-Paris is lost upon alternation of the di-lysine ER retention motif.",
+            "act": 0.03973850980401039
+        },
+        {
+            "text": "Therefore, despite lacking the farnesylation motif, which is indispensable for anchoring AnkB-AA00/130b to the ER-derived LCV membrane, AnkB-Paris is also anchored to the LCV membrane, and this is likely to be mediated the di-lysine ER retention motif.",
+            "act": 0.038876209408044815
+        },
+        {
+            "text": "Such membrane-bound M-CSF may be cleaved to release secreted M-CSF.",
+            "act": 0.038665834814310074
+        },
+        {
+            "text": "\" How's your eye?\"",
+            "act": 0.03726707771420479
+        },
+        {
+            "text": "J Pain.",
+            "act": 0.03658037260174751
+        },
+        {
+            "text": "Sub-categories: peer reviewed publication; publication (any form of publication other than peer review); reference (e.g.",
+            "act": 0.034986462444067
+        },
+        {
+            "text": "\"Need anything?\"",
+            "act": 0.03379528596997261
+        },
+        {
+            "text": "The ex-Oklahoma Sooners\u2019 lineman has outstanding size at 6-foot-6 and 330 pounds.",
+            "act": 0.03341354802250862
+        },
+        {
+            "text": "Despite the lack of the farnesylation motif, AnkB-Paris is anchored to the cytosolic side of the LCV membrane.",
+            "act": 0.03301740810275078
+        },
+        {
+            "text": "\"You never really know what we're talking about.\"",
+            "act": 0.031738582998514175
+        },
+        {
+            "text": "The reason is that the two ribosome halves need to move around relative to each other as they built molecules, which a tether might prevent.",
+            "act": 0.03163377568125725
+        },
+        {
+            "text": "*',\n\u00bb     ),\n\u00bb );\n\u00bb ~~~\n\n\u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc, \u05e9\u05dd \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR \u05d4\u05d5\u05d0 \u05d6\u05d4\u05d4 \u05dc\u05e9\u05dd \u05e9\u05dc \u05d4\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+            "act": 0.030851218849420547
+        },
+        {
+            "text": "There is an adjacent and moderate sized parking lot and there are meters on the street.",
+            "act": 0.0305604450404644
+        },
+        {
+            "text": "However, while J1228+1040 is more than seven times smaller in diameter than the ringed planet, it has a mass over 2500 times greater.",
+            "act": 0.03023296222090721
+        },
+        {
+            "text": "1291, 1319-20 (N.D.Cal.1979) (same), aff'd, 676 F.2d 1272 (9th Cir.1982);  Marshall v. Burger King Corp., 509 F.Supp.",
+            "act": 0.03019840270280838
+        },
+        {
+            "text": "\u05dc\u05e0\u05d5\u05d7\u05d5\u05ea, \u05d0\u05e0\u05d5 \u05e0\u05e9\u05ea\u05de\u05e9 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d4\u05d1\u05d0\u05d4 \u05dc\u05de\u05d8\u05e8\u05ea \u05d4\u05e6\u05d2\u05ea \u05d4\u05d3\u05d5\u05d2\u05de\u05d0\u05d5\u05ea \u05d1\u05d7\u05dc\u05e7 \u05d6\u05d4.",
+            "act": 0.02960101142525673
+        },
+        {
+            "text": "\"This kid could be into anything.\"",
+            "act": 0.029581140726804733
+        },
+        {
+            "text": "TFBS for ERF was present in 25 genes followed by C2H2 (6 genes), BBR-BPC (5 genes), Dof (4 genes), MIKC-MADS/MYB (2 genes each).",
+            "act": 0.02736985683441162
+        },
+        {
+            "text": "\"Before you begin, I have to tell you that we're already fully booked.\"",
+            "act": 0.02712951973080635
+        },
+        {
+            "text": "Also I was really going to start this off as some smart ass comment and then patented sexual innuendo followed a cheesy pick up line.",
+            "act": 0.02662963792681694
+        },
+        {
+            "text": "Key residues are highlighted in stick representation.",
+            "act": 0.026509594172239304
+        },
+        {
+            "text": "\" I don't know what you mean.\"",
+            "act": 0.025565627962350845
+        },
+        {
+            "text": "\u05de\u05d5\u05de\u05dc\u05e5 \u05dc\u05d0 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d5 \u05d1\u05e2\u05ea \u05d1\u05d9\u05e6\u05d5\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05de\u05d5\u05e8\u05db\u05d1\u05d5\u05ea.",
+            "act": 0.02516837790608406
+        },
+        {
+            "text": "He\u2019s capable of turning any throw, accurate or wild, into a long gain by using his 6-foot-4 frame and an impressive vertical jump.",
+            "act": 0.02516292780637741
+        },
+        {
+            "text": "Furthermore, arresten-overexpressing HSC-3 cells expressed increased levels of MMP9, but exhibited decreased motility compared with controls.",
+            "act": 0.02450815960764885
+        },
+        {
+            "text": "18S rRNA.",
+            "act": 0.024074893444776535
+        },
+        {
+            "text": "CCC\u00a0is the most abundant type, making up for about 60% of the cases, and is located in the proximal tubule.",
+            "act": 0.02388594299554825
+        },
+        {
+            "text": "The only thing that links ERVK type TEs to each other is the presence of a lysine-tRNA in the primer binding site (PBS) of those ERV internal sequences.",
+            "act": 0.023493744432926178
+        },
+        {
+            "text": "What is h?",
+            "act": 0.022502321749925613
+        },
+        {
+            "text": "However, it has been shown that SC has the best sensitivity for the detection of OXA-48 [@bib21].",
+            "act": 0.021520106121897697
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

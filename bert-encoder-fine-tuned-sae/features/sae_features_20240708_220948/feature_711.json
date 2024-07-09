@@ -1,0 +1,412 @@
+{
+    "index": 711,
+    "label": "Formal informative/descriptive texts",
+    "attributes": "formal and structured tone, detailed information, proper nouns, high level of specificity, clear and formal language, well-constructed sentences",
+    "reasoning": "The samples have a variety of topics, but they all share a formal and structured tone typically found in informative, descriptive, or narrative contexts. The sentences often contain detailed information, proper nouns, and a high level of specificity. The language used is designed to convey information clearly and formally, with an emphasis on proper grammar and well-constructed sentences. In contrast, the other samples contain informal, conversational, or fragmented language with varying degrees of formality and completeness.",
+    "density": 0.002766428934094457,
+    "confidence": 45.0,
+    "high_act_samples": [
+        {
+            "text": "The badly pillaged and damaged supporting walls were removed and marked with concrete trim and the arena wall was propped up with concrete panels.",
+            "act": 0.17472869157791138
+        },
+        {
+            "text": "I got a bit cross yesterday and burned quite a lot of stuff.",
+            "act": 0.15378043055534363
+        },
+        {
+            "text": "Kozitsky, Prof. Yu.",
+            "act": 0.14257635176181793
+        },
+        {
+            "text": "In 1937, the Haitian government also issued passports and visas to some 100 Eastern European Jews fleeing the Nazi Holocaust.",
+            "act": 0.13295289874076843
+        },
+        {
+            "text": "also prepared the first draft of the manuscript which was edited and finalised by P.K.G.",
+            "act": 0.1326887011528015
+        },
+        {
+            "text": "The peak can also be remarkable for tall and brief individuals.",
+            "act": 0.13144350051879883
+        },
+        {
+            "text": "The Kingston, ON native was drafted 134th overall in the 1982 NHL Draft by the St. Louis Blues.",
+            "act": 0.13033299148082733
+        },
+        {
+            "text": "This dazzling charm is topped with an antique gold clasp and hardware.",
+            "act": 0.12614785134792328
+        },
+        {
+            "text": "P. O. Kazinski, S. L. Lyakhovich, and A.",
+            "act": 0.12612998485565186
+        },
+        {
+            "text": "Very professional throughout he works to a very high standard and left the area very clean and tidy at all stages.",
+            "act": 0.12591096758842468
+        },
+        {
+            "text": "More than 1,000 actors and extras appear in the film, which culminates in a spectacularly choreographed ballroom dance sequence.",
+            "act": 0.11490713804960251
+        },
+        {
+            "text": "Besides gourmet tasting, the La Grassa food tour also introduce city histories during the walk.",
+            "act": 0.1148233562707901
+        },
+        {
+            "text": "Featuring a convenient lobster clasp, the girl charm is decorated with a mixture of dazzling clear and lime green crystals.",
+            "act": 0.11480411887168884
+        },
+        {
+            "text": "The venue played host to 28 test matches from 1986-2015 with Tier 1 rivals Australia, England, France, Ireland, Italy, New Zealand, Scotland, South Africa and Wales all playing at the ground.",
+            "act": 0.1126934364438057
+        },
+        {
+            "text": "Amenities\nThe Boronia Bushland Reserve offers opportunities for bushwalking, barbecues and picnics.",
+            "act": 0.11092261224985123
+        },
+        {
+            "text": "Esperance RSL member George Starcevich said the RSL observed, at a recent meeting, the vehicle was looking \"shabby\".",
+            "act": 0.10591132938861847
+        },
+        {
+            "text": "The slam latch is of one-piece construction and is installed in a single opening in the door panel and is self retained therein.",
+            "act": 0.10382352769374847
+        },
+        {
+            "text": "It can happen due to many reasons and mostly due to hairs, tissues and other debris getting caught up in the lines.",
+            "act": 0.10371740907430649
+        },
+        {
+            "text": "Your words have been such an encouragement to me even in the brief conversations we\u2019ve shared.",
+            "act": 0.10295816510915756
+        },
+        {
+            "text": "It features a panel of four children interviewing adult \"experts\" whose typically absurd answers elicit bemused or horrified reactions from the young panel.",
+            "act": 0.10229454189538956
+        },
+        {
+            "text": "It features a panel of four children interviewing adult \"experts\" whose typically absurd answers elicit bemused or horrified reactions from the young panel.",
+            "act": 0.10229454189538956
+        },
+        {
+            "text": "In the , Boronia Heights recorded a population of 7,604 people.",
+            "act": 0.1001012921333313
+        },
+        {
+            "text": "O. Chvartatskyi, Yu.",
+            "act": 0.1000591292977333
+        },
+        {
+            "text": "wrote the manuscript with input from S.W.",
+            "act": 0.10005142539739609
+        },
+        {
+            "text": "Roads are windy, super narrow, often steep, and sometimes slippery (especially on the cobblestone in downtown areas).",
+            "act": 0.09829292446374893
+        },
+        {
+            "text": "Williams identifies himself as a Polynesian.",
+            "act": 0.09702665358781815
+        },
+        {
+            "text": "The area has many scribbly gums, characterised by the scribbly lines on the otherwise smooth grey trunks.",
+            "act": 0.09592558443546295
+        },
+        {
+            "text": "Robert Mueller.",
+            "act": 0.09497074037790298
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.09293875098228455
+        },
+        {
+            "text": "I had a great time here .",
+            "act": 0.09130152314901352
+        },
+        {
+            "text": "E. Pokrovskii and A.V.",
+            "act": 0.09105376154184341
+        },
+        {
+            "text": "The bushland is home to many species of Australian fauna including eastern grey kangaroos, bandicoots, goannas, possums and koalas.",
+            "act": 0.08994263410568237
+        },
+        {
+            "text": "Berger is buried at the Mayfield Cemetery in his hometown of Cleveland.",
+            "act": 0.08975283056497574
+        },
+        {
+            "text": "It's this intersection of your unique talents, values, service and contributions.",
+            "act": 0.08952844887971878
+        },
+        {
+            "text": "It is a highly durable and dense timber, which is resistant to decay due to its ability to withstand damp and wet conditions well.",
+            "act": 0.08951058238744736
+        },
+        {
+            "text": "Senior police have been concerned by recent actions of several anti-coal protesters who have previously chained themselves to mining equipment.",
+            "act": 0.08754048496484756
+        },
+        {
+            "text": "These comprised 65 separate stocking events at a minimum of 18 discrete locations within the river.",
+            "act": 0.08710857480764389
+        },
+        {
+            "text": "After many years of neglect, the fountain was in desperate need of rehabilitation and in 2010, the city undertook a major restoration that included repairs, cleaning, and carving new pieces to replace missing and damaged ones.",
+            "act": 0.08680786192417145
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.08582665771245956
+        },
+        {
+            "text": "As a member of perhaps the only immigrant Maltese family residing within the predominantly Italian neighbourhood of Rexdale (Etobicoke) in the 1960s and 70s, my childhood encounters with the Sikhs were very few and far between.",
+            "act": 0.08568313717842102
+        },
+        {
+            "text": "In so doing, the piston's linear kinetic energy is delivered to the engine's crankshaft by a connecting rod rotatably attached to the piston.",
+            "act": 0.08437462151050568
+        },
+        {
+            "text": "\"Come on.",
+            "act": 0.08389847725629807
+        },
+        {
+            "text": "In an arrangement as shown in the Meinke et al.",
+            "act": 0.08326374739408493
+        },
+        {
+            "text": "Marie, the expressway segment currently ends six kilometres short of its eventual terminus at Black Road and Second Line, as an agreement has yet to be reached with the Batchawana First Nation regarding land use through Rankin.",
+            "act": 0.08286045491695404
+        },
+        {
+            "text": "Much of his writing deals with the kind of displacement he experienced as a fair-skinned boy growing up in India.",
+            "act": 0.08253488689661026
+        },
+        {
+            "text": "You're damn right.",
+            "act": 0.08230755478143692
+        },
+        {
+            "text": "In primary school years, walking becomes more difficult, and children will use doorways and walls for support.",
+            "act": 0.07998639345169067
+        },
+        {
+            "text": "E. Pokrovskii and A.V.",
+            "act": 0.07971524447202682
+        },
+        {
+            "text": "The Mario Gallery and Museum has published Miranda's 1949 diaries, which depict his student life as a 22-year-old in the city of Mumbai.",
+            "act": 0.0795273706316948
+        },
+        {
+            "text": "In recent weeks police have dragged grieving relatives away from demonstrations in some areas.",
+            "act": 0.07909425348043442
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

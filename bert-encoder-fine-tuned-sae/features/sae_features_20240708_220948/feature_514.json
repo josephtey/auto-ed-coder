@@ -1,0 +1,412 @@
+{
+    "index": 514,
+    "label": "Diverse and multilingual content",
+    "attributes": "diversity of topics, presence of non-Latin characters, inclusion of special formatting strings, multilingual content",
+    "reasoning": "Upon examination of the text samples, it appears that many of the samples in the first group encompass a variety of topics escalating from instructive or explanatory content, comments on events, to philosophical and religious reflections. Furthermore, they also contain embedded special characters, formatting strings, and multiple languages, including non-Latin characters. The second group of samples lacks this diversity and complexity; they are predominantly in English and represent simpler, more conversational or argumentative dialogue.",
+    "density": 0.0048637901499945435,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.309055894613266
+        },
+        {
+            "text": "The /I option makes it case insensitive.",
+            "act": 0.26012977957725525
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.24137666821479797
+        },
+        {
+            "text": "When this will happen is uncertain.",
+            "act": 0.1911592185497284
+        },
+        {
+            "text": "\u201cThe Celtics were trying to trade [for him].",
+            "act": 0.1700872778892517
+        },
+        {
+            "text": "A:\n\n[[ uses the current locale for string comparisons, [ does not.",
+            "act": 0.16885288059711456
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.14609673619270325
+        },
+        {
+            "text": "laterRevised:\ndate.",
+            "act": 0.1398134082555771
+        },
+        {
+            "text": "Sarkisian, 22, came outside while officers surrounded the home and searched it, Pawlak said.",
+            "act": 0.13673001527786255
+        },
+        {
+            "text": "\u201cBut he came back [to the Knicks].",
+            "act": 0.13630196452140808
+        },
+        {
+            "text": "The reviewer FC and handling editor declared their shared affiliation.",
+            "act": 0.13560160994529724
+        },
+        {
+            "text": "Gurevi\u010d.",
+            "act": 0.13411587476730347
+        },
+        {
+            "text": "I don\u2019t think they ever realised something had happened.",
+            "act": 0.12872129678726196
+        },
+        {
+            "text": "It consists of data collection, analysis, interpretation and communication.",
+            "act": 0.12719038128852844
+        },
+        {
+            "text": "Service and offer are not available everywhere.",
+            "act": 0.12581151723861694
+        },
+        {
+            "text": "Media had previously mentioned a second underground attacker, but officials had not confirmed that.",
+            "act": 0.12528476119041443
+        },
+        {
+            "text": "Garrett is a surname and given name lujsino Germanic and of Old French origins.",
+            "act": 0.12514325976371765
+        },
+        {
+            "text": "States do not have natural endings distinct from their actual endings.",
+            "act": 0.12185674905776978
+        },
+        {
+            "text": "Gurevi\u010d.",
+            "act": 0.12184011936187744
+        },
+        {
+            "text": "Some said they were left holding shares they didn\u2019t want.",
+            "act": 0.12080174684524536
+        },
+        {
+            "text": "Joint warfare is similar.",
+            "act": 0.1201697364449501
+        },
+        {
+            "text": "So the information was not relevant to you and was simply [deleted] from conscious thought.",
+            "act": 0.11970265209674835
+        },
+        {
+            "text": "Kanhangad [[*et al.",
+            "act": 0.11845669150352478
+        },
+        {
+            "text": "The concepts of \u201cchristian\u201d punk, \u201cislamic\u201d punk make no sense to me.",
+            "act": 0.11845361441373825
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.118406742811203
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.11823643743991852
+        },
+        {
+            "text": "parsed unexpectedly.",
+            "act": 0.11666680872440338
+        },
+        {
+            "text": "A good choice for /var.",
+            "act": 0.11612672358751297
+        },
+        {
+            "text": "*saltans*, which is missing the C-terminal region entirely was used as the outgroup.",
+            "act": 0.11388611048460007
+        },
+        {
+            "text": "Service and offer are not available everywhere.",
+            "act": 0.11206208169460297
+        },
+        {
+            "text": "McCarthy says he had five components he was looking for in new defensive coordinator, won't specify what they were.",
+            "act": 0.11092822253704071
+        },
+        {
+            "text": "HOA members appear split.",
+            "act": 0.10835190862417221
+        },
+        {
+            "text": "I made one that worked early on, then started writing about it and cannot remember what step I missed.",
+            "act": 0.10734178125858307
+        },
+        {
+            "text": "\u201cThey had a convention here last year.",
+            "act": 0.10712124407291412
+        },
+        {
+            "text": "Pecjak,and L.L.",
+            "act": 0.1053202897310257
+        },
+        {
+            "text": "decyzja = input('Chcesz gra\u0107?",
+            "act": 0.10524721443653107
+        },
+        {
+            "text": "decyzja = input('Chcesz gra\u0107?",
+            "act": 0.10524721443653107
+        },
+        {
+            "text": "There are clashing reports of where the incident took place.",
+            "act": 0.10498330742120743
+        },
+        {
+            "text": "Transcripts of the account\nshow that the IRS issued notice and demand for each of\nthe tax periods involved and those periods remain\nunpaid.",
+            "act": 0.10464972257614136
+        },
+        {
+            "text": "| Just ((eshape, e') : es') <- mapM isArrayLiteral es,\n    not $ null eshape,\n    all ((eshape ==) .",
+            "act": 0.10440181940793991
+        },
+        {
+            "text": "> \n\nProveden\u00edm tohoto p\u0159\u00edkazu z\u00e1rove\u0148 z\u00edsk\u00e1te *s\u00e9riov\u00e1 \u010d\u00edsla* disk\u016f, kter\u00e9 je nutn\u00e9 vym\u011bnit.",
+            "act": 0.10433223843574524
+        },
+        {
+            "text": "\u201cBare\u201d charge and electromagnetic \u201ccloud\u201d constitute new entity: dressed charged particle.",
+            "act": 0.10345780849456787
+        },
+        {
+            "text": "Defaults to false\n     */\n    suppressCreateProjectPrompt?",
+            "act": 0.1034141331911087
+        },
+        {
+            "text": "\u2018She was raped without question,\u2019 Orly told viewers yesterday.",
+            "act": 0.10286034643650055
+        },
+        {
+            "text": "Plaintiff subsequently discovered that the home had been built on a landfill containing large blocks of concrete debris and other types of construction debris.",
+            "act": 0.09972918033599854
+        },
+        {
+            "text": "Lost.",
+            "act": 0.09957478195428848
+        },
+        {
+            "text": "///    Used to precisely track back gesture drags.",
+            "act": 0.09856417775154114
+        },
+        {
+            "text": "Funkce *auto-rebuild* je aktivov\u00e1na ve v\u00fdchoz\u00edm nastaven\u00ed.",
+            "act": 0.09799806773662567
+        },
+        {
+            "text": "\u201cIt could have been office space.\u201d\n\nAn Oklahoma-based oil & gas company actually purchased the building from the City of Boerne in 2012 but never occupied it.",
+            "act": 0.09780500084161758
+        },
+        {
+            "text": "Seems unlikely.",
+            "act": 0.09678979218006134
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

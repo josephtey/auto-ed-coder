@@ -1,0 +1,412 @@
+{
+    "index": 487,
+    "label": "Technical or factual information",
+    "attributes": "Specific dates, proper nouns, scientific terms, chemical compounds, detailed data, highly specific information",
+    "reasoning": "After analyzing the samples, it becomes evident that all the texts in the positive samples include highly specific and often technical or factual information about various subjects such as biology, chemistry, history, entertainment, and others. These texts frequently mention specific dates, chemical compounds, proper nouns, scientific terms, and other detailed data. In contrast, the texts in the negative samples are characterized by conversational language, personal opinions, and generic statements with a lack of detailed technical or factual information.",
+    "density": 0.0008161677129746941,
+    "confidence": 35.0,
+    "high_act_samples": [
+        {
+            "text": "It feeds on fish eggs, benthic invertebrates, and detritus.",
+            "act": 0.1254006028175354
+        },
+        {
+            "text": "Contains trace amounts of THC.",
+            "act": 0.12063317745923996
+        },
+        {
+            "text": "Contains trace amounts of THC.",
+            "act": 0.12063317745923996
+        },
+        {
+            "text": "Contains trace amounts of THC.",
+            "act": 0.12063317745923996
+        },
+        {
+            "text": "1 and Exp.",
+            "act": 0.11822225898504257
+        },
+        {
+            "text": "Organic acids as well as fish waste act as a chealator.",
+            "act": 0.11398156732320786
+        },
+        {
+            "text": "Oh no!",
+            "act": 0.10742928832769394
+        },
+        {
+            "text": "Reproduced Record (R.R.)",
+            "act": 0.10404478758573532
+        },
+        {
+            "text": "as also liquids/fluids containing solid particles.",
+            "act": 0.10224302113056183
+        },
+        {
+            "text": "Deadpool\u2026 uses it to scratch his back.",
+            "act": 0.09961315244436264
+        },
+        {
+            "text": "Samples included fillets containing only fleshy parts and whole fish, including bone, fleshy parts and organs.",
+            "act": 0.0913892611861229
+        },
+        {
+            "text": "in 1729, and commenced M.A.",
+            "act": 0.08964256197214127
+        },
+        {
+            "text": "2%) of the resultant mixture.",
+            "act": 0.08678428083658218
+        },
+        {
+            "text": "3 vol.",
+            "act": 0.08628528565168381
+        },
+        {
+            "text": "Broly: Legendary Super Saiyan - During the Cell Saga.",
+            "act": 0.08547064661979675
+        },
+        {
+            "text": "Specific substances to be controlled include.",
+            "act": 0.08469554781913757
+        },
+        {
+            "text": "Should look like this when done;",
+            "act": 0.0839356780052185
+        },
+        {
+            "text": "This lakes, rivers and ponds dwelling creature is said to be a demon.",
+            "act": 0.08342143148183823
+        },
+        {
+            "text": "Compounds ranging from natural products (e.g.",
+            "act": 0.0823134258389473
+        },
+        {
+            "text": "NO!",
+            "act": 0.08106999844312668
+        },
+        {
+            "text": "No!",
+            "act": 0.08106999844312668
+        },
+        {
+            "text": "is 21 times more potent than carbon dioxide.",
+            "act": 0.08054408431053162
+        },
+        {
+            "text": "3 (1946).",
+            "act": 0.07961039990186691
+        },
+        {
+            "text": "The Rev.",
+            "act": 0.07876794785261154
+        },
+        {
+            "text": "No!",
+            "act": 0.07426678389310837
+        },
+        {
+            "text": "Could be bad.",
+            "act": 0.0732659325003624
+        },
+        {
+            "text": "VI, Const.",
+            "act": 0.07198060303926468
+        },
+        {
+            "text": "() are shown.",
+            "act": 0.07183679193258286
+        },
+        {
+            "text": "On behalf of Thomas Sherlock, against Conyers Middleton.",
+            "act": 0.06880342215299606
+        },
+        {
+            "text": "some_buffer (or its alias strout) is a local variable stored in the stack of main and is pointing to an address in the heap.",
+            "act": 0.06872107088565826
+        },
+        {
+            "text": "He's a member of the Skull and Bones group.",
+            "act": 0.06506767868995667
+        },
+        {
+            "text": "1 to No.",
+            "act": 0.06198554113507271
+        },
+        {
+            "text": "Saved him from some sort of tragic accident?",
+            "act": 0.06157583370804787
+        },
+        {
+            "text": "Both herbivores and carnivores (predators plus parasitoids) were recorded.",
+            "act": 0.060844261199235916
+        },
+        {
+            "text": "It is found in sand and ocean bottoms.",
+            "act": 0.06021280959248543
+        },
+        {
+            "text": "6, art.",
+            "act": 0.05762866511940956
+        },
+        {
+            "text": "Drain Ana and her sidekicks also, get th...Hell NO!",
+            "act": 0.05680966004729271
+        },
+        {
+            "text": "What They Are\n\nAlpha hydroxy acids are chemical compounds that consist of a carboxylic acid and a hydroxyl group.",
+            "act": 0.054640959948301315
+        },
+        {
+            "text": "7 this season, but has posted a 5-5 record in their last 10 games to fall to No.",
+            "act": 0.054209671914577484
+        },
+        {
+            "text": "The Rev.",
+            "act": 0.05356187745928764
+        },
+        {
+            "text": "Foghorn Leghorn (voiced by Jeff Bergman) \u2013 Foghorn Leghorn is a rich rooster who has worked under various jobs.",
+            "act": 0.053498201072216034
+        },
+        {
+            "text": "Oil-based formula for interior or exterior use\n.",
+            "act": 0.05286792665719986
+        },
+        {
+            "text": "This first class consisted of twelve pupils with Luke as their teacher.",
+            "act": 0.05074518546462059
+        },
+        {
+            "text": "The incumbents were replaced with anti-union candidates.",
+            "act": 0.049598295241594315
+        },
+        {
+            "text": "It feeds on fish, small crustaceans, and mollusks.",
+            "act": 0.047643546015024185
+        },
+        {
+            "text": "In contrast, a proportion of the nicotine alkaloids was secreted into the medium.",
+            "act": 0.04706840217113495
+        },
+        {
+            "text": "A really, really big thing.",
+            "act": 0.04411976784467697
+        },
+        {
+            "text": "Bulk index is used to import data that are stored in files or in the triple store.",
+            "act": 0.043234556913375854
+        },
+        {
+            "text": "Traded him to same owner, but traded back for him.",
+            "act": 0.042857225984334946
+        },
+        {
+            "text": "3, Pt.",
+            "act": 0.04176468029618263
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

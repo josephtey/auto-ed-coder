@@ -1,0 +1,412 @@
+{
+    "index": 226,
+    "label": "Contains identifiable entities or proper nouns",
+    "attributes": "Inclusion of identifiable entities or proper nouns, including names of people, institutions, organizations, places, trademarks, specific events",
+    "reasoning": "Upon analyzing the samples, one specific attribute stands out: the inclusion of references to identifiable entities or proper nouns such as names of people, institutions, organizations, places, trademarks, and specific events. These provide context to the samples and make them precise. In contrast, the other samples focus more on generalities or abstract discussions without specific references to such entities.",
+    "density": 0.00638224170901723,
+    "confidence": 12.0,
+    "high_act_samples": [
+        {
+            "text": "mother!",
+            "act": 0.22810760140419006
+        },
+        {
+            "text": "mother!",
+            "act": 0.2141886055469513
+        },
+        {
+            "text": "mother!",
+            "act": 0.2141886055469513
+        },
+        {
+            "text": "\"Heavens!",
+            "act": 0.17917212843894958
+        },
+        {
+            "text": "Mani Ratnam, whose Roja, Bombay and Dil......",
+            "act": 0.15405568480491638
+        },
+        {
+            "text": "\u05de\u05ea\u05d5\u05d3\u05ea \u05d4 `find` \u05ea\u05d7\u05d6\u05d9\u05e8 null \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0 \u05e9\u05d5\u05dd \u05d3\u05d1\u05e8 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05dd \u05dc\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05d4\u05d5\u05e2\u05d1\u05e8\u05d5.",
+            "act": 0.151106595993042
+        },
+        {
+            "text": "Postal Service, communications manager David Rupert said Thursday.",
+            "act": 0.14879879355430603
+        },
+        {
+            "text": "USA!",
+            "act": 0.1410752236843109
+        },
+        {
+            "text": "USA!",
+            "act": 0.1410752236843109
+        },
+        {
+            "text": "USA!",
+            "act": 0.13948595523834229
+        },
+        {
+            "text": "380 ACP with alternating Buffalo Barnes JHP and Buffalo Bore Cast Hardball.",
+            "act": 0.13636517524719238
+        },
+        {
+            "text": "Wrong!",
+            "act": 0.13465207815170288
+        },
+        {
+            "text": "Docs here\n\ncommand.",
+            "act": 0.13410475850105286
+        },
+        {
+            "text": "\"Alpha.",
+            "act": 0.13387402892112732
+        },
+        {
+            "text": "Hello, my poker 473 and I recently got scammed by Nakorn Sawan Tailor trading as Dusit Collection.",
+            "act": 0.1335391104221344
+        },
+        {
+            "text": "He's got TOR stuff (he's a lefty who sits around 93 but can touch 95-96), w/ some command issues.",
+            "act": 0.1308666467666626
+        },
+        {
+            "text": "USA!",
+            "act": 0.12827923893928528
+        },
+        {
+            "text": "The acquisition of the Yale alumnus gave the Indians' bullpen an additional left-hander to go along with Rafael Perez.",
+            "act": 0.12784051895141602
+        },
+        {
+            "text": "Intercontinatental Bank had concluded merger with three other banks, namely Equity Bank of Nigeria, Gateway Bank Plc and Global Bank Plc.",
+            "act": 0.1254761815071106
+        },
+        {
+            "text": "But Mark shows us, that no redemption is to be expected but from the Son of God\n\nMatthew 3:1Now in those days Luke 3:1.",
+            "act": 0.12471932917833328
+        },
+        {
+            "text": "Welcome back !",
+            "act": 0.1245269700884819
+        },
+        {
+            "text": "The steps of the righteous are ordered of the Lord.",
+            "act": 0.12293832749128342
+        },
+        {
+            "text": "Appeasement American IPA.",
+            "act": 0.12189766019582748
+        },
+        {
+            "text": "Jesus sighed.",
+            "act": 0.1205572709441185
+        },
+        {
+            "text": "Docs here\n\ncommand.",
+            "act": 0.11876506358385086
+        },
+        {
+            "text": "Stay tuned!",
+            "act": 0.11724121123552322
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e2\u05d3\u05db\u05df \u05e8\u05e9\u05d5\u05de\u05d4 \u05d0\u05d7\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05dc\u05dc\u05d0 \u05e6\u05d5\u05e8\u05da \u05d1\u05d8\u05e2\u05d9\u05e0\u05ea\u05dd \u05de\u05e8\u05d0\u05e9.",
+            "act": 0.11671095341444016
+        },
+        {
+            "text": "PC/Triplett stated to Tpr.",
+            "act": 0.11648879200220108
+        },
+        {
+            "text": "VeChain (VET)\n\nThe VeChain Foundation created VeChain Thor on the Ethereum smart contract to service enterprise customers.",
+            "act": 0.11604434996843338
+        },
+        {
+            "text": "We acknowledge IIT Indore for the research infrastructure and SIC, IIT Indore for providing the instrumentation facilities.",
+            "act": 0.11525101959705353
+        },
+        {
+            "text": "\u05d2\u05dd \u05e7\u05e9\u05d4 \u05dc\u05e0\u05d4\u05dc \u05d0\u05ea \u05d4\u05e7\u05d5\u05d3 \u05e9\u05d0\u05e0\u05d5 \u05db\u05d5\u05ea\u05d1\u05d9\u05dd \u05db\u05e9\u05d4\u05d5\u05d0 \u05de\u05e2\u05d5\u05e8\u05d1\u05d1 \u05e2\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05e9\u05d5\u05e0\u05d5\u05ea.",
+            "act": 0.1149028018116951
+        },
+        {
+            "text": "My 23 month old son po kc have speech delay based sa observation nmin at ng pedia nya.",
+            "act": 0.11370054632425308
+        },
+        {
+            "text": "SkyBet will thus have to pay \u00a31,008,600, including \u00a3750,000 to responsible gambling charities.",
+            "act": 0.113021120429039
+        },
+        {
+            "text": "\"Alpha!\"",
+            "act": 0.11198051273822784
+        },
+        {
+            "text": "Call\nSammake-up\n713-592-8844.",
+            "act": 0.11122240126132965
+        },
+        {
+            "text": "Welcome Back!",
+            "act": 0.11098746955394745
+        },
+        {
+            "text": "Hey Michael!",
+            "act": 0.11066076904535294
+        },
+        {
+            "text": "light welterweight to , i.e.",
+            "act": 0.11019634455442429
+        },
+        {
+            "text": "NFO appealed to this court from the temporary injunction order.",
+            "act": 0.10948855429887772
+        },
+        {
+            "text": "Job Info\n\nHanover, MD\n\nLive!",
+            "act": 0.10936757922172546
+        },
+        {
+            "text": "The reviewer FC and handling editor declared their shared affiliation.",
+            "act": 0.1081317588686943
+        },
+        {
+            "text": "\u2014 Matthew Sheffield",
+            "act": 0.10653059184551239
+        },
+        {
+            "text": "at *8-9, 2006 R.I.Super.",
+            "act": 0.10625457018613815
+        },
+        {
+            "text": "great post.",
+            "act": 0.1053546890616417
+        },
+        {
+            "text": "kalpana singh\n\nDear Medha Di & Sweet staff\u2026 Juvena is a \u201cjannnat\u201d in juvena every person is so sweet 7 their work is marvelous \u2026.",
+            "act": 0.10515850782394409
+        },
+        {
+            "text": "We are accessible 24*7*365 for you.",
+            "act": 0.10473299771547318
+        },
+        {
+            "text": "In his teaching the jhanas or dhyanas are of no use.",
+            "act": 0.10451645404100418
+        },
+        {
+            "text": "The Amazon link is an affiliate link and helps pay some of the costs of maintaining this site.",
+            "act": 0.10430929064750671
+        },
+        {
+            "text": "Thankies!",
+            "act": 0.10339521616697311
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.10278360545635223
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 234,
+    "label": "Fact-based and informative texts",
+    "attributes": "Informative, fact-based, presence of named entities, discussions on political/social topics, contains dates or geopolitical events",
+    "reasoning": "To identify the most specific attribute shared by all the samples in the first group, I analyzed the contents for commonalities. Key points include the presence of named entities such as places, people, dates, and events, as well as discussions about political, social, and international affairs. Moreover, these texts are generally informative and fact-based. On the other hand, samples in the second group are more conversational, opinion-based, and lack specificity in named entities or factual information.",
+    "density": 0.004650257899506978,
+    "confidence": 12.0,
+    "high_act_samples": [
+        {
+            "text": "Greeks also celebrate Greek Independence Day this day.",
+            "act": 0.20462217926979065
+        },
+        {
+            "text": "Over in India, the telecom minister urged carriers to stop charging for voice calls and derive all their revenues only from data plans.",
+            "act": 0.18714329600334167
+        },
+        {
+            "text": "Amid chants of \u201cAzaadi\u201d on Tuesday, Kanhaiya Kumar blamed the government.",
+            "act": 0.1770736277103424
+        },
+        {
+            "text": "1945 Toronto municipal election\n\nMunicipal elections were held in Toronto, Ontario, Canada, on January 1, 1945.",
+            "act": 0.16759154200553894
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.16341985762119293
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.16341985762119293
+        },
+        {
+            "text": "STROBE-Punkte                                                                                                                                                                                                                                                                                                                                    RECORD-Punkte\n  ------------------------------------------------------------------- ----- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Titel und Abstract**                                                                                                                                                                                                                                                                                                                                                                                                     \n\n                                                                      1     \\(a\\) Machen Sie das Studiendesign im Titel oder Abstract kenntlich, indem Sie daf\u00fcr einen allgemein gebr\u00e4uchlichen Begriff verwenden\\                                                                                                                                                                                                           RECORD 1.1: Der verwendete Datentyp sollte im Titel oder Abstract angegeben werden.",
+            "act": 0.1613243818283081
+        },
+        {
+            "text": "Strongly disagree.",
+            "act": 0.15819880366325378
+        },
+        {
+            "text": "NEO (NEO)\n\nDevelopers of NEO want to make it an alternative for the transfer of non-digital assets.",
+            "act": 0.15595556795597076
+        },
+        {
+            "text": "When rates go up, financing costs rise, where corporations with high debts suffer due to bigger financing costs.",
+            "act": 0.15294544398784637
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.1498604267835617
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.1464170515537262
+        },
+        {
+            "text": "Also tried to change PNG to png.",
+            "act": 0.1409417986869812
+        },
+        {
+            "text": "In Video: Telangana: 12 Congress MLAs meet assembly Speaker, demand merger with TRS",
+            "act": 0.13982251286506653
+        },
+        {
+            "text": "Greeks also celebrate [[Greek Independence Day]] this day.",
+            "act": 0.13525843620300293
+        },
+        {
+            "text": "International Union of Elec., Radio, etc.",
+            "act": 0.13049320876598358
+        },
+        {
+            "text": "\u201cPeople say that this is a problem of left or right in Venezuela.",
+            "act": 0.13040238618850708
+        },
+        {
+            "text": "[](pone.0168594.t002){#pone.0168594.t002g}\n\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Feedback semi-structured group interviews                                                                                                                                                                                             Adaptations intervention\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Stronger emphasis should be put on the focus of the lesson (i.e.",
+            "act": 0.12315765023231506
+        },
+        {
+            "text": "References \n\nCategory:Geological groups\nCategory:Paleogene System of Europe",
+            "act": 0.12306198477745056
+        },
+        {
+            "text": "Recently, feminists started having a national\nconversation about periods.",
+            "act": 0.1229020357131958
+        },
+        {
+            "text": "The expelled BJP legislator represents Bangarmau in the Uttar Pradesh assembly.",
+            "act": 0.12254421412944794
+        },
+        {
+            "text": "Bengali forces were alerted about the Pakistani squads.",
+            "act": 0.12033490091562271
+        },
+        {
+            "text": "Saxena et al.",
+            "act": 0.11834854632616043
+        },
+        {
+            "text": "Just 17% wanted to leave current interest rates in place, with 15% unsure.",
+            "act": 0.11798778176307678
+        },
+        {
+            "text": "Taking external commercial borrowings (ECBs) will become more attractive than domestic borrowings.",
+            "act": 0.11693886667490005
+        },
+        {
+            "text": "Saxena et al.",
+            "act": 0.11677781492471695
+        },
+        {
+            "text": "What is different is value of \"Flag\" attribute and this value can be now passed to callback function (as additional argument).",
+            "act": 0.11544354259967804
+        },
+        {
+            "text": "Endnotes\n\nNikki Haley, Senate Foreign Relations Committee Hearing on the Nomination of Gov.",
+            "act": 0.11305581033229828
+        },
+        {
+            "text": "People who are participating in violence against the United States are calling him racist.",
+            "act": 0.11231332272291183
+        },
+        {
+            "text": "Since this p.o.",
+            "act": 0.11174896359443665
+        },
+        {
+            "text": "Supreme Court of Pennsylvania.",
+            "act": 0.11165314167737961
+        },
+        {
+            "text": "This is called a meta-search engine and was all the rave in the late 90s.",
+            "act": 0.11142884939908981
+        },
+        {
+            "text": "India blames the LeT for the Mumbai attacks.",
+            "act": 0.10848578065633774
+        },
+        {
+            "text": "According to the A.1.",
+            "act": 0.10775268822908401
+        },
+        {
+            "text": "Not EU.",
+            "act": 0.10720360279083252
+        },
+        {
+            "text": "Like a cute blonde terminator, Kara starts walking towards the undead sea zombie creatures and starts firing blasts of searing red energy from her eyes.",
+            "act": 0.10679073631763458
+        },
+        {
+            "text": "Then Pakistani squad disabled the telephone and telegraph lines.",
+            "act": 0.10498915612697601
+        },
+        {
+            "text": "This is ideal for the people who are trying to save money and cut the cost of their current phone bill.",
+            "act": 0.10496465861797333
+        },
+        {
+            "text": "Begin to head towards water.",
+            "act": 0.10377135127782822
+        },
+        {
+            "text": "And President Donald Trump commented on the proposals on Wednesday calling the Democrats \"strange\" for pushing them.",
+            "act": 0.10375256091356277
+        },
+        {
+            "text": "Everyone these days fear India and no one wants to antagonise the BCCI.",
+            "act": 0.10369661450386047
+        },
+        {
+            "text": "However, they belong to different regions of MQST.",
+            "act": 0.10351844131946564
+        },
+        {
+            "text": "Watching Robins avatar move away from the scene, the redhead frowns deeply \"They were HYDRA Fenris.",
+            "act": 0.10343313217163086
+        },
+        {
+            "text": "Trump is supporting Graham in his reelection efforts.",
+            "act": 0.0996408686041832
+        },
+        {
+            "text": "Whilst older people are more supportive of the current system than those than those in younger age groups, close to three in five over 55s still stated that annual tuition fees to be cut or scrapped.",
+            "act": 0.09963902831077576
+        },
+        {
+            "text": "India has said elements in Pakistan were behind the attacks.",
+            "act": 0.09806859493255615
+        },
+        {
+            "text": "\"One, two, one, two!\"",
+            "act": 0.09758817404508591
+        },
+        {
+            "text": "\"We held a special meeting of Congress Legislature Party.",
+            "act": 0.0972433090209961
+        },
+        {
+            "text": "Shi\u2019ites are a minority group in Afghanistan and they have been repeatedly attacked by Sunni Muslim militant groups.",
+            "act": 0.09582139551639557
+        },
+        {
+            "text": "The difference is that the bonds are denominated in India rupee instead of the overseas currency.",
+            "act": 0.09474977850914001
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 260,
+    "label": "Informative and factual texts",
+    "attributes": "factual information, biographical data, historical events, structured descriptions, proper nouns, formal tone",
+    "reasoning": "After analyzing the samples, it's clear that all texts in the first set contain sentences that present factual information, biographical data, historical events, bank details, company information, or structured descriptions. These texts are generally formal, informative, and contain proper nouns such as names of people, places, events, and institutions. In contrast, the texts in the second set are conversational, casual, and lacking in factual data presentation; they contain opinions, informal dialogue, and fragmented sentences.",
+    "density": 0.0038910321199956345,
+    "confidence": 36.0,
+    "high_act_samples": [
+        {
+            "text": "His Regal Entertainment is the nation\u0092s largest movie-theater chain, with about 18 percent of all U.S. indoor screens.",
+            "act": 0.18136467039585114
+        },
+        {
+            "text": "Been that way for centuries through many \u201coccupations\u201d.",
+            "act": 0.17832717299461365
+        },
+        {
+            "text": "Mario travelled to 22 countries, where he was invited to visit and sketch.",
+            "act": 0.17384351789951324
+        },
+        {
+            "text": "Charles was born in Ghent in family territories in Burgundy, and grew up influenced by the many cultures from which he descended.",
+            "act": 0.1732582300901413
+        },
+        {
+            "text": "It is at present, the most capitalised bank in Nigeria and one of the largest banks in Africa.",
+            "act": 0.16454295814037323
+        },
+        {
+            "text": "c.1085\u2013c.1122)\".",
+            "act": 0.15067318081855774
+        },
+        {
+            "text": "Education and career\nScheinberg was born in Moscow.",
+            "act": 0.1505502611398697
+        },
+        {
+            "text": "Prince Henri of Orl\u00e9ans\n\nPrince Henri of Orl\u00e9ans (16 October 1867 \u2013 9 August 1901) was the son of Prince Robert, Duke of Chartres, and Princess Fran\u00e7oise of Orl\u00e9ans.",
+            "act": 0.14471568167209625
+        },
+        {
+            "text": "Vitae Sanctorum Danorum.",
+            "act": 0.1407078504562378
+        },
+        {
+            "text": "The subsidiary, known as Intercontinental Bank Limited, Ghana, is a wholly owned subsidiary of Intercontinental Bank Nigeria Plc.",
+            "act": 0.1374281942844391
+        },
+        {
+            "text": "* M. haemodidelphidis\" in the Opossum.",
+            "act": 0.13431820273399353
+        },
+        {
+            "text": "Early life\nClinton was born circa 1667 in Ireland.",
+            "act": 0.1327763795852661
+        },
+        {
+            "text": "Pola Kinski, 60, lives in Germany and is also an actor.",
+            "act": 0.1311875432729721
+        },
+        {
+            "text": "Born Raymond Jean Claude Perret on September 16, 1922 in Paris, he was the son of actor Jean d'Yd.",
+            "act": 0.13012872636318207
+        },
+        {
+            "text": "John Russell described: \u201cBacon wrenched, reversed, abbreviated, jellified and generally reinvented the human image.",
+            "act": 0.12886357307434082
+        },
+        {
+            "text": "Biography\nHenri, the second eldest son and third child of Prince Robert, Duke of Chartres, was born at Ham, London on 16 October 1867.",
+            "act": 0.12553028762340546
+        },
+        {
+            "text": "\"Centuries.\"",
+            "act": 0.1252758651971817
+        },
+        {
+            "text": "On 6 July 2019, Gilberto died at his apartment in Rio de Janeiro.",
+            "act": 0.12138068675994873
+        },
+        {
+            "text": "\"You dare to mock my words?\"",
+            "act": 0.11227182298898697
+        },
+        {
+            "text": "Education and career\n\nCovello was born in Hartford, Connecticut.",
+            "act": 0.11192692071199417
+        },
+        {
+            "text": "The Moon passes New on August 2nd, entering back into the dusk sky.",
+            "act": 0.10945561528205872
+        },
+        {
+            "text": "Prince Richard\u2019s son is Earl Alexander Windsor.",
+            "act": 0.10807321965694427
+        },
+        {
+            "text": "Roland Barthes was primarily a literary scholar and a semiologist, using signs to read texts and interpret the text of the world.",
+            "act": 0.10696817934513092
+        },
+        {
+            "text": "He wasn\u2019t\n      asked that; he didn\u2019t answer any such question.",
+            "act": 0.10692410171031952
+        },
+        {
+            "text": "TOM also designs and distributes original merchandise with creators worldwide to customers in over 130 countries.",
+            "act": 0.10445157438516617
+        },
+        {
+            "text": "The poet Oppian wrote that the Romans inherited the Greek passion for the cockfight, which was held \"on anniversaries .",
+            "act": 0.10265135765075684
+        },
+        {
+            "text": "Beyond the \u201cStar Wars\u201d franchise, the signature moment in ILM\u2019s impact on moviemaking hinged on Lucas\u2019 decision to turn the company into a resource for the entire industry \u2014 one that has created \u201csome of the most iconic images that cinema has ever seen\u201d and \u201crevolutionized\u201d the business, as the narration by Tom Cruise puts it.",
+            "act": 0.10196492075920105
+        },
+        {
+            "text": "In the , Boronia Heights recorded a population of 7,604 people.",
+            "act": 0.10088986903429031
+        },
+        {
+            "text": "Olrik calls it \"one of the most important sources for the history of Denmark in the Middle Ages\".",
+            "act": 0.10043226927518845
+        },
+        {
+            "text": "Always has.",
+            "act": 0.10031923651695251
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.09911920875310898
+        },
+        {
+            "text": "He looooves his lean to caves and his jar.",
+            "act": 0.0990496575832367
+        },
+        {
+            "text": "Patraeus has been married for 38 years.",
+            "act": 0.09852700680494308
+        },
+        {
+            "text": "The book discusss 50 classic songs from the history of Hindi movies.",
+            "act": 0.09691686183214188
+        },
+        {
+            "text": "**Dr Stuart Anstis** was born in England and was a scholar at Winchester and Cambridge.",
+            "act": 0.09646366536617279
+        },
+        {
+            "text": "The film opens with an earnest film director who pitches a screenplay to the owner of a production company.",
+            "act": 0.09398938715457916
+        },
+        {
+            "text": "He could not have cared less for his caste.",
+            "act": 0.09385394304990768
+        },
+        {
+            "text": "Intercontinatental Bank had concluded merger with three other banks, namely Equity Bank of Nigeria, Gateway Bank Plc and Global Bank Plc.",
+            "act": 0.09335963428020477
+        },
+        {
+            "text": "The wine then aged in bottle for three months before release.",
+            "act": 0.09223656356334686
+        },
+        {
+            "text": "He circled around and paced the edge of the corral, snorting.",
+            "act": 0.09186806529760361
+        },
+        {
+            "text": "Recreating dances from hundreds of years ago.",
+            "act": 0.09153970330953598
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.09143602848052979
+        },
+        {
+            "text": "\u201cWith the merger, Intercontinental is now the fourth biggest bank in Nigeria in terms of balance sheet profitability and deposit base.",
+            "act": 0.09063751995563507
+        },
+        {
+            "text": "In truth, he hadn\u2019t stolen either of these things from Snape.",
+            "act": 0.08788204938173294
+        },
+        {
+            "text": "David Garnell is also economic-director of another canadian company, named \"European Goldfields\", also founded by Frank Timis as off-shore.",
+            "act": 0.08731003105640411
+        },
+        {
+            "text": "The government of Siam had remained largely unchanged since the 15th century.",
+            "act": 0.08559781312942505
+        },
+        {
+            "text": "Here, Robert controlled the affairs of the company.",
+            "act": 0.08540187031030655
+        },
+        {
+            "text": "The *791 issue the NFO focuses upon is thus one of the construction of the marketing agreements between AMPI and its members.",
+            "act": 0.08449487388134003
+        },
+        {
+            "text": "Gilberto also had a daughter with Claudia Faissol, a journalist.",
+            "act": 0.08430545777082443
+        },
+        {
+            "text": "His successor Tiberius had held the government of the Roman Empire for fifteen years, when the same John began to preach.",
+            "act": 0.08328300714492798
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

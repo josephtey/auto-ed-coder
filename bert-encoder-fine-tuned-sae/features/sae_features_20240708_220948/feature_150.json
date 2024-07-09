@@ -1,0 +1,412 @@
+{
+    "index": 150,
+    "label": "Formal and structured sentences",
+    "attributes": "structured sentences, formal or technical content, instructions and explanations, commercial uses",
+    "reasoning": "I analyzed the content and context of both the samples. The key attribute that all the positive samples share and none of the negative samples do is the frequent use of structured and specialized phrases related to formal or technical content, which includes instructions, scientific contexts, commercial uses, or formal narrative styles. The negative samples lack this formal structure and are more conversational or informal.",
+    "density": 0.001138838669267015,
+    "confidence": 62.0,
+    "high_act_samples": [
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.20377808809280396
+        },
+        {
+            "text": "May be used in bath or shower.",
+            "act": 0.1787409782409668
+        },
+        {
+            "text": "in vitro is independent of receptor binding capacity and iron saturation level.",
+            "act": 0.12952600419521332
+        },
+        {
+            "text": "How is he/she replaced?",
+            "act": 0.10470875352621078
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.10180153697729111
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.10180153697729111
+        },
+        {
+            "text": "LEADERSHIP ASSOCIATE \u2013 to 20+years experience.",
+            "act": 0.09825499355792999
+        },
+        {
+            "text": "Season short ribs generously with salt and pepper.",
+            "act": 0.092173732817173
+        },
+        {
+            "text": "Fant\u00e1ziad\u00fasabb volt egy fiatalember v\u00e1lasza, miszerint a bar\u00e1tn\u0151je \u00e9ppen akkor tette ki \u0151t az utc\u00e1ra.",
+            "act": 0.0872935876250267
+        },
+        {
+            "text": "\"Let me introduce a friend.\"",
+            "act": 0.08717586100101471
+        },
+        {
+            "text": "verb\n\n1 [ with obj. ]",
+            "act": 0.08704574406147003
+        },
+        {
+            "text": "The composition may be administered to a subject orally, transdermally or parenterally, e.g., by intravenous, subcutaneous, intraperitoneal, or intramuscular injection.",
+            "act": 0.08201607316732407
+        },
+        {
+            "text": "med and Pharm.",
+            "act": 0.07853659987449646
+        },
+        {
+            "text": "The paper is organized as follows.",
+            "act": 0.07681617885828018
+        },
+        {
+            "text": "\u0093Everyone\u0092s special, Dash,\u0094 his mother tritely replies.",
+            "act": 0.07645068317651749
+        },
+        {
+            "text": "Each suite features fan, mini-fridge and hot water shower.",
+            "act": 0.07500308007001877
+        },
+        {
+            "text": "The paper is organized as follows.",
+            "act": 0.07427483052015305
+        },
+        {
+            "text": "// Licensed under the MIT License.",
+            "act": 0.07323572784662247
+        },
+        {
+            "text": "One dose of vasopressin (0.8 units/kg) intravenously rescue as the second vasopressor medication.",
+            "act": 0.07201477140188217
+        },
+        {
+            "text": "The remainder of the article is organized as follows.",
+            "act": 0.07193268090486526
+        },
+        {
+            "text": "The paper is organized as follows.",
+            "act": 0.071783646941185
+        },
+        {
+            "text": "Eustace consensual and frivolous silences its tautologization or wins with aspiration.",
+            "act": 0.07151155173778534
+        },
+        {
+            "text": "The paper is organized as follows.",
+            "act": 0.0705876275897026
+        },
+        {
+            "text": "Use as a marinade, a stir fry sauce, dressing or dip for meat, fish and tofu.",
+            "act": 0.07039246708154678
+        },
+        {
+            "text": "and chemical (sol-gel synthesis, temperature-assisted synthesis, hydrothermal, microwave, reverse micelle, etc.)",
+            "act": 0.06902161240577698
+        },
+        {
+            "text": "They go well with meat, fish and tofu and can be used as a marinade, stir fry sauce, Asian dressing or hot sauce.",
+            "act": 0.0672643855214119
+        },
+        {
+            "text": "// Licensed under the MIT license.",
+            "act": 0.06721199303865433
+        },
+        {
+            "text": "The paper is organized as follows.",
+            "act": 0.06623508781194687
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.0616801492869854
+        },
+        {
+            "text": "Luke replied.",
+            "act": 0.058953139930963516
+        },
+        {
+            "text": "They may respond to systemic steroid treatment or other drugs to reduce inflammation.",
+            "act": 0.05829843506217003
+        },
+        {
+            "text": "(K\u00edn\u00e1ban 3245 \u00e1ldozatr\u00f3l tudni a hivatalos adatok szerint.)",
+            "act": 0.05722463130950928
+        },
+        {
+            "text": "\"Bug need me.\"",
+            "act": 0.05640285834670067
+        },
+        {
+            "text": "Always has.",
+            "act": 0.05608656629920006
+        },
+        {
+            "text": "I\u2019d genuinely like to know\u2026\n]]>",
+            "act": 0.055190641433000565
+        },
+        {
+            "text": "of unmodified triptolide, has limited their ready administration and therapeutic effectiveness.",
+            "act": 0.054321449249982834
+        },
+        {
+            "text": "See more \u00bb",
+            "act": 0.05218124017119408
+        },
+        {
+            "text": "M\u00e1s elmagyar\u00e1zta, hogy musz\u00e1j j\u00e1rnia egy keveset, mert esti s\u00e9ta n\u00e9lk\u00fcl nem tud elaludni.",
+            "act": 0.05215112492442131
+        },
+        {
+            "text": "\"This is our escort.\"",
+            "act": 0.05104533210396767
+        },
+        {
+            "text": "\" Sir?\"",
+            "act": 0.050422798842191696
+        },
+        {
+            "text": "Calendar\n\nA Nordic/international conference on the impact of the #MeToo movement.",
+            "act": 0.04989532753825188
+        },
+        {
+            "text": "Luke told her.",
+            "act": 0.04904141649603844
+        },
+        {
+            "text": "\"Bug need me too.\"",
+            "act": 0.0454806387424469
+        },
+        {
+            "text": "The rest of this paper is organized as follows.",
+            "act": 0.045416731387376785
+        },
+        {
+            "text": "On their own or together, as a coffee or side table.",
+            "act": 0.04512883350253105
+        },
+        {
+            "text": "I\nnod.",
+            "act": 0.04362374171614647
+        },
+        {
+            "text": "The rest of this paper is organized as follows.",
+            "act": 0.0413222499191761
+        },
+        {
+            "text": "The article is organized as follows.",
+            "act": 0.04065380617976189
+        },
+        {
+            "text": "The rest of this paper is organized as follows.",
+            "act": 0.04038430377840996
+        },
+        {
+            "text": "The rest of this paper is organized as follows.",
+            "act": 0.04038430377840996
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

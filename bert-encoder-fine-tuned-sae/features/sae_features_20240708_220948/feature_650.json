@@ -1,0 +1,412 @@
+{
+    "index": 650,
+    "label": "COVID-19 impact in Italian cities",
+    "attributes": "mentions specific Italian cities, references COVID-19 pandemic, includes numerical data related to COVID-19, detailed situational descriptions, mentions of regulations and restrictions",
+    "reasoning": "After analyzing the texts within both sets of samples, it's notable that the presence of certain elements such as specific locations (e.g., cities in Italy like Milan, Bari, Palermo), references to an event (like the COVID-19 pandemic and its impact), and specific statistics or figures related to the pandemic are prevalent in the samples. These features include detailed situational descriptions, mentions of regulations, and numerical data. These elements are absent in the second set of samples.",
+    "density": 0.004811593377653138,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "A bel\u00fcgyminiszt\u00e9rium honlapj\u00e1r\u00f3l let\u00f6lthet\u0151 formanyomtatv\u00e1nyt sokan nem viszik magukkal az orsz\u00e1gban, de a helyv\u00e1ltoztat\u00e1st igazol\u00f3 enged\u00e9ly az ellen\u0151rz\u00e9s pillanat\u00e1ban a rend\u0151r\u00f6kt\u0151l is elk\u00e9rhet\u0151, \u00e9s el\u0151tt\u00fck kit\u00f6lthet\u0151.",
+            "act": 0.21851195394992828
+        },
+        {
+            "text": "gov, number NCT00376883.",
+            "act": 0.18782372772693634
+        },
+        {
+            "text": "A telefont\u00e1rsas\u00e1gok adatai szerint Mil\u00e1n\u00f3 lakosainak 43 sz\u00e1zal\u00e9ka m\u00e9g mindig \u201et\u00fal nagy t\u00e1vols\u00e1got\u201d tesz meg, vagyis nem a sarki boltba megy.",
+            "act": 0.1814877986907959
+        },
+        {
+            "text": "A bez\u00e1rts\u00e1g jelentette probl\u00e9m\u00e1kr\u00f3l az Indexnek is mes\u00e9ltek a helysz\u00ednr\u0151l, az MTI pedig arr\u00f3l \u00edr, hogy horg\u00e1szni \u00e9s tengerparti napoz\u00e1sra is kil\u00f3gnak a h\u00e1zi karant\u00e9nb\u00f3l az olaszok.",
+            "act": 0.17907579243183136
+        },
+        {
+            "text": "A tapasztalatok azt mutatj\u00e1k, sokakban nem tudatosodott, hogy a hamisan felt\u00fcntetett indok is b\u00fcntetett.",
+            "act": 0.17329902946949005
+        },
+        {
+            "text": "A szint\u00e9n d\u00e9li Bariban a lakosok kilom\u00e9tereket tesznek meg, hogy olcs\u00f3bb \u00fczletbe menjenek bev\u00e1s\u00e1rolni.",
+            "act": 0.1694754809141159
+        },
+        {
+            "text": "Egy \u00e9jjel h\u00e1romkor igazoltatott f\u00e9rfi azt mondta, elromlott a mobiltelefonja, \u00e9s jav\u00edtani viszi \u2013 \u00e1ll az MTI \u00f6sszefoglal\u00f3j\u00e1ban.",
+            "act": 0.1570223867893219
+        },
+        {
+            "text": "\u00d6t\u00f6dik napja fokoz\u00f3dik jelent\u0151sen a koronav\u00edrus-j\u00e1rv\u00e1ny terjed\u00e9se Olaszorsz\u00e1gban, ahol a cs\u00fct\u00f6rt\u00f6ki adatok \u00fajabb cs\u00facsra \u00e9rtek \u2013 a szerdai 4207 \u00faj fert\u0151z\u00f6tt \u00e9s a 475 \u00faj halott ut\u00e1n cs\u00fct\u00f6rt\u00f6k\u00f6n 5322 \u00faj megbeteged\u00e9st \u00e9s 427 \u00faj halottat jelentettek.",
+            "act": 0.15550114214420319
+        },
+        {
+            "text": "Az \u00e9szaki Torton\u00e1ban egy f\u00e9rfi azt mondta, az\u00e9rt megy a v\u00e1ros m\u00e1sik fel\u00e9be v\u00e1s\u00e1rolni, mert egy ottani szupermarketben gy\u0171jti a v\u00e1s\u00e1rl\u00f3i pontokat.",
+            "act": 0.15473876893520355
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 fontu \u0123imene, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.14957024157047272
+        },
+        {
+            "text": "Gy\u00f6tr\u0151dnek a n\u00e9gy fal k\u00f6z\u00f6tt az olaszok\n\nA kij\u00e1r\u00e1si tilalmat megszeg\u0151k tov\u00e1bbra is nagy probl\u00e9m\u00e1t jelentenek Olaszorsz\u00e1gban.",
+            "act": 0.1456051915884018
+        },
+        {
+            "text": "These barriers appeared to be primarily socio-economic.",
+            "act": 0.1448238343000412
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.14421431720256805
+        },
+        {
+            "text": "A szic\u00edliai Palermo v\u00e1ros\u00e1ban h\u00e1rom f\u00e9rfit b\u00edrs\u00e1goltak meg, mivel azt mondt\u00e1k, kocogni indultak aut\u00f3val, de egyik \u00f6lt\u00f6nyben \u00e9s nyakkend\u0151ben volt, a m\u00e1sik mellett id\u0151s \u00e9desanyja \u00fclt, a harmadik pedig gyerekeit vitte valahova.",
+            "act": 0.14248813688755035
+        },
+        {
+            "text": "A hat\u00e1lyos rendelkez\u00e9sek szerint a kiszabhat\u00f3 b\u00edrs\u00e1g meghaladja a 200 eur\u00f3t, de komolyabb szab\u00e1lys\u00e9rt\u00e9s eset\u00e9n t\u00f6bb h\u00f3nap b\u00f6rt\u00f6nt kock\u00e1ztat a feleslegesen utc\u00e1n tart\u00f3zkod\u00f3.",
+            "act": 0.1420551836490631
+        },
+        {
+            "text": "\u00d6sszesen m\u00e1r 41 035 betegr\u0151l \u00e9s 3405 halottr\u00f3l \u00e9rkezett jelent\u00e9s az olasz klinik\u00e1kr\u00f3l, a gy\u00f3gyultak sz\u00e1ma pedig 4440 cs\u00fct\u00f6rt\u00f6kig.",
+            "act": 0.13697047531604767
+        },
+        {
+            "text": "A m\u00e1rcius 8-\u00e1n bevezetett \u201ekij\u00e1r\u00e1si tilalom\u201d \u00f3ta t\u00f6bb mint egymilli\u00f3 olaszt ellen\u0151riztek az utc\u00e1kon \u00e9s k\u00f6zutakon.",
+            "act": 0.13508616387844086
+        },
+        {
+            "text": "A Genovai Egyetem j\u00e1rv\u00e1nyszak\u00e9rt\u0151i szerint ennek ellen\u00e9re az olasz fert\u0151z\u00f6ttek sz\u00e1m\u00e1nak tet\u0151z\u00e9se m\u00e1rcius 23-25-re v\u00e1rhat\u00f3, ez azonban nagyban f\u00fcgg szerint\u00fck az olaszok magatart\u00e1s\u00e1t\u00f3l is, \u00edgy biztosat nem tudni.",
+            "act": 0.13469365239143372
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.13320834934711456
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.13320834934711456
+        },
+        {
+            "text": "The river is formed from two main tributaries, the East and West Dart.",
+            "act": 0.13222268223762512
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 Fantasy fontu \u0123imene, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.13185381889343262
+        },
+        {
+            "text": "******************************************************************",
+            "act": 0.13091014325618744
+        },
+        {
+            "text": "Az 5322 \u00faj eset rekord a j\u00e1rv\u00e1ny ideje alatt Olaszorsz\u00e1gban, ahol csak h\u00e9tf\u0151n volt n\u00e9mi t\u00f6r\u00e9s a sz\u00e1mok folyamatos \u00e9s meredek emelked\u00e9s\u00e9ben, de szomor\u00fa adat az is, hogy a halottak sz\u00e1m\u00e1ban m\u00e1r beel\u0151zt\u00e9k a j\u00e1rv\u00e1ny kiindul\u00e1si hely\u00e9t, K\u00edn\u00e1t.",
+            "act": 0.1295769363641739
+        },
+        {
+            "text": "msgstr \"Noklus\u0113tais kod\u0113jums, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.1290125846862793
+        },
+        {
+            "text": "M\u00e1sok horg\u00e1szfelszerel\u00e9sben mondt\u00e1k azt a rend\u0151r\u00f6knek, hogy munk\u00e1ba mennek.",
+            "act": 0.12784333527088165
+        },
+        {
+            "text": "Edith,\n713-995campaign.",
+            "act": 0.12660625576972961
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 Serif fontu \u0123imene, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.12499590218067169
+        },
+        {
+            "text": "However, the fob now has an unsightly side where the original key used to be.",
+            "act": 0.12417556345462799
+        },
+        {
+            "text": "Tot\u00f3zni indultam \u2013 \u00edgy indokolta utc\u00e1n tart\u00f3zkod\u00e1s\u00e1t egy f\u00e9rfi, amikor a rend\u0151r\u00f6k megk\u00e9rdezt\u00e9k t\u0151le, mi\u00e9rt s\u00e9t\u00e1l l\u00e1that\u00f3an ok n\u00e9lk\u00fcl.",
+            "act": 0.12179383635520935
+        },
+        {
+            "text": "\"; \n\n} else \n    print \"N\u00e3o foi poss\u00edvel carregar a imagem.",
+            "act": 0.1204930916428566
+        },
+        {
+            "text": "{\n  \"name\": \"Eleminer\",\n  \"description\": \"An arcade game.",
+            "act": 0.12045025825500488
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 Sans Serif fontu \u0123imene, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.11766427755355835
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 fontu \u0123imene, ko izmanto monospace teksta att\u0113lo\u0161anai.\"",
+            "act": 0.11735452711582184
+        },
+        {
+            "text": "Moreover, SEM analyses revealed that the herbivore community in the vegetative season correlated with plant traits such as height and number of leaves that carried over to the next season, potentially mediating the legacy on community composition in the next reproductive season.",
+            "act": 0.11372716724872589
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.11372250318527222
+        },
+        {
+            "text": "Az adatok szerint a feltart\u00f3ztatottak tetemes r\u00e9sze id\u0151s ember, aki r\u00f6vid s\u00e9t\u00e1ra indul, hogy ne legyen eg\u00e9sz nap otthon.",
+            "act": 0.1128024160861969
+        },
+        {
+            "text": "Feldman delivers thoughtful, humorous and insightful commentary that organisations can use to unravel complexities and unlock talent and potential.",
+            "act": 0.11237984895706177
+        },
+        {
+            "text": "Fant\u00e1ziad\u00fasabb volt egy fiatalember v\u00e1lasza, miszerint a bar\u00e1tn\u0151je \u00e9ppen akkor tette ki \u0151t az utc\u00e1ra.",
+            "act": 0.11191228032112122
+        },
+        {
+            "text": "Daphne Koller left Coursera this year.",
+            "act": 0.11141745746135712
+        },
+        {
+            "text": "A nyitva tart\u00f3 doh\u00e1nyboltok egyik\u00e9ben a tulajdonos k\u00e1v\u00e9h\u00e1zat rendezett be a sarkon bez\u00e1rt pressz\u00f3 p\u00f3tl\u00e1s\u00e1ra pluszbev\u00e9tel rem\u00e9ny\u00e9ben.",
+            "act": 0.1113421618938446
+        },
+        {
+            "text": "Hampshire Treasures\n\nPage 243 - St Thomas\n\nKent Hall.",
+            "act": 0.10891842097043991
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.10879559814929962
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.10879559814929962
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 fontu \u0123imene, ko izmanto monospace teksta att\u0113lo\u0161anai.\"",
+            "act": 0.10852104425430298
+        },
+        {
+            "text": "24, 673\nFactor -4*y**2 + 449972*y - 1349880.",
+            "act": 0.10576680302619934
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 Cursive fontu \u0123imene, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.10431335121393204
+        },
+        {
+            "text": "msgstr \"Noklus\u0113tais fontu izm\u0113rs, kuru izmantot teksta att\u0113lo\u0161an\u0101.\"",
+            "act": 0.10083241760730743
+        },
+        {
+            "text": "The most significant difference between the two plates in Fig.",
+            "act": 0.10073253512382507
+        },
+        {
+            "text": "There are many top flight forwards that have been presumed available via trade.",
+            "act": 0.09962785243988037
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 140,
+    "label": "Technical and educational programming content",
+    "attributes": "technical terms related to programming and databases, detailed explanations, code examples, structured format, specific technical instructions",
+    "reasoning": "The texts in the samples category contain technical terms, structures related to database interactions, and programming concepts, often with detailed explanations and code examples. This is a specific attribute seen consistently across all the samples in the first category. In contrast, the other samples category consists of conversational text and general discussions without any technical database or programming terminology.",
+    "density": 0.004446215971263304,
+    "confidence": 95.0,
+    "high_act_samples": [
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05ea\u05e8 \u05d4\u05ea\u05d5\u05de\u05da \u05d1\u05db\u05de\u05d4 \u05e9\u05e4\u05d5\u05ea \u05d9\u05e8\u05e6\u05d4 \u05dc\u05d4\u05e6\u05d9\u05d2 \u05ea\u05d5\u05db\u05df \u05d1\u05d0\u05d5\u05ea\u05d4 \u05e9\u05e4\u05d4 \u05e9\u05d4\u05de\u05e9\u05ea\u05de\u05e9 \u05db\u05e8\u05d2\u05e2 \u05e6\u05d5\u05e4\u05d4 \u05d1\u05d4.",
+            "act": 0.3414812684059143
+        },
+        {
+            "text": "\u05dc\u05e0\u05d5\u05d7\u05d5\u05ea, \u05d0\u05e0\u05d5 \u05e0\u05e9\u05ea\u05de\u05e9 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d4\u05d1\u05d0\u05d4 \u05dc\u05de\u05d8\u05e8\u05ea \u05d4\u05e6\u05d2\u05ea \u05d4\u05d3\u05d5\u05d2\u05de\u05d0\u05d5\u05ea \u05d1\u05d7\u05dc\u05e7 \u05d6\u05d4.",
+            "act": 0.3349214196205139
+        },
+        {
+            "text": "\u05d6\u05d4 \u05d1\u05d4\u05d7\u05dc\u05d8 \u05d4\u05db\u05e8\u05d7\u05d9 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05e9\u05de\u05d5\u05e6\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4.",
+            "act": 0.3227080702781677
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e2\u05d3\u05db\u05df \u05e8\u05e9\u05d5\u05de\u05d4 \u05d0\u05d7\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05dc\u05dc\u05d0 \u05e6\u05d5\u05e8\u05da \u05d1\u05d8\u05e2\u05d9\u05e0\u05ea\u05dd \u05de\u05e8\u05d0\u05e9.",
+            "act": 0.31743741035461426
+        },
+        {
+            "text": "\u05d4\u05de\u05ea\u05d5\u05d3\u05d4 \u05de\u05d7\u05d6\u05d9\u05e8\u05d4 \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR \u05d0\u05e9\u05e8 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d5 \u05dc\u05d2\u05e9\u05ea \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d1\u05e2\u05dc\u05d9 \u05d4\u05e8\u05e9\u05d0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d4 \u05de\u05d7\u05dc\u05e7\u05d4 \u05d1\u05dc\u05d1\u05d3 (\u05de\u05e9\u05d4\u05d5 \u05d3\u05d5\u05de\u05d4 \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05e1\u05d8\u05d8\u05d9\u05d5\u05ea \u05d1\u05de\u05d7\u05dc\u05e7\u05d4) \u05d1\u05d0\u05d5\u05e4\u05df \u05de\u05d5\u05e0\u05d7\u05d4 \u05e2\u05e6\u05de\u05d9\u05dd.",
+            "act": 0.3100670576095581
+        },
+        {
+            "text": "\u05ea\u05d6\u05e8\u05e7 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d9\u05d4\u05d9\u05d4 \u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05de\u05d5\u05d3\u05d4 \u05d0\u05e9\u05e8 \u05dc\u05d0 \u05e7\u05d9\u05d9\u05de\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.3084457218647003
+        },
+        {
+            "text": "Basketball tournament?",
+            "act": 0.28687089681625366
+        },
+        {
+            "text": "\u05db\u05ea\u05d5\u05e6\u05d0\u05d4 \u05de\u05db\u05da, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d2\u05e9\u05ea \u05dc\u05de\u05d9\u05d3\u05e2 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d5\u05e0\u05d7\u05d9\u05ea-\u05e2\u05e6\u05de\u05d9\u05dd.",
+            "act": 0.2865374684333801
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, PostgreSQL \u05dc\u05d0 \u05e8\u05d2\u05d9\u05e9 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05e9\u05de\u05d5\u05ea \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc, \u05d5\u05d0\u05e0\u05d5 \u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05ea\u05d7\u05d5\u05dd \u05d0\u05ea \u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05ea\u05e0\u05d0\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05e9\u05dd \u05d4\u05e2\u05de\u05d5\u05d3\u05d4 \u05de\u05db\u05d9\u05dc \u05e9\u05d9\u05dc\u05d5\u05d1 \u05e9\u05dc \u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea \u05d5\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.28153687715530396
+        },
+        {
+            "text": "\u05dc\u05de\u05e8\u05d5\u05ea \u05e9\u05d2\u05d9\u05e9\u05d4 \u05d6\u05d5 \u05e0\u05e8\u05d0\u05d9\u05ea \u05de\u05d5\u05e9\u05db\u05ea, \u05d4\u05d9\u05d0 \u05d2\u05d5\u05e8\u05de\u05ea \u05d1\u05e8\u05d5\u05d1 \u05d4\u05de\u05e7\u05e8\u05d9\u05dd \u05dc\u05d1\u05dc\u05d1\u05d5\u05dc, \u05e7\u05d5\u05e0\u05e4\u05dc\u05d9\u05e7\u05d8\u05d9\u05dd \u05d5\u05d1\u05e2\u05d9\u05d5\u05ea \u05e9\u05dc \u05e8\u05d2\u05d9\u05e9\u05d5\u05ea \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea \u05d1\u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea.",
+            "act": 0.280508428812027
+        },
+        {
+            "text": "\u05e9\u05de\u05d5\u05ea \u05d4\u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05de\u05ea\u05d9\u05d9\u05d7\u05e1\u05d5\u05ea \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05d5\u05e2\u05e8\u05db\u05d9\u05d4\u05dd, \u05d1\u05d4\u05ea\u05d0\u05dd.",
+            "act": 0.2759244441986084
+        },
+        {
+            "text": "\u05d2\u05dd \u05e7\u05e9\u05d4 \u05dc\u05e0\u05d4\u05dc \u05d0\u05ea \u05d4\u05e7\u05d5\u05d3 \u05e9\u05d0\u05e0\u05d5 \u05db\u05d5\u05ea\u05d1\u05d9\u05dd \u05db\u05e9\u05d4\u05d5\u05d0 \u05de\u05e2\u05d5\u05e8\u05d1\u05d1 \u05e2\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05e9\u05d5\u05e0\u05d5\u05ea.",
+            "act": 0.2751936912536621
+        },
+        {
+            "text": "\u00bb Info|\u05de\u05d9\u05d3\u05e2: \u05d1\u05de\u05d3\u05e8\u05d9\u05da \u05d6\u05d4, \u05d0\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05db\u05dc \u05e9\u05de\u05d5\u05ea \u05d4\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea.",
+            "act": 0.2722376585006714
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e9\u05e8\u05e9\u05e8 \u05db\u05de\u05d4 \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d5\u05db\u05ea\u05d5\u05e6\u05d0\u05d4 \u05de\u05db\u05da \u05dc\u05d1\u05e6\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d4\u05e8\u05d1\u05d4 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05d4\u05db\u05d5\u05dc\u05dc\u05ea \u05d9\u05d5\u05ea\u05e8 \u05ea\u05e0\u05d0\u05d9\u05dd.",
+            "act": 0.2721342146396637
+        },
+        {
+            "text": "\u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05e1\u05ea\u05de\u05db\u05ea \u05e2\u05dc \u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05e8\u05d0\u05e9\u05d9\u05d9\u05dd \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea.",
+            "act": 0.2714834213256836
+        },
+        {
+            "text": "\u05d1\u05db\u05de\u05d4 \u05e4\u05e8\u05d9\u05d9\u05de\u05d5\u05d5\u05e8\u05e7\u05d9\u05dd (Frameworks), \u05e4\u05e2\u05d5\u05dc\u05d4 \u05d6\u05d5 \u05e0\u05d9\u05ea\u05e0\u05ea \u05dc\u05d1\u05d9\u05e6\u05d5\u05e2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e7\u05e8\u05d9\u05d0\u05d4 \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05db\u05de\u05d5 `findByNameAndTitle`.",
+            "act": 0.27110230922698975
+        },
+        {
+            "text": "\u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d9\u05e9\u05e0\u05d5 \u05e2\u05e8\u05da \u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05dc\u05e2\u05de\u05d5\u05d3\u05d4 \u05d1\u05d8\u05d1\u05dc\u05d4 (\u05dc\u05d3\u05d5\u05d2\u05de\u05d0 \u05e1\u05d8\u05e8\u05d9\u05e0\u05d2 \u05d0\u05d5 \u05de\u05e1\u05e4\u05e8), \u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05df \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR \u05d9\u05db\u05d9\u05dc \u05d0\u05ea \u05d0\u05d5\u05ea\u05d5 \u05e2\u05e8\u05da \u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05dc\u05d0\u05d7\u05e8 \u05d9\u05e6\u05d9\u05e8\u05ea \u05d4\u05e8\u05e9\u05d5\u05de\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4.",
+            "act": 0.2699219584465027
+        },
+        {
+            "text": "\u05d1\u05d3\u05e8\u05da \u05db\u05dc\u05dc, \u05d0\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05e1\u05de\u05d5\u05da \u05e2\u05dc \u05e9\u05d5\u05dd \u05d3\u05d1\u05e8 \u05d4\u05de\u05d2\u05d9\u05e2 \u05de\u05e6\u05d3 \u05d4\u05dc\u05e7\u05d5\u05d7.",
+            "act": 0.26796236634254456
+        },
+        {
+            "text": "\u05db\u05e9\u05d9\u05e9\u05e0\u05dd \u05de\u05e1\u05e4\u05e8 \u05e8\u05d1 \u05e9\u05dc \u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05d4\u05ea\u05d5\u05d0\u05de\u05d5\u05ea \u05dc\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05d4\u05d5\u05e6\u05d1\u05d5 \u05d1\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05d1\u05d9\u05d0 \u05d0\u05ea \u05db\u05d5\u05dc\u05dd \u05d9\u05d7\u05d3\u05d9\u05d5 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05de\u05ea\u05d5\u05d3\u05d5\u05ea `findAll` \u05d4\u05d1\u05d0\u05d5\u05ea, \u05dc\u05db\u05dc \u05d0\u05d7\u05ea \u05de\u05d4\u05dd \u05d9\u05e9\u05e0\u05d4 \u05de\u05ea\u05d5\u05d3\u05ea `find` \u05ea\u05d5\u05d0\u05de\u05ea, \u05db\u05e4\u05d9 \u05e9\u05db\u05d1\u05e8 \u05d4\u05e1\u05d1\u05e8\u05e0\u05d5.",
+            "act": 0.26693397760391235
+        },
+        {
+            "text": "\u05d6\u05d4 \u05e9\u05d5\u05e0\u05d4 \u05de\u05d4\u05e2\u05e8\u05da \u05e9\u05d9\u05d5\u05d7\u05d6\u05d5\u05e8 \u05de\u05de\u05ea\u05d5\u05d3\u05d5\u05ea `find` \u05d4\u05de\u05d7\u05d6\u05d9\u05e8\u05d5\u05ea null \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0\u05d5 \u05e8\u05e9\u05d5\u05de\u05d5\u05ea.",
+            "act": 0.26338350772857666
+        },
+        {
+            "text": "\u05d4\u05de\u05ea\u05d5\u05d3\u05d4 [model|CActiveRecord::model] \u05de\u05d5\u05d2\u05d3\u05e8\u05ea \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d4\u05d6\u05d0\u05ea \u05dc\u05db\u05dc \u05de\u05d7\u05dc\u05e7\u05ea AR (\u05d4\u05e1\u05d1\u05e8 \u05d1\u05d4\u05de\u05e9\u05da).",
+            "act": 0.2633023262023926
+        },
+        {
+            "text": "\u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05ea\u05e8\u05e9\u05d9\u05dd \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05de\u05e1\u05d3\u05d9 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05e9\u05dc\u05da \u05dc\u05d0 \u05de\u05e9\u05ea\u05e0\u05d4, \u05de\u05d5\u05de\u05dc\u05e5 \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea \u05d4\u05de\u05d8\u05de\u05d5\u05df \u05dc\u05d2\u05d1\u05d9 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d0\u05d5\u05d3\u05d5\u05ea \u05d4\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d4\u05d2\u05d3\u05e8\u05ea \u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05df [CDbConnection::schemaCachingDuration] \u05dc\u05e2\u05e8\u05da \u05d4\u05d2\u05d3\u05d5\u05dc \u05de-0.",
+            "act": 0.2624513506889343
+        },
+        {
+            "text": "\u05d4\u05ea\u05d5\u05e6\u05d0\u05d4 \u05d4\u05e1\u05d5\u05e4\u05d9\u05ea \u05d3\u05d5\u05de\u05d4 \u05dc\u05d4\u05d5\u05e1\u05e4\u05ea \u05e8\u05e9\u05d9\u05de\u05d4 \u05e9\u05dc \u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4.",
+            "act": 0.25868654251098633
+        },
+        {
+            "text": "\u05de\u05ea\u05d5\u05d3\u05ea \u05d4 `find` \u05ea\u05d7\u05d6\u05d9\u05e8 null \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0 \u05e9\u05d5\u05dd \u05d3\u05d1\u05e8 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05dd \u05dc\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05d4\u05d5\u05e2\u05d1\u05e8\u05d5.",
+            "act": 0.2580885887145996
+        },
+        {
+            "text": "\u05d1\u05d7\u05dc\u05e7 \u05d4\u05d1\u05d0 \u05d0\u05e0\u05d5 \u05e0\u05e6\u05d9\u05d2 \u05db\u05d9\u05e6\u05d3 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 AR \u05db\u05d3\u05d9 \u05dc\u05d8\u05e4\u05dc \u05d1\u05e7\u05e9\u05e8\u05d9\u05dd \u05d1\u05d9\u05df \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+            "act": 0.25674840807914734
+        },
+        {
+            "text": "\u05db\u05dc \u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05d9\u05d9\u05e6\u05d2\u05ea \u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd, \u05d5\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05e9\u05dc \u05d4\u05de\u05d7\u05dc\u05e7\u05d4 \u05de\u05d9\u05d9\u05e6\u05d2 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d1\u05d0\u05d5\u05ea\u05d4 \u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.25662630796432495
+        },
+        {
+            "text": "\u00bb Tip|\u05d8\u05d9\u05e4: \u05d9\u05e9\u05e0\u05dd \u05e9\u05e0\u05d9 \u05d3\u05e8\u05db\u05d9\u05dd \u05dc\u05e2\u05d1\u05d5\u05d3 \u05e2\u05dd \u05db\u05de\u05d4 \u05de\u05e1\u05d3\u05d9 \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05ea\u05d5\u05da \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1-AR .",
+            "act": 0.25635358691215515
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05e0\u05d5 \u05e0\u05e8\u05e6\u05d4 \u05dc\u05e9\u05e0\u05d5\u05ea \u05d0\u05ea \u05d4\u05e2\u05e8\u05da \u05e9\u05dc \u05d4\u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05d1\u05de\u05e8\u05d7\u05d1 \u05d4\u05de\u05d5\u05d2\u05d3\u05e8 \u05d1\u05e9\u05dd `recently`.",
+            "act": 0.25591784715652466
+        },
+        {
+            "text": "\u05d4\u05d3\u05d5\u05d2\u05de\u05d0 \u05d4\u05d1\u05d0\u05d4 \u05de\u05e6\u05d9\u05d2\u05d4 \u05d0\u05ea \u05d4\u05e7\u05d5\u05d3 \u05d4\u05de\u05d9\u05e0\u05d9\u05de\u05dc\u05d9 \u05d4\u05d3\u05e8\u05d5\u05e9 \u05dc\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR \u05d4\u05de\u05d9\u05d9\u05e6\u05d2\u05ea \u05d0\u05ea \u05d4\u05d8\u05d1\u05dc\u05d4 `tbl_post`.",
+            "act": 0.2550799250602722
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05e8\u05db\u05d9\u05dd \u05d1\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e9\u05dc \u05d8\u05d1\u05dc\u05d4 \u05db\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.2516319155693054
+        },
+        {
+            "text": "### \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc\n\n\u05d1\u05de\u05d7\u05dc\u05e7\u05d4 \u05e9\u05dc \u05de\u05d5\u05d3\u05dc \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8 \u05d0\u05e9\u05e8 \u05d9\u05ea\u05d5\u05d5\u05e1\u05e3 \u05dc\u05db\u05dc \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e9\u05d0\u05e0\u05d5 \u05de\u05e8\u05d9\u05e6\u05d9\u05dd \u05d1\u05e2\u05d6\u05e8\u05ea \u05d4\u05de\u05d7\u05dc\u05e7\u05d4 (\u05db\u05d5\u05dc\u05dc \u05e7\u05d9\u05e9\u05d5\u05e8\u05d9\u05dd \u05dc\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d0\u05d7\u05e8\u05d5\u05ea).",
+            "act": 0.2507065534591675
+        },
+        {
+            "text": "\u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05d3\u05e8\u05da \u05db\u05dc\u05dc \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05de\u05ea\u05d5\u05d3\u05d4 [CActiveRecord::scopes] \u05d1\u05d6\u05d5\u05d2\u05d5\u05ea \u05d1\u05e4\u05d5\u05e8\u05de\u05d8 \u05e9\u05dc \u05e9\u05dd-\u05ea\u05e0\u05d0\u05d9.",
+            "act": 0.24577270448207855
+        },
+        {
+            "text": "\u05d1\u05db\u05d3\u05d9 \u05dc\u05d4\u05e7\u05dc \u05e2\u05dc \u05ea\u05d4\u05dc\u05d9\u05da \u05d4\u05d4\u05e6\u05d1\u05d4 \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e2\u05d6\u05e8 \u05d1\u05de\u05d0\u05e4\u05d9\u05d9\u05df [attributes|CActiveRecord::attributes] \u05db\u05e4\u05d9 \u05e9\u05de\u05d5\u05e6\u05d2 \u05d1\u05d3\u05d5\u05d2\u05de\u05d0 \u05dc\u05de\u05d8\u05d4.",
+            "act": 0.2446570247411728
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea [CWebLogRoute] \u05d1\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4, \u05d5\u05d0\u05e0\u05d5 \u05e0\u05e8\u05d0\u05d4 \u05d0\u05ea \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e9\u05d1\u05d5\u05e6\u05e2\u05d5 \u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05e2\u05de\u05d5\u05d3.",
+            "act": 0.24289709329605103
+        },
+        {
+            "text": "\u05db\u05dc \u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05d9\u05d9\u05e6\u05d2\u05ea \u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d0\u05e9\u05e8 \u05d4\u05ea\u05db\u05d5\u05e0\u05d5\u05ea \u05e9\u05dc\u05d4 \u05de\u05d0\u05d5\u05e4\u05d9\u05d9\u05e0\u05d5\u05ea \u05db\u05de\u05e9\u05ea\u05e0\u05d9\u05dd \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR, \u05d5\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05e9\u05dc \u05d4\u05de\u05d7\u05dc\u05e7\u05d4 \u05de\u05d9\u05d9\u05e6\u05d2 \u05e9\u05d5\u05e8\u05d4 \u05d0\u05d7\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.24197976291179657
+        },
+        {
+            "text": "\u05d9\u05e9 \u05dc\u05d3\u05e8\u05d5\u05e1 \u05d0\u05ea \u05d4\u05de\u05ea\u05d5\u05d3\u05d4 [tableName|CActiveRecord::tableName] \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d4\u05dd \u05e9\u05d5\u05e0\u05d9\u05dd \u05d0\u05d7\u05d3 \u05de\u05d4\u05e9\u05e0\u05d9.",
+            "act": 0.2387656569480896
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.23740243911743164
+        },
+        {
+            "text": "### \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05e2\u05dd \u05e4\u05e8\u05de\u05d8\u05e8\u05d9\u05dd\n\n\u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05d5\u05e1\u05d9\u05e3 \u05e4\u05e8\u05de\u05d8\u05e8\u05d9\u05dd (\u05e1\u05de\u05de\u05e0\u05d9\u05dd) \u05dc\u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd.",
+            "act": 0.23341667652130127
+        },
+        {
+            "text": "\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05d1\u05dc\u05d1\u05d3 \u05d1\u05e9\u05de\u05d5\u05ea \u05e4\u05d5\u05ea\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.23103411495685577
+        },
+        {
+            "text": "\u05db\u05dc \u05d0\u05d7\u05d3 \u05de\u05d4\u05dd \u05de\u05e1\u05e4\u05e7 \u05ea\u05e0\u05d0\u05d9 \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4, \u05d0\u05e9\u05e8 \u05d1\u05e1\u05d5\u05e4\u05d5 \u05e9\u05dc \u05d3\u05d1\u05e8 \u05de\u05ea\u05d0\u05d7\u05d3 \u05e2\u05dd \u05ea\u05e0\u05d0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd, \u05db\u05d5\u05dc\u05dc \u05d0\u05ea \u05d4\u05ea\u05e0\u05d0\u05d9 \u05e9\u05d4\u05d5\u05e2\u05d1\u05e8 \u05dc\u05de\u05ea\u05d5\u05d3\u05ea `find`, \u05d5\u05d9\u05d5\u05e6\u05e8 \u05ea\u05e0\u05d0\u05d9 \u05d0\u05d7\u05d3 \u05d2\u05d3\u05d5\u05dc.",
+            "act": 0.230235755443573
+        },
+        {
+            "text": "\u05e4\u05e2\u05d5\u05dc\u05d5\u05ea CRUD \u05e0\u05e4\u05d5\u05e6\u05d5\u05ea \u05de\u05d9\u05d5\u05e9\u05de\u05d5\u05ea \u05d1\u05ea\u05d5\u05e8 \u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.22770413756370544
+        },
+        {
+            "text": "- [beforeFind|CActiveRecord::beforeFind]: \u05de\u05ea\u05d5\u05d3\u05d4 \u05d6\u05d5 \u05e8\u05e6\u05d4 \u05dc\u05e4\u05e0\u05d9 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d7\u05d3 \u05de\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d4 `find` (\u05dc\u05d3\u05d5\u05d2\u05de\u05d0 `find`, `findAll`).",
+            "act": 0.22767911851406097
+        },
+        {
+            "text": "\u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05df [primaryKey|CActiveRecord::primaryKey] \u05de\u05e1\u05e4\u05e7 \u05d0\u05ea \u05e2\u05e8\u05da \u05d4\u05de\u05e4\u05ea\u05d7 \u05d4\u05e8\u05d0\u05e9\u05d9 \u05e9\u05dc \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR.",
+            "act": 0.223267063498497
+        },
+        {
+            "text": "\u05de\u05d0\u05d7\u05e8 \u05d5\u05d9\u05e9\u05e0\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d1\u05e0\u05d5\u05d2\u05e2 \u05dc\u05ea\u05d5\u05db\u05df \u05d4\u05d0\u05ea\u05e8, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8 \u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05d1\u05db\u05d3\u05d9 \u05dc\u05e4\u05ea\u05d5\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.2221027910709381
+        },
+        {
+            "text": "\u05e7\u05e8\u05d9\u05d0\u05ea \u05e8\u05e9\u05d5\u05de\u05d4\n--------------\n\n\u05d1\u05db\u05d3\u05d9 \u05dc\u05e7\u05e8\u05d5\u05d0 \u05de\u05d9\u05d3\u05e2 \u05de\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd, \u05d0\u05e0\u05d5 \u05e7\u05d5\u05e8\u05d0\u05d9\u05dd \u05dc\u05d0\u05d7\u05ea \u05de\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d4 `find` \u05d4\u05d1\u05d0\u05d5\u05ea.",
+            "act": 0.22051195800304413
+        },
+        {
+            "text": "\u05d9\u05e9 \u05dc\u05e7\u05e8\u05d5\u05d0 \u05dc\u05de\u05ea\u05d5\u05d3\u05d4 \u05d4 getErrors() \u05dc\u05e7\u05d1\u05dc\u05ea \u05d4\u05e9\u05d2\u05d9\u05d0\u05d5\u05ea \u05e9\u05d7\u05d6\u05e8\u05d5\n}\n~~~\n\n\u05db\u05e9\u05d4\u05de\u05d9\u05d3\u05e2 \u05dc\u05e2\u05d3\u05db\u05d5\u05df \u05d0\u05d5 \u05d4\u05d5\u05e1\u05e4\u05d4 \u05e9\u05dc \u05e8\u05e9\u05d5\u05de\u05d4 \u05de\u05ea\u05e7\u05d1\u05dc \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4 \u05d1\u05e2\u05d6\u05e8\u05ea \u05d8\u05d5\u05e4\u05e1 HTML , \u05d0\u05e0\u05d5 \u05e6\u05e8\u05d9\u05db\u05d9\u05dd \u05dc\u05d4\u05e6\u05d9\u05d1 \u05d0\u05d5\u05ea\u05dd \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05de\u05d9\u05dd \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.21853815019130707
+        },
+        {
+            "text": "\u05d4\u05e9\u05d9\u05de\u05d5\u05e9 \u05d4\u05d8\u05d5\u05d1 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d1\u05d5 \u05e0\u05d5\u05e2\u05d3 \u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d1\u05e6\u05e2 \u05e9\u05d0\u05d9\u05dc\u05d5\u05ea SQL \u05e4\u05e9\u05d5\u05d8\u05d5\u05ea (CRUD) \u05d5\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05ea\u05d5\u05e8 \u05de\u05d5\u05d3\u05dc \u05d1\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4.",
+            "act": 0.21803751587867737
+        },
+        {
+            "text": "\u05de\u05d7\u05d9\u05e7\u05ea \u05e8\u05e9\u05d5\u05de\u05d4\n---------------\n\n\u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05de\u05d7\u05d5\u05e7 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d4 AR  \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e7\u05d1\u05dc\u05ea \u05d4\u05de\u05d9\u05d3\u05e2 \u05de\u05d4\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+            "act": 0.2169787585735321
+        },
+        {
+            "text": "\u05d1\u05d3\u05d5\u05d2\u05de\u05d0 \u05dc\u05de\u05e2\u05dc\u05d4, \u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05df `id` \u05de\u05e9\u05e7\u05e3 \u05d0\u05ea \u05d4\u05de\u05e4\u05ea\u05d7 \u05d4\u05e8\u05d0\u05e9\u05d9 \u05e9\u05dc \u05d4\u05d4\u05d5\u05d3\u05e2\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4 \u05e9\u05e0\u05d5\u05e6\u05e8\u05d4 \u05db\u05e8\u05d2\u05e2, \u05dc\u05de\u05e8\u05d5\u05ea \u05e9\u05d0\u05e0\u05d5 \u05dc\u05d0 \u05de\u05e9\u05e0\u05d9\u05dd \u05d0\u05d5\u05ea\u05d5 \u05d1\u05e6\u05d5\u05e8\u05d4 \u05e1\u05e4\u05e6\u05d9\u05e4\u05d9\u05ea.",
+            "act": 0.2163713276386261
+        },
+        {
+            "text": "\u05d0\u05dd \u05ea\u05e8\u05e9\u05d9\u05dd \u05de\u05e1\u05d3\u05d9 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d4\u05d5\u05d0 \u05e9\u05d5\u05e0\u05d4, \u05ea\u05d5\u05db\u05dc \u05dc\u05d9\u05e6\u05d5\u05e8 \u05de\u05d7\u05dc\u05e7\u05ea AR \u05d1\u05e1\u05d9\u05e1\u05d9\u05ea \u05e9\u05d5\u05e0\u05d4 \u05d0\u05e9\u05e8 \u05d1\u05ea\u05d5\u05db\u05d4 \u05d9\u05d4\u05d9\u05d4 \u05e6\u05d5\u05e8\u05da \u05dc\u05d3\u05e8\u05d5\u05e1 \u05d0\u05ea [getDbConnection|CActiveRecord::getDbConnection] \u05d1\u05e6\u05d5\u05e8\u05d4 \u05e9\u05d5\u05e0\u05d4.",
+            "act": 0.21520185470581055
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

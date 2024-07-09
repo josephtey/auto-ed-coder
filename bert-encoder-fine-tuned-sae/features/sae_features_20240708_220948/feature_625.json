@@ -1,0 +1,412 @@
+{
+    "index": 625,
+    "label": "Informative prose with specific facts",
+    "attributes": "structured prose, informative or narrative content, presence of specific names, references to concrete events or facts",
+    "reasoning": "After examining the text within the tags, I noticed that the samples share a characteristic of being structured prose, often from journalistic articles, announcements, or informative content. This is distinct from the other samples, which feature more informal, dialogue-based, and opinion-laced language often seen in blog comments or forum discussions. The specific attributes include structured prose, informative or narrative content, presence of specific names (places, people, organizations), and references to concrete events or facts.",
+    "density": 0.0008968354520477742,
+    "confidence": 21.0,
+    "high_act_samples": [
+        {
+            "text": "He\nlunged towards Luke, but Luke quickly stepped out of the way and came\nback with a powerful uppercut.",
+            "act": 0.16068895161151886
+        },
+        {
+            "text": "Powdermill Reservoir\n\nPowdermill Reservoir lies to the east of Sedlescombe, East Sussex, England.",
+            "act": 0.14468912780284882
+        },
+        {
+            "text": "Briana Holman was second for Nebraska with eight kills, but left the match in the third set after injuring her ankle.",
+            "act": 0.13635586202144623
+        },
+        {
+            "text": "DULUTH, Minn. \u2013 The Ohio State women\u2019s ice hockey team (8-16-2, 5-9-2 WCHA) lost to the No.",
+            "act": 0.10671466588973999
+        },
+        {
+            "text": "She has refused to evacuate Malta.",
+            "act": 0.10114331543445587
+        },
+        {
+            "text": "The video will start in 8 Cancel\n\nNews, views and top stories in your inbox.",
+            "act": 0.09169039875268936
+        },
+        {
+            "text": "Half the bar is watching and expecting him to get blown out, but she likes him and things look good - until she sits down with her friend.",
+            "act": 0.09012569487094879
+        },
+        {
+            "text": "\"Sabina!\"",
+            "act": 0.08725602924823761
+        },
+        {
+            "text": "This article is available in French on Middle East Eye French edition.",
+            "act": 0.0856834203004837
+        },
+        {
+            "text": "As Joe Fresh rolls out its fall women\u2019s line this week, it will now up to size 22.",
+            "act": 0.08507424592971802
+        },
+        {
+            "text": "She is doing well, although flipper usage remains minimal.",
+            "act": 0.08041629195213318
+        },
+        {
+            "text": "Smooth over the teased hair on top, and pull it back into a half-ponytail.",
+            "act": 0.07970558106899261
+        },
+        {
+            "text": "Arianespace is proud to mobilize its entire family of launch vehicles for the benefit of Europe\u2019s ambitions and its independent access to space.",
+            "act": 0.07706964015960693
+        },
+        {
+            "text": "Amazon: search for baby walker",
+            "act": 0.07409834861755371
+        },
+        {
+            "text": "She was advised to undergo further investigations and removal of mass.",
+            "act": 0.06818394362926483
+        },
+        {
+            "text": "Bundesliga), but lost in the promotion round 1\u20131 and 1\u20132 to Bayer Uerdingen.",
+            "act": 0.06721863150596619
+        },
+        {
+            "text": "Algerian Hostage Tapes: Inside Intel on Terror Attack?",
+            "act": 0.06639696657657623
+        },
+        {
+            "text": "ESO is the foremost intergovernmental astronomy organisation in Europe and the world\u2019s most productive ground-based astronomical observatory by far.",
+            "act": 0.06537625938653946
+        },
+        {
+            "text": "2010\u201311 Sussex County Football League\n\nThe 2010\u201311 Sussex County Football League season was the 86th in the history of the competition.",
+            "act": 0.0644775927066803
+        },
+        {
+            "text": "Ariane 6 will take over from 2020.",
+            "act": 0.06422041356563568
+        },
+        {
+            "text": "She let go of her fourth shot and \u2013 again \u2013 didn\u2019t miss, giving the Cougars a 17-12 lead going into the second quarter.",
+            "act": 0.06369664520025253
+        },
+        {
+            "text": "After pushing its home record to 12-5-0-5 with a win over Florida on Friday, Gwinnett lost in regulation and overtime in Greenville.",
+            "act": 0.060906052589416504
+        },
+        {
+            "text": "The bubble is an evidence free zone.",
+            "act": 0.06054955720901489
+        },
+        {
+            "text": "Lewis's next court appearance has been set for January 9th.",
+            "act": 0.06038887798786163
+        },
+        {
+            "text": "Shoot first ask\nlater.",
+            "act": 0.0603305920958519
+        },
+        {
+            "text": "The rocket will get him off the ground and into Mars orbit, where he can be picked up by a rescue ship coming from Earth.",
+            "act": 0.05984225869178772
+        },
+        {
+            "text": "ESO is the foremost intergovernmental astronomy organisation in Europe and the world\u2019s most productive ground-based astronomical observatory by far.",
+            "act": 0.0598379522562027
+        },
+        {
+            "text": "The Foreign Office says it is \u2018seriously concerned\u2019 about whether she was given a fair trial.",
+            "act": 0.05780654028058052
+        },
+        {
+            "text": "Our instruments can detect nuclear fallout when it arrives, but it will be too late by then.",
+            "act": 0.057595692574977875
+        },
+        {
+            "text": "The armpits and elbow areas pinched something awful.",
+            "act": 0.05674392729997635
+        },
+        {
+            "text": "We urge NOAA to move quickly and forcefully to exercise its authority \u2013 and fulfill its responsibility \u2013 to protect our oceans.",
+            "act": 0.056185223162174225
+        },
+        {
+            "text": "Says it\u2019s been \u201cdownward spiral\u201d since.",
+            "act": 0.05494295060634613
+        },
+        {
+            "text": "Marissa Alexander was a 31-year-old, 5-ft. 2-in.",
+            "act": 0.05470910668373108
+        },
+        {
+            "text": "Her dream is to become the world\u2019s number one YouTuber.",
+            "act": 0.05453019216656685
+        },
+        {
+            "text": "It is slated for an Eid release in 2019.",
+            "act": 0.05202825367450714
+        },
+        {
+            "text": "They use the ditzy \u201cteenage girl\u201d voices featured so prominantly in high school cartoons ever since the 80s",
+            "act": 0.051410011947155
+        },
+        {
+            "text": "World's Strongest - Along side the end of Saiyan Saga.",
+            "act": 0.05021705850958824
+        },
+        {
+            "text": "They wrote that if North Korea follows \u201cpast practice,\u201d increased activity at the site, including filling up the buildings that hold propellant for the launch, would be expected.",
+            "act": 0.04982268810272217
+        },
+        {
+            "text": "from the bulge out to the edge of spiral galaxies.",
+            "act": 0.04934733361005783
+        },
+        {
+            "text": "Plasma, like a gas, will expand into the space available.",
+            "act": 0.0491725318133831
+        },
+        {
+            "text": "What time is kick-off?",
+            "act": 0.048236239701509476
+        },
+        {
+            "text": "Albania is playing Switzerland tomorrow at 9:00am ET on ESPN.",
+            "act": 0.04670722782611847
+        },
+        {
+            "text": "Before long, the counter-attack almost ripped the WBA Chelsea goal.",
+            "act": 0.046688828617334366
+        },
+        {
+            "text": "The 38-year-old actress got a buzz cut for a new project with Sia and admits she suddenly had a huge panic about the shape of her head now her hair wasn't covering it and likened the big reveal to finding out the gender of a baby when its born.",
+            "act": 0.0457899272441864
+        },
+        {
+            "text": "The 38-year-old actress got a buzz cut for a new project with Sia and admits she suddenly had a huge panic about the shape of her head now her hair wasn't covering it and likened the big reveal to finding out the gender of a baby when its born.",
+            "act": 0.0457899272441864
+        },
+        {
+            "text": "The 38-year-old actress got a buzz cut for a new project with Sia and admits she suddenly had a huge panic about the shape of her head now her hair wasn't covering it and likened the big reveal to finding out the gender of a baby when its born.",
+            "act": 0.0457899272441864
+        },
+        {
+            "text": "The estimated timeline for availability of an initial vaccine is between early and mid-2021.",
+            "act": 0.044939614832401276
+        },
+        {
+            "text": "\u201cShe\u2019s also been our leading rebounder since she was a freshman.\u201d\n\nCranford improved to 8-3 overall with its second straight win and is now 5-2 in the Watchung Division.",
+            "act": 0.044757600873708725
+        },
+        {
+            "text": "At the last minute first half, Chelsea added advantage goal by Frank Lampard.",
+            "act": 0.04467206820845604
+        },
+        {
+            "text": "Bristol-Myers Squibb will have the\nright to develop and commercialize products resulting from the\ncollaborative research program.",
+            "act": 0.044114481657743454
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

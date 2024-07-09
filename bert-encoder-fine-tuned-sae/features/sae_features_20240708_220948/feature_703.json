@@ -1,0 +1,412 @@
+{
+    "index": 703,
+    "label": "Structured and coherent writing style",
+    "attributes": "clear structure, coherent sentences, informative content, minimal first-person pronouns, limited use of informal dialogue",
+    "reasoning": "Upon analyzing the text samples, it is noted that the texts within the first group often convey a sense of clear, coherent structure and purpose. They provide informative, structured sentences often discussing events, opinions, personal experiences, or broader analysis about specific topics. They contain few to no informal or conversational interjections, and they predominantly avoid using dialogue tags like quotation marks in a random or non-structured manner. On the other hand, the second group's texts are more informal, conversational, and fragmented, containing more first-person pronouns and focusing on subjective opinions or fragmented thoughts. They also tend to reflect more personal or emotional responses without maintaining a strong structure.",
+    "density": 0.005679957862969237,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "\"About time, that's great.\"",
+            "act": 0.24686995148658752
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////\n\nI\u2019m happy taking various public or private transportation while traveling in foreign countries.",
+            "act": 0.17952874302864075
+        },
+        {
+            "text": "Unfortunately this is where things become even noisier, more process-intensive and hardware-intensive, and incoherent.",
+            "act": 0.16197551786899567
+        },
+        {
+            "text": "Lehman & Co \u2014 which focuses on defense and aerospace \u2014 and W Capital Partners bought in.",
+            "act": 0.15920406579971313
+        },
+        {
+            "text": "\"I'm sorry we're stuck here, it's all my fault.\"",
+            "act": 0.14951440691947937
+        },
+        {
+            "text": "Not tough enough to stop Kara, but enough that the impact is quite noteable.",
+            "act": 0.1472935676574707
+        },
+        {
+            "text": "With the candidate filing deadline less than four months away, she's the only politically connected candidate for the highly technical job, which comes with tremendous power and a salary of $77,000.",
+            "act": 0.14374399185180664
+        },
+        {
+            "text": "It follows from Zhu, [@Zhu-dr] Thm.",
+            "act": 0.13696059584617615
+        },
+        {
+            "text": "\"Okay, I guess I deserved that.\"",
+            "act": 0.1362544596195221
+        },
+        {
+            "text": "Excuse?",
+            "act": 0.13574595749378204
+        },
+        {
+            "text": "\u2013 Reuters",
+            "act": 0.13043159246444702
+        },
+        {
+            "text": "Writing portable code in Haskell is not as easy as with C++.",
+            "act": 0.12255652993917465
+        },
+        {
+            "text": "Even so, Trump's few legislative and deregulatory actions have likely made a limited impact on the job market.",
+            "act": 0.12117152661085129
+        },
+        {
+            "text": "Relatively, it\u2019s the same though\u2026these benchmarks aren\u2019t about the absolutely fastest compiler or settings, but more about the overall faster method.",
+            "act": 0.1138681098818779
+        },
+        {
+            "text": "On 29 May 2004, Akerboom signed with MPC Capitals from Groningen.",
+            "act": 0.1127716526389122
+        },
+        {
+            "text": "Bundesliga, all leagues below dropped one tier.",
+            "act": 0.11112763732671738
+        },
+        {
+            "text": "With the introduction of the Regionalligas in 1994 and the 3.",
+            "act": 0.11107470840215683
+        },
+        {
+            "text": "Mr. Whalen is a resident of Georgia with his primary place of business in Georgia.",
+            "act": 0.11000589281320572
+        },
+        {
+            "text": "grated rind of 1 lemon- or zest of one lemon.",
+            "act": 0.10981481522321701
+        },
+        {
+            "text": "prejudice resulting\nfrom the passage of time between crime and arrest or charge.\u201d\nId.",
+            "act": 0.10787439346313477
+        },
+        {
+            "text": "\" Oh, I'm sorry.\"",
+            "act": 0.10720164328813553
+        },
+        {
+            "text": "SpVgg had earned promotion to this league in 1954, having won the 2.",
+            "act": 0.10449398308992386
+        },
+        {
+            "text": "\u201cAttends.",
+            "act": 0.10443968325853348
+        },
+        {
+            "text": "After that unpleasant, but completely self-inflicted intermezzo, we're\noff again.",
+            "act": 0.1042286679148674
+        },
+        {
+            "text": "\" Right away.\"",
+            "act": 0.10312929004430771
+        },
+        {
+            "text": "International calling billed separately.",
+            "act": 0.1020735502243042
+        },
+        {
+            "text": "\"I'm tight with the management, here.\"",
+            "act": 0.10158393532037735
+        },
+        {
+            "text": "\"Yeah, I'm fine, Carl.\"",
+            "act": 0.10037465393543243
+        },
+        {
+            "text": "The\nJustice Department assault on the Associated Press and the ugly politicization\nof the Internal Revenue Service have left the administration\u2019s credibility\ndeeply, probably irretrievably damaged.",
+            "act": 0.09891723841428757
+        },
+        {
+            "text": "What it came down to was that MSU has a more managable contract than UM, while ours was an easy out too.",
+            "act": 0.09745465964078903
+        },
+        {
+            "text": "International calling billed separately.",
+            "act": 0.09710260480642319
+        },
+        {
+            "text": "Amateurliga Oberfranken-West title that year and then dominated its promotion round.",
+            "act": 0.09442418068647385
+        },
+        {
+            "text": "\"Fortunately for him, that's not on his list of duties.\"",
+            "act": 0.09414203464984894
+        },
+        {
+            "text": "So which is it?",
+            "act": 0.09409020096063614
+        },
+        {
+            "text": "wide, our wallet- and space-pleasant choose is ideal for very first flats, playrooms, dens or other small spaces.",
+            "act": 0.09212110936641693
+        },
+        {
+            "text": "It is notable here that although it is in equal partnership with the world\u2019s third largest gold miner, AngloGold Ashanti (both have 45% stakes), the latter ceded construction and operational control to its much smaller partner, presumably because of Randgold\u2019s unparalleled record of building and operating mines in West Africa and its skills in navigating the often troubled political waters of the region.",
+            "act": 0.09142619371414185
+        },
+        {
+            "text": "At least, that\u2019s how you\u2019re supposed to do it, although our last Republican governor didn\u2019t, which resulted in disruptive program cuts had to be made.",
+            "act": 0.09072073549032211
+        },
+        {
+            "text": "\" Sure, she's fine.\"",
+            "act": 0.09043420106172562
+        },
+        {
+            "text": "Features considered include phonological characteristics, lexical items, politeness strategies, and voice quality.",
+            "act": 0.09026090055704117
+        },
+        {
+            "text": "Competitions\n\nJupiler Pro League:\n\nCofidis Cup: Defeated on penalties in the Semi-Final versus Sint-Truiden.",
+            "act": 0.08948836475610733
+        },
+        {
+            "text": "Competitions\n\nChallenge League:\n\nSchweizer Cup: Knocked out in the quarter-finals by Zurich.",
+            "act": 0.08933454751968384
+        },
+        {
+            "text": "Clears 1 1/4 acres in an hour or less\n\nCuts down everything except desirable trees over 4\u201d in diameter - cutting all brush into small clippings that lay flat on the ground for appearances, leading to rapid decomposition.",
+            "act": 0.08923625200986862
+        },
+        {
+            "text": "That said, Obama\u2019s plan is overly reliant upon the windfall from letting the Bush tax cuts for the wealthy expire while counting \u201csavings\u201d from fighting wars that he repeatedly reminds us were put on the credit card.",
+            "act": 0.08845914900302887
+        },
+        {
+            "text": "Wentzell'\n- 'D.",
+            "act": 0.08832090348005295
+        },
+        {
+            "text": "And that's really reduced.",
+            "act": 0.08652999252080917
+        },
+        {
+            "text": "\"; Ivansmom is a highly-educated person who knows her stuff rather well.",
+            "act": 0.08613801747560501
+        },
+        {
+            "text": "\"I'm sorry, boss.\"",
+            "act": 0.0857556089758873
+        },
+        {
+            "text": "\"Uh, just remember, it's-it's, uh, Biggs, not-not Briggs.\"",
+            "act": 0.08524908870458603
+        },
+        {
+            "text": "Nowadays in GVA Sawyer Natalia is responsible for retail properties\u2019 occupancy issues and provides property management consulting for the Retail & Leisure Center Pobeda Plaza in Saratov.",
+            "act": 0.08364207297563553
+        },
+        {
+            "text": "even if on April 15, 2013, Paul Butzer grew to become eighty five years previous, remarkably, he's nonetheless an lively examine mathematician.",
+            "act": 0.0833556279540062
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 361,
+    "label": "Structured technical or academic content",
+    "attributes": "use of domain-specific terminology, formal structure, references to research or academic findings, inclusion of technical details",
+    "reasoning": "Reviewing the provided samples, all the texts within the positive section contain domain-specific terms, structured information, or references to academic, technical, or official content. These segments include structured information like research findings, legislative proposals, descriptions of artifacts, or other formal content. The negative samples, on the other hand, are informal, conversational, or opinion-driven without structured or technical information.",
+    "density": 0.004678728866238653,
+    "confidence": 80.0,
+    "high_act_samples": [
+        {
+            "text": "Oceania Marathon and Half Marathon Championships\n\nThe Oceania Marathon and Half Marathon Championships are an annual Road running competition organized by the Oceania Athletics Association (OAA) for athletes representing the countries of its member associations.",
+            "act": 0.15703395009040833
+        },
+        {
+            "text": "William Levada is the current prefect of the CDF.",
+            "act": 0.14433026313781738
+        },
+        {
+            "text": "Outgrowth of axillary buds along the main stem to form primary branches was also stimulated by debranching.",
+            "act": 0.1433396339416504
+        },
+        {
+            "text": "DNA (100 ng\u2013500 ng) was extracted from UCWBCs.",
+            "act": 0.1416223645210266
+        },
+        {
+            "text": "Annotations are derived from HOMER.",
+            "act": 0.140835702419281
+        },
+        {
+            "text": "A cage of this type is known from DE 41 24 838 A1.",
+            "act": 0.13796846568584442
+        },
+        {
+            "text": "he asks.",
+            "act": 0.1356697976589203
+        },
+        {
+            "text": "Artefacts were excluded from segmentation.",
+            "act": 0.13309811055660248
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.12972813844680786
+        },
+        {
+            "text": "\ufeff#region CmdMessenger - MIT - (c) 2014 Thijs Elenbaas.",
+            "act": 0.12691062688827515
+        },
+        {
+            "text": "The remains include an arm with attached hand and a foot.",
+            "act": 0.12245512753725052
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.12177225202322006
+        },
+        {
+            "text": "K, you got that?",
+            "act": 0.12105634063482285
+        },
+        {
+            "text": "Senator Tony Avella has proposed that the city\u2019s Department of Health and Mental Hygiene be given jurisdiction over food markets in the five boroughs, an authority only the state\u2019s Department of Agriculture & Markets currently has.",
+            "act": 0.11937130242586136
+        },
+        {
+            "text": "Sur le plan radiologique, il se manifeste par un d\u00e9veloppement accru du p\u00e9rioste au niveau des diaphyses distales des os longs et au niveau des phalanges.",
+            "act": 0.1186537966132164
+        },
+        {
+            "text": "It's not Heller's job to spell it out for us.",
+            "act": 0.11153437197208405
+        },
+        {
+            "text": "Lower surface 219 of lid 214 rests upon inner ledge 226 when assembled.",
+            "act": 0.11097611486911774
+        },
+        {
+            "text": "[Dilation of coronary and left renal veins.",
+            "act": 0.110191710293293
+        },
+        {
+            "text": "The observation that TE-derived elements were activated in *Spen* KO mESCs was intriguing, given that the A-repeat region of Xist is itself believed to be derived from an ancient TE insertion ([@bib12]).",
+            "act": 0.10588821023702621
+        },
+        {
+            "text": "There is evidence of habitation in Thailand that has been dated at 40,000 years before the present.",
+            "act": 0.10466621071100235
+        },
+        {
+            "text": "Life\n\n\u00c6lnoth may have been prior in the Benedictine community founded in Odense as a daughter house of the Abbey at Evesham.",
+            "act": 0.10220835357904434
+        },
+        {
+            "text": "Under general anesthesia, an emergent angiography revealed an extravasation from the sphenopalatine artery.",
+            "act": 0.10177668929100037
+        },
+        {
+            "text": "Various efforts in the prior art have been made to predry air for various purposes.",
+            "act": 0.09902346134185791
+        },
+        {
+            "text": "He switches between prose and poetry in a way Olrik defines as typically Anglo-Saxon.",
+            "act": 0.09818846732378006
+        },
+        {
+            "text": "Early subcultured cells (from passage 2--5) were used in the experiments.",
+            "act": 0.09751320630311966
+        },
+        {
+            "text": "[Citation.",
+            "act": 0.09701473265886307
+        },
+        {
+            "text": "Loss of palpebral, pedal and righting reflexes were recorded and reflexes were subsequently evaluated.",
+            "act": 0.09511066228151321
+        },
+        {
+            "text": "JEC writing of the manuscript.",
+            "act": 0.0913660004734993
+        },
+        {
+            "text": "Verhandelingen der Koninklijke Akad.",
+            "act": 0.09073255211114883
+        },
+        {
+            "text": "Verhandelingen der Koninklijke Akad.",
+            "act": 0.09035298973321915
+        },
+        {
+            "text": "There is a significant variability in the course of the temporal branch of the facial nerve.",
+            "act": 0.08985336869955063
+        },
+        {
+            "text": "[Response of the versus the Charge for 5\u00a0mm 750\u00a0V data.",
+            "act": 0.0897783488035202
+        },
+        {
+            "text": "Si vous vous enregistrez dans le domain public vous pourrez voir votre map.",
+            "act": 0.08972664922475815
+        },
+        {
+            "text": "No external or internal funding was received for the preparation of this manuscript.",
+            "act": 0.08944789320230484
+        },
+        {
+            "text": "Fundus examination showed findings consistent with frosted branch angiitis.",
+            "act": 0.08880949020385742
+        },
+        {
+            "text": "After establishing pneumoperitoneum and introducing trocars, standard diagnostic exploration was performed.",
+            "act": 0.0886661484837532
+        },
+        {
+            "text": "\u2013 Brendan",
+            "act": 0.08786779642105103
+        },
+        {
+            "text": "All lateral branches that grew out subsequently from this main stem were retained.",
+            "act": 0.08707137405872345
+        },
+        {
+            "text": "Si vous vous enregistrez dans le domain priv\u00e9 seulement les utilisateurs connect\u00e9s pourront voir la map.",
+            "act": 0.08685335516929626
+        },
+        {
+            "text": "Ministers recently announced \u00a312.5million for Muslim communities to fund projects which aim to 'undermine extremist ideology'.",
+            "act": 0.08637519180774689
+        },
+        {
+            "text": "The urban centre of Tiban\u00e1 is situated on the Altiplano Cundiboyacense at an altitude of  and a distance of  from the department capital Tunja.",
+            "act": 0.08391789346933365
+        },
+        {
+            "text": "at 760.",
+            "act": 0.08233173936605453
+        },
+        {
+            "text": "Ascites is seen.",
+            "act": 0.08189045637845993
+        },
+        {
+            "text": "Eric Niiler has more.",
+            "act": 0.08037744462490082
+        },
+        {
+            "text": "\"I don't think talking to Barb's gonna be such a good idea.\"",
+            "act": 0.08017224073410034
+        },
+        {
+            "text": "[Design scheme for Bell-state measurement.",
+            "act": 0.0799548402428627
+        },
+        {
+            "text": "An additional consequence of girdling was that the supply of carbon from the large basal branch systems back into the main stem and roots would also have been blocked.",
+            "act": 0.07982980459928513
+        },
+        {
+            "text": "Though, amongst 4 growth stages 60 DAS shown lowest SLA in all treatment groups may be because of lowest leaf area and dry weight.",
+            "act": 0.0796060711145401
+        },
+        {
+            "text": "no extrapolation into the unmeasured kinematical region takes place at this stage.",
+            "act": 0.07888621091842651
+        },
+        {
+            "text": "As a result, *Eperythrozoon ovis* was renamed *Mycoplasma ovis* comb.",
+            "act": 0.07884829491376877
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 295,
+    "label": "Contextually diverse specialized information",
+    "attributes": "Diverse linguistic structures, specialized information, technical terms, political references, academic citations, context-specific knowledge",
+    "reasoning": "Upon examining the samples, a notable distinction is found in their use of contextually diverse linguistic structures. The samples contain a range of specialized information such as technical terms, references to political events, academic citations, and context-specific knowledge. These attributes are consistently found throughout all the samples, differentiating them from the other samples.",
+    "density": 0.006837777176724035,
+    "confidence": 14.0,
+    "high_act_samples": [
+        {
+            "text": "\u2022 If you are addicted to drugs.",
+            "act": 0.18915189802646637
+        },
+        {
+            "text": "It includes tight arms, company seat cushions and complete-size sleeping pad with internal springs.",
+            "act": 0.16960972547531128
+        },
+        {
+            "text": "Also tried to change PNG to png.",
+            "act": 0.16017243266105652
+        },
+        {
+            "text": "Kaunisto KM, Roslin T, S\u00e4\u00e4ksj\u00e4rvi IE, Vesterinen EJ.",
+            "act": 0.15950912237167358
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.15840941667556763
+        },
+        {
+            "text": "After the Soviets retreated, the group splintered across ethnic backgrounds.",
+            "act": 0.1568523645401001
+        },
+        {
+            "text": "Wright is now finished, over, and done with everything Barack.",
+            "act": 0.15611132979393005
+        },
+        {
+            "text": "As to Greenspon v.",
+            "act": 0.15425914525985718
+        },
+        {
+            "text": "Circa 1850 villa.",
+            "act": 0.15230494737625122
+        },
+        {
+            "text": "Alternatively, build a medium-hot charcoal fire, or heat a gas grill to high.",
+            "act": 0.15143147110939026
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.15015332400798798
+        },
+        {
+            "text": "The camp was organized by the youth division of the ruling Norwegian Labour Party.",
+            "act": 0.14989346265792847
+        },
+        {
+            "text": "The storm is burning initial and foremost by market chance.",
+            "act": 0.14598581194877625
+        },
+        {
+            "text": "It connects three key people critical to the conspiracy to subvert the US election, frame an innocent citizen (Trump) and then to destroy an elected POTUS.",
+            "act": 0.145620197057724
+        },
+        {
+            "text": "The Times takes the \u2018official\u2019 line which is \u2018Mamba resigned following certain allegations circulating in the country and internationally\u2019.",
+            "act": 0.14060568809509277
+        },
+        {
+            "text": "A powerful preservative, banned in several countries but still used in the USA.",
+            "act": 0.13985419273376465
+        },
+        {
+            "text": "Fits any kayak.",
+            "act": 0.1390916407108307
+        },
+        {
+            "text": "Begin to head towards water.",
+            "act": 0.13815534114837646
+        },
+        {
+            "text": "It has a 7V sensor, 12V power and ground.",
+            "act": 0.13737480342388153
+        },
+        {
+            "text": "Far left wing nut according to classmates.",
+            "act": 0.13438540697097778
+        },
+        {
+            "text": "Specifically, autonomy support (provided by the teacher) is reported to be positively related to more autonomous motivation towards PA, and in turn, higher levels of self-reported and pedometer assessed daily and leisure time PA engagement amongst youth.",
+            "act": 0.13310816884040833
+        },
+        {
+            "text": "See Ragusa v. Malverne Union Free Sch.",
+            "act": 0.1322568953037262
+        },
+        {
+            "text": "Vi\u0146\u0161 uzskata, ka, samazinot \"\n\"nodok\u013cus, uz\u0146\u0113m\u0113ju aktivit\u0101te palielin\u0101tos un augtu ar\u012b konkur\u0113tsp\u0113ja.\"",
+            "act": 0.12926547229290009
+        },
+        {
+            "text": "Ilari E S\u00e4\u00e4ksj\u00e4rvi: involved in writing the manuscript.",
+            "act": 0.12790381908416748
+        },
+        {
+            "text": "Labour says it will not discuss individual members.",
+            "act": 0.12634673714637756
+        },
+        {
+            "text": "Building features include exercise centre,guest suite,in suite laundry,pool; outdoor,sauna/steam room,storage.",
+            "act": 0.12485136091709137
+        },
+        {
+            "text": "(c) PVP:Pd 9:1, growth at 550 \u00b0C.",
+            "act": 0.1217779815196991
+        },
+        {
+            "text": "Journalist Varol Bulent Aral \u2013 one of the suspected \u201cmiddlemen\u201d who allegedly incited five young men to stab to death Turkish Christians Necati Aydin and Ugur Yuksel and German Christian Tilmann Geske at the Zirve Publishing Co. in Malatya \u2013 was re-arrested at the hearing.",
+            "act": 0.12063920497894287
+        },
+        {
+            "text": "It has a much boarder and efficient framkework to support better DApps development.",
+            "act": 0.1195821613073349
+        },
+        {
+            "text": "(d) PVP:Pd 9:1, growth at 390 \u00b0C.",
+            "act": 0.11957424879074097
+        },
+        {
+            "text": "The segregation unit, A, contains five pods with a maximum capacity of 360.",
+            "act": 0.1173248365521431
+        },
+        {
+            "text": "Read slowly, America.",
+            "act": 0.11663664877414703
+        },
+        {
+            "text": "Each have a very different view on the election of 2016.",
+            "act": 0.11627276241779327
+        },
+        {
+            "text": "Joe Sands\n\nJoe Sands is a dad of six.",
+            "act": 0.11446643620729446
+        },
+        {
+            "text": "Don't like the results of an election?",
+            "act": 0.11397018283605576
+        },
+        {
+            "text": "\u05d6\u05d4 \u05d1\u05d4\u05d7\u05dc\u05d8 \u05d4\u05db\u05e8\u05d7\u05d9 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05e9\u05de\u05d5\u05e6\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4.",
+            "act": 0.11396390199661255
+        },
+        {
+            "text": "Parents at the \u2018historic\u2019 Inverness Royal Academy complained to the school and contacted Police Scotland.",
+            "act": 0.11236989498138428
+        },
+        {
+            "text": "\u2013 Creates an aviation consumer advocate.",
+            "act": 0.11233566701412201
+        },
+        {
+            "text": "Pence is a popular figure among conservatives with the potential to unify a divided Republican party.",
+            "act": 0.11185353994369507
+        },
+        {
+            "text": "The evaluation\nrecommended that Father create a life free of substance abuse and learn to\nproperly parent A.S., including protecting A.S. from Mother's substance\nabuse.",
+            "act": 0.11135362088680267
+        },
+        {
+            "text": "Trup is not a normal politician, a man of the party, a leader of a political group.",
+            "act": 0.11112062633037567
+        },
+        {
+            "text": "In Video: Telangana: 12 Congress MLAs meet assembly Speaker, demand merger with TRS",
+            "act": 0.109621062874794
+        },
+        {
+            "text": "Another Stelios worth mentioning is Stelios Vamvakaris, son of legendary rembetis Markos Vamvakaris, and a talented musician in his own right.",
+            "act": 0.10888713598251343
+        },
+        {
+            "text": "Meanwhile, the establishment\u2013political, academic, media, religious\u2013suppresses any expression of the group interests of the majority.",
+            "act": 0.10820090025663376
+        },
+        {
+            "text": "The rebel is continually struggling to make the society into a community.",
+            "act": 0.10703005641698837
+        },
+        {
+            "text": "The network has incubated the elite of the Islamist-rooted AK party which came to power in Turkey in 2002.",
+            "act": 0.10563995689153671
+        },
+        {
+            "text": "PTI",
+            "act": 0.10482731461524963
+        },
+        {
+            "text": "The allegations of treason revolve around the 2016 election being influenced by the Russians.",
+            "act": 0.10418739169836044
+        },
+        {
+            "text": "\u6700\u8fd1\uff0c\u5f53\u6211\u770b\u5230\u8fd9\u4e2a\u65f6\u662f\u5728\u88d5\u5eca\u574a\u8d70\u8d70\u6d88\u78e8\u70b9\u65f6\u95f4\u3002\u5b83\u8bf4\u201c\u6211\u662f\u4e00\u4e2a\u806a\u660e\u7684\u5783\u573e\u6876\u201d\u3002 \u6709\u4e00\u4e2a\u8bcd\u201c\u5927\u809a\u5b50\u201d\u3002 \u66f4\u591a\u63cf\u8ff0\uff1a\u7d27\u51d1\u591a\u8fbe7\u500d\u7684\u5783\u573e\u3002 \u62ef\u6551\u5730\u7403\u548c\u8282\u7701\u52b3\u52a8\u529b\u3002\u4e5f\u5f88\u806a\u660e\uff0c\u5e76\u4f1a\u5728\u9700\u8981\u6e05\u7406\u7684\u65f6\u5019\u548c\u5730\u70b9\u53d1\u9001\u8b66\u62a5\u3002\u8fd9\u51cf\u5c11\u4e86\u6392\u653e\u5e76\u5e2e\u52a9\u4e86\u5730\u7403\u3002\u662f\u7684\u786e\u633a\u806a\u660e\u7684\u3002\n\nMy Referral Links to recent airdrops | \u6211\u6700\u8fd1\u53c2\u4e0e\u7684\u7a7a\u6295\u8fde\u63a5\n\nI See\ud83d\udc40.",
+            "act": 0.10414312779903412
+        },
+        {
+            "text": "It has a profound negative effect on the majority.",
+            "act": 0.10405747592449188
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

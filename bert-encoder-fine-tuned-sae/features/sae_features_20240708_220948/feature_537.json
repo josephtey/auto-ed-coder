@@ -1,0 +1,412 @@
+{
+    "index": 537,
+    "label": "Objective factual descriptions or data",
+    "attributes": "Describes factual information or events, uses professional or scientific language, contains structured data or findings, lacks informal or personal commentary",
+    "reasoning": "Upon examining the samples, I noticed that every text in the samples describes factual information, events, scientific findings, or structured data points. In contrast, the texts in the samples contain informal language, personal opinions, conversational context, or commentary primarily focused on subjective experiences or narratives rather than objective or verifiable facts.",
+    "density": 0.0003084354729264832,
+    "confidence": 77.0,
+    "high_act_samples": [
+        {
+            "text": "The DFA purported to convey title to the Institutions of Higher Learning, but it could\n\nconvey only such title as it held.",
+            "act": 0.1331479698419571
+        },
+        {
+            "text": "They are evergreen trees, growing to 10\u201320 m tall.",
+            "act": 0.09997126460075378
+        },
+        {
+            "text": "It feeds on fish eggs, benthic invertebrates, and detritus.",
+            "act": 0.08775779604911804
+        },
+        {
+            "text": "In the phylogenetic analysis, each species separated according to their class.",
+            "act": 0.08737362176179886
+        },
+        {
+            "text": "5\u00a0nM) and ATP (final conc.",
+            "act": 0.07882605493068695
+        },
+        {
+            "text": "They are left on the stem after the petals have fallen off.",
+            "act": 0.07573173195123672
+        },
+        {
+            "text": "This species regularly and willingly enters water.",
+            "act": 0.07411164045333862
+        },
+        {
+            "text": "Nestlings were banded 5--8 days after hatching.",
+            "act": 0.07359851151704788
+        },
+        {
+            "text": "In Malaysia, secondary education consists of lower and upper secondary for a period of 3 and 2 years, respectively.",
+            "act": 0.07274816185235977
+        },
+        {
+            "text": "The university firstly granted certificates to its graduates, the education for a degree was then prepared.",
+            "act": 0.05737736448645592
+        },
+        {
+            "text": "Females exhibited lordosis more frequently when they actively approached the male partners than when they were approached and mounted by males.",
+            "act": 0.053315918892621994
+        },
+        {
+            "text": "They are attracted to and thrive in areas cut by the BrushMaster.",
+            "act": 0.05040297284722328
+        },
+        {
+            "text": "Aglycone protopanaxatriol can be obtained by hydrolyzing the saponins.",
+            "act": 0.04824121668934822
+        },
+        {
+            "text": "Contrary to these provisions, the Council of the Republic formally received only the rights of an advisory body\u201d.",
+            "act": 0.04788966849446297
+        },
+        {
+            "text": "Eleven males of the 20 pairs successfully ejaculated.",
+            "act": 0.04765632748603821
+        },
+        {
+            "text": "It feeds on fish, small crustaceans, and mollusks.",
+            "act": 0.047217343002557755
+        },
+        {
+            "text": "The selection will be made according to two criteria:",
+            "act": 0.04645276442170143
+        },
+        {
+            "text": "(Hemitriccus sp.",
+            "act": 0.04536143317818642
+        },
+        {
+            "text": "Its eggs strongly coloured by pigmented proteins almost have no predators.",
+            "act": 0.04187837615609169
+        },
+        {
+            "text": "Haloalkane dehalogenase converts haloalkanes to their corresponding alcohols and halides.",
+            "act": 0.04077965393662453
+        },
+        {
+            "text": "Different mutants influence the early, middle, or late stages of courtship sequence.",
+            "act": 0.040651071816682816
+        },
+        {
+            "text": "Three of the world's top 10 players will also play: Bubba Watson (No.",
+            "act": 0.03982219472527504
+        },
+        {
+            "text": "Furthermore, saponins can also be converted into metabolites in anaerobic environment.",
+            "act": 0.03700285404920578
+        },
+        {
+            "text": "One loss would finish the Broncos\u2019 BCS hopes.",
+            "act": 0.03406449034810066
+        },
+        {
+            "text": "-- Several behavioral mutants affecting courtship have been characterized by behavioral observation and manipulation.",
+            "act": 0.031846627593040466
+        },
+        {
+            "text": "Racemes with dry seed pods were cut and placed in a paper bag per plant.",
+            "act": 0.030393067747354507
+        },
+        {
+            "text": "This indicated that the rate of mating success was higher in the case of female's approach.",
+            "act": 0.030013341456651688
+        },
+        {
+            "text": "Plasma ChE can bind tacrine thereby lowering the amount available to the brain.",
+            "act": 0.029323678463697433
+        },
+        {
+            "text": "4\n\nPrior to the election, the company conferred various benefits upon the employees.",
+            "act": 0.028683330863714218
+        },
+        {
+            "text": "158.5--159.7 \u00b0C (decomp.",
+            "act": 0.02704085409641266
+        },
+        {
+            "text": "Indeed, the distribution of damage between shoots was not random, but resulted from shoot selection by ovipositing females.",
+            "act": 0.02666948363184929
+        },
+        {
+            "text": "Ghana\u2019s higher education system is comprised of polytechnics, universities, university colleges, academies, and tutorial colleges.",
+            "act": 0.02319277822971344
+        },
+        {
+            "text": "The adults are among the most common damselfly species flying in July---August.",
+            "act": 0.022150982171297073
+        },
+        {
+            "text": "Until 1998, the government owned the country's two uranium\nenrichment plants.",
+            "act": 0.01939818263053894
+        },
+        {
+            "text": "All eight were admitted from the former Soviet Union.",
+            "act": 0.017286818474531174
+        },
+        {
+            "text": "Admission to Ghanaian universities is competitive, especially in the fields of medicine, engineering, mining, law, business and pharmacy.",
+            "act": 0.0165821872651577
+        },
+        {
+            "text": "In contrast to among-plant variation, only a handful of studies explored the link between the FA of individual leaves of the same plant individual and their preference by insects and/or performance of insects fed with these leaves.",
+            "act": 0.016376808285713196
+        },
+        {
+            "text": "The composition of the predator community in 2012 predicted the predator community on plants in 2013, and these were largely determined by specialist parasitoids that are strongly connected to specific herbivore hosts.",
+            "act": 0.015804719179868698
+        },
+        {
+            "text": "153.0--154.2 \u00b0C (decomp.",
+            "act": 0.013735231012105942
+        },
+        {
+            "text": "(Sec.",
+            "act": 0.013717610388994217
+        },
+        {
+            "text": "A phagocyte pseudopod coils around the bacterium as the organism is internalized.",
+            "act": 0.01347968727350235
+        },
+        {
+            "text": "North America is home to a plethora of native bees.",
+            "act": 0.012111861258745193
+        },
+        {
+            "text": "The females were then subsequently mated with a male rabbit.",
+            "act": 0.011891413480043411
+        },
+        {
+            "text": "Thus, mainly across\u2010year effects, rather than within\u2010year effects, influenced carnivore community composition and plant fitness.",
+            "act": 0.011208418756723404
+        },
+        {
+            "text": "Chagas disease is caused by the parasite Trypanosoma cruzi, which is transmitted to humans and other animals via blood-sucking insects.",
+            "act": 0.011154070496559143
+        },
+        {
+            "text": "157.8--159.4 \u00b0C (decomp.",
+            "act": 0.010636821389198303
+        },
+        {
+            "text": "In both the cell-free and the neutrophil systems, inactivation of toxin required halides and was abrogated by azide, cyanide, or catalase.",
+            "act": 0.010049920529127121
+        },
+        {
+            "text": "They also find that the disc is somewhat lopsided and has not yet become circular.",
+            "act": 0.009491458535194397
+        },
+        {
+            "text": "In North America, BGA are harvested and sold as food supplements, some of which contain elevated levels of other algal toxins, such as microcystins.",
+            "act": 0.007633432280272245
+        },
+        {
+            "text": "Dhurrin breaks down to form toxic cyanide or Prussic acid when an animal eats the plant.",
+            "act": 0.007360420655459166
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

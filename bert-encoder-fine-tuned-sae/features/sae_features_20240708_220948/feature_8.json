@@ -1,0 +1,412 @@
+{
+    "index": 8,
+    "label": "Factual and formal descriptions",
+    "attributes": "factual statements, formal language, complex sentence structures, specific terms or proper nouns, objective content",
+    "reasoning": "The texts within the samples include factual statements, complex sentence structures, use of specific terms or proper nouns (such as place names, dates, and technical terms). These texts often consist of formal language, descriptions of procedures or events, and include objective content. In contrast, the other samples include informal language, subjective statements, conversational tone, personal opinions, exclamations, and rhetorical questions.",
+    "density": 0.008009831973844672,
+    "confidence": 25.0,
+    "high_act_samples": [
+        {
+            "text": "Capabilities \nThe ship has an opening dock to the rear which allows it to launch up to three landing craft.",
+            "act": 0.23933371901512146
+        },
+        {
+            "text": "Hoarding.",
+            "act": 0.23212331533432007
+        },
+        {
+            "text": "Sets of equipment were kept in reserve at the Base Depot of Medical Stores in Boulogne and was sent up when required.",
+            "act": 0.20528577268123627
+        },
+        {
+            "text": "This was achieved by a small \u2018light section\u2019 of each unit moving forward immediately.",
+            "act": 0.20497751235961914
+        },
+        {
+            "text": "Electric, Inc.",
+            "act": 0.1786617487668991
+        },
+        {
+            "text": "\u2022 Lasts for three turns.",
+            "act": 0.1726328283548355
+        },
+        {
+            "text": "Visitors\u2019 tastes have changed since Undersea Gardens was created.",
+            "act": 0.17089585959911346
+        },
+        {
+            "text": "So vo bhi ek locha hai.",
+            "act": 0.16643472015857697
+        },
+        {
+            "text": "counter-move.",
+            "act": 0.16064630448818207
+        },
+        {
+            "text": "by steering.",
+            "act": 0.15629583597183228
+        },
+        {
+            "text": "The port side of the ship has davits which are able to launch three landing craft, and two fast boats for commandos.",
+            "act": 0.15549537539482117
+        },
+        {
+            "text": "Pa\u00e7os de Ferreira players\nCategory:C.D.",
+            "act": 0.15545061230659485
+        },
+        {
+            "text": "\u201cN\u00f3s j\u00e1 hav\u00edamos constru\u00eddo uma teoria que explica o movimento desse asteroide.",
+            "act": 0.1502358317375183
+        },
+        {
+            "text": "He forced me.",
+            "act": 0.1499435305595398
+        },
+        {
+            "text": "The three sections were further sub-divided into three parts to incorporate the bearer division, the tent division and the transport division.",
+            "act": 0.14808878302574158
+        },
+        {
+            "text": "Ambas, quest\u00f5es emblem\u00e1ticas e sem solu\u00e7\u00e3o, quer dizer que est\u00e3o em aberto no trabalho aqui exposto.",
+            "act": 0.14626508951187134
+        },
+        {
+            "text": "A:\n\nHay varios problemas con este archivo:\n\nUna primer fila que \"rompe\" la estructura\nOtras tres filas que son solo encabezados\nUna columna de fecha que hay que modificar para poder transformarla en una fecha.",
+            "act": 0.1439046710729599
+        },
+        {
+            "text": "As\u00ed que busco la manera de hacer una sentencia diferente con los mismos resultados.",
+            "act": 0.14385882019996643
+        },
+        {
+            "text": "Thus the craft was pulled through the air much after the manner of an aeroplane.",
+            "act": 0.14246979355812073
+        },
+        {
+            "text": "Yaad rahega payaar ka ye, rangeen zamaana yaad rahega.",
+            "act": 0.14158594608306885
+        },
+        {
+            "text": "Sendo que em ambas, h\u00e1 algo de primeiro.",
+            "act": 0.1392306685447693
+        },
+        {
+            "text": "All pedestals were taken while the beam was disabled.",
+            "act": 0.13897065818309784
+        },
+        {
+            "text": "Procedure:\n\n\u201cThe usual procedure in action is that the ambulance is divided into tent and bearer sections, the former of which establish a temporary hospital of fifty beds some five miles behind the firing line.",
+            "act": 0.1384442001581192
+        },
+        {
+            "text": "Design and development\nThe P.148 was an all-metal low-wing cantilever monoplane with fixed tailwheel landing gear.",
+            "act": 0.1379118412733078
+        },
+        {
+            "text": "It feeds on fish, small crustaceans, and mollusks.",
+            "act": 0.13770034909248352
+        },
+        {
+            "text": "16 Am.",
+            "act": 0.13721653819084167
+        },
+        {
+            "text": "Stealing.",
+            "act": 0.13605345785617828
+        },
+        {
+            "text": "N\u00e3o ocorre, portanto, que algu\u00e9m minta interiormente a este respeito e que opine que o mesmo \u00e9 e n\u00e3o \u00e9 simultaneamente.",
+            "act": 0.13506118953227997
+        },
+        {
+            "text": "Mobility became more difficult.",
+            "act": 0.13456979393959045
+        },
+        {
+            "text": "United have 70 points from 29 games with City on 69.",
+            "act": 0.13404597342014313
+        },
+        {
+            "text": "Solar water heating systems use solar panels, called collectors, fitted to your roof.",
+            "act": 0.13274021446704865
+        },
+        {
+            "text": "Tambi\u00e9n concuerdan con una investigaci\u00f3n reciente para Chile que sugiere que los impuestos espec\u00edficos, como el de las bebidas gaseosas, puede diluirse con el tiempo.",
+            "act": 0.13166281580924988
+        },
+        {
+            "text": "\u201cPut off large purchases.",
+            "act": 0.13104836642742157
+        },
+        {
+            "text": "Algo n\u00e3o pode ser concebido pela mente, atrav\u00e9s desta opera\u00e7\u00e3o, a n\u00e3o ser que se intelija o ente.",
+            "act": 0.13060837984085083
+        },
+        {
+            "text": "The latest is \"Ae ajnabi tu bhi kabhi\" (Dil Se).",
+            "act": 0.12912848591804504
+        },
+        {
+            "text": "he says.",
+            "act": 0.1289917528629303
+        },
+        {
+            "text": "Patdeep ka ek gaana hai megha chaye aadhi raat baran ban gayi niniyaa.. trying to hum those together does not give me the feel..",
+            "act": 0.12843984365463257
+        },
+        {
+            "text": "It should be noted that there is nothing to prevent the mobile manoeuvring unit from being fitted such as to rotate and slide, i.e.",
+            "act": 0.12823666632175446
+        },
+        {
+            "text": "So while Mercury whizzes around the sun at an average of 47 kilometres per second, Pluto shuffles along at just a 10th that speed.",
+            "act": 0.12728583812713623
+        },
+        {
+            "text": "One company was posted in Khulna itself, while the others were posted at Kaliganj, Kalaroa and Satkhira.",
+            "act": 0.12714993953704834
+        },
+        {
+            "text": "\"Para superar esses problemas, tivemos que fazer um estudo estat\u00edstico muito pesado, simulando um milh\u00e3o de \u00f3rbitas.",
+            "act": 0.12560445070266724
+        },
+        {
+            "text": "players\nCategory:Moreirense F.C.",
+            "act": 0.12558375298976898
+        },
+        {
+            "text": "Some ginsenosides can be converted to ginsenoside derivatives or sulfate in sulphur-fumigation process through hydrolysis, dehydration, and decarboxylation [22\u201324].",
+            "act": 0.12545403838157654
+        },
+        {
+            "text": "Supongo que esa forma de entretenimiento nunca me ha interesado lo suficiente.",
+            "act": 0.12422338873147964
+        },
+        {
+            "text": "Y no puedo dejar de preguntarme lo mismo.",
+            "act": 0.12338679283857346
+        },
+        {
+            "text": "La otra noche estuve en un bar y una porci\u00f3n de la velada tuvo un show con drag queens.",
+            "act": 0.12315914779901505
+        },
+        {
+            "text": "Omaha had a chance to take control of the match early, but Nebraska won five of the final six points of the set to come from behind and sneak out the set.",
+            "act": 0.12282519787549973
+        },
+        {
+            "text": "throw the handgun over\na wall\u201d that was covered with green foliage.",
+            "act": 0.12233250588178635
+        },
+        {
+            "text": "Para tentar compreender a origem do objeto, fizemos depois simula\u00e7\u00f5es em larga escala, que resultaram no novo artigo\", disse Helena.",
+            "act": 0.12130523473024368
+        },
+        {
+            "text": "Isto \u00e9, querer dizer qualquer coisa, legein ti s\u0113mainein ti, tal \u00e9 a decis\u00e3o que Arist\u00f3teles exige a todos os homens, se for ser um homem.",
+            "act": 0.12125957757234573
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

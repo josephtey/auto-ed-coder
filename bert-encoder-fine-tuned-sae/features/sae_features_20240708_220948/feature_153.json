@@ -1,0 +1,412 @@
+{
+    "index": 153,
+    "label": "Presence of special characters",
+    "attributes": "presence of special characters, distinct formatting such as parentheses, exclamation marks, commas, number sequences",
+    "reasoning": "Upon examining the samples within both sets, one specific attribute that stands out in all the samples is the presence of special characters or distinctive formatting such as '&', 'A)', '(H)', '!', ',', '.', '(', ')', '[number]', and quotes. These special characters appear multiple times and in various formats within the texts, making them a unique marker of these samples.",
+    "density": 0.0002182774116095112,
+    "confidence": 8.0,
+    "high_act_samples": [
+        {
+            "text": "&& eat!",
+            "act": 0.07618652284145355
+        },
+        {
+            "text": "His goals came against Sunderland (A), Bolton (A), Everton (H), Everton (A), Wolves (H), Newcastle (A), Liverpool (H), Wigan (A) and Tottenham (A).",
+            "act": 0.07579901814460754
+        },
+        {
+            "text": "n personal; ten en cuenta que es muy estar siempre bien presentable y a la moda; otro aspecto indispensable es la seguridad, puesto que un hombre t.\n\n-\n\nDuradera maquillaje no es lo mismo que un tatuaje normal, pasando por las clases puede ayudar a asegurarse de que los que ofrecen el proceso de saber exactamente lo que est.",
+            "act": 0.07242083549499512
+        },
+        {
+            "text": "Hay algo en todo esto que dice que la feminidad \u2013y por lo tanto, las mujeres\u2013 son un chiste (tal como cuando personas de raza blanca se disfrazan de \u201cindios\u201d en Halloween convirtiendo a los grupos ind\u00edgenas y sus culturas en un chiste o un disfraz que uno se quita o se pone cuando quiera).",
+            "act": 0.07215391099452972
+        },
+        {
+            "text": "Current squad\n\nHonours\nThe club's honours:\n\nLeague\n 2.",
+            "act": 0.06292184442281723
+        },
+        {
+            "text": "(b)(1) (C)).",
+            "act": 0.05725856125354767
+        },
+        {
+            "text": "The top four wrestlers in each weight class qualified for the state meet scheduled this Friday and Saturday.",
+            "act": 0.055236995220184326
+        },
+        {
+            "text": "\"I'm in your mouth.\"",
+            "act": 0.05377718806266785
+        },
+        {
+            "text": "\"I'm inside you.\"",
+            "act": 0.05352871119976044
+        },
+        {
+            "text": "We use cookies (why?)",
+            "act": 0.045620761811733246
+        },
+        {
+            "text": "News & World Report\n\nTop 50 nationwide for size of library collection.",
+            "act": 0.0442979633808136
+        },
+        {
+            "text": "Para aclarar, no creo que todos los drag queens est\u00e1n trabajando intencionalmente a favor de la subordinaci\u00f3n de las mujeres (pero qui\u00e9n sabe, no le he preguntado a ninguno), tampoco creo que si usted disfruta de drag shows lo convierta autom\u00e1ticamente en una persona mala y mis\u00f3gina.",
+            "act": 0.0423130989074707
+        },
+        {
+            "text": "BarackMyWorld\n\nI can't argue with that.",
+            "act": 0.0411866195499897
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.03873329609632492
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.03873329609632492
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.03737019747495651
+        },
+        {
+            "text": "\"They won't know what hit 'em.\"",
+            "act": 0.037241898477077484
+        },
+        {
+            "text": "\"Ain't nobody want you here.\"",
+            "act": 0.03710906580090523
+        },
+        {
+            "text": "Si ser mujer fuera tan f\u00e1cil como quitarse y ponerse un disfraz\u2026\n\nEl a\u00f1o pasado, un drag queen llamado Daytona Bitch fue expulsado de un evento de orgullo gay en Toronto por pintarse la cara de negro.",
+            "act": 0.034172773361206055
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.033146291971206665
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.03218686580657959
+        },
+        {
+            "text": "\" They'll know.\"",
+            "act": 0.03176208585500717
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.030791429802775383
+        },
+        {
+            "text": "Me imagino que la defensa de estos shows de drag incluyen argumentos diciendo que la imitaci\u00f3n de la feminidad es tan exagerada que no se mofa de las mujeres, sino que se mofa de una versi\u00f3n caricaturesca de feminidad extrema.",
+            "act": 0.029699666425585747
+        },
+        {
+            "text": "\"Kids ain't what they used to be.\"",
+            "act": 0.026201559230685234
+        },
+        {
+            "text": "Races are featured for male and female athletes.",
+            "act": 0.02599266730248928
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.0250807236880064
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.0250807236880064
+        },
+        {
+            "text": "\"They won't know.\"",
+            "act": 0.024376606568694115
+        },
+        {
+            "text": "Hispanic or Latino of any race were 0.37% of the population.",
+            "act": 0.02233239822089672
+        },
+        {
+            "text": "substances that produce .",
+            "act": 0.021535923704504967
+        },
+        {
+            "text": "Eso acaso no prueba que son felices en el enclaustramiento en el que los hemos puesto?\u2019 De la misma manera, los hombres que se visten como mujeres y adoptan comportamientos femeninos estereotipados son graciosos por su comportamiento estereotipado y la audiencia infiere que no son los estereotipos los que son graciosos, sino las mujeres en s\u00ed\u201d.",
+            "act": 0.02117512933909893
+        },
+        {
+            "text": "promotiontoattractnew\nfs data:\nPestCon / Firestone, PestCon.",
+            "act": 0.019296197220683098
+        },
+        {
+            "text": "GTA San Andreas\n\nMoney in GTA San Andreas.",
+            "act": 0.017965564504265785
+        },
+        {
+            "text": "Therapeutic.\"",
+            "act": 0.017845092341303825
+        },
+        {
+            "text": "Los cambios inflacionarios sugieren cambios de comportamiento anticipados por parte de la industria alimenticia y las refresqueras que, sin embargo, tampoco han logrado medirse en este estudio.",
+            "act": 0.016942573711276054
+        },
+        {
+            "text": "Tea time sweets.",
+            "act": 0.016217967495322227
+        },
+        {
+            "text": "Rainmaker 1, 2, & 3 Gallon Dip Tube Hose and Nut Replacement (24/Cs)\n\n$6.99\n\nThe Rainmaker Sprayer replacement Lance Assembly 708905 includes handle, lance and spray tip.",
+            "act": 0.013620419427752495
+        },
+        {
+            "text": "Las autoridades sanitarias que busquen implementar este tipo de impuestos deber\u00edan aprovechar el impacto sobre el precio y la inflaci\u00f3n, sobre todo en los primeros meses de su aplicaci\u00f3n, para fomentar y facilitar el consumo de alternativas saludables como el agua potable, as\u00ed como acompa\u00f1arlo de medidas educativas que modifiquen los h\u00e1bitos de consumo de manera sostenida en el mediano y largo plazo.",
+            "act": 0.01041477732360363
+        },
+        {
+            "text": "these plates respond to body heat.\"",
+            "act": 0.009282296523451805
+        },
+        {
+            "text": "Cause its coming.",
+            "act": 0.009099164977669716
+        },
+        {
+            "text": "AerospaceAerospaceAutomotiveAutomotiveChemicalsChemicalsElectronicsElectronicsFood and beverageFood and beverageMilitaryMilitaryOil and gasOil and gasPetrochemicalsPetrochemicalsTelecommunicationsTelecommunications",
+            "act": 0.008548183366656303
+        },
+        {
+            "text": "Round q to 3 dps.",
+            "act": 0.00596277229487896
+        },
+        {
+            "text": "\"The Kiops are terrified of it and believe they can appease its fury with human sacrifices.\"",
+            "act": 0.004510549828410149
+        },
+        {
+            "text": "Durable.",
+            "act": 0.004386836662888527
+        },
+        {
+            "text": "April 4th at 4PM or Listen Live at LeeBaker.4Mormon.org",
+            "act": 0.0017740114126354456
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

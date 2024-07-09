@@ -1,0 +1,412 @@
+{
+    "index": 30,
+    "label": "Violence or technical/formal content",
+    "attributes": "mentions of physical combat, mentions of violent actions, violent scenarios, technical language about biology, legal issues, detailed descriptions of physical attributes",
+    "reasoning": "After analyzing the texts, one can observe that every text within the specified samples includes either explicit mentions of physical combat, aggressive actions, or violent scenarios, or contains formal or technical language about biology, legal issues, and detailed descriptions of physical attributes. These scenarios, technical and formal terms are not found in the other set of samples, which instead mostly involves informal language, opinions, discussions, and casual information. Therefore, the most specific distinguishing attribute is the presence of either violence-related content or technical/formal descriptions.",
+    "density": 0.003914757925605364,
+    "confidence": 16.0,
+    "high_act_samples": [
+        {
+            "text": "Midwest Sec.",
+            "act": 0.2798355519771576
+        },
+        {
+            "text": "\"Please, get out, get out, please get out!\"",
+            "act": 0.22403839230537415
+        },
+        {
+            "text": "The fruit is a dry five-valved capsule, with 1-4 seeds in each section.",
+            "act": 0.2126089632511139
+        },
+        {
+            "text": "Both are reloadable, Boxer-primed ammunition.",
+            "act": 0.19868898391723633
+        },
+        {
+            "text": "\u2013 Reuters",
+            "act": 0.18621698021888733
+        },
+        {
+            "text": "DRINK, DRINK, DRINK!",
+            "act": 0.182602196931839
+        },
+        {
+            "text": "Si vous ne connaissez pas encore votre signe chinois, d\u00e9couvrez comment calculer son signe du zodiaque chinois.",
+            "act": 0.17392626404762268
+        },
+        {
+            "text": "The alkenyl group may be monounsaturated or polyunsaturated.",
+            "act": 0.17381222546100616
+        },
+        {
+            "text": "\"I'll kill you, stop!\"",
+            "act": 0.168972447514534
+        },
+        {
+            "text": "\"You're going to die!\"",
+            "act": 0.1644277274608612
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.1633804589509964
+        },
+        {
+            "text": "She fell to the ground.",
+            "act": 0.15902841091156006
+        },
+        {
+            "text": "Luke punched\nMatthew several times in the face and then one powerful time in the\nstomach leaving him hunched over and bloody.",
+            "act": 0.15462759137153625
+        },
+        {
+            "text": "The explosion killed eight people, wounded many others and caused severe damage to buildings in the area.",
+            "act": 0.15366661548614502
+        },
+        {
+            "text": "Please, help.",
+            "act": 0.15174846351146698
+        },
+        {
+            "text": "SLOWLY!",
+            "act": 0.14316394925117493
+        },
+        {
+            "text": "\"No, no, no!\"",
+            "act": 0.1400543451309204
+        },
+        {
+            "text": "\" No, no, no!\"",
+            "act": 0.1400543451309204
+        },
+        {
+            "text": "The segregation unit, A, contains five pods with a maximum capacity of 360.",
+            "act": 0.13545352220535278
+        },
+        {
+            "text": "\"FASTER!\"",
+            "act": 0.13480998575687408
+        },
+        {
+            "text": "N\u00e9anmoins, la l\u00e9gende raconte qu'un jour, l'empereur de jade s'ennuyait, n'ayant rien \u00e0 faire au paradis.",
+            "act": 0.13100914657115936
+        },
+        {
+            "text": "Williams also apologized to the families of the victims.",
+            "act": 0.1309245377779007
+        },
+        {
+            "text": "\" Help!\"",
+            "act": 0.12699641287326813
+        },
+        {
+            "text": "is available.",
+            "act": 0.12461154162883759
+        },
+        {
+            "text": "The buds or seeds can be pickled and used as an alternative to capers.",
+            "act": 0.12254680693149567
+        },
+        {
+            "text": "(UNI)",
+            "act": 0.12038367986679077
+        },
+        {
+            "text": "(Turner, supra, at p.",
+            "act": 0.12019708007574081
+        },
+        {
+            "text": "The flowers are large and conspicuous, 4\u201315\u00a0cm diameter, with 5 (occasionally 6-8) white petals; flowering is in late winter or early spring.",
+            "act": 0.11990714818239212
+        },
+        {
+            "text": "Bundesliga S\u00fcd.",
+            "act": 0.11929206550121307
+        },
+        {
+            "text": "The Temple Times also reports that the university has refused its multiple requests for comment.",
+            "act": 0.11741533875465393
+        },
+        {
+            "text": "As she fell to the floor, Lowdins fired two more shots at her and then spoke, asking where somebody else was.",
+            "act": 0.11669068038463593
+        },
+        {
+            "text": "The five hostages in the other helicopter were all shot to death by another terrorist.",
+            "act": 0.11591331660747528
+        },
+        {
+            "text": "Each of the 32 teams will play four preliminary games, with the top eight teams seeded into a tournament to determine the champion.",
+            "act": 0.11579769104719162
+        },
+        {
+            "text": "The height of each of the teeth may range from about 0.5 mm to about 15 mm.",
+            "act": 0.11505866050720215
+        },
+        {
+            "text": "A post-mortem examination has confirmed he died from the wound to his chest.",
+            "act": 0.11285969614982605
+        },
+        {
+            "text": "The driver was then shot by officers who hovered above the scene in a helicopter.",
+            "act": 0.11227482557296753
+        },
+        {
+            "text": "Alternatively, the height of each of the teeth may range from about 0.5 mm to about 10 mm.",
+            "act": 0.11057815700769424
+        },
+        {
+            "text": "At least one of the teeth comprises a base having an oblong cross-section.",
+            "act": 0.1078474149107933
+        },
+        {
+            "text": "The blast came from within tearing the ship outwards with a bright ball of flame.",
+            "act": 0.10729397088289261
+        },
+        {
+            "text": "Jason Kubler 4\u20136, 7\u20135, 7\u20136(7\u20133)\n\nWomen's Singles\n\n Misaki Doi def.",
+            "act": 0.10684709250926971
+        },
+        {
+            "text": "[Prey use at the family level.",
+            "act": 0.1064072996377945
+        },
+        {
+            "text": "L'homme devra d\u00e9sormais faire face \u00e0 la justice pour relations sexuelles avec un animal ainsi que possession de cannabis.",
+            "act": 0.1018299013376236
+        },
+        {
+            "text": "Police say one of the occupants died on scene while the other was airlifted to hospital where he was pronounced dead.",
+            "act": 0.10168149322271347
+        },
+        {
+            "text": "In one possible embodiment, the oblong cross-section may have a substantially rectangular shape.",
+            "act": 0.09887082129716873
+        },
+        {
+            "text": "An Associated Press reporter at the scene reported one man was stabbed and thrown from the roof of a building by Morsi supporters.",
+            "act": 0.09780708700418472
+        },
+        {
+            "text": "Matthew aimed it directly at\nLuke's heart.",
+            "act": 0.09633920341730118
+        },
+        {
+            "text": "U.S. intelligence agencies have concluded that Putin ordered the disruption of the vote.",
+            "act": 0.09627624601125717
+        },
+        {
+            "text": "The male parent, \u2018Sunny Amanda\u2019, has a pale-yellow flower color with terracotta-brown at the flower petal apices, medium flower size and brown disc florets.",
+            "act": 0.09457696974277496
+        },
+        {
+            "text": "(Wheeler, supra, at p.",
+            "act": 0.094185471534729
+        },
+        {
+            "text": "The reaction mechanism involves the formation of a covalent alkyl-enzyme complex which is hydrolyzed by water.",
+            "act": 0.09417630732059479
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

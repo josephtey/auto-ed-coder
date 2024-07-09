@@ -1,0 +1,412 @@
+{
+    "index": 578,
+    "label": "Informative and structured texts",
+    "attributes": "factual information, specific details, structured format, objective tone, geographic locations mentioned, technical specifications included, historical references",
+    "reasoning": "Upon examining the provided samples, there is a clear difference in the nature and structure of the texts. The samples contain factual information, sometimes in the form of definitions, explanations, or anecdotes about places, people, events, or objects. These texts are often structured with detailed and specific information, sometimes mentioning geographic locations, historical contexts, or technical specifications. On the other hand, the samples involve more subjective, conversational, and argumentative text, often discussing opinions, theories, or events in a more informal tone and structure.",
+    "density": 0.002552896683606892,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "Theater der Schatten\n\nTheater der Schatten is a theatre in Bavaria, Germany.",
+            "act": 0.2841551899909973
+        },
+        {
+            "text": "Finkenbach (Lutter)\n\nFinkenbach is a small river of North Rhine-Westphalia, Germany.",
+            "act": 0.2555166780948639
+        },
+        {
+            "text": "It is a left tributary of the Lutter.",
+            "act": 0.20358949899673462
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////////\n\nThe tourist industry brought in $3.7 billion in 2013 accounting for 3.7% of the GDP.",
+            "act": 0.1755157709121704
+        },
+        {
+            "text": "These include traditional herbal compounds, called Medhya Rasayanas, that provide powerful nourishment for the mind.",
+            "act": 0.16166828572750092
+        },
+        {
+            "text": "Angelika Braun, \"VOT im 19.",
+            "act": 0.1497599184513092
+        },
+        {
+            "text": "Schmitz.\"",
+            "act": 0.14830800890922546
+        },
+        {
+            "text": "Imbestigador\n\nImbestigador () is a Philippine television investigative docudrama show broadcast by GMA Network.",
+            "act": 0.14340533316135406
+        },
+        {
+            "text": "Production\nMonkey Business was produced by Meridian Broadcasting and ran for nine seasons on both ITV Meridian and Animal Planet.",
+            "act": 0.14194464683532715
+        },
+        {
+            "text": "Gertz, M.\u00a0C. (ed).",
+            "act": 0.1368797868490219
+        },
+        {
+            "text": "The bushland is home to many species of Australian fauna including eastern grey kangaroos, bandicoots, goannas, possums and koalas.",
+            "act": 0.13596901297569275
+        },
+        {
+            "text": "- English Pale Ale\n\nMade with floor malted Maris Otter and British crystal malt, this traditional English bitter gets its well balanced hop flavor from a late addition of imported Fuggle hops.",
+            "act": 0.1330106556415558
+        },
+        {
+            "text": "TRIBE Media produces the 150,000-reader print weekly Jewish Journal in Los Angeles \u2013 the largest Jewish print\nweekly in the West \u2013 and the monthly glossy Tribe magazine (TribeJournal.com).",
+            "act": 0.1318429410457611
+        },
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.12593287229537964
+        },
+        {
+            "text": "She attended tonic sol-fa classes on Sundays in the Capel Paradwys, Llanallgo, where she practiced singing.",
+            "act": 0.11985993385314941
+        },
+        {
+            "text": "\"Well, be off with you,\" said the troll.",
+            "act": 0.11682578921318054
+        },
+        {
+            "text": "Tom Okker and Marty Riessen won the men's doubles title at the 1973 Queen's Club Championships tennis tournament, defeating Ray Keldie and Raymond Moore 6\u20134, 7\u20135 in the final.",
+            "act": 0.11658404022455215
+        },
+        {
+            "text": "Brace yourself for stunning new Units, dungeons, and rewards -- including 5 Gems and 1 Summon Ticket!",
+            "act": 0.1082751676440239
+        },
+        {
+            "text": "Andhra Pradesh has 13 districts: Anantapur, Chittoor, Kadapa, East Godavari, Guntur, Krishna, Kurnool, Sri Potti Sreeramulu Nellore, Prakasam, Srikakulam, Visakhapatnam, Vizianagaram and West Godavari.",
+            "act": 0.10672516375780106
+        },
+        {
+            "text": "_______________ .",
+            "act": 0.10585322976112366
+        },
+        {
+            "text": "FREGE, Gottlob.",
+            "act": 0.10520528256893158
+        },
+        {
+            "text": "\u2018Many recipes are still traditional fare in the small villages where they originated.",
+            "act": 0.10413523763418198
+        },
+        {
+            "text": "\" Go away, boy.\"",
+            "act": 0.10372088849544525
+        },
+        {
+            "text": "Nucleic acid binding factors bind to specific sequences present on the nucleic acid molecules they regulate, called cis acting nucleic acid elements.",
+            "act": 0.10029175877571106
+        },
+        {
+            "text": "in ein Register, ge\u00e4ndert werden.",
+            "act": 0.09767930209636688
+        },
+        {
+            "text": "tiene el valor de \" .",
+            "act": 0.09638497233390808
+        },
+        {
+            "text": "///////////////////////////////////////////////////////////////////////////////\n//  Copyright Christopher Kormanyos 2007 - 2020.",
+            "act": 0.09584476798772812
+        },
+        {
+            "text": "\"Don't be afraid!\"",
+            "act": 0.09496522694826126
+        },
+        {
+            "text": "Other Aboriginal peoples have comparable knowledge systems known by different names, such as the Kija's Ngarrankarni.",
+            "act": 0.09293151646852493
+        },
+        {
+            "text": "She has published a best selling cookbook in Hebrew for Pesach and the gluten sensitive.",
+            "act": 0.09254283457994461
+        },
+        {
+            "text": "Falls du uns dennoch mit einem kleinen Betrag unterst\u00fctzen willst, dann tu das doch hier.",
+            "act": 0.09206673502922058
+        },
+        {
+            "text": "Oktober 2014\n\n.",
+            "act": 0.09171604365110397
+        },
+        {
+            "text": "As such they had a unique exposure to the prevalent traditions of \"Gurbani Kirtan\"in the \"Guru Darbars\".",
+            "act": 0.09077245742082596
+        },
+        {
+            "text": "Walter, A.; Rehage, H.; Leonhard, H. [*Colloid Polym.",
+            "act": 0.08842555433511734
+        },
+        {
+            "text": "It is therefore especially recommended for vinification of the following grape varieties: Sauvignon blanc, Chenin blanc and Colombard.\u201d\n\nVIN 7 Specifics:\n\nTemperature range: 13-16\u00b0C (55-61\u00b0F)\n\nKiller: sensitive\n\nGlycerol production: 5 \u2013 7 g/l (medium range)",
+            "act": 0.0846162661910057
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.08447643369436264
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.08447643369436264
+        },
+        {
+            "text": "These practices include silent illumination and huatou practice.",
+            "act": 0.08281373232603073
+        },
+        {
+            "text": "Live The Life!",
+            "act": 0.08272269368171692
+        },
+        {
+            "text": "\"PRESTON:\" \"Aye.\"",
+            "act": 0.08263254910707474
+        },
+        {
+            "text": "The regulation of branching in white clover (*Trifolium repens* L.), a perennial nodally rooting prostrate-stemmed herb, differs from that of the annual erect-stemmed species of *Arabidopsis thaliana*, *Pisum sativum*, and *Petunia hybrida* in which apical dominance plays a major role.",
+            "act": 0.08206934481859207
+        },
+        {
+            "text": "Cast your vote in head-to-head match ups between titles, and the top vote-getters will move on to the next round.",
+            "act": 0.08202403038740158
+        },
+        {
+            "text": "Furthermore, if a player collects letter bubbles to form extend, a bonus life is earned and both players immediately advance to the next level.",
+            "act": 0.08193963021039963
+        },
+        {
+            "text": "Dry hopped in the cask with whole leaf Fuggle hops, and featuring generous boil additions of both East Kent Goldings and Fuggles, this IPA has a more earthy character than its stateside descendants.",
+            "act": 0.08072217553853989
+        },
+        {
+            "text": "The farmers then plant corn and other food crops during the rattoon.",
+            "act": 0.07997658848762512
+        },
+        {
+            "text": "Muslimantra is a highly effective natural herbal combination of 9 purest herbs, offering ultra-vitality for men to give the best performance.",
+            "act": 0.07907332479953766
+        },
+        {
+            "text": "Just So You Know...",
+            "act": 0.07877073436975479
+        },
+        {
+            "text": "In Fox v.",
+            "act": 0.07849650084972382
+        },
+        {
+            "text": "Robin MacNofsky, a precinct committee officer in the 31st Legislative District, said, \"Please, oh please, as Democrats, let's not attack each other.\"",
+            "act": 0.07831183820962906
+        },
+        {
+            "text": "2017 - Kareem Khubchandani, \u201cSnakes on the Dance Floor: Bollywood, Gesture, and Gender,\u201d The Velvet Light Trap 77 (2016), pp.",
+            "act": 0.07767561823129654
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

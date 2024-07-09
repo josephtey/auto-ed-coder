@@ -1,0 +1,412 @@
+{
+    "index": 575,
+    "label": "Technical and academic content",
+    "attributes": "formal language, structured sentences, references to figures or tables, organized information",
+    "reasoning": "The samples contain formal, structured sentences and often refer to specific figures, diagrams, or contain organized information suitable for academic, technical, or formal professional contexts. The samples lack informal language, emotive expressions, and conversational tone found in the other samples.",
+    "density": 0.0035209095524838547,
+    "confidence": 63.0,
+    "high_act_samples": [
+        {
+            "text": "The fruit is a dry five-valved capsule, with 1-4 seeds in each section.",
+            "act": 0.24523517489433289
+        },
+        {
+            "text": "As shown in FIGS.",
+            "act": 0.21698670089244843
+        },
+        {
+            "text": "staff members are cooperative .",
+            "act": 0.2020585685968399
+        },
+        {
+            "text": "As shown in FIGS.",
+            "act": 0.20205464959144592
+        },
+        {
+            "text": "As shown in FIGS.",
+            "act": 0.20205464959144592
+        },
+        {
+            "text": "Joan Brembs, Dana Tamminga, Kay Custer, Ruth Crane and Peggy\nDePaola were appointed to the Community Services\nCommittee.",
+            "act": 0.1655626744031906
+        },
+        {
+            "text": "See Fig.",
+            "act": 0.16308479011058807
+        },
+        {
+            "text": "Gilberto's recording had arrangements by Jobim and the participation of Milton Banana, among other artists.",
+            "act": 0.16045527160167694
+        },
+        {
+            "text": "All leagues from the Bezirksligas onwards were elevated one tier.",
+            "act": 0.16041399538516998
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.15976658463478088
+        },
+        {
+            "text": "This is shown in Fig.",
+            "act": 0.15975280106067657
+        },
+        {
+            "text": "While studio chief at MGM, he presided over such hits as \"Network,\" \"The Goodbye Girl\" and \"The Sunshine Boys,\" and he served as exec producer of \"That's Entertainment,\" one of the major hits of the Lion's later era.",
+            "act": 0.15780258178710938
+        },
+        {
+            "text": "Junior Secondary/High School lasts three years, as does Senior Secondary School.",
+            "act": 0.13776983320713043
+        },
+        {
+            "text": "With reference to FIG.",
+            "act": 0.13264302909374237
+        },
+        {
+            "text": "With reference to FIG.",
+            "act": 0.1324920505285263
+        },
+        {
+            "text": "Below are the 2 classes and the test.",
+            "act": 0.13207747042179108
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.13149894773960114
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.13123637437820435
+        },
+        {
+            "text": "With reference to FIG.",
+            "act": 0.13118882477283478
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.13077720999717712
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.13025584816932678
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.13017955422401428
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.12958204746246338
+        },
+        {
+            "text": "With reference to FIG.",
+            "act": 0.12940096855163574
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.12927721440792084
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.12845450639724731
+        },
+        {
+            "text": "RAC Mitchell had supervisory responsibility over Mr. Kahn and all other members of the Beaufort Office.",
+            "act": 0.12803833186626434
+        },
+        {
+            "text": "Molly loved her camp group and swimming.",
+            "act": 0.12746074795722961
+        },
+        {
+            "text": "The remainder of the article is organized as follows.",
+            "act": 0.12741324305534363
+        },
+        {
+            "text": "An overview of the signal path is shown in Fig.",
+            "act": 0.12675823271274567
+        },
+        {
+            "text": "As shown in Fig.",
+            "act": 0.12528814375400543
+        },
+        {
+            "text": "A weekend day and a weekday afternoon comprised the period between 7\u00a0am - 9\u00a0pm and 1--9\u00a0pm, respectively.",
+            "act": 0.12285585701465607
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.12138515710830688
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.12138515710830688
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.12055743485689163
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.12055743485689163
+        },
+        {
+            "text": "A weekend day and a weekday afternoon comprised the period between 7\u00a0am - 9\u00a0pm and 1--9\u00a0pm, respectively.",
+            "act": 0.12019140273332596
+        },
+        {
+            "text": "Canceling a third of the current season would wipe out the gain of winning the extra 2.5 percent of BRI over the life of the new collective bargaining agreement.",
+            "act": 0.12001551687717438
+        },
+        {
+            "text": "This is indicated in Fig.",
+            "act": 0.11916002631187439
+        },
+        {
+            "text": "An increased emphasis on physical education prompted an expansion of the gymnasium and improvements to the sports field northeast of the school.",
+            "act": 0.11760201305150986
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.11313998699188232
+        },
+        {
+            "text": "For Fig.",
+            "act": 0.11279980838298798
+        },
+        {
+            "text": "As shown in FIG.",
+            "act": 0.11151638627052307
+        },
+        {
+            "text": "Youth Court\n\nThe Youth Court has three separate administrative branches.",
+            "act": 0.10568569600582123
+        },
+        {
+            "text": "As head of the CDF Ratzinger had responsibility for overseeing the handling of all sexual abuse reports in the church.",
+            "act": 0.1046689823269844
+        },
+        {
+            "text": "With the establishment of the Regionalliga Bayern as the new fourth tier in Bavaria in 2012 the Bayernliga was split into a northern and a southern division, the number of Landesligas expanded from three to five and the Bezirksoberligas abolished.",
+            "act": 0.10301265120506287
+        },
+        {
+            "text": "This one must\u2019ve eaten an entire hive of bees.",
+            "act": 0.10240642726421356
+        },
+        {
+            "text": "Personnel:\n\nThe personnel of each ADS were 3 officers and 53 ordinary ranks.",
+            "act": 0.09973791241645813
+        },
+        {
+            "text": "Both herbivores and carnivores (predators plus parasitoids) were recorded.",
+            "act": 0.09893143177032471
+        },
+        {
+            "text": "Specialist labs and equipment are supported by Faculty Technicians.",
+            "act": 0.0984853208065033
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

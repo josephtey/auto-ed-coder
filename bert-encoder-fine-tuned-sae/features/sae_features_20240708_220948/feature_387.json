@@ -1,0 +1,412 @@
+{
+    "index": 387,
+    "label": "Examples with formal language and structure",
+    "attributes": "structured text, formal language, identifiable characters, proper nouns, direct speech, references to official documents, quotations",
+    "reasoning": "The samples contain more examples of structured text, formal language, identifiable characters or speakers, proper nouns, direct speech or quotations, and references to official documents or laws. The other samples contain more informal language, discussion-based content, and less structured or fragmented text.",
+    "density": 0.0003416516007801045,
+    "confidence": 50.0,
+    "high_act_samples": [
+        {
+            "text": "Apr.",
+            "act": 0.11861130595207214
+        },
+        {
+            "text": "Apr.",
+            "act": 0.10829563438892365
+        },
+        {
+            "text": "She said in court last month that the police had forced her to change her story and that she was \u2018scared for my life\u2019.",
+            "act": 0.10134046524763107
+        },
+        {
+            "text": "Br.",
+            "act": 0.09861148148775101
+        },
+        {
+            "text": "Br.",
+            "act": 0.09861148148775101
+        },
+        {
+            "text": "We have office staff that are available to assist members whenever they can.",
+            "act": 0.09578189253807068
+        },
+        {
+            "text": "Mar.",
+            "act": 0.08970600366592407
+        },
+        {
+            "text": "Mar.",
+            "act": 0.08905834704637527
+        },
+        {
+            "text": "Mar.",
+            "act": 0.08717305958271027
+        },
+        {
+            "text": "Mar.",
+            "act": 0.08717305958271027
+        },
+        {
+            "text": "She told me she has treated many women who have survived 10 years and are still doing fine.",
+            "act": 0.08302018791437149
+        },
+        {
+            "text": "Br.",
+            "act": 0.0823652520775795
+        },
+        {
+            "text": "%).",
+            "act": 0.07994142919778824
+        },
+        {
+            "text": "You need to fill in your bank information and a creditcard is not necessary.",
+            "act": 0.07698586583137512
+        },
+        {
+            "text": "\"*\" \"*\" \"*\" \"*\" \"They never seem to stop texting.\"",
+            "act": 0.06354977935552597
+        },
+        {
+            "text": "The blue (short-dashed) line is the 90% C.L.",
+            "act": 0.06123930215835571
+        },
+        {
+            "text": "\"*\" \"Mr.",
+            "act": 0.06031124293804169
+        },
+        {
+            "text": "\"Sandra.",
+            "act": 0.05644591152667999
+        },
+        {
+            "text": "\"Sandra.",
+            "act": 0.04812527447938919
+        },
+        {
+            "text": "Storyboard Description\n\nStoryboard Text\n\n\"She kept writing in her book .",
+            "act": 0.040333740413188934
+        },
+        {
+            "text": "So it was interesting to read how you handled it \u2013 I had a similar situation when I went away for 3 days a while ago.",
+            "act": 0.038759857416152954
+        },
+        {
+            "text": "This beautiful woodcreeper was seen a few times foraging with that flock for several minutes.",
+            "act": 0.037550635635852814
+        },
+        {
+            "text": "PENAL CODE ANN.",
+            "act": 0.03677754104137421
+        },
+        {
+            "text": "Penal Code Ann.",
+            "act": 0.034510537981987
+        },
+        {
+            "text": "Penal Code Ann.",
+            "act": 0.03431759029626846
+        },
+        {
+            "text": "This instrument is having some difficulty.",
+            "act": 0.03221137821674347
+        },
+        {
+            "text": "\u201cSome have separated from the military or have decided to return to Colorado after a deployment.",
+            "act": 0.03075714036822319
+        },
+        {
+            "text": "Penal Code Ann.",
+            "act": 0.02879241108894348
+        },
+        {
+            "text": "I imagine leaving Benin and becoming what they call a \u201creturned\u201d peace corps volunteer.",
+            "act": 0.026298418641090393
+        },
+        {
+            "text": "We recognize that others, such as Christine Santos have been served as well, and we are also in full support of her defense.",
+            "act": 0.026100173592567444
+        },
+        {
+            "text": "\"Lee.",
+            "act": 0.023764684796333313
+        },
+        {
+            "text": "is available.",
+            "act": 0.021713264286518097
+        },
+        {
+            "text": "map (oneAttr .",
+            "act": 0.021680369973182678
+        },
+        {
+            "text": "\"I feel a sense of hope that I haven't had in a very long time.",
+            "act": 0.021635599434375763
+        },
+        {
+            "text": "Hitchens: \"Oh?",
+            "act": 0.021526485681533813
+        },
+        {
+            "text": "I hope am able to clearly state my question.",
+            "act": 0.01989385485649109
+        },
+        {
+            "text": "I imagined how happy I had just made someone whenever I completed the 3 decades of prayer.",
+            "act": 0.01927788183093071
+        },
+        {
+            "text": "I am a client of your from one year and I am so glad about my decision.",
+            "act": 0.019150257110595703
+        },
+        {
+            "text": "But Marianne laid out the reasons that she had felt abandoned and betrayed by him.",
+            "act": 0.01825907453894615
+        },
+        {
+            "text": "\"*\" \"Okay.\"",
+            "act": 0.016992874443531036
+        },
+        {
+            "text": "But his daughter said that having spent years living in fear that no one would believe her she had finally decided to break her silence.",
+            "act": 0.016707301139831543
+        },
+        {
+            "text": "\"Lee.",
+            "act": 0.014666572213172913
+        },
+        {
+            "text": "\"Lee.",
+            "act": 0.014666572213172913
+        },
+        {
+            "text": "I deserved to get shot,\u201d she said about law enforcement shooting her in the leg before she was arrested.",
+            "act": 0.013067975640296936
+        },
+        {
+            "text": "The husband has been in Germany for almost 2 years now, and the wife just finished a year in Kuwait and has been stationed in Georgia.",
+            "act": 0.012850649654865265
+        },
+        {
+            "text": "***\n\n\"Anytime Fenris.",
+            "act": 0.010729581117630005
+        },
+        {
+            "text": "I am very thankful to you as well as your staff.",
+            "act": 0.010552763938903809
+        },
+        {
+            "text": "Appearance\n\nA clear (though not crystal) golden/light orange that is lighter than the pictures suggest.",
+            "act": 0.010361354798078537
+        },
+        {
+            "text": "Jerri\n\nJesus Christ.",
+            "act": 0.010033220052719116
+        },
+        {
+            "text": "\"Lee.",
+            "act": 0.009939715266227722
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

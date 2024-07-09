@@ -1,0 +1,412 @@
+{
+    "index": 534,
+    "label": "Formal and structured content",
+    "attributes": "structured content, proper nouns, dates, lists, descriptions, author names, formal report formats, proper grammar, complete sentences, detailed information, high formality",
+    "reasoning": "Upon analyzing the samples, it is clear that the listed texts in the samples contain mostly structured and informative content, with some including proper nouns, dates, lists, descriptions, author names, and formal report formats. These texts are characterized by proper grammar, complete sentences, detailed information, and high formality. In comparison, the other samples are casual, conversational, and often fragmented or consist of colloquial expressions, lacking the structural and formal elements.",
+    "density": 0.000773461262877181,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "He was married to Carmen Person.",
+            "act": 0.1514277458190918
+        },
+        {
+            "text": "The film stars Chang Yi and Wong Chung Shun.",
+            "act": 0.11683598160743713
+        },
+        {
+            "text": "And once we get Von and Champ back...",
+            "act": 0.08439098298549652
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07989279925823212
+        },
+        {
+            "text": "It is going to another Blockbuster for Salman Khan.",
+            "act": 0.07839177548885345
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07797383517026901
+        },
+        {
+            "text": "\ufeff// ============================================================================\n// FileName: SIPEvent.cs\n//\n// Description: \n//\n// Author(s):\n// Aaron Clauson\n//\n// History:\n// ?",
+            "act": 0.07700061053037643
+        },
+        {
+            "text": "They later separated.",
+            "act": 0.0769980326294899
+        },
+        {
+            "text": "And once we get Von and Champ back...",
+            "act": 0.07115757465362549
+        },
+        {
+            "text": "And once we get Von and Champ back...",
+            "act": 0.07115757465362549
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06911611557006836
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06911611557006836
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06732857972383499
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06719601154327393
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06631486117839813
+        },
+        {
+            "text": "T\u00e1mogasd te is a f\u00fcggetlen \u00fajs\u00e1g\u00edr\u00e1st, hogy ebben a neh\u00e9z helyzetben is tov\u00e1bb dolgozhassunk!",
+            "act": 0.06582459062337875
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06414651870727539
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06387266516685486
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06377866119146347
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06377866119146347
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06331409513950348
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06331409513950348
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06312781572341919
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06295540183782578
+        },
+        {
+            "text": "Contents\n\nJack McKee and Cecil Colson are a couple of young, restless rustlers.",
+            "act": 0.06280960142612457
+        },
+        {
+            "text": "\"Thank you Massa Allen for pickin\u2019 whose we should honuh suh.",
+            "act": 0.062435273081064224
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06073257699608803
+        },
+        {
+            "text": "Competing Interests {#FPar1}\n===================\n\nThe authors declare that they have no competing interests.",
+            "act": 0.05720173940062523
+        },
+        {
+            "text": "They would have to score huge to make a deal.",
+            "act": 0.056644637137651443
+        },
+        {
+            "text": "Their father was murdered by Wong Tung Shung.",
+            "act": 0.05650445073843002
+        },
+        {
+            "text": "The group has gotten too large for the usual back yard picnic.",
+            "act": 0.05642668157815933
+        },
+        {
+            "text": "Richard Findlay is a farmer in the North York Moors National Park between York and Newcastle.",
+            "act": 0.05590135231614113
+        },
+        {
+            "text": "Competing Interests {#FPar1}\n===================\n\nThe authors declare no competing interests.",
+            "act": 0.05558454617857933
+        },
+        {
+            "text": "During their quest up from the south, they passed many miles of pi\u00f1on and Chico bush.",
+            "act": 0.0545564740896225
+        },
+        {
+            "text": "by\n\nTomorrow the National Hockey Leagues version of Christmas will take place.",
+            "act": 0.05185222253203392
+        },
+        {
+            "text": "** V pr\u016fb\u011bhu v\u00fdm\u011bny disku dojde k chvilkov\u00e9 nedostupnosti Va\u0161\u00ed slu\u017eby.",
+            "act": 0.05107247829437256
+        },
+        {
+            "text": "A-repeat from Xist (85 nt): GGAACTCGTTCCTTCTCCTTAGCCCATCGGGGCCATGGATACCTGCTTTTAACCTTTCTCGGTCCATCGGGACCTCGGATACCTG\n\n2.",
+            "act": 0.0505710132420063
+        },
+        {
+            "text": "Benjamin Wittes\n\nRobert Chesney\n\nMatthew Waxman\n\nDavid Rivkin\n\nLee Casey\n\nPhilip Bobbitt\n\nPeter Keisler\n\nBradford Berenson\n\nKenneth Anderson\n\nJohn Bellinger III\n\nPhilip Zelikow\n\nKenneth W. Starr\n\nLarry Thompson\n\nCharles \"Cully\" D. Stimson\n\nChuck Rosenberg\n\nHarvey Rishikoff\n\nOrin Kerr\n\nDaniel Dell\u2019Orto",
+            "act": 0.04708421602845192
+        },
+        {
+            "text": "Individually, it was Kubot's 16th tour-level doubles crown and fourth with Melo.",
+            "act": 0.04667886719107628
+        },
+        {
+            "text": "Westmoreland worked on more than 19 films and seven TV shows.",
+            "act": 0.0462275967001915
+        },
+        {
+            "text": "She is an actress.",
+            "act": 0.04322890564799309
+        },
+        {
+            "text": "In 1972, Melnick joined MGM.",
+            "act": 0.04114402458071709
+        },
+        {
+            "text": "Still, Levi\u2019s believes that it is possible.",
+            "act": 0.039623428136110306
+        },
+        {
+            "text": "Point labels are values of PAH of each children.",
+            "act": 0.0386873297393322
+        },
+        {
+            "text": "Pollock and Blyton were divorced in 1943.",
+            "act": 0.03866070881485939
+        },
+        {
+            "text": "After two great weeks on the road The Poodles are sad to announce the cancellation of the rest of the tour.",
+            "act": 0.03568938374519348
+        },
+        {
+            "text": "The class BranchDetails stores the joint probability distribution values along each edge of the binary tree.",
+            "act": 0.035473890602588654
+        },
+        {
+            "text": "Dennis is a graduate of Warren Woods Tower High.",
+            "act": 0.035466574132442474
+        },
+        {
+            "text": "> \n> Tato p\u0159\u00edru\u010dka slou\u017e\u00ed jako \u00favod do nej\u010dast\u011bj\u0161\u00edch \u00fakon\u016f spojen\u00fdch se spr\u00e1vou a zabezpe\u010den\u00edm Va\u0161eho serveru.",
+            "act": 0.03545370325446129
+        },
+        {
+            "text": "Over the next three years, Melnick was responsible for a run of hits at the studio.",
+            "act": 0.03543148189783096
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

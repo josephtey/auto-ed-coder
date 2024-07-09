@@ -1,0 +1,412 @@
+{
+    "index": 560,
+    "label": "Substantial informational content",
+    "attributes": "contain substantial informational content, include detailed descriptions or specialized language, often formatted text or structured in a unique manner",
+    "reasoning": "The samples contain a varied array of content such as mathematical definitions, poetry, scientific equations, multilingual texts, coding snippets, and detailed descriptions of events or objects. These are often structured or formatted in unique ways and sometimes include special symbols or characters. All of these varied content types share the common characteristic of being substantial, information-rich, or detailed in some way, whereas the other samples appear more conversational or subjective without substantial informational content.",
+    "density": 0.0003606322452678881,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.19291797280311584
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.16940045356750488
+        },
+        {
+            "text": "HA H3 H4 CA SK S5 C5 S6 C4 D5 H7 HJ HQ\nD4 D7 SJ DT H6 S9 CT HK C8 C9 D6 CJ C6\nS8 D8 C2 S2 S3 C7 H5 DJ S4 DQ DK D9 D3\nH9 DA SA CK CQ C3 HT SQ H8 S7 ST H2 D2\nHA H2 HK H3 HQ H4 HJ H5 H6 H7 H8 H9 DA\nD2 DK D3 DQ D4 DJ D5 D6 D7 D8 D9 CA C2\nCK C3 CQ C4 CJ C5 C6 C7 C8 C9 SA S2 SK\nS3 SQ S4 SJ S5 S6 S7 S8 S9 CT ST HT DT\nHA HJ HK H3 HQ H4 H2 H5 H6 H7 H8 H9 DA\nD2 DK D3 DQ D4 DJ D5 D6 D7 D8 D9 CA C2\nCK C3 CQ C4 CJ C5 C6 C7 C8 C9 SA S2 SK\nS3 SQ S4 SJ S5 S6 S7 S8 S9 CT ST HT DT\nHA H2 H3 H4 H5 H6 H7 H8 H9 HT HJ HQ HK\nDA D2 D3 D4 D5 D6 D7 D8 D9 DT DJ DQ DK\nCA C2 C3 C4 C5 C6 C7 C8 C9 CT CJ CQ CK\nSA S2 S3 S4 S5 S6 S7 S8 S9 ST SJ SQ SK\nHA SA HJ HQ SJ SQ SK CJ CQ CK DJ DQ DK\nHK DA CA H2 H3 H4 H5 H6 H7 H8 H9 HT D2\nD3 D4 D5 D6 D7 D8 D9 DT C2 C3 C4 C5 C6\nC7 C8 C9 CT S2 S3 S4 S5 S6 S7 S8 S9 ST\n#",
+            "act": 0.1424078643321991
+        },
+        {
+            "text": "Nathan Mattise\n\n\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nSam Machkovech\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nAUSTIN, Texas\u2014Robots and research during the day, barbacoa and bands at night.",
+            "act": 0.13698285818099976
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.13421845436096191
+        },
+        {
+            "text": "Pierre,\nBabet and Jeannot stop to take breath.",
+            "act": 0.13202331960201263
+        },
+        {
+            "text": "(2) Wang XW, Li TT, Zhao J, Mao-Ying QL, Zhang H, Hu S, Li Q, Mi WL, Wu GC, Zhang YQ, Wang YQ.",
+            "act": 0.10162786394357681
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.09814520925283432
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.0931939110159874
+        },
+        {
+            "text": "Also, in the time window, two short pours are identified; 0.25 ounces of Johnnie Walker at 03:25:24 and 0.25 ounces of Bacardi 151 Rum at 03:21:29.",
+            "act": 0.0856073722243309
+        },
+        {
+            "text": "TORREL, Jean-Pierre.",
+            "act": 0.08175715059041977
+        },
+        {
+            "text": "\"One, two, one, two!\"",
+            "act": 0.07929331809282303
+        },
+        {
+            "text": "Pierre carves valiantly.",
+            "act": 0.07244660705327988
+        },
+        {
+            "text": "In order to facilitate the movement of the springs from their storage to their projected position extending from the housing, a number of weights are movably disposed within the hollow interior of one of the springs and are confined within that spring by bending respective opposite ends of the spring.",
+            "act": 0.07083045691251755
+        },
+        {
+            "text": "Given the Peano definition of natural numbers:\ndata \u2115 : Set where\n  zero : \u2115\n  suc  : \u2115 \u2192 \u2115\n\n_+_ : \u2115 \u2192 \u2115 \u2192 \u2115\nzero + n = n\n(suc m) + n = suc (m + n)\n\nWe can prove by different methods the property \u2200 (m : \u2115) \u2192 zero + m \u2261 m + zero.",
+            "act": 0.06691155582666397
+        },
+        {
+            "text": "Only there is one defect in\nthe arrangement this time; Etienne is too little to keep up.",
+            "act": 0.06571885198354721
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.05045382305979729
+        },
+        {
+            "text": "XC",
+            "act": 0.05038147047162056
+        },
+        {
+            "text": "Usdgus Cool Free Invoice Pdf Templates Print Amp Email With Pretty Third Party Invoice As Well As When To Invoice Additionally Proforma Invoic And Likable Create Invoice Now Via Invoicehomecom\n\nUsdgus Pretty Create Invoice Now With Likable Free Invoice Pdf Templates Print Amp Email And Cool Third Party Invoice As Well As When To Invoice Additionally Proforma Invoic With Car Invoice Cost Also How To Write Invoices In Addition Axs One Invoices Via Invoicehomecom \u203a Gallery\n\nUsdgus Seductive Enlarge With Remarkable Invoice Template Designs Invoiceninja And Cool Walmart Receipt Item Number Search As Well As Fake Abortion Receipt Additionally Receipts Cancer With Do You Have To Have Receipts For Tax Deductions Also Safeway Receipt In Addition Travis County Property Tax Receipt Via Invoiceninjacom \u203a Gallery\n\nUsdgus Remarkable Invoice Template Designs Invoiceninja With Cool Enlarge And Seductive Do You Have To Have Receipts For Tax Deductions Also Safeway Receipt In Addition Travis County Property Tax Receipt From Invoiceninjacom \u203a Photograph\n\nUsdgus Lovely Open Office Template Invoice Template Invoiceberry With Terrific Jcpenney Return Policy Without Receipt As Well As What Does Due Upon Receipt Mean Additionally Customer Receipt And Exquisite Open Office Template Via Invoiceberrycom\n\nUsdgus Terrific Open Office Template With Exquisite Open Office Template Invoice Template Invoiceberry And Lovely Jcpenney Return Policy Without Receipt As Well As What Does Due Upon Receipt Mean Additionally Customer Receipt With Costco Receipt Codes Also Fake Receipt Template In Addition Walmart Warranty Lost Receipt Via Invoiceberrycom \u203a Gallery\n\nUsdgus Breathtaking Sales Invoice Template For Excel With Stunning Westin Hotel Receipt As Well As Staples Lost Receipt Additionally Receipt Of Order And Likable Sales Invoice With Remittance Via Vertexcom\n\nUsdgus Agreeable Free Invoice Templates For Any Business In Excel And Word With Wonderful Business Receipt Organizer As Well As Irs Constructive Receipt Additionally Charitable Donation Receipt Template And Engaging Proforma Invoices Via Hloomcom\n\nUsdgus Wonderful Proforma Invoices With Engaging Free Invoice Templates For Any Business In Excel And Word And Agreeable Business Receipt Organizer As Well As Irs Constructive Receipt Additionally Charitable Donation Receipt Template With Transaction Number On Receipt Also Irs Audit No Receipts In Addition Church Donation Receipt Via Hloomcom \u203a Gallery\n\nUsdgus Engaging Free Invoice Templates For Any Business In Excel And Word With Agreeable Proforma Invoices And Wonderful Transaction Number On Receipt Also Irs Audit No Receipts In Addition Church Donation Receipt From Hloomcom \u203a Photograph\n\nUsdgus Pleasing Consignment Invoice With Remarkable Ms Excel Consignment Invoice Template Excel Invoice Templates And Attractive Invoice Prices For New Cars As Well As How Do You Invoice Someone On Paypal Additionally Fake Paypal Invoice Generator With How To Write Invoice Also Nch Express Invoice Free In Addition App To Make Invoices Via Excelinvoicetemplatescom \u203a Gallery\n\nUsdgus Unique Tax Invoice With Lovable Difference Between Tax Invoice And Retail Invoice With And Enchanting Toys R Us Return Policy No Receipt As Well As Starbucks Receipt Additionally Request Read Receipt Gmail With Cvs Receipt Also Alien Receipt Number In Addition Scanner For Receipts Via Keydifferencescom \u203a Gallery\n\nUsdgus Lovable Difference Between Tax Invoice And Retail Invoice With With Enchanting Tax Invoice And Unique Cvs Receipt Also Alien Receipt Number In Addition Scanner For Receipts From Keydifferencescom \u203a Photograph\n\nUsdgus Cute Free Service Invoice Template For Consultants And Service Providers With Fascinating Fedex Freight Commercial Invoice As Well As Accounting And Invoicing Software For Small Business Additionally Free Invoice Form Template And Extraordinary Screenshot Via Vertexcom\n\nUsdgus Fascinating Screenshot With Extraordinary Free Service Invoice Template For Consultants And Service Providers And Cute Fedex Freight Commercial Invoice As Well As Accounting And Invoicing Software For Small Business Additionally Free Invoice Form Template With Typical Invoice Template Also Make A Invoice Online Free In Addition Invoice Finance Broker Via Vertexcom \u203a Gallery\n\nUsdgus Extraordinary Free Service Invoice Template For Consultants And Service Providers With Cute Screenshot And Fascinating Typical Invoice Template Also Make A Invoice Online Free In Addition Invoice Finance Broker From Vertexcom \u203a Photograph\n\nUsdgus Comely Easy To Use Online Invoicing For Small Business By Due With Fascinating Self Billing Invoices As Well As Electrical Invoice Sample Additionally Free Html Invoice Template And Extraordinary Built Around A Beautiful Interface And Dashboard Dues Powerful Online Invoicing Platform And Digital Wallet Have A Long List Of Features Designed To Help Via Duecom\n\nUsdgus Fascinating Built Around A Beautiful Interface And Dashboard Dues Powerful Online Invoicing Platform And Digital Wallet Have A Long List Of Features Designed To Help With Extraordinary Easy To Use Online Invoicing For Small Business By Due And Comely Self Billing Invoices As Well As Electrical Invoice Sample Additionally Free Html Invoice Template With Uk Invoice Also Sales Invoice Meaning In Addition Purchase Invoice Format Via Duecom \u203a Gallery\n\nUsdgus Extraordinary Easy To Use Online Invoicing For Small Business By Due With Comely Built Around A Beautiful Interface And Dashboard Dues Powerful Online Invoicing Platform And Digital Wallet Have A Long List Of Features Designed To Help And Fascinating Uk Invoice Also Sales Invoice Meaning In Addition Purchase Invoice Format From Duecom \u203a Photograph\n\nUsdgus Seductive Invoice With Magnificent Invoice Drupalorg And Astonishing Simple Invoices Templates As Well As Twilight Princess Invoice Additionally Due Upon Receipt Invoice With How Do I Send An Invoice Also Proforma Invoice Dhl In Addition Web Development Invoice Template Via Drupalorg \u203a Gallery\n\nUsdgus Magnificent Invoice Drupalorg With Astonishing Invoice And Seductive How Do I Send An Invoice Also Proforma Invoice Dhl In Addition Web Development Invoice Template From Drupalorg \u203a Photograph\n\nUsdgus Astonishing Easy To Use Online Invoicing For Small Business By Due With Seductive Free Printable Invoice Online As Well As Expenses Invoice Template Additionally Invoice Request Form Template And Fair Problem Via Duecom\n\nUsdgus Seductive Problem With Fair Easy To Use Online Invoicing For Small Business By Due And Astonishing Free Printable Invoice Online As Well As Expenses Invoice Template Additionally Invoice Request Form Template With Invoice Payment Template Also Vat Invoice Template Uk In Addition Saas Invoicing Via Duecom \u203a Gallery\n\nUsdgus Fair Easy To Use Online Invoicing For Small Business By Due With Astonishing Problem And Seductive Invoice Payment Template Also Vat Invoice Template Uk In Addition Saas Invoicing From Duecom \u203a Photograph\n\nUsdgus Delightful Free Service Invoice Templates In Word And Excel Hloomcom With Surprising Receipt Book Tesco As Well As Tax Receipt Organizer Additionally What Car Receipt And Fascinating Artisticserviceinvoice Via Hloomcom\n\nUsdgus Cool Online Invoicing For Small Business Aynaxcom With Winsome Invoice Receipts As Well As Invoice Pricing For Cars Additionally Lps New Invoice And Heavenly Online Invoicing For Small Businesses Via Aynaxcom\n\nUsdgus Winsome Online Invoicing For Small Businesses With Heavenly Online Invoicing For Small Business Aynaxcom And Cool Invoice Receipts As Well As Invoice Pricing For Cars Additionally Lps New Invoice With Einvoicing Software Also Sample Invoice Templates In Addition Invoice Workflow Via Aynaxcom \u203a Gallery\n\nUsdgus Heavenly Online Invoicing For Small Business Aynaxcom With Cool Online Invoicing For Small Businesses And Winsome Einvoicing Software Also Sample Invoice Templates In Addition Invoice Workflow From Aynaxcom \u203a Photograph\n\nUsdgus Prepossessing Invoice Pdf Report With Outstanding Redmine Invoices Plugin And Agreeable What Is Invoice Management As Well As Personalised Invoice Book Additionally Invoice Factoring Companies Uk With Demurrage Invoice Also Invoice In Addition Do I Need An Abn To Invoice Via Redminecrmcom \u203a Gallery\n\nUsdgus Outstanding Redmine Invoices Plugin With Agreeable Invoice Pdf Report And Prepossessing Demurrage Invoice Also Invoice In Addition Do I Need An Abn To Invoice From Redminecrmcom \u203a Photograph\n\nUsdgus Archaic Understanding Eventbrite Fee Invoices Eventbrite Support With Picturesque Primark Returns Without Receipt As Well As Bail Bond Receipt Additionally Home Depot Lost Receipt And Handsome Under Invoices Youll See Any Upcoming Due Or Previouslyissued Via Eventbritecom\n\nUsdgus Picturesque Under Invoices Youll See Any Upcoming Due Or Previouslyissued With Handsome Understanding Eventbrite Fee Invoices Eventbrite Support And Archaic Primark Returns Without Receipt As Well As Bail Bond Receipt Additionally Home Depot Lost Receipt With Scanners For Receipts And Documents Also Boston Coach Receipts In Addition Sports Authority Receipt Via Eventbritecom \u203a Gallery\n\nUsdgus Handsome Understanding Eventbrite Fee Invoices Eventbrite Support With Archaic Under Invoices Youll See Any Upcoming Due Or Previouslyissued And Picturesque Scanners For Receipts And Documents Also Boston Coach Receipts In Addition Sports Authority Receipt From Eventbritecom \u203a Photograph\n\nUsdgus Unique Translation Service Invoice Template With Magnificent Free Invoice Templates Online Invoices And Divine Lowes Lost Receipt As Well As Fedex Receipt Additionally Receipt From Walmart With United Baggage Receipt Also How To Do A Read Receipt In Gmail In Addition Louis Vuitton Receipt Via Createonlineinvoicescom \u203a Gallery\n\nUsdgus Magnificent Free Invoice Templates Online Invoices With Divine Translation Service Invoice Template And Unique United Baggage Receipt Also How To Do A Read Receipt In Gmail In Addition Louis Vuitton Receipt From Createonlineinvoicescom \u203a Photograph\n\nUsdgus Wonderful Us Immigration Receipt Number Besides Earnest Money Deposit Receipt Furthermore Acknowledgment Receipt With Goodlooking A Free Invoice Template For Freelancers And Breathtaking Sample Of Rent Receipt As Well As Dallas Taxi Receipt Additionally Cash Donation Receipt With Us Air Receipt Also Receipt Software For Small Business In Addition Receipts Forms Via Goingfreelancecom \u203a Gallery\n\nUsdgus Goodlooking A Free Invoice Template For Freelancers With Breathtaking Us Immigration Receipt Number Besides Earnest Money Deposit Receipt Furthermore Acknowledgment Receipt And Wonderful Us Air Receipt Also Receipt Software For Small Business In Addition Receipts Forms From Goingfreelancecom \u203a Photograph\n\nUsdgus Lovely Online Invoices Estimates And Purchase Orders In The Cloud With Marvellous Pay Invoice As Well As Bmw Invoice Price Additionally How To Pay Toll By Plate Without Invoice And Gorgeous Estimates And Invoices Via Salesbindercom\n\nUsdgus Marvellous Estimates And Invoices With Gorgeous Online Invoices Estimates And Purchase Orders In The Cloud And Lovely Pay Invoice As Well As Bmw Invoice Price Additionally How To Pay Toll By Plate Without Invoice With Contractors Invoice Also Business Invoice App In Addition How To Make An Invoice On Word Via Salesbindercom \u203a Gallery\n\nUsdgus Gorgeous Online Invoices Estimates And Purchase Orders In The Cloud With Lovely Estimates And Invoices And Marvellous Contractors Invoice Also Business Invoice App In Addition How To Make An Invoice On Word From Salesbindercom \u203a Photograph\n\nUsdgus Delightful Brightbook Does Invoicing With Ravishing Receipts Forms As Well As Free Cash Receipt Form Additionally Transportation Receipt And Fair Create And Email Professional Branded Quotes And Invoices In Any Currency Via Mybrightbookcom\n\nUsdgus Ravishing Create And Email Professional Branded Quotes And Invoices In Any Currency With Fair Brightbook Does Invoicing And Delightful Receipts Forms As Well As Free Cash Receipt Form Additionally Transportation Receipt With Hp A Receipt Printer Also Acknowledgement Receipt Letter In Addition How To Write A Money Receipt Via Mybrightbookcom \u203a Gallery\n\nUsdgus Fair Brightbook Does Invoicing With Delightful Create And Email Professional Branded Quotes And Invoices In Any Currency And Ravishing Hp A Receipt Printer Also Acknowledgement Receipt Letter In Addition How To Write A Money Receipt From Mybrightbookcom \u203a Photograph\n\nUsdgus Alluring Understanding Eventbrite Fee Invoices Eventbrite Support With Stunning Quickbooks Sample Invoice As Well As How To Send An Invoice For Freelance Work Additionally Sample Commercial Invoice For Import And Foxy Clicking Pay Now Directs To The Pay Invoice Screen Pay Your Invoice By Debit Or Via Eventbritecom\n\nUsdgus Stunning Clicking Pay Now Directs To The Pay Invoice Screen Pay Your Invoice By Debit Or With Foxy Understanding Eventbrite Fee Invoices Eventbrite Support And Alluring Quickbooks Sample Invoice As Well As How To Send An Invoice For Freelance Work Additionally Sample Commercial Invoice For Import With Excel Free Invoice Template Also Receipt Vs Invoice In Addition What Is A Proforma Invoice In The Uk Via Eventbritecom \u203a Gallery\n\nUsdgus Foxy Understanding Eventbrite Fee Invoices Eventbrite Support With Alluring Clicking Pay Now Directs To The Pay Invoice Screen Pay Your Invoice By Debit Or And Stunning Excel Free Invoice Template Also Receipt Vs Invoice In Addition What Is A Proforma Invoice In The Uk From Eventbritecom \u203a Photograph\n\nUsdgus Endearing The Different Sections Of An Electronic Payment Invoice With Wonderful Receipt Organizer App As Well As Gogoair Receipt Additionally E Receipts And Fair A Via Paysimplecom\n\nUsdgus Wonderful A With Fair The Different Sections Of An Electronic Payment Invoice And Endearing Receipt Organizer App As Well As Gogoair Receipt Additionally E Receipts With Gross Receipts Tax Nm Also Receipt Creator In Addition Enterprise Rental Receipt Via Paysimplecom \u203a Gallery\n\nUsdgus Fair The Different Sections Of An Electronic Payment Invoice With Endearing A And Wonderful Gross Receipts Tax Nm Also Receipt Creator In Addition Enterprise Rental Receipt From Paysimplecom \u203a Photograph\n\nUsdgus Prepossessing Phone With Licious Invoicing Software And Invoice Reminders Xero And Alluring Confirmation Of Receipt As Well As Receipt Number Uscis Additionally Store Receipt With Toys R Us Return Policy Without Receipt Also Party City Return Policy Without Receipt In Addition Gdc Receipt Via Xerocom \u203a Gallery\n\nUsdgus Licious Invoicing Software And Invoice Reminders Xero With Alluring Phone And Prepossessing Toys R Us Return Policy Without Receipt Also Party City Return Policy Without Receipt In Addition Gdc Receipt From Xerocom \u203a Photograph\n\nUsdgus Easy On The Eye Sales Invoice Template With Pretty How To Request A Read Receipt In Gmail As Well As Usb Receipt Printer Additionally Walmart Receipt Checker And Extraordinary Australian Gst Invoice Template Via Invoicingtemplatecom\n\nUsdgus Pretty Australian Gst Invoice Template With Extraordinary Sales Invoice Template And Easy On The Eye How To Request A Read Receipt In Gmail As Well As Usb Receipt Printer Additionally Walmart Receipt Checker With How Do Read Receipts Work Also Treasury Receipts In Addition Cash Receipt Form Via Invoicingtemplatecom \u203a Gallery\n\nUsdgus Extraordinary Sales Invoice Template With Easy On The Eye Australian Gst Invoice Template And Pretty How Do Read Receipts Work Also Treasury Receipts In Addition Cash Receipt Form From Invoicingtemplatecom \u203a Photograph\n\nUsdgus Breathtaking What Is An Invoice With Winsome Custom Carbonless Invoices As Well As Invoice Systems Additionally Small Business Invoice Template Free And Heavenly Editing Invoice Via Invoicedcom\n\nUsdgus Winsome Editing Invoice With Heavenly What Is An Invoice And Breathtaking Custom Carbonless Invoices As Well As Invoice Systems Additionally Small Business Invoice Template Free With Invoice Jobs Also Invoice Template For Google Drive In Addition Write Invoice Via Invoicedcom \u203a Gallery\n\nUsdgus Heavenly What Is An Invoice With Breathtaking Editing Invoice And Winsome Invoice Jobs Also Invoice Template For Google Drive In Addition Write Invoice From Invoicedcom \u203a Photograph\n\nUsdgus Enchanting Intrix Invoice Creator With Unique Sample Of Official Receipt Form As Well As Receipt Template For Car Sale Additionally Fruit Cake Receipt And Likable Is Invoice Creator Right For You Via Intrixcom\n\nUsdgus Unique Is Invoice Creator Right For You With Likable Intrix Invoice Creator And Enchanting Sample Of Official Receipt Form As Well As Receipt Template For Car Sale Additionally Fruit Cake Receipt With Best Receipt And Document Scanner Also Sample Official Receipt Template In Addition Receipt Of Sale Of Vehicle Via Intrixcom \u203a Gallery\n\nUsdgus Likable Intrix Invoice Creator With Enchanting Is Invoice Creator Right For You And Unique Best Receipt And Document Scanner Also Sample Official Receipt Template In Addition Receipt Of Sale Of Vehicle From Intrixcom \u203a Photograph",
+            "act": 0.04397077485918999
+        },
+        {
+            "text": "Just as there are two eighth note triplets in the value of each quarter note triplet, there are also two sixteenth triplets in the value of each eighth note triplet.",
+            "act": 0.04388319328427315
+        },
+        {
+            "text": "Fournier.",
+            "act": 0.04165743663907051
+        },
+        {
+            "text": "The feed rates are controlled by controlling the speed of the two motors.",
+            "act": 0.0407102070748806
+        },
+        {
+            "text": "MRT involves an additional egg from a third person, and manipulating both the recipient egg and the donor egg.",
+            "act": 0.0399402417242527
+        },
+        {
+            "text": "Flavor\n\nAgain the hops dominate with moderate/high levels of passionfruit, tangerine, floral white wine, and grassy character.",
+            "act": 0.03981691971421242
+        },
+        {
+            "text": "I have tried the conventional method yet there is some problem...\nstructure(list(pot = c(1L, 2L, 4L, 21L, 22L, 23L, 24L, 6L, 7L, \n8L, 25L, 26L, 27L, 28L, 9L, 10L, 11L, 12L, 29L, 30L, 31L, 32L, \n13L, 14L, 15L, 16L, 33L, 34L, 35L, 36L, 17L, 18L, 20L, 37L, 38L, \n39L, 40L, 42L, 43L, 44L, 61L, 62L, 63L, 64L, 45L, 46L, 47L, 48L, \n65L, 66L, 67L, 68L, 49L, 50L, 51L, 52L, 69L, 70L, 71L, 72L, 53L, \n54L, 55L, 56L, 73L, 74L, 75L, 76L, 57L, 58L, 59L, 60L, 77L, 78L, \n79L, 80L, 81L, 82L, 83L, 84L, 101L, 102L, 103L, 104L, 85L, 86L, \n87L, 88L, 105L, 106L, 107L, 89L, 90L, 91L, 92L, 109L, 110L, 111L, \n112L, 93L, 94L, 95L, 96L, 113L, 114L, 115L, 116L, 97L, 98L, 99L, \n100L, 117L, 118L, 119L, 120L, 121L, 122L, 123L, 124L, 141L, 142L, \n143L, 144L, 125L, 126L, 127L, 128L, 145L, 146L, 147L, 129L, 130L, \n131L, 132L, 149L, 150L, 151L, 152L, 133L, 134L, 135L, 136L, 153L, \n154L, 155L, 156L, 137L, 138L, 140L, 157L, 158L, 159L, 160L), \nrep = c(1L, 2L, 4L, 1L, 2L, 3L, 4L, 2L, 3L, 4L, 1L, 2L, 3L, \n4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, \n3L, 4L, 1L, 2L, 4L, 1L, 2L, 3L, 4L, 2L, 3L, 4L, 1L, 2L, 3L, \n4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, \n3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, \n2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, \n1L, 2L, 3L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, \n1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, \n4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 1L, 2L, 3L, \n4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, 3L, 4L, 1L, 2L, \n4L, 1L, 2L, 3L, 4L), cultivar = structure(c(1L, 1L, 1L, 1L, \n1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, \n1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, 1L, \n1L, 1L, 1L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, \n4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, \n4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 4L, 2L, 2L, 2L, \n2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, \n2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, 2L, \n2L, 2L, 2L, 2L, 2L, 2L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, \n3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, \n3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L), .Label = \nc(\"Dinninup\", \n\"Riverina\", \"Seaton Park\", \"Yarloop\"), class = \"factor\"), \nWaterlogging = structure(c(2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, \n2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, \n2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, \n2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, \n2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, \n2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, \n1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, \n1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, \n1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, \n1L, 1L, 2L, 2L, 2L, 2L, 1L, 1L, 1L, 1L, 2L, 2L, 2L, 2L, 1L, \n1L, 1L, 1L, 2L, 2L, 2L, 1L, 1L, 1L, 1L), .Label = c(\"Non-waterlogged\", \n\"Waterlogged\"), class = \"factor\"), P = c(0L, 0L, 0L, 0L, \n0L, 0L, 0L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 6L, 6L, 6L, 6L, 6L, \n6L, 6L, 6L, 12L, 12L, 12L, 12L, 12L, 12L, 12L, 12L, 36L, \n36L, 36L, 36L, 36L, 36L, 36L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, \n3L, 3L, 3L, 3L, 3L, 3L, 3L, 3L, 6L, 6L, 6L, 6L, 6L, 6L, 6L, \n6L, 12L, 12L, 12L, 12L, 12L, 12L, 12L, 12L, 36L, 36L, 36L, \n36L, 36L, 36L, 36L, 36L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, \n3L, 3L, 3L, 3L, 3L, 3L, 3L, 6L, 6L, 6L, 6L, 6L, 6L, 6L, 6L, \n12L, 12L, 12L, 12L, 12L, 12L, 12L, 12L, 36L, 36L, 36L, 36L, \n36L, 36L, 36L, 36L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 0L, 3L, 3L, \n3L, 3L, 3L, 3L, 3L, 6L, 6L, 6L, 6L, 6L, 6L, 6L, 6L, 12L, \n12L, 12L, 12L, 12L, 12L, 12L, 12L, 36L, 36L, 36L, 36L, 36L, \n36L, 36L), P.1 = c(12.1, 12.1, 12.1, 12.1, 12.1, 12.1, 12.1, \n15.17, 15.17, 15.17, 15.17, 15.17, 15.17, 15.17, 18.24, 18.24, \n18.24, 18.24, 18.24, 18.24, 18.24, 18.24, 24.39, 24.39, 24.39, \n24.39, 24.39, 24.39, 24.39, 24.39, 48.35, 48.35, 48.35, 48.35, \n48.35, 48.35, 48.35, 12.1, 12.1, 12.1, 12.1, 12.1, 12.1, \n12.1, 15.17, 15.17, 15.17, 15.17, 15.17, 15.17, 15.17, 15.17, \n18.24, 18.24, 18.24, 18.24, 18.24, 18.24, 18.24, 18.24, 24.39, \n24.39, 24.39, 24.39, 24.39, 24.39, 24.39, 24.39, 48.35, 48.35, \n48.35, 48.35, 48.35, 48.35, 48.35, 48.35, 12.1, 12.1, 12.1, \n12.1, 12.1, 12.1, 12.1, 12.1, 15.17, 15.17, 15.17, 15.17, \n15.17, 15.17, 15.17, 18.24, 18.24, 18.24, 18.24, 18.24, 18.24, \n18.24, 18.24, 24.39, 24.39, 24.39, 24.39, 24.39, 24.39, 24.39, \n24.39, 48.35, 48.35, 48.35, 48.35, 48.35, 48.35, 48.35, 48.35, \n12.1, 12.1, 12.1, 12.1, 12.1, 12.1, 12.1, 12.1, 15.17, 15.17, \n15.17, 15.17, 15.17, 15.17, 15.17, 18.24, 18.24, 18.24, 18.24, \n18.24, 18.24, 18.24, 18.24, 24.39, 24.39, 24.39, 24.39, 24.39, \n24.39, 24.39, 24.39, 48.35, 48.35, 48.35, 48.35, 48.35, 48.35, \n48.35), S.R = c(4.363636364, 4.583333333, 5.125, 4.542857143, \n8, 6.12, 6.333333333, 7.785714286, 10.64285714, 7.785714286, \n6.956521739, 6.6, 6.346153846, 7.090909091, 6.153846154, \n8.272727273, 12.3, 3.909090909, 6.826086957, 8.285714286, \n9.928571429, 5.827586207, 4.866666667, 7.125, 5.866666667, \n3.555555556, 6.142857143, 7.1, 6.689655172, 9.142857143, \n12.11111111, 5.178571429, 4.379310345, 6.428571429, 9.333333333, \n9.15, 7.8, 3.181818182, 5.789473684, 6.571428571, 6.347826087, \n7.421052632, 5.2, 5.944444444, 10.625, 8.769230769, 8.789473684, \n6.166666667, 5.8, 6.740740741, 6.185185185, 6.173913043, \n8.5, 10.21428571, 8.944444444, 8.277777778, 7.25, 6.189189189, \n7.037037037, 7.56, 7.238095238, 6.296296296, 7.807692308, \n7.736842105, 6.153846154, 6.133333333, 8.217391304, 8.52, \n10.21428571, 5.772727273, 8.761904762, 9, 6.757575758, 8.517241379, \n4.561403509, 5.540540541, 6.44, 5.833333333, 5.214285714, \n4.648648649, 3, 4.820512821, 5.862068966, 5.90625, 5.793103448, \n4.935483871, 5.793103448, 6.956521739, 3.473684211, 6.228571429, \n6.517241379, 5.885714286, 8.260869565, 7.857142857, 5.523809524, \n7.1875, 7, 9.2, 6.7, 9.307692308, 7.3, 8, 7.583333333, 6.184210526, \n7.15625, 6.5, 10.20833333, 5.941176471, 8.407407407, 11.29411765, \n4.444444444, 6.25, 8.258064516, 12.05263158, 9, 6.5, 8.2, \n5.285714286, 5.461538462, 5.730769231, 6.076923077, 5.2, \n5.8125, 4.076923077, 3.764705882, 5.823529412, 9, 6.75, 5.954545455, \n6.035714286, 4.153846154, 4.263157895, 4, 4.666666667, 3.636363636, \n5.454545455, 5.633333333, 2.141025641, 4.090909091, 5.111111111, \n7.642857143, 4.777777778, 2.957446809, 2.185185185, 2.307692308, \n7.8, 19.375, 10.375, 7.941176471, 5.956521739, 5.125, 4.657894737, \n8.5)), row.names = c(1L, 2L, 4L, 5L, 6L, 7L, 8L, 10L, 11L, \n12L, 13L, 14L, 15L, 16L, 17L, 18L, 19L, 20L, 21L, 22L, 23L, 24L, \n25L, 26L, 27L, 28L, 29L, 30L, 31L, 32L, 33L, 34L, 36L, 37L, 38L, \n39L, 40L, 42L, 43L, 44L, 45L, 46L, 47L, 48L, 49L, 50L, 51L, 52L, \n53L, 54L, 55L, 56L, 57L, 58L, 59L, 60L, 61L, 62L, 63L, 64L, 65L, \n66L, 67L, 68L, 69L, 70L, 71L, 72L, 73L, 74L, 75L, 76L, 77L, 78L, \n79L, 80L, 81L, 82L, 83L, 84L, 85L, 86L, 87L, 88L, 89L, 90L, 91L, \n92L, 93L, 94L, 95L, 97L, 98L, 99L, 100L, 101L, 102L, 103L, 104L, \n105L, 106L, 107L, 108L, 109L, 110L, 111L, 112L, 113L, 114L, 115L, \n116L, 117L, 118L, 119L, 120L, 121L, 122L, 123L, 124L, 125L, 126L, \n127L, 128L, 129L, 130L, 131L, 132L, 133L, 134L, 135L, 137L, 138L, \n139L, 140L, 141L, 142L, 143L, 144L, 145L, 146L, 147L, 148L, 149L, \n150L, 151L, 152L, 153L, 154L, 156L, 157L, 158L, 159L, 160L), class = \n\"data.frame\")\n\nI have put the conventional command (end of script) for changing the number of coloumns in the legend but it is not working...\nlibrary(Rmisc)\nlibrary(ggplot2)\n\ntglf2 <- summarySE(z, measurevar=\"S.R\", \ngroupvars=c(\"P\",\"cultivar\",\"Waterlogging\"),na.rm=TRUE)\n\npd <- position_dodge(0.5)\n\nggplot(tglf2, aes(x=as.factor(P), y=S.R,colour=cultivar,group=cultivar)) + \ngeom_errorbar(aes(ymin=S.R-se, ymax=S.R+se),colour=\"black\", \nwidth=.2,position=pd) +\ngeom_line(position=pd) +\ngeom_point(aes(shape=cultivar),size=3.5,position=pd)+\nscale_shape_manual(values=c(0, 16, 17,1))+\nscale_color_manual(values=c(\"#009E73\", \"#F0E442\", \"#0072B2\", \"#D55E00\"))+\nfacet_grid(~Waterlogging)+\nylab(expression(Root~mass~fraction~(g~root~g^-1~plant)))+\nxlab(expression(P~(mg~kg^-1~soil)))+\nscale_y_continuous(expand = c(0, 0),limits=c(0, 18),breaks=0:100*3)+\ntheme_bw()+\ntheme(legend.key.size = unit(6, \"mm\"))+\ncleanup+\ntheme(\n legend.position = c(.25, .88),\nlegend.title=element_blank(),\nstrip.background = element_blank(),\nlegend.text = element_text(size=14),# \nstrip.text.x = element_text(size = 15),\naxis.text.x = element_text(size = 15),\naxis.title.y = element_text(size = 15,margin = margin(t = 0, r = 5, b = 0, l = \n0)),\naxis.title.x = element_text(size = 15,margin = margin(t = 5, r = 0, b = 0, l = \n0)),\naxis.text.y = element_text(margin = margin(r = 3),size = 15))+\ngeom_segment(aes(x = 1, y = 13, xend = 1, yend = 15.58216),\n            size=1,colour=\"black\",data = subset(z, Waterlogging == \n\"Waterlogged\"))+\nguides(col = guide_legend(nrow = 2))\n\nPlease ask for any more information if needed.",
+            "act": 0.03753405436873436
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.036311496049165726
+        },
+        {
+            "text": "WULF, Maurizio De.",
+            "act": 0.03591719642281532
+        },
+        {
+            "text": "G\u00d3MEZ-LOBO, Alfonso.",
+            "act": 0.035080526024103165
+        },
+        {
+            "text": "</strong>A full-angle is defined as an ordered pair of two lines u and v denoted by \u2220[u, v].<br />\n  <strong>R2.</strong> \u2220[u, v] = \u2212\u2220[v, u].<br />\n  <strong>R3.</strong> Constant full-angle \u2220[u, u] is denoted by \u2220[0].",
+            "act": 0.0350792296230793
+        },
+        {
+            "text": "Rates have plateaued.",
+            "act": 0.03223920240998268
+        },
+        {
+            "text": "Let f be x(2).",
+            "act": 0.03135262429714203
+        },
+        {
+            "text": ":)\nLV",
+            "act": 0.03134104982018471
+        },
+        {
+            "text": "AUBENQUE, Pierre.",
+            "act": 0.024449454620480537
+        },
+        {
+            "text": "Evidence that consciousness is solely information\n====================================================\n\n4.1.",
+            "act": 0.024100208654999733
+        },
+        {
+            "text": "(c).",
+            "act": 0.02288745902478695
+        },
+        {
+            "text": "Love is indeed patient.",
+            "act": 0.02165725640952587
+        },
+        {
+            "text": "Visiting during nesting season (late November through late July), one can expect to see brown pelican, wood storks, white ibises, black-crowned night herons, double-crested cormorants, reddish, snowy, and great egrets, and great blue, little blue and tricolored herons.",
+            "act": 0.021227380260825157
+        },
+        {
+            "text": "Flock action was good as well, and we eventually tallied Waved and Golden-collared woodpeckers, Curve-billed Scythebill, Ash-winged Antwren, Olive-green Tyrannulet, Guianan Tyrannulet, Short-tailed Pygmy-Tyrant, Yellow-throated Flycatcher, and a male Glossy-backed Becard, along with Red-billed Pied-Tanager and numerous other tanagers, dacnis, and honeycreepers.",
+            "act": 0.021131737157702446
+        },
+        {
+            "text": "-----BEGIN PRIVATE KEY-----\n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\nRV7U7VCPOYmw0cQ3EVODHKcnmsRosMU=\n-----END PRIVATE KEY-----",
+            "act": 0.021041372790932655
+        },
+        {
+            "text": "The microfibers are substantially free of fiber-to-fiber bonding and are secured to each other by mechanical entanglement or intertwining.",
+            "act": 0.020863955840468407
+        },
+        {
+            "text": "For example, the assertion that the sum of three angles of a triangle\n  ABC equals 180\u25e6, which is equivalent to Euclidean fifth hypothesis, can be expressed as<br />\n  \u2220[CA,AB] + \u2220[AB,BC] + \u2220[BC,CA] = \u2220[CA,CA] = \u2220[0].</p>\n<p><br />\n  <strong>R6.</strong> If l \u22a5 v, we have \u2220[u, v] = \u2220[u, l] + \u2220[l, v] = \u2220[u, l] + \u2220[1].",
+            "act": 0.020648954436182976
+        },
+        {
+            "text": "Then the joint probability distribution of leaf nodes at site \u03b1 can be expressed as\n\nQ\n\nL\n\n,\n\n\u03b1\n\n(\n\nx\n\nL\n\n)\n\n=\n\n\u2211\n\nx\n\ni\n\n\u2208\n\nB\n\n\u2211\n\nx\n\nj\n\n\u2208\n\nB\n\nI\n\n(\n\nx\n\ni\n\n\u2208\n\nB\n\ni\n\n\u03b1\n\n,\n\nx\n\nj\n\n\u2208\n\nB\n\nj\n\n\u03b1\n\n)\n\nQ\n\n(\n\ni\n\n,\n\nj\n\n)\n\n(\n\nx\n\ni\n\n,\n\nx\n\nj\n\n)\n\nP\n\n(\n\nL\n\n(\n\ni\n\n,\n\nj\n\n)\n\n\\|\n\nx\n\ni\n\n)\n\nP\n\n(\n\nL\n\n(\n\nj\n\n,\n\ni\n\n)\n\n\\|\n\nx\n\nj\n\n)\n\n.",
+            "act": 0.020162833854556084
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.019941003993153572
+        },
+        {
+            "text": "In order to bend the lens in place between the jaws of the bending unit, the cap is removed, then the bending unit is placed according to the required orientation, by being pivoted relative to the frame, the frame preventing the lens from pivoting on its support, then the bending unit is disconnected from the frame, the lens remaining in place between the jaws of the bending unit, then a gripper to grasp the lens is inserted between the jaws of the bending unit, and the two jaws are drawn close to one another by resilient deformation of the side members.",
+            "act": 0.019564060494303703
+        },
+        {
+            "text": "Let x be z(31).",
+            "act": 0.018948083743453026
+        },
+        {
+            "text": "Rising interest rates may be taken as bearish signals for stocks.",
+            "act": 0.018395444378256798
+        },
+        {
+            "text": "He swings his arms into the bargain.",
+            "act": 0.018004408106207848
+        },
+        {
+            "text": "\\*(1) Cao Y, Li K, Fu KY, Xie QF, Chiang CY, Sessle BJ.",
+            "act": 0.017871804535388947
+        },
+        {
+            "text": "True to size:\n\nMen\u2019s Jazz Original\n\nWomen\u2019s Jazz Low Pro\n\nWomen\u2019s Jazz Original\n\nMen\u2019s Jazz Low Pro Vegan\n\nMen\u2019s Jazz Low Pro\n\nSmall:\n\nMen\u2019s Jazz Original Vintage\n\nBig:\n\nWomen\u2019s Jazz Original Vintage\n\nCan it be used for running?",
+            "act": 0.016530053690075874
+        },
+        {
+            "text": "The coupling device disclosed in the '735 and '261 patents includes a pair of tubular insert members which are inserted into opposed ends of plastic pipe sections, a pair of semi-circular retaining clips which fit over abutting flanges of the insert members, a tubular coupling member which fits over the outer surfaces of the pipe sections and a pair of rigid rings which slide toward each other and over the outer surface of the coupling member to plastically deform the inside of the plastic pipe sections into interlocking relationship with serrations on the outer surfaces of the insert members.",
+            "act": 0.01651785895228386
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

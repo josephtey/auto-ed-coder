@@ -1,0 +1,412 @@
+{
+    "index": 20,
+    "label": "Structured and descriptive data content",
+    "attributes": "structured data, event descriptions, detailed informational text, user reviews, error messages, alphanumeric sequences",
+    "reasoning": "Examining the text content of the samples, all the samples contain structured data that resembles fragments of reviews, descriptions, or informational text. This includes ratings, user names, detailed event descriptions, error messages, and interspersed alphanumeric sequences resembling data formats. The frequency of specific data formats, event descriptions, and structured content is missing from the other samples, which are more anecdotal and conversational in tone.",
+    "density": 0.005172225622921026,
+    "confidence": 23.0,
+    "high_act_samples": [
+        {
+            "text": "Valeria",
+            "act": 0.2376726269721985
+        },
+        {
+            "text": "Cal Crutchlow set the pace shortly after, then also fell (at Turn 5).",
+            "act": 0.23557265102863312
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.2180986851453781
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.2078433483839035
+        },
+        {
+            "text": "-Mizu can only replenish once per battle.",
+            "act": 0.1981915831565857
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.18848547339439392
+        },
+        {
+            "text": "Nikolai Zherdev leads the club with four goals.",
+            "act": 0.18767184019088745
+        },
+        {
+            "text": "-Mizu can only replenish once per battle.",
+            "act": 0.18688005208969116
+        },
+        {
+            "text": "Through the 1960s the two loyally support each other.",
+            "act": 0.18640702962875366
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.1784578561782837
+        },
+        {
+            "text": "The Cubs loaded the bases on a single, walk and infield error with one out.",
+            "act": 0.17774993181228638
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.16580593585968018
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.15571939945220947
+        },
+        {
+            "text": "In 1922, Chernesovo got renamed to Garefio to honor him.",
+            "act": 0.153978630900383
+        },
+        {
+            "text": "He had the third-lowest ERA among left-handed National League relievers with at least 65 appearances and also ranked third among NL lefties by stranding 28 of 33 inherited runners (84.8 percent).",
+            "act": 0.15358461439609528
+        },
+        {
+            "text": "Frances x",
+            "act": 0.15305045247077942
+        },
+        {
+            "text": "They stand back to back and shoot a fireball and lightning ring, which combine and travel toward the opponent, gaining speed as it goes.",
+            "act": 0.15022674202919006
+        },
+        {
+            "text": "Mario travelled to 22 countries, where he was invited to visit and sketch.",
+            "act": 0.14862442016601562
+        },
+        {
+            "text": "First, Lambert\ncollided with the rear-end of the Trailblazer.",
+            "act": 0.14785650372505188
+        },
+        {
+            "text": "This operation came under a cover of intense aerial and ground firepower represented by thousands of airstrikes, barrel bombs, rockets and artillery shells, which enabled the regime to capture 93 areas.",
+            "act": 0.1465812474489212
+        },
+        {
+            "text": "The Cardinal mixed defenses, attacked the rim, pounced on Cal lapses.",
+            "act": 0.14361965656280518
+        },
+        {
+            "text": "When play resumed, Chicago baserunners reached via an error and a walk.",
+            "act": 0.14301930367946625
+        },
+        {
+            "text": "Sodano was also one of Marcial Maciel\u2019s most ardent supporters.",
+            "act": 0.1392466276884079
+        },
+        {
+            "text": "Lu!!",
+            "act": 0.13826154172420502
+        },
+        {
+            "text": "-Mizu's Jutsu attacks are considered as a move and she can only use water jutsu's four times per battle.",
+            "act": 0.13744774460792542
+        },
+        {
+            "text": "The two leaders also met privately in London and have reportedly spoken by telephone several times.",
+            "act": 0.1373051106929779
+        },
+        {
+            "text": "-Mizu's Jutsu attacks are considered as a move and she can only use water jutsu's four times per battle.",
+            "act": 0.13618603348731995
+        },
+        {
+            "text": "Francisco Churruca\n\nFrancisco Maria Churruca Iriondo Azpiazu Alcorta (born ), also known as Patxi, is a Basque former jai alai player.",
+            "act": 0.13587740063667297
+        },
+        {
+            "text": "However, during the clash, he was injured by the men of Luca.",
+            "act": 0.13410043716430664
+        },
+        {
+            "text": "Mansur Mirovalev reported from Moscow.",
+            "act": 0.13307534158229828
+        },
+        {
+            "text": "After a brief discussion with trainer Ron Porterfield and Rays skipper Joe Maddon Archer left the game and was replaced by Alex Torres.",
+            "act": 0.1323671042919159
+        },
+        {
+            "text": "After using 2 handseals, they pop out of the ground piercing the enemy and pinning them in place (if the enemy is nearby).",
+            "act": 0.13002008199691772
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.12906506657600403
+        },
+        {
+            "text": "Both later returned to the field.",
+            "act": 0.12740424275398254
+        },
+        {
+            "text": "Tornadoes?",
+            "act": 0.12723122537136078
+        },
+        {
+            "text": "Maduro, crucially, continues to enjoy the backing of both Beijing and Moscow.",
+            "act": 0.1270766705274582
+        },
+        {
+            "text": "His birthday was organized by Michael Hesemann and the guests included American journalist Lauren Green, who played the piano, violinist Baptiste Pawlik, English-Argentinian writer Molly Maria Hamilton Baillie, Georg G\u00e4nswein and Gerhard Ludwig M\u00fcller.",
+            "act": 0.12667517364025116
+        },
+        {
+            "text": "Chao Fang and Jing-Wen Shi performed statistical analysis.",
+            "act": 0.12621060013771057
+        },
+        {
+            "text": "At which point, the Yankees erupted for five runs.",
+            "act": 0.12588369846343994
+        },
+        {
+            "text": "With pitching dominance over the Tigers and Cobb, the Cubs allowed only three runs in the four games they won, while stealing 18 bases off the rattled Tigers.",
+            "act": 0.1257949322462082
+        },
+        {
+            "text": "Although no known comprehensive list is known to exist of all times when the hidden ball trick has worked, Coughlin reportedly pulled it off seven times (and at three different positions) \u2013 more than any other player in MLB history.",
+            "act": 0.12452992796897888
+        },
+        {
+            "text": "Howard struck out against \"Wild\" Bill Donovan (25\u20134 in the regular season) but the ball got away from catcher Boss Schmidt, allowing Harry Steinfeldt to score the tying run.",
+            "act": 0.1228376179933548
+        },
+        {
+            "text": "Exchanges\n\nExchanges of purchases made by credit card will be credited back to the card.",
+            "act": 0.12211331725120544
+        },
+        {
+            "text": "It is immaterial whether such bonuses are paid in cash or in kind or partly in cash and partly in kind.",
+            "act": 0.1219865083694458
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.12137496471405029
+        },
+        {
+            "text": "\u201cYou can\u2019t start throwing at people,\u201d Girardi said.",
+            "act": 0.11859343945980072
+        },
+        {
+            "text": "Effects:\n\nGives +10 damage to every Fire jutsu the user performs\n\nEach Fire jutsu the opponent performs loses -10 of its damage through the sword absorbing the heat of the opponent's fire jutsu.",
+            "act": 0.1176082044839859
+        },
+        {
+            "text": "Otherwise, the bodies will necessarily collide in some future.",
+            "act": 0.11750875413417816
+        },
+        {
+            "text": "Jos\u00e9 Riquelme y L\u00f3pez Bago\n\nJos\u00e9 Riquelme y L\u00f3pez-Bago (Tarragona, August 31, 1880 - Paris, 28 January 1972) was a Spanish soldier noted for his involvement in the Second Moroccan War and the Spanish Civil War.",
+            "act": 0.11624866724014282
+        },
+        {
+            "text": "Receive cross Carlos Vela, Chris Brunt with gore-free ball into the goal.",
+            "act": 0.11509764939546585
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 135,
+    "label": "Detailed factual information present",
+    "attributes": "Includes detailed factual information, presents statistical data, contains specific lists, mentions technical specifications, includes historical or biographical facts, includes references to specific locations, medical terminologies, or technical setups.",
+    "reasoning": "After reviewing the samples, one specific attribute that stands out is the inclusion of detailed and specific factual information, such as statistical data, lists of people, locations, medical conditions, technical specifications, and historical facts, which are present in the samples compared to the others that focus on opinions, discussions, and casual narratives.",
+    "density": 0.0002467483783411866,
+    "confidence": 27.0,
+    "high_act_samples": [
+        {
+            "text": "Note the gastric varices, dilatation of short gastric, and gastroepiploic (GEV) and coronary (CV) veins.",
+            "act": 0.15400032699108124
+        },
+        {
+            "text": "The paper is distributed throughout the Provinces of Phetchaburi and Prachuap Khiri Khan with a focus on the towns of Hua Hin, Cha-Am and Pranburi.",
+            "act": 0.08557099848985672
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07808033376932144
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07781000435352325
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07781000435352325
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07781000435352325
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07781000435352325
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07574280351400375
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.07574280351400375
+        },
+        {
+            "text": "\"Manner of speaking, that be true.\"",
+            "act": 0.07488134503364563
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////\n\nI\u2019m happy taking various public or private transportation while traveling in foreign countries.",
+            "act": 0.06965275853872299
+        },
+        {
+            "text": "Using touch-to-print technology print on the go from mobile devices or wireless printing.",
+            "act": 0.06233537569642067
+        },
+        {
+            "text": "and M.K.",
+            "act": 0.06209763512015343
+        },
+        {
+            "text": "He has done his MBBS from Maulana Azad Medical College, New Delhi.",
+            "act": 0.061516132205724716
+        },
+        {
+            "text": "\"kirk:\" \"Pavel?\"",
+            "act": 0.0560721792280674
+        },
+        {
+            "text": "Some vendors solve it by sharing private keys across thousands of devices.",
+            "act": 0.05530684068799019
+        },
+        {
+            "text": "Each server has the following configuration: 2x E5-2609 V2 Intel Quad-Core Xeon 2.5GHz 10MB Cache, Hard Drive 3x 2TB Enterprise Class SAS2 6Gb/s 7200RPM - 3.5\" on RAID 0, Memory 32GB 1600MHz DDR3 ECC Reg w/Parity DIMM Dual Rank.",
+            "act": 0.05331027880311012
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////////\n\nThe tourist industry brought in $3.7 billion in 2013 accounting for 3.7% of the GDP.",
+            "act": 0.051817554980516434
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.05005316063761711
+        },
+        {
+            "text": "Left main coronary artery (LMCA) damage is a rare but catastrophic complication of cardiac ablation procedures.",
+            "act": 0.04525436833500862
+        },
+        {
+            "text": "Famous People from Saidpur\n\n Baba Tehel Singh (also Bhai Panjab Singh; see Encyclopaedia of Sikhism, entry by Bhai Ardaman Singh Bagrian);\n Baba Dewa Singh (Diwan Singh, d.1884);\n Bhai Narain Singh (d.1906);\n Gyani Bhagat Singh;\n Bhai Avtar Singh and Bhai Gurcharan Singh R\u0101gi;\n Balwant Singh Thind (former Deputy-Chief Minister of Punjab, Ex Revenue/Finance Minister);\n Sardar Hardeep Singh PCS;\n Sardar Hardial Singh IAS;\n Amarjit Singh Thind, District Kapurthala Block Education Officer; \n Avtar Singh Thind, I.R.S., (former Taxation Commissioner of India);\n Hardial Singh Thind, (former Session Judge, Punjab);\n Sukhdev Singh Thind, (Inspector General of Gujarat);\n Karan Avtar Singh Thind IAS (Chief Secretary, Punjab);\n Ravneet Kaur IAS;\n Principal Keval Singh, (Social worker, Philosopher);\n Amandeep Singh (PPLS)Additional District Attorney;\n Principal Lakhbir Singh (PES);\n Yuvraj Singh Thind IIT Bombay, IIM Ahemdabad;\n Bhai Baldeep Singh, The An\u0101d Foundation;\n\nCategory:Villages in Kapurthala district",
+            "act": 0.03747529909014702
+        },
+        {
+            "text": "///////////////////////////////////////////////////////////////////////////////\n//  Copyright Christopher Kormanyos 2007 - 2020.",
+            "act": 0.03249751403927803
+        },
+        {
+            "text": "Yet, domestic violence still occurs in some Catholic households.",
+            "act": 0.03209327533841133
+        },
+        {
+            "text": "In particular, touchscreens have become extremely popular in mobile phones, cellular phones, tablets, Personal Digital Assistants (PDAs), laptops, and other portable computing devices.",
+            "act": 0.031364139169454575
+        },
+        {
+            "text": "But at BMV locations, only checks and cash are accepted.",
+            "act": 0.028219569474458694
+        },
+        {
+            "text": "\" Ciao.\"",
+            "act": 0.021271219477057457
+        },
+        {
+            "text": "\" I see.\"",
+            "act": 0.01907869428396225
+        },
+        {
+            "text": "\"Done.\"",
+            "act": 0.01872997358441353
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.01815817505121231
+        },
+        {
+            "text": "\"Deal.\"",
+            "act": 0.017388466745615005
+        },
+        {
+            "text": "Practicing coordination (e.g.",
+            "act": 0.016664911061525345
+        },
+        {
+            "text": "\"Oh?",
+            "act": 0.014200862497091293
+        },
+        {
+            "text": "indoor PA equipment) and outdoor (e.g.",
+            "act": 0.014018159359693527
+        },
+        {
+            "text": "A:\n\n\u0412 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u043b\u043e\u0433\u0438 nginx- /var/log/nginx/\n\u0412\u043e \u0432\u0442\u043e\u0440\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u043b\u043e\u0433\u0438 \u0441\u0430\u043c\u043e\u0433\u043e push-server - /var/log/push-server/",
+            "act": 0.01374298706650734
+        },
+        {
+            "text": "And she\nlaughs again:\n\n\"Oh!",
+            "act": 0.013374324887990952
+        },
+        {
+            "text": "\"Deal.\"",
+            "act": 0.013164836913347244
+        },
+        {
+            "text": "\"OH, I SEE.\"",
+            "act": 0.01219835877418518
+        },
+        {
+            "text": "(I.e the phone shows the notification despite that it's not applicable to the current account).",
+            "act": 0.011776003986597061
+        },
+        {
+            "text": "So vo bhi ek locha hai.",
+            "act": 0.010955024510622025
+        },
+        {
+            "text": "\"Deal.\"",
+            "act": 0.01073828712105751
+        },
+        {
+            "text": "\"Ah!",
+            "act": 0.01066683605313301
+        },
+        {
+            "text": "cause found together with tumors and dysembryoplasias connected with the teeth development (ameloblastoma, odontoma, odontogenic myxoma, etc.).",
+            "act": 0.010593954473733902
+        },
+        {
+            "text": "\"kirk:\" \"That's it?\"",
+            "act": 0.009070824831724167
+        },
+        {
+            "text": "It is common for individuals with A\u2013T to have more than one of these lung conditions.",
+            "act": 0.00869523361325264
+        },
+        {
+            "text": "Ovarian fibromas occasionally may be bilateral and associated with benign ascites and pleural effusion called Meigs' syndrome or related to a rare hereditary condition known as Gorlin's syndrome.",
+            "act": 0.0073857796378433704
+        },
+        {
+            "text": "\"Ha.\"",
+            "act": 0.004152272362262011
+        },
+        {
+            "text": "\"Aw, that's bullshit.\"",
+            "act": 0.00411807419732213
+        },
+        {
+            "text": ");\n    TSM_ASSERT(\"The second peak should have a signal value of 11.",
+            "act": 0.0025751334615051746
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.00127037288621068
+        },
+        {
+            "text": "From Apple iOS, you can directly print to a Wi-Fi Direct capable HP Printer Setup without a wireless network.",
+            "act": 9.914161637425423e-05
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 193,
+    "label": "Formal and technical text",
+    "attributes": "formal tone, precise language, technical subject matter, structured format",
+    "reasoning": "The primary distinction between the samples lies in the formality, coherence, and technical nature of the text within the samples. The samples consistently exhibit a formal tone, precise language, technical or detailed subject matter, and a structured format. Conversely, the other samples include informal language, subjective opinions, colloquial expressions, and fragmented or incoherent sentences. Examples from the texts in the samples are well-crafted and align with academic or professional norms, while other samples are more casual and disjointed in nature.",
+    "density": 0.0017462192928760895,
+    "confidence": 40.0,
+    "high_act_samples": [
+        {
+            "text": "to always be maintained at above the required N.P.S.H.",
+            "act": 0.18925189971923828
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.15221624076366425
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.15153297781944275
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.14804869890213013
+        },
+        {
+            "text": "These were situated at the back of the CCS in as quiet a place as possible.",
+            "act": 0.1466817557811737
+        },
+        {
+            "text": "The car was an \u201cold school Caprice or .",
+            "act": 0.14010672271251678
+        },
+        {
+            "text": "The no.",
+            "act": 0.13723739981651306
+        },
+        {
+            "text": "Recognition**:Indicators relating to professional or institutional esteem.",
+            "act": 0.13717348873615265
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.13360436260700226
+        },
+        {
+            "text": "This would assist in formulating guidelines on designing and implementation of OFAs aligning with the curricular learning outcomes and students' learning needs.",
+            "act": 0.13080383837223053
+        },
+        {
+            "text": "cm moved.",
+            "act": 0.1304793506860733
+        },
+        {
+            "text": "The No.",
+            "act": 0.13008467853069305
+        },
+        {
+            "text": "1 Vijay Singh, Bo Van Pelt and Lucas Glover.",
+            "act": 0.12908713519573212
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.12267188727855682
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.11835899204015732
+        },
+        {
+            "text": "Oh - OK.",
+            "act": 0.11769168078899384
+        },
+        {
+            "text": "That seems good to me.",
+            "act": 0.110160231590271
+        },
+        {
+            "text": "Jason Ritchie.",
+            "act": 0.10772726684808731
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.10752689838409424
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438\u043b\u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u0432 \u0447\u0451\u043c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430?",
+            "act": 0.10274633765220642
+        },
+        {
+            "text": "Home care aides' improved access to often-existing resources to identify, manage, and eliminate occupational hazards is called for to prevent injuries and address concerns related to the vulnerability of this needed workforce.",
+            "act": 0.09716137498617172
+        },
+        {
+            "text": "\u0412\u044b\u0432\u043e\u0434\u044f \u043b\u043e\u0433\u0438 \u043d\u0430 \u044d\u043a\u0440\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0430 (journalctl -f) \u043e\u0448\u0438\u0431\u043e\u043a \u043d\u0435\u0442.",
+            "act": 0.09616848826408386
+        },
+        {
+            "text": "The objective criteria used objective provided a sound manner to quantitate the improvement in patient vision.",
+            "act": 0.09494374692440033
+        },
+        {
+            "text": "H OME I M P R OVE ME N T\nstrength training, cardiovascular.",
+            "act": 0.09435422718524933
+        },
+        {
+            "text": "Okay.",
+            "act": 0.09297159314155579
+        },
+        {
+            "text": "Preparation & Execution\n\nA business coach can work along the employees, the business owners, you and the managers to identify the needs of the company so that goals can be set and a plan of action be developed.",
+            "act": 0.0904998779296875
+        },
+        {
+            "text": "RT-WHO 260.",
+            "act": 0.08993936330080032
+        },
+        {
+            "text": "Which is running perfectly.",
+            "act": 0.08674057573080063
+        },
+        {
+            "text": "Okay.",
+            "act": 0.08515841513872147
+        },
+        {
+            "text": "Okay.",
+            "act": 0.08515841513872147
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.08485172688961029
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.08418785780668259
+        },
+        {
+            "text": "Totally!",
+            "act": 0.08297403156757355
+        },
+        {
+            "text": "\u2014 Matthew Sheffield",
+            "act": 0.08260869234800339
+        },
+        {
+            "text": "These raters, blinded to student identity and the original classification, received the ECN and a written summary of the corresponding student responses.",
+            "act": 0.08011224120855331
+        },
+        {
+            "text": "okay.",
+            "act": 0.08004239201545715
+        },
+        {
+            "text": "The curriculum\u2026.seems perfect for me!",
+            "act": 0.0771368220448494
+        },
+        {
+            "text": "benefits.",
+            "act": 0.076950803399086
+        },
+        {
+            "text": "msg: Cell-h264: \u0395\u03be\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 4.2 \u03c3\u03b5 \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf %d.%d.",
+            "act": 0.07492255419492722
+        },
+        {
+            "text": "If that makes sense.",
+            "act": 0.07302860915660858
+        },
+        {
+            "text": "But he just never does.",
+            "act": 0.07278268039226532
+        },
+        {
+            "text": "author:\n- Boris Alexeev\n- 'M.",
+            "act": 0.07092206925153732
+        },
+        {
+            "text": "Good.",
+            "act": 0.06911547482013702
+        },
+        {
+            "text": "Alert email sent!",
+            "act": 0.06893818080425262
+        },
+        {
+            "text": "\u201cWe started in \u201911.",
+            "act": 0.0686647891998291
+        },
+        {
+            "text": "This is the primary reason for adding the clips \u201cLG\u201d and \u201cLX\u201d, which represents the \u201cLow-lighting\u201d condition, to the MIDV-2019 dataset.",
+            "act": 0.06791763007640839
+        },
+        {
+            "text": "They were assessed by means of the Needs for Care Assessment Schedule, which articulates the problems and corresponding interventions resulting in a judgement of met or unmet need for treatment or assessment.",
+            "act": 0.06620082259178162
+        },
+        {
+            "text": "He pauses.",
+            "act": 0.06542669236660004
+        },
+        {
+            "text": "Tony Ventrella.",
+            "act": 0.06494416296482086
+        },
+        {
+            "text": "It sounds perfectly normal, too.",
+            "act": 0.06469910591840744
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

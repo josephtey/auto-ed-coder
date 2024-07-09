@@ -1,0 +1,412 @@
+{
+    "index": 258,
+    "label": "Structured technical/formal content",
+    "attributes": "presence of complex structured blocks, consistent syntax patterns, comment blocks, section headers",
+    "reasoning": "The most specific attribute found only in the samples is the presence of complex, structured blocks of technical or formal content. These blocks can be identified by consistent syntax patterns, including comment blocks or section headers (e.g., code comments, event handlers, lifecycle methods, copyright notices, tournament results, and structured data formats). Such structure and detail-oriented sections are absent in the other samples, which consist of conversational, informal, and unstructured textual content.",
+    "density": 0.000773461262877181,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "/*****************************************************************************/\n/* <%= name %>: Event Handlers */\n/*****************************************************************************/\nTemplate.<%= name %>.events({\n});\n\n/*****************************************************************************/\n/* <%= name %>: Helpers */\n/*****************************************************************************/\nTemplate.<%= name %>.helpers({\n});\n\n/*****************************************************************************/\n/* <%= name %>: Lifecycle Hooks */\n/*****************************************************************************/\nTemplate.<%= name %>.onCreated(function () {\n});\n\nTemplate.<%= name %>.onRendered(function () {\n});\n\nTemplate.<%= name %>.onDestroyed(function () {\n});",
+            "act": 0.30760452151298523
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.1728089153766632
+        },
+        {
+            "text": "//******************************************************************************\n//\n// Copyright (c) 2016 Intel Corporation.",
+            "act": 0.1442451775074005
+        },
+        {
+            "text": "\ufeff//******************************************************************************************************\n//  MemoryFileBenchmark.cs - Gbtc\n//\n//  Copyright \u00a9 2014, Grid Protection Alliance.",
+            "act": 0.14208418130874634
+        },
+        {
+            "text": "Tom Okker and Marty Riessen won the men's doubles title at the 1973 Queen's Club Championships tennis tournament, defeating Ray Keldie and Raymond Moore 6\u20134, 7\u20135 in the final.",
+            "act": 0.13489678502082825
+        },
+        {
+            "text": "\"Go and fetch me some wood.\"",
+            "act": 0.1345648169517517
+        },
+        {
+            "text": "Rafael Nadal was made to work in claiming his fifth Mutua Madrid Open title, edging Dominic Thiem 7-6(8), 6-4 in his home capital on Sunday.",
+            "act": 0.11488717794418335
+        },
+        {
+            "text": "Hard Boiled is the single greatest movie from the single greatest action movie director of all time.",
+            "act": 0.10577750205993652
+        },
+        {
+            "text": "An article based on these polling results, released by the Independent, can be found here.",
+            "act": 0.10487990081310272
+        },
+        {
+            "text": "\"Hannibal said he would in his own way.\"",
+            "act": 0.10360272973775864
+        },
+        {
+            "text": "\"Chekov, who is this man?\"",
+            "act": 0.10097583383321762
+        },
+        {
+            "text": "\u2018A System of Natural Philosophy, being a Course of Lectures in Mechanics, Optics, Hydrostatics, and Astronomy,\u2019 2 vols.",
+            "act": 0.09740576148033142
+        },
+        {
+            "text": "FIDDLE",
+            "act": 0.09644551575183868
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.08798115700483322
+        },
+        {
+            "text": "Supplementary Material\n======================\n\n###### Supplemental material\n\nSupplemental material for this article may be found at <http://dx.doi.org/10.1128/AEM.00595-16>.",
+            "act": 0.08672776073217392
+        },
+        {
+            "text": "*\n*/\n\n#include \"gazebo/transport/CallbackHelper.hh\"\n\nusing namespace gazebo;\nusing namespace transport;\n\nunsigned int CallbackHelper::idCounter = 0;\n\n/////////////////////////////////////////////////\nCallbackHelper::CallbackHelper(bool _latching)\n  : latching(_latching), id(idCounter++)\n{\n}\n\n/////////////////////////////////////////////////\nCallbackHelper::~CallbackHelper()\n{\n}\n\n/////////////////////////////////////////////////\nstd::string CallbackHelper::GetMsgType() const\n{\n  return std::string();\n}\n\n/////////////////////////////////////////////////\nbool CallbackHelper::GetLatching() const\n{\n  std::lock_guard<std::mutex> lock(this->latchingMutex);\n  return this->latching;\n}\n\n/////////////////////////////////////////////////\nvoid CallbackHelper::SetLatching(bool _latch)\n{\n  std::lock_guard<std::mutex> lock(this->latchingMutex);\n  this->latching = _latch;\n}\n\n/////////////////////////////////////////////////\nunsigned int CallbackHelper::GetId() const\n{\n  return this->id;\n}",
+            "act": 0.0865832045674324
+        },
+        {
+            "text": "\"ARE YOU MORE PHYSICIAN, DO YOU THINK, OR ASSASSIN?\"",
+            "act": 0.08627311885356903
+        },
+        {
+            "text": "On same-sex marriage, Turnbull indicated it was acceptable for parliament to provide necessary detail after the vote \u2013 such detail is now being debated.",
+            "act": 0.08603528141975403
+        },
+        {
+            "text": "Kyte holds honors journalism and economics degrees from the University of King's College and Dalhousie University and a law degree from the Schulich School of Law at Dalhousie University.",
+            "act": 0.08549238741397858
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.08263934403657913
+        },
+        {
+            "text": "Other entrants \nThe following players received a wildcard into the singles main draw:\n  Ruben Bemelmans\n  Vasek Pospisil\n  Brayden Schnur\n  Benjamin Sigouin\n\nThe following players received entry into the singles main draw using protected rankings:\n  Santiago Giraldo\n  Illya Marchenko\n\nThe following players received entry into the singles main draw as special exempts:\n  Christopher Eubanks\n  Lloyd Harris\n\nThe following players received entry from the qualifying draw:\n  JC Aragone\n  Dan Evans\n  Borna Gojo\n  Thai-Son Kwiatkowski\n\nWomen's singles main draw entrants\n\nSeeds \n\n 1 Rankings as of 6 August 2018.",
+            "act": 0.0796930119395256
+        },
+        {
+            "text": "The Ontology of Suzumiya Haruhi.",
+            "act": 0.07862064242362976
+        },
+        {
+            "text": "\"Chekov, what's the matter with you?\"",
+            "act": 0.078569196164608
+        },
+        {
+            "text": "1973 Queen's Club Championships \u2013 Men's Doubles\n\nJim McManus and Jim Osborne were the defending champions, but did not participate this year.",
+            "act": 0.07737364619970322
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.0767378881573677
+        },
+        {
+            "text": "\" IS THIS MUTINY, THEN?\"",
+            "act": 0.0734039917588234
+        },
+        {
+            "text": "\" THEN DO AS YOU'RE DAMN WELL BID.\"",
+            "act": 0.07280652970075607
+        },
+        {
+            "text": "All stats and rankings used in this article are courtesy of CFBstats.com.",
+            "act": 0.07141570746898651
+        },
+        {
+            "text": "The deadline for candidates to declare for the race is in March.",
+            "act": 0.06958894431591034
+        },
+        {
+            "text": "I think he's the 2nd best QB on the list, at the moment, with Flacco third.",
+            "act": 0.06918356567621231
+        },
+        {
+            "text": "The Ontology of Suzumiya Haruhi.",
+            "act": 0.06785359233617783
+        },
+        {
+            "text": "The Ontology of Suzumiya Haruhi.",
+            "act": 0.06785359233617783
+        },
+        {
+            "text": "\"I'll chase him round the moons of Nibia and round the Antares maelstrom and round perdition's flames before I give him up.\"",
+            "act": 0.06357929855585098
+        },
+        {
+            "text": "Visakhapatnam is the largest city in the state followed by Vijayawada.",
+            "act": 0.06285522133111954
+        },
+        {
+            "text": "The current 30-man roster is as follows:\n\nHooker Agust\u00edn Creevy Hooker Juli\u00e1n Montoya Prop Santiago Garc\u00eda Botta Prop Ramiro Herrera Prop Lucas Noguera Paz Prop Nahuel Tetaz Chaparro Second-row Mat\u00edas Alemanno Second-row Juan Cruz Guilema\u00edn Second-row Guido Petti Second-row Tom\u00e1s Lavanini Back-row Rodrigo B\u00e1ez Back-row Facundo Isa Back-row Juan Manuel Leguizam\u00f3n Back-Row Tom\u00e1s Lezana Back-row Pablo Matera Back-row Javier Ortega Desio Back-row Leonardo Senatore Scrumhalf Mart\u00edn Landajo Fly half Juan Mart\u00edn Hern\u00e1ndez Fly half Nicol\u00e1s S\u00e1nchez Center Gabriel Asc\u00e1rate Center Emiliano Boffelli Center Jer\u00f3nimo De la Fuente Center Santiago Gonz\u00e1lez Iglesias Center Mat\u00edas Moroni Center Mat\u00edas Orlando Wing Santiago Cordero Wing Manuel Montero Fullback Ramiro Moyano Fullback Joaqu\u00edn Tuculet\n\nJaguares Home Ground\n\nHome matches will all be played in Buenos Aires at V\u00e9lez Sarsfield stadium.",
+            "act": 0.062099557369947433
+        },
+        {
+            "text": "Julia Kristeva brings together psychoanalysis, linguistics, semiology, and literary criticism.",
+            "act": 0.061940353363752365
+        },
+        {
+            "text": "So far, only Stefan Bradl has been released by the team, while Loris Baz remains under contract for the MotoGP squad, and Simone Corsi and Lorenzo Baldassari are still officially riders for the Moto2 team.",
+            "act": 0.05984772369265556
+        },
+        {
+            "text": "Factor q(h).",
+            "act": 0.059764862060546875
+        },
+        {
+            "text": "After Felix Hernandez, the recipient (predictably) of a strong projection, the next best non-Iwakuma mark belongs to left-hander Wade Miley, who barely passes the one-win threshold.",
+            "act": 0.059507425874471664
+        },
+        {
+            "text": "\"Darcy, go and prepare the trial.\"",
+            "act": 0.05872558429837227
+        },
+        {
+            "text": "Nori Aoki, Chris Iannetta, and Adam Lind all receive projections in the one-win range.",
+            "act": 0.0577290803194046
+        },
+        {
+            "text": "4033/3413\n**********************************************************************************\n_________________________________________________________________________________\nIdaho State Police is investigating a single vehicle injury crash westbound I84, at mile post 245, near Malta, Idaho.",
+            "act": 0.05649959668517113
+        },
+        {
+            "text": "If only one party is represented in the government, the Vice Chancellor is often the Chancellor's presumed successor.",
+            "act": 0.05311423912644386
+        },
+        {
+            "text": "It dilutes the \u201cfinest prose stylist\u201d tag, given that Roy has published one novel (\u201cimaginative\u201d) so far, and four works of nonfiction (\u201cnot so imaginative\u201d).",
+            "act": 0.051668744534254074
+        },
+        {
+            "text": "Count three consists of a set of eighth triplets, and count four contains two grouping of sixteenth note triplets.",
+            "act": 0.051110513508319855
+        },
+        {
+            "text": "The study was financially supported by the Academy of Finland (KMK and IES), Ella and Georg Ehrnrooth foundation (KMK), Societas Entomologica Helsingforsiensis (KMK), Emil Aaltonen foundation (EJV), and Turun yliopistos\u00e4\u00e4ti\u00f6 (EJV).",
+            "act": 0.050614260137081146
+        },
+        {
+            "text": "John Wiley & Sons, 2006.",
+            "act": 0.04899461194872856
+        },
+        {
+            "text": "\u2018Institutes of Natural Law; being the substance of a Course of Lectures on Grotius de Jure Belli et Pacis,\u2019 2 vols.",
+            "act": 0.04874255880713463
+        },
+        {
+            "text": "Its current five-year term runs until October 2017.",
+            "act": 0.04852060601115227
+        },
+        {
+            "text": "Other entrants \nThe following players received a wildcard into the singles main draw:\n  Fran\u00e7oise Abanda\n  Gabriela Dabrowski\n  Rebecca Marino\n  Katherine Sebov\n\nThe following players received entry from the qualifying draw:\n  Misaki Doi\n  Julia Glushko\n  Giuliana Olmos\n  Martina Trevisan\n\nThe following player received entry as a lucky loser:\n  Maryna Zanevska\n\nChampions\n\nMen's Singles\n\n Dan Evans def.",
+            "act": 0.04784330353140831
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 453,
+    "label": "Multilingual and diverse textual content",
+    "attributes": "Multilingual presence, formal and diverse content, structured sentences, varied topics",
+    "reasoning": "The texts in <positive-samples> come from a wide variety of languages including English, Spanish, Italian, Russian, Chinese, and Portuguese, demonstrating a multilingual nature. In contrast, the texts in <negative-samples> are solely in English. Additionally, the samples contain more formal, structured, and varied content types (questions, statements, quotations, analyses), while the negative samples primarily consist of informal discourse, some repetitive phrases, and dialogue tags.",
+    "density": 0.0015516676868763078,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "Always has.",
+            "act": 0.20794916152954102
+        },
+        {
+            "text": "Sarebbe una chance da non farsi sfuggire.",
+            "act": 0.17341546714305878
+        },
+        {
+            "text": "CUI BONO?",
+            "act": 0.16299808025360107
+        },
+        {
+            "text": "This goal encouraged \"the Blues\" to keep pressing.",
+            "act": 0.1498195230960846
+        },
+        {
+            "text": "Neither the economic recovery, nor the great victory, emerged.",
+            "act": 0.14972618222236633
+        },
+        {
+            "text": "Ma non si fermeranno qui.",
+            "act": 0.134107768535614
+        },
+        {
+            "text": "Will do.",
+            "act": 0.12852245569229126
+        },
+        {
+            "text": "parsed unexpectedly.",
+            "act": 0.12385237216949463
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.12180040776729584
+        },
+        {
+            "text": "\u6700\u8fd1\uff0c\u5f53\u6211\u770b\u5230\u8fd9\u4e2a\u65f6\u662f\u5728\u88d5\u5eca\u574a\u8d70\u8d70\u6d88\u78e8\u70b9\u65f6\u95f4\u3002\u5b83\u8bf4\u201c\u6211\u662f\u4e00\u4e2a\u806a\u660e\u7684\u5783\u573e\u6876\u201d\u3002 \u6709\u4e00\u4e2a\u8bcd\u201c\u5927\u809a\u5b50\u201d\u3002 \u66f4\u591a\u63cf\u8ff0\uff1a\u7d27\u51d1\u591a\u8fbe7\u500d\u7684\u5783\u573e\u3002 \u62ef\u6551\u5730\u7403\u548c\u8282\u7701\u52b3\u52a8\u529b\u3002\u4e5f\u5f88\u806a\u660e\uff0c\u5e76\u4f1a\u5728\u9700\u8981\u6e05\u7406\u7684\u65f6\u5019\u548c\u5730\u70b9\u53d1\u9001\u8b66\u62a5\u3002\u8fd9\u51cf\u5c11\u4e86\u6392\u653e\u5e76\u5e2e\u52a9\u4e86\u5730\u7403\u3002\u662f\u7684\u786e\u633a\u806a\u660e\u7684\u3002\n\nMy Referral Links to recent airdrops | \u6211\u6700\u8fd1\u53c2\u4e0e\u7684\u7a7a\u6295\u8fde\u63a5\n\nI See\ud83d\udc40.",
+            "act": 0.1207880824804306
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 los progresistas y feministas mainstream no han hecho una cr\u00edtica de estos shows, en general?",
+            "act": 0.11699111759662628
+        },
+        {
+            "text": "Al contrario, me parece regresivo.",
+            "act": 0.11073008179664612
+        },
+        {
+            "text": "One can hope.",
+            "act": 0.1066778227686882
+        },
+        {
+            "text": "Any clues?",
+            "act": 0.10500586032867432
+        },
+        {
+            "text": "But a step is a step, nonetheless.",
+            "act": 0.10472779721021652
+        },
+        {
+            "text": "So cautious optimism appears to be in order.",
+            "act": 0.1024114117026329
+        },
+        {
+            "text": "\u201cCan you help?\u201d\n\n\u201cOkaaaaaaaaaaaaaaay\u2026\u201d\n\nWe\nreinforce my home.",
+            "act": 0.10155650973320007
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.09590006619691849
+        },
+        {
+            "text": "Voc\u00ea deve habilitar um painel para visualizar sua sa\u00edda.\"",
+            "act": 0.09445072710514069
+        },
+        {
+            "text": "Find this pin and more on rogers city traditional bow traditional archery crossbow hunting longbow archery bows girls though the lutheran and catholic.",
+            "act": 0.09151065349578857
+        },
+        {
+            "text": "Brexit deal imminent!",
+            "act": 0.0914369598031044
+        },
+        {
+            "text": "As\u00ed que busco la manera de hacer una sentencia diferente con los mismos resultados.",
+            "act": 0.0902901440858841
+        },
+        {
+            "text": "Y bien hecho que fue as\u00ed.",
+            "act": 0.09009075164794922
+        },
+        {
+            "text": "l'\u200baumentare di prodotti come i kit tatuaggi non permanenti, dai pi.",
+            "act": 0.08828718960285187
+        },
+        {
+            "text": "for the problem?",
+            "act": 0.08559799939393997
+        },
+        {
+            "text": "No lo hago como una decisi\u00f3n pol\u00edtica o personal; de hecho, no es algo en lo que piense mucho.",
+            "act": 0.08444365859031677
+        },
+        {
+            "text": "It can.",
+            "act": 0.0828503668308258
+        },
+        {
+            "text": "Este estudio se refiere a la persistencia como la probabilidad de que la inflaci\u00f3n econ\u00f3mica permanezca en un r\u00e9gimen inflacionario alto o en uno bajo.",
+            "act": 0.08196260035037994
+        },
+        {
+            "text": "Un profilo di alto livello, a costo zero.",
+            "act": 0.08130976557731628
+        },
+        {
+            "text": "Brexit deal back on?",
+            "act": 0.08078612387180328
+        },
+        {
+            "text": "Q:\n\n\u041f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 JavaScript\n\n\u0423 \u043c\u0435\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b.",
+            "act": 0.08062812685966492
+        },
+        {
+            "text": "helps a little.",
+            "act": 0.08052228391170502
+        },
+        {
+            "text": "Coalitions cannot be blamed.",
+            "act": 0.07789486646652222
+        },
+        {
+            "text": "Supongo que esa forma de entretenimiento nunca me ha interesado lo suficiente.",
+            "act": 0.07597075402736664
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 el drag es distinto?",
+            "act": 0.07591879367828369
+        },
+        {
+            "text": "Always have.",
+            "act": 0.07584158331155777
+        },
+        {
+            "text": "Si Ham\u00e1s no los hubiese empujado, no hubiese pasado\u00bb, a\u00f1ade Netanyahu.",
+            "act": 0.07131202518939972
+        },
+        {
+            "text": "Biggest need: The defense is solid, but lacks an offensive element.",
+            "act": 0.07062219083309174
+        },
+        {
+            "text": "Broadcast TV has cratered and most Americans have cut the chord.",
+            "act": 0.06861564517021179
+        },
+        {
+            "text": "Hargrove has not made such a showing.",
+            "act": 0.06804477423429489
+        },
+        {
+            "text": "Y esta declaraci\u00f3n me lleva a esta pregunta: \u00bfEn d\u00f3nde est\u00e1n las mujeres dentro de esa \u201ccelebraci\u00f3n\u201d de \u201cdiversidad\u201d?",
+            "act": 0.0664471685886383
+        },
+        {
+            "text": "Leverage?",
+            "act": 0.06578605622053146
+        },
+        {
+            "text": "The XFL football joining and a guarantee of \u201csmashmouth\u201d competition.",
+            "act": 0.0650084838271141
+        },
+        {
+            "text": "^b^En los casos donde aplique, cada sigma hace referencia a la desviaci\u00f3n est\u00e1ndar en el estado de baja inflaci\u00f3n y en el estado de alta inflaci\u00f3n, respectivamente.",
+            "act": 0.0639868974685669
+        },
+        {
+            "text": "^b^En los casos donde aplique, cada sigma hace referencia a la desviaci\u00f3n est\u00e1ndar en el estado de baja inflaci\u00f3n y en el estado de alta inflaci\u00f3n, respectivamente.",
+            "act": 0.0639868974685669
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es lindo o entretenido cuando son hombres los que se mofan de las mujeres a trav\u00e9s del drag?",
+            "act": 0.06286075711250305
+        },
+        {
+            "text": "Biggest?",
+            "act": 0.060507599264383316
+        },
+        {
+            "text": "Beasley left Ji\u2019nan yesterday, we two people communicate, Beasley I think I have made great progress in Shandong play, matured a lot, now has been recognized by the NBA team.\"",
+            "act": 0.060471776872873306
+        },
+        {
+            "text": "Y no puedo dejar de preguntarme lo mismo.",
+            "act": 0.05866711214184761
+        },
+        {
+            "text": "Just how big a blow remains to be seen.",
+            "act": 0.05856804549694061
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

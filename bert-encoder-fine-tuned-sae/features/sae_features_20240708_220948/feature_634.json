@@ -1,0 +1,412 @@
+{
+    "index": 634,
+    "label": "Detailed and context-specific descriptions",
+    "attributes": "Contain specific details, quotes, concrete events, actions, statistics, directions, entities in specific contexts",
+    "reasoning": "Upon analyzing the samples, I noticed that all the texts within the 'positive-samples' contain specific details, concrete events, quotes, and statistics. They often refer to actions, positions, directions, and entities in specific contexts. In contrast, the 'negative-samples' are more opinionated, general, and lack the detailed action-oriented descriptions found in the samples.",
+    "density": 0.0053762675511646995,
+    "confidence": 3.0,
+    "high_act_samples": [
+        {
+            "text": "The new lanes would be elevated and situated between the main lanes and access road in each direction for most of the 15-mile stretch, and the existing highway and access lanes would remain free.",
+            "act": 0.21312405169010162
+        },
+        {
+            "text": "\"He was like, 'Grant?",
+            "act": 0.16637009382247925
+        },
+        {
+            "text": "The surgery was performed laparoscopically under general anesthesia with the patient in a supine and leg-split position.",
+            "act": 0.1617719978094101
+        },
+        {
+            "text": "It makes sense.",
+            "act": 0.1496410369873047
+        },
+        {
+            "text": "Patients were placed in a supine, anti-Trendelenburg position with abducted lower limbs.",
+            "act": 0.14910754561424255
+        },
+        {
+            "text": "They disarmed 500 police personnel and took control of the Police lines.",
+            "act": 0.14887939393520355
+        },
+        {
+            "text": "It PAID for the Metro transit center in front of the Redmond campus.",
+            "act": 0.14076676964759827
+        },
+        {
+            "text": "And Don said: Yes.",
+            "act": 0.14030879735946655
+        },
+        {
+            "text": "Just striped.",
+            "act": 0.13066866993904114
+        },
+        {
+            "text": "Please help.",
+            "act": 0.1302376240491867
+        },
+        {
+            "text": "Makes sense.",
+            "act": 0.12866833806037903
+        },
+        {
+            "text": "So they became Old Righties: conservative in culture and regressive in economics.",
+            "act": 0.12678641080856323
+        },
+        {
+            "text": "The protesters were chanting anti-government slogans and demanded the resignation of Egypt's interior minister.",
+            "act": 0.12142283469438553
+        },
+        {
+            "text": "You got me this for like the last three years, man!",
+            "act": 0.12123890966176987
+        },
+        {
+            "text": "/ C'est lundi.",
+            "act": 0.1201506182551384
+        },
+        {
+            "text": "The R-Line is the first light-rail line to open since the W-Line went operational between Golden and Denver Union Station in 2013.",
+            "act": 0.11653134971857071
+        },
+        {
+            "text": "The men exchanged words, and Brousseau described himself as \"emotional\" at that time.",
+            "act": 0.11573341488838196
+        },
+        {
+            "text": "Dim drawingContext As DrawingContext = drawingVisual.RenderOpen()\n\n\t\t\t' Draw a rectangle into the DrawingContext.",
+            "act": 0.11524089425802231
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.11347265541553497
+        },
+        {
+            "text": "The trial court found that the ramp construction was highway work, and that the highway contract was operative.",
+            "act": 0.11330138891935349
+        },
+        {
+            "text": "The police asks that everyone on Dupont Circle evacuates.",
+            "act": 0.1131313219666481
+        },
+        {
+            "text": "\u2026 'Hey, What I'm gonna lose?",
+            "act": 0.1120433509349823
+        },
+        {
+            "text": "Tot Rep Dem Ind Men Wom\n\nYes 67% 52% 77% 69% 65% 69%\n\nNo 31 47 20 30 34 28\n\nDK/NA 2 1 3 1 1 3\n\n21.",
+            "act": 0.10910053551197052
+        },
+        {
+            "text": "High-risk patients beneficiated antenatally from ultrasonography and MRI.",
+            "act": 0.10901718586683273
+        },
+        {
+            "text": "Make sense now?",
+            "act": 0.1086331382393837
+        },
+        {
+            "text": "The plan will include an interchange with a new alignment of Highway 11, which would replace the existing Algonquin Avenue segment.",
+            "act": 0.10836244374513626
+        },
+        {
+            "text": "Dozens of protesters were injured at the overnight standoff when police attempted to disassemble protesters\u2019 campsites and forcibly remove road blockades.",
+            "act": 0.10760375112295151
+        },
+        {
+            "text": "Minnesota ain\u2019t gonna happen for you.",
+            "act": 0.1064228042960167
+        },
+        {
+            "text": "Please help!",
+            "act": 0.10317341983318329
+        },
+        {
+            "text": "They would reel off five straight games, also snatching the early lead in the second set, and did not look back from there.",
+            "act": 0.10314767062664032
+        },
+        {
+            "text": "The bypassed portion of the current route will be realigned to connect with Lansdowne Avenue.",
+            "act": 0.10242900997400284
+        },
+        {
+            "text": "For all groups, the entire extent of the visible lesion was excised and complete skin coverage achieved.",
+            "act": 0.10155945271253586
+        },
+        {
+            "text": "Gazieva said the women convinced her to drive down the coast.",
+            "act": 0.10017512738704681
+        },
+        {
+            "text": "Shoot 'em\nSomebody vote for something you don't believe in?",
+            "act": 0.10013995319604874
+        },
+        {
+            "text": "So fucking sad, so very fucking sad.",
+            "act": 0.09996776282787323
+        },
+        {
+            "text": "Off 'em and try again.",
+            "act": 0.09989482164382935
+        },
+        {
+            "text": "From 1996, both Crossley-owned operations operated as Crossley Bus Lines.",
+            "act": 0.09885609149932861
+        },
+        {
+            "text": "They said, \"our revolution will be different, our people will be free.",
+            "act": 0.09883797913789749
+        },
+        {
+            "text": "Please help!",
+            "act": 0.09881419688463211
+        },
+        {
+            "text": "The employer had previously contracted to perform construction at a Bethlehem Steel plant.",
+            "act": 0.09859058260917664
+        },
+        {
+            "text": "They \u2018simply left her there\u2019 and drove to a supermarket cashpoint where they used her bank cards to withdraw \u00a3500 of her money.",
+            "act": 0.09843339025974274
+        },
+        {
+            "text": "Shoot 'em\nSomebody cut you off at the exit?",
+            "act": 0.09751909226179123
+        },
+        {
+            "text": "Larry, It is really sad.",
+            "act": 0.09713304787874222
+        },
+        {
+            "text": "Troubledog\n\nNuke 'em from orbit.",
+            "act": 0.09593378752470016
+        },
+        {
+            "text": "Eight of the 18 points in the tie-break were won with outright winners.",
+            "act": 0.09323061257600784
+        },
+        {
+            "text": "He says \"Go to Olympia.",
+            "act": 0.09302543848752975
+        },
+        {
+            "text": "The union considered the building wage scale applicable to the elevated drive, and the contractors considered the highway wage scale applicable.",
+            "act": 0.09187454730272293
+        },
+        {
+            "text": "Dumb!",
+            "act": 0.09171322733163834
+        },
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.09061319380998611
+        },
+        {
+            "text": "Please help!",
+            "act": 0.09029493480920792
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

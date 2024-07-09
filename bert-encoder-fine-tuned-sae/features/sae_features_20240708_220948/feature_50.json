@@ -1,0 +1,412 @@
+{
+    "index": 50,
+    "label": "Descriptive and informative content",
+    "attributes": "formal and structured language, descriptive or informative content, presence of product descriptions, biographical information, and historical context",
+    "reasoning": "The samples contain a wide variety of text sentences, ranging from product descriptions and personal opinions to historical facts and literary references. The key distinguishing attribute here is the predominantly formal and structured nature of the text in the samples, often being descriptive or informative, including but not limited to product descriptions, biographical information, and historical context. In contrast, the other samples are more conversational, casual, and often argumentative or expressive in tone, resembling a debate or discussion.",
+    "density": 0.002040419282436735,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "plastic bodies wmetal chassis.",
+            "act": 0.1704169064760208
+        },
+        {
+            "text": "dolman style fitted bodice with long sleeves.",
+            "act": 0.15949533879756927
+        },
+        {
+            "text": "straight neckline.",
+            "act": 0.1444786787033081
+        },
+        {
+            "text": "Biggest?",
+            "act": 0.1407753974199295
+        },
+        {
+            "text": "Plant Style ?",
+            "act": 0.1387166827917099
+        },
+        {
+            "text": "Satin finish\n.",
+            "act": 0.13429750502109528
+        },
+        {
+            "text": "Reni Maitua is rumoured to quit.",
+            "act": 0.13357792794704437
+        },
+        {
+            "text": "The Antigua Burst finish is divisive, sure, but the matching scratchplate, vintage-style headstock decal and block inlays give the guitar a touch of 60s mojo.",
+            "act": 0.12110739946365356
+        },
+        {
+            "text": "Now with a refined leading edge for more efficient turf interaction and pure feel through impact.",
+            "act": 0.11421160399913788
+        },
+        {
+            "text": "Outright non shared b10 titles since 88?",
+            "act": 0.11249805986881256
+        },
+        {
+            "text": "Tony Ventrella.",
+            "act": 0.1124783605337143
+        },
+        {
+            "text": "At this point, the highway from Sault Ste.",
+            "act": 0.11241808533668518
+        },
+        {
+            "text": "On the prototype side, the No.",
+            "act": 0.11144304275512695
+        },
+        {
+            "text": "Passive Kaiser wrote his bicycle duplications reverently?",
+            "act": 0.11124962568283081
+        },
+        {
+            "text": "Karla Ventura serves paella.",
+            "act": 0.11101493239402771
+        },
+        {
+            "text": "Classic styling.",
+            "act": 0.10980814695358276
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.10676176846027374
+        },
+        {
+            "text": "Satin Youth Wrinkle Cream\n\nSatin Youth Wrinkle Cream.",
+            "act": 0.10291826725006104
+        },
+        {
+            "text": "high round neckline with small stand up colllar.",
+            "act": 0.09866616129875183
+        },
+        {
+            "text": "v neckline with oversize shawl collar.",
+            "act": 0.09833943843841553
+        },
+        {
+            "text": "Blend until smooth.",
+            "act": 0.09797948598861694
+        },
+        {
+            "text": "Rusticated ground floor.",
+            "act": 0.09746579825878143
+        },
+        {
+            "text": "Rusticated ground floor.",
+            "act": 0.09746579825878143
+        },
+        {
+            "text": "Heat?",
+            "act": 0.09727998077869415
+        },
+        {
+            "text": "Industrial Shredder |\n\nHow to buy the best garden shredder - Which?",
+            "act": 0.09684111177921295
+        },
+        {
+            "text": "We worked closely with our factory to achieve an unparalleled level of detail in what we could knit into a sweater, while preserving our commitment to comfort, quality, and timeless design.",
+            "act": 0.09347119927406311
+        },
+        {
+            "text": "The road turns into a narrow valley.",
+            "act": 0.09311364591121674
+        },
+        {
+            "text": "Besides, he would likely lose one Republican for every independent he might\nwin over - so why should he gamble with his base and gain no advantage?\"",
+            "act": 0.09258304536342621
+        },
+        {
+            "text": "Any combination of the previous?",
+            "act": 0.09239974617958069
+        },
+        {
+            "text": "Each had brought the identity of \u2018non-singer\u2019 with them from childhood, but each now had a different relationship with that identity.",
+            "act": 0.09156885743141174
+        },
+        {
+            "text": "Bow River Bridge twinning",
+            "act": 0.09063735604286194
+        },
+        {
+            "text": "Es casi imposible uno no sepa qu\u00e9 es.",
+            "act": 0.08746978640556335
+        },
+        {
+            "text": "Symmetrical front.",
+            "act": 0.08617202937602997
+        },
+        {
+            "text": "NO OPINION?",
+            "act": 0.08612196147441864
+        },
+        {
+            "text": "\"What do you make of her?\"",
+            "act": 0.08570507168769836
+        },
+        {
+            "text": "With the introduction of the Regionalligas in 1994 and the 3.",
+            "act": 0.08554677665233612
+        },
+        {
+            "text": "Cars stranded, flooded on interstate.",
+            "act": 0.08517947793006897
+        },
+        {
+            "text": "John Owens has more for VOA from Beirut.",
+            "act": 0.08432410657405853
+        },
+        {
+            "text": "Gingras also shares some outfit suggestions: \"Pair this piece with one of this summer\u2019s simple white sundresses for a hip and casual daytime look or with a deep plunging top for a more sultry evening look.\"",
+            "act": 0.08377169072628021
+        },
+        {
+            "text": "Box pleats in straight skirt.",
+            "act": 0.08301660418510437
+        },
+        {
+            "text": "Main Menu\n\nOlder Faster Stronger\n\nPraise for Older Faster Stronger:\n\n\u201cWhere does the running life take you?",
+            "act": 0.081947922706604
+        },
+        {
+            "text": "[Effects of kinship between the social male and female on the proportion of extra\u2010pair offspring in the brood.",
+            "act": 0.07996159791946411
+        },
+        {
+            "text": "Albas said.",
+            "act": 0.07935874164104462
+        },
+        {
+            "text": "\"What do you think of her?\"",
+            "act": 0.07866430282592773
+        },
+        {
+            "text": "The midsole is accompanied with AIR model.",
+            "act": 0.07776828110218048
+        },
+        {
+            "text": "A timber-look is timeless and you can play up it\u2019s natural form, versatility and character with these classic design options that will outlast fashion and fads in any budget.",
+            "act": 0.07717835903167725
+        },
+        {
+            "text": "Soria Segarra is a speaker for Merck and 3M.",
+            "act": 0.07640497386455536
+        },
+        {
+            "text": "fitted inky black velvet bodice with bead & 'pearl' feature.",
+            "act": 0.07562729716300964
+        },
+        {
+            "text": "Ingrid Wacker\n\nIngrid Wacker (died 4 August 2009) was a German film editor.",
+            "act": 0.0743340253829956
+        },
+        {
+            "text": "Successor to Shakespeare's fools?",
+            "act": 0.07401999831199646
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

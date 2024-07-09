@@ -1,0 +1,412 @@
+{
+    "index": 27,
+    "label": "Structured and factual diverse content",
+    "attributes": "mixture of content types, presence of dates and times, inclusion of numerical data, domain-specific terminology, topic switching, detailed narratives and updates",
+    "reasoning": "The samples display a mixture of various content types including updates, factual information, and detailed descriptive narratives, often incorporating specialized language or domain-specific terminology. Additionally, they have a high presence of dates, times, numerical data, and longer, more complex sentence structures. They also frequently switch between different topics or sections within a single sample. In contrast, the samples analyzed have a more conversational tone, seem more opinionated or speculative, and lack the structured and varied content seen in the other samples.",
+    "density": 0.00020878708936561942,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "\u201cLt.",
+            "act": 0.22642581164836884
+        },
+        {
+            "text": "Marie, Ontario",
+            "act": 0.1960577517747879
+        },
+        {
+            "text": "Duke Richard Walter John Montagu Douglas Scott and Baron Ralph Douglas-Scott-Montagu are high level members of the Montagu clan.",
+            "act": 0.11246137320995331
+        },
+        {
+            "text": "In Theravada the ultimate goal is the attainment of the state of Nirvana, achieved by practicing the Noble Eightfold Path, thus escaping what is seen as a cycle of suffering.",
+            "act": 0.10540850460529327
+        },
+        {
+            "text": "Update, 3:20 p.m.",
+            "act": 0.08570461720228195
+        },
+        {
+            "text": "Summary\n\nLooking good, it\u2019s awesome to be in 3rd place, but in this extremely tight league we\u2019re only a mere 3 points above the dreaded 10th place which gives relegation.",
+            "act": 0.07617998868227005
+        },
+        {
+            "text": "Of the Dawn Wall\u2019s 32 pitches six are classified as 5.14 \u2014 including two 5.14ds that are now considered Yosemite\u2019s most difficult pitches.",
+            "act": 0.07179407775402069
+        },
+        {
+            "text": "Update, 5:45 p.m.",
+            "act": 0.0677923783659935
+        },
+        {
+            "text": "Update, 4:50 p.m.",
+            "act": 0.06255155801773071
+        },
+        {
+            "text": "The Paiute-Shoshone Indians of the Bishop Community of the Bishop Colony control land just west of the town.",
+            "act": 0.06089966371655464
+        },
+        {
+            "text": "Good: Shot a PB, 971-rated 56 on Crystal Mountain's lower course Sunday.",
+            "act": 0.058556992560625076
+        },
+        {
+            "text": "Update, 4:05 p.m.",
+            "act": 0.056589338928461075
+        },
+        {
+            "text": "10.14.08 at 11:23 am\n\nBurnsy\n\nYou guys can shut the hell up.",
+            "act": 0.05539265647530556
+        },
+        {
+            "text": "Rudy Giuliani is a Knight of the British Empire.",
+            "act": 0.05135570093989372
+        },
+        {
+            "text": "Feb. 9, 00:00 PST - Mar.",
+            "act": 0.05045849084854126
+        },
+        {
+            "text": "\u201cAttends.",
+            "act": 0.04829053208231926
+        },
+        {
+            "text": "Two powerful aftershocks of 6.4 and 6.6 magnitude were also recorded.",
+            "act": 0.04822699353098869
+        },
+        {
+            "text": "The next men\u2019s World Cup race is a night slalom in Schladming on Tuesday.",
+            "act": 0.043460410088300705
+        },
+        {
+            "text": "**",
+            "act": 0.04340153932571411
+        },
+        {
+            "text": "Feb. 8, 00:00 PST - Mar.",
+            "act": 0.037751439958810806
+        },
+        {
+            "text": "There were 2,987 housing units at an average density of 59.4 per square mile (22.9/km\u00b2).",
+            "act": 0.036637309938669205
+        },
+        {
+            "text": "26\n\nSo ordered.",
+            "act": 0.03562307357788086
+        },
+        {
+            "text": "It was a three-way tie going into #18 and I shot the only birdie, to take first.",
+            "act": 0.03430624678730965
+        },
+        {
+            "text": "___\n\n3:30 p.m.",
+            "act": 0.0329480804502964
+        },
+        {
+            "text": "\u201cOh.\u201d\n\n\n\n* * * *\n\nThe pirate crew of the Constellation class ship called the Phoenix slept.",
+            "act": 0.0309542715549469
+        },
+        {
+            "text": "Take the Olympus EX 550, which scored poorly with a rating of 3.",
+            "act": 0.0292305089533329
+        },
+        {
+            "text": "Last night was 2 degrees with a windchill of -20.",
+            "act": 0.027187325060367584
+        },
+        {
+            "text": "It was a potentially catastrophic Category 4 storm but was expected to keep drawing energy from the warm water and intensify to near Category 5, which means winds of 157 mph or higher.",
+            "act": 0.02621544525027275
+        },
+        {
+            "text": "General Wesley Clark is a Knight of the British Empire.",
+            "act": 0.025124602019786835
+        },
+        {
+            "text": "This was most likely only the fourth ascent of Puscanturpa East, which was first climbed in 1986 via the 450m northwest ridge by three members of John Nixon's British expedition.",
+            "act": 0.02302074432373047
+        },
+        {
+            "text": "text is at 5:38 pm EDT.",
+            "act": 0.022447455674409866
+        },
+        {
+            "text": "16\nSuppose 79",
+            "act": 0.02170262485742569
+        },
+        {
+            "text": "Wrote the paper: MK JW EK JA GS FR.",
+            "act": 0.017368260771036148
+        },
+        {
+            "text": "Major Kern W. Dunagan US Army Medal of Honor recipient graduated from Bishop High School.",
+            "act": 0.01644774153828621
+        },
+        {
+            "text": "Round d to six decimal places.",
+            "act": 0.01508079469203949
+        },
+        {
+            "text": "Feb. 8, 00:00 PST - Mar.",
+            "act": 0.01438463106751442
+        },
+        {
+            "text": "They carried her to safety several miles down the mountainside, reaching the staging area set up in the parking lot at the base of the mountain approximately three hours later.",
+            "act": 0.014317478984594345
+        },
+        {
+            "text": "-5*d**2 - 6*",
+            "act": 0.013687830418348312
+        },
+        {
+            "text": "10.14.08 at 10:36 am\n\nMark It Zero\n\nDonner, shut the fuck up.",
+            "act": 0.012210607528686523
+        },
+        {
+            "text": "Chagdud Tulku Rinpoche 1986, and moved to Rigzdin Ling in 1998, when it was first established.",
+            "act": 0.010549027472734451
+        },
+        {
+            "text": "The storms are expected to be part of a system that begins in the southern Plains on Saturday and advancing to the east.",
+            "act": 0.008095119148492813
+        },
+        {
+            "text": "44\nThe decision of the district court is REVERSED.",
+            "act": 0.0073668695986270905
+        },
+        {
+            "text": "***PLEASE READ THIS!",
+            "act": 0.004701282829046249
+        },
+        {
+            "text": "*Each Summoned \"Clone\" is immune to attacks of their element S Rank and Below.",
+            "act": 0.0001224165316671133
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

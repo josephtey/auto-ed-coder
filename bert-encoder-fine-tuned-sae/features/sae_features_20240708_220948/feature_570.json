@@ -1,0 +1,412 @@
+{
+    "index": 570,
+    "label": "Academic or categorical information text",
+    "attributes": "dates, categories, scientific information, technical language, bibliographic references, structured data, academic writing",
+    "reasoning": "The samples within the specified tags contain a mixture of various informational content like dates, categories, scientific information, technical language, bibliographic references, and structured data such as category labels. None of the textual content in the unspecified-sample contain references to academic, scientific, or highly specific factual information. Additionally, the style and structure of these samples more closely resemble documentation or academic writing rather than casual or conversational language.",
+    "density": 0.0013144096307790131,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "January 2, 1945\n\nCategory:1945 elections in Canada\n1945\nCategory:1945 in Ontario",
+            "act": 0.16717547178268433
+        },
+        {
+            "text": "beginning requested mentioned from the fulfillment and not Based.",
+            "act": 0.12556464970111847
+        },
+        {
+            "text": "[First published by Sikh & Punjabi Language Studies in 2010.",
+            "act": 0.12262322008609772
+        },
+        {
+            "text": "(Normalized to unity.",
+            "act": 0.11859236657619476
+        },
+        {
+            "text": "(Witkin, Cal.",
+            "act": 0.11601527780294418
+        },
+        {
+            "text": "Lothbury is a district of the one mile square block in the City of London Corporation.",
+            "act": 0.11591340601444244
+        },
+        {
+            "text": "\u2013 DailyTimes",
+            "act": 0.11369369924068451
+        },
+        {
+            "text": "[MATHUSLA reach for weak- and TeV-scale LLP decays at the HL-LHC.",
+            "act": 0.10888403654098511
+        },
+        {
+            "text": "1 according to the abovementioned process is expressed:\nD(\u201c1\u201d); G(\u201c2\u201d); C(\u201c11\u201d); B(\u201c111\u201d); E (\u201c112\u201d); A(\u201c1111\u201d, \u201c1121\u201d); F(\u201c1112\u201d, \u201c1122\u201d); H(\u201c21\u201d, \u201c113\u201d); I(\u201c211\u201d, \u201c1131\u201d).",
+            "act": 0.10558474063873291
+        },
+        {
+            "text": "1, the concepts A(\u201c1111\u201d, \u201c1112\u201d) and F(\u201c1112\u201d, \u201c1122\u201d) are both at 2 times 1 arc from their ppcg (\u201c111\u201d, \u201c112\u201d).",
+            "act": 0.1052820086479187
+        },
+        {
+            "text": "[MATHUSLA reach for weak- and TeV-scale LLP decays at the HL-LHC.",
+            "act": 0.1046874150633812
+        },
+        {
+            "text": "References \n Canadian Parliamentary Guide, 1912, EJ Chambers\n\nExternal links\n \n \n\nCategory:1873 births\nCategory:1927 deaths\nCategory:Canadian senators from Ontario\nCategory:Liberal Party of Canada MPs\nCategory:Ontario Liberal Party MPPs\nCategory:Liberal Party of Canada senators\nCategory:Members of the House of Commons of Canada from Ontario",
+            "act": 0.10218077152967453
+        },
+        {
+            "text": "[MATHUSLA reach for weak- and TeV-scale LLP decays at the HL-LHC.",
+            "act": 0.09472964704036713
+        },
+        {
+            "text": "Putnam's Sons, 1878).",
+            "act": 0.08678873628377914
+        },
+        {
+            "text": "Get a b**b job, what more do youze females need?\"",
+            "act": 0.0835830569267273
+        },
+        {
+            "text": "GREAT IDEA NRA MORONS.",
+            "act": 0.07850924879312515
+        },
+        {
+            "text": "Line 75 \u2013 Set VIC chip to use normal ROM area for characters.",
+            "act": 0.07842059433460236
+        },
+        {
+            "text": "How do you fillna in place on a column in pandas?",
+            "act": 0.07528743147850037
+        },
+        {
+            "text": "Ehlers and Kundt (Ref.",
+            "act": 0.0735844224691391
+        },
+        {
+            "text": "648382 WILLOW) within the Horizon 2020 Program.",
+            "act": 0.07357309013605118
+        },
+        {
+            "text": "Similarly, we fit the negative superhump periods in two 4-day windows centered on days 112.0 and 121.0.",
+            "act": 0.07165637612342834
+        },
+        {
+            "text": "What \u201cflip\u201d?",
+            "act": 0.06980616599321365
+        },
+        {
+            "text": "The radioactive tailings were the byproduct of uranium and radium refining operations run by Eldorado, a former Crown corporation, between 1933 and 1988.",
+            "act": 0.06900081038475037
+        },
+        {
+            "text": "\"Ain't got a forgiveness to your soul.\"",
+            "act": 0.06895540654659271
+        },
+        {
+            "text": "Triplett\u201d).",
+            "act": 0.06881040334701538
+        },
+        {
+            "text": "ESA Portal Reports are copyright European Space Agency.",
+            "act": 0.06865720450878143
+        },
+        {
+            "text": "\u2014Scott Wise\n\nMore Best Restaurants coverage",
+            "act": 0.06782913208007812
+        },
+        {
+            "text": "References\n\nCategory:Regional Municipality of Wood Buffalo\n\nCategory:Indian reserves in Alberta",
+            "act": 0.06750794500112534
+        },
+        {
+            "text": "\u201cThe sky?\u201d I asked.",
+            "act": 0.06693767011165619
+        },
+        {
+            "text": "We compared the expression and activity of betaCO in duodenum and liver of cattle with pigmented or non-pigmented fat.",
+            "act": 0.06551846861839294
+        },
+        {
+            "text": "The annual radiation dose from\n14C in our bodies is 0.01 mSv/y.",
+            "act": 0.06505196541547775
+        },
+        {
+            "text": "beta,beta'-Carotene-15,15'-oxygenase (betaCO) is an enzyme expressed in different tissues, and it cleaves beta-carotene into retinal.",
+            "act": 0.06449665129184723
+        },
+        {
+            "text": "Also included in this Figure in the fourth panel are the periods of the positive superhumps during 2-day subsets of the residual light curve obtained with Fourier transforms.",
+            "act": 0.06399524956941605
+        },
+        {
+            "text": "These collect heat from the sun and use it to warm water which is stored in a domestic hot water cylinder or thermal store.",
+            "act": 0.06376290321350098
+        },
+        {
+            "text": "Fusion is the process that produces the amazing quantities of energy that pour out of stars, such as our sun.",
+            "act": 0.06372872740030289
+        },
+        {
+            "text": "(The green line represents the sun\u2019s apparent annual path on the sky that is caused by the earth\u2019s revolution.",
+            "act": 0.06342282891273499
+        },
+        {
+            "text": "References\n\nCategory:Lakes of Manitoba",
+            "act": 0.06293340027332306
+        },
+        {
+            "text": "\u201cConservative\u201d, \u201crightwing\u201d, and \u201clibertarian\u201d have their own connotations and historical baggage.",
+            "act": 0.06174922734498978
+        },
+        {
+            "text": "Mystical states can, therefore, be assessed for their truth value.",
+            "act": 0.05911348760128021
+        },
+        {
+            "text": "An oriented graph is a non-symmetrical binary relation in which each element of the relation is represented by a node in the graph and in which each occurrence of the relation R(\u201cn1\u201d, \u201cn2\u201d) reveals, on the graph, an arc oriented from the node \u201cn1\u201d to the node \u201cn2\u201d.",
+            "act": 0.05879765748977661
+        },
+        {
+            "text": "Cell-catalyzed binding of 3H-(-)-trans-7,8-dihydroxy-7,8-dihydrobenzo[a]pyrene to cellular and exogenous DNA and the role of purified human liver epoxide hydrolase.",
+            "act": 0.05740763992071152
+        },
+        {
+            "text": "Then two last address as return value of malloc call, assigned to p1 and copied to p2.",
+            "act": 0.05456359684467316
+        },
+        {
+            "text": "(1942-2 Cum.Bull.",
+            "act": 0.051096849143505096
+        },
+        {
+            "text": "External links\n Tobu Railway Sano Line information page \n\nSano Line\nCategory:Rail transport in Gunma Prefecture\nCategory:Rail transport in Tochigi Prefecture\nCategory:Railway lines opened in 1889\nCategory:1067 mm gauge railways in Japan",
+            "act": 0.05007077753543854
+        },
+        {
+            "text": "The vertical white line is the meridian, an imaginary line that starts at the southern horizon, goes through the overhead \u2013 zenith \u2014 generally through the North Star \u2014 and to the northern horizon.)",
+            "act": 0.04961444064974785
+        },
+        {
+            "text": "Each\n40K decay emits a 1.32-MeV\n\u03b2 , and 50% of the energy is absorbed inside the body.",
+            "act": 0.049476370215415955
+        },
+        {
+            "text": "were not available.",
+            "act": 0.04807025194168091
+        },
+        {
+            "text": "\u0097 Webster's 7th New Collegiate Dictionary.",
+            "act": 0.04797516018152237
+        },
+        {
+            "text": "See also \n Education in Finland\n\nReferences \n\nCategory:Government of Finland\nEducation",
+            "act": 0.047520652413368225
+        },
+        {
+            "text": "\u2018The Credibility of Miracles defended against the Author of Philosophical Essays,\u2019 Cambridge, 1751.",
+            "act": 0.04706237465143204
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

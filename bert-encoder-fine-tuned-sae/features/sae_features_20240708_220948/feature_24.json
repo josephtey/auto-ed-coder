@@ -1,0 +1,412 @@
+{
+    "index": 24,
+    "label": "Contains proper nouns and specifics",
+    "attributes": "contain specific names, organizations, or events, reference studies or legal details, include proper nouns",
+    "reasoning": "Upon examining the samples, it becomes evident that the texts within the first category (positive samples) frequently contain proper nouns, specific names, and detailed references such as organizations, studies, or specific events. They include names of people, organizations, studies, legal references, locations, and other specific proper nouns. Conversely, the texts in the second category (negative samples) are more focused on general discourse, discussions, opinions, and conversational topics without detailed and specific references to proper nouns or specific events. The presence of proper nouns and specific references to concrete entities and events is a substantial and distinctive attribute shared exclusively by the first category.",
+    "density": 0.0017177483261444143,
+    "confidence": 22.0,
+    "high_act_samples": [
+        {
+            "text": "\"Darnell, you got the leg parts, all right?\"",
+            "act": 0.1436135619878769
+        },
+        {
+            "text": "Help!",
+            "act": 0.12832853198051453
+        },
+        {
+            "text": "was supported by the Danish Ministry of Social Affairs and the Interior and grant number 7-12-0195 from Trygfonden.",
+            "act": 0.1243956908583641
+        },
+        {
+            "text": "Help!",
+            "act": 0.12352152913808823
+        },
+        {
+            "text": "Help!",
+            "act": 0.12236978858709335
+        },
+        {
+            "text": "Help!",
+            "act": 0.12236978858709335
+        },
+        {
+            "text": "Plaintiff bears the burden of establishing personal jurisdiction over the defendant.",
+            "act": 0.10209556668996811
+        },
+        {
+            "text": "Penetrating injuries of the cranium and spine are frequent to the civilian neurosurgical practice.",
+            "act": 0.09628110378980637
+        },
+        {
+            "text": "you're in a hospital room.\"",
+            "act": 0.09466078877449036
+        },
+        {
+            "text": "\"Jerry?\"",
+            "act": 0.09198220074176788
+        },
+        {
+            "text": "A diagonal 906 in the player's game board 502 provides a game-play combination {24, 42, 34, 22, 40, 25, 30}.",
+            "act": 0.09091120213270187
+        },
+        {
+            "text": "Nord-Tr\u00f8ndelag Health Study (The HUNT Study) is a collaboration between HUNT Research Centre (Faculty of Medicine, Norwegian University of Science and Technology NTNU), Nord-Tr\u00f8ndelag County Council and The Norwegian Institute of Public Health.",
+            "act": 0.08993163704872131
+        },
+        {
+            "text": "Elder Peterson grabs his companion\u00e2\u20ac\u2122s dick and strokes it gently.",
+            "act": 0.08947485685348511
+        },
+        {
+            "text": "\"If you don't give us this murder, Kevin, somebody else will.\"",
+            "act": 0.08909517526626587
+        },
+        {
+            "text": "Sonny, although growing up in Sydney since he was 15, was also unable to qualify for rugby league's pinnacle the State of Origin series (NSW versus Queensland).",
+            "act": 0.08909498155117035
+        },
+        {
+            "text": "There's a baby in there.'",
+            "act": 0.08884456008672714
+        },
+        {
+            "text": "\"KNEES!\"",
+            "act": 0.08684913069009781
+        },
+        {
+            "text": "Their business strategy is defined by their duty strategy.",
+            "act": 0.08608687669038773
+        },
+        {
+            "text": "at 3-4 (referring to Wellbutrin XL as the innovator drug for Anchen's ANDA); Def.",
+            "act": 0.08523417264223099
+        },
+        {
+            "text": "\"Jerry?\"",
+            "act": 0.08196987211704254
+        },
+        {
+            "text": "Excellent craftsmanship of Chaser makes them popular.",
+            "act": 0.08125750720500946
+        },
+        {
+            "text": "He plays with a ton of\nenergy and has a great willingness to battle.",
+            "act": 0.0797196626663208
+        },
+        {
+            "text": "The cause must be substantial.",
+            "act": 0.07670918852090836
+        },
+        {
+            "text": "\"Listen to me, Barb, we need your help.\"",
+            "act": 0.07660367339849472
+        },
+        {
+            "text": "specific injury-in-fact.",
+            "act": 0.07593284547328949
+        },
+        {
+            "text": "Rangarajan for support.",
+            "act": 0.07422738522291183
+        },
+        {
+            "text": "\" Beth?\"",
+            "act": 0.07351323962211609
+        },
+        {
+            "text": "\"We know 'cause we have a witness who puts you right in there.\"",
+            "act": 0.07345699518918991
+        },
+        {
+            "text": "These neurons contain a receptor system for B.",
+            "act": 0.07254663109779358
+        },
+        {
+            "text": "Thus, CBF has alleged sufficient economic, aesthetic, and recreational injuries to itself, injuries that are both concrete and particularized *71 and actual or imminent, to establish standing to maintain suit.",
+            "act": 0.07186409831047058
+        },
+        {
+            "text": "They are known source of infection, obstruction or stone formation.",
+            "act": 0.07033642381429672
+        },
+        {
+            "text": "The injury in Colorado \"must be direct, not consequential and remote.\"",
+            "act": 0.06944132596254349
+        },
+        {
+            "text": "Staat, Bundesland, Provinz oder Region).",
+            "act": 0.06780217587947845
+        },
+        {
+            "text": "In fact, senior AGP leaders like CM Patowary and PK Mahanta have urged the political parties to come forward to prevent the Congress from attaining power for consecutive third time in Assam.",
+            "act": 0.0659041702747345
+        },
+        {
+            "text": "\" Omar Sharif f!\"",
+            "act": 0.06470458954572678
+        },
+        {
+            "text": "\"Bones?\"",
+            "act": 0.062368545681238174
+        },
+        {
+            "text": "Hence, the instructional error perceived by defendant is nonexistent.",
+            "act": 0.061422716826200485
+        },
+        {
+            "text": "\"Damn it, Jim, what the hell's the matter with you?\"",
+            "act": 0.06024162843823433
+        },
+        {
+            "text": "The Round 5 HSS proposal by Malawi takes an innovative approach, stating that these human resources investments will \\\"yield significant return with increment upgrading health systems productivity, accessibility and equity\\\".",
+            "act": 0.05952351167798042
+        },
+        {
+            "text": "11 and 17 near Kenora and Thunder Bay a priority.",
+            "act": 0.059416498988866806
+        },
+        {
+            "text": "is partially supported by the Danish National Research Foundation under grant DNRF:90.",
+            "act": 0.058935925364494324
+        },
+        {
+            "text": "Pathogenic *E*.",
+            "act": 0.05871448293328285
+        },
+        {
+            "text": "\"Don't lie to me,\" Snape hissed, his fathomless black eyes boring into Harry's.",
+            "act": 0.05799916014075279
+        },
+        {
+            "text": "In the case of The Remnant, there is no cause.",
+            "act": 0.05634703114628792
+        },
+        {
+            "text": "\"Beth, the flask.\"",
+            "act": 0.056222788989543915
+        },
+        {
+            "text": "\"Lee?\"",
+            "act": 0.055235542356967926
+        },
+        {
+            "text": "\"Randy?\"",
+            "act": 0.054951250553131104
+        },
+        {
+            "text": "Is t prime?",
+            "act": 0.054491907358169556
+        },
+        {
+            "text": "Madsen listened quietly as the verdict was read, looking down at the desk in front of him.",
+            "act": 0.054189760237932205
+        },
+        {
+            "text": "[](fx2.gif)) glycine.",
+            "act": 0.05408581346273422
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 243,
+    "label": "Informational and formal text",
+    "attributes": "Detailed sentences, news references, historical notes, external links, formal tone, factual information, citations, categories, encyclopedic content",
+    "reasoning": "The samples appear to contain a variety of sentences and references from news articles, lists of references, historical notes, external links, and formal reports. They are detailed, informational, and usually formal in tone. They contain specific data, factual information, references to institutions, and encyclopedic knowledge, often with citations and categories. In contrast, the other set of samples consist of informal, conversational text often found in discussion forums, characterized by subjective opinions, informal prose, conversational expressions, and sometimes incomplete sentences or thoughts.",
+    "density": 0.008735841625502394,
+    "confidence": 10.0,
+    "high_act_samples": [
+        {
+            "text": "A nyitva tart\u00f3 doh\u00e1nyboltok egyik\u00e9ben a tulajdonos k\u00e1v\u00e9h\u00e1zat rendezett be a sarkon bez\u00e1rt pressz\u00f3 p\u00f3tl\u00e1s\u00e1ra pluszbev\u00e9tel rem\u00e9ny\u00e9ben.",
+            "act": 0.21636538207530975
+        },
+        {
+            "text": "A hat\u00e1lyos rendelkez\u00e9sek szerint a kiszabhat\u00f3 b\u00edrs\u00e1g meghaladja a 200 eur\u00f3t, de komolyabb szab\u00e1lys\u00e9rt\u00e9s eset\u00e9n t\u00f6bb h\u00f3nap b\u00f6rt\u00f6nt kock\u00e1ztat a feleslegesen utc\u00e1n tart\u00f3zkod\u00f3.",
+            "act": 0.20659632980823517
+        },
+        {
+            "text": "The deposed champions are five points behind fourth placed Tottenham, with both teams having three games to play.",
+            "act": 0.2036634087562561
+        },
+        {
+            "text": "Joining United and Serie A champions Juventus in a difficult Group H are Valencia and Young Boys.",
+            "act": 0.20089229941368103
+        },
+        {
+            "text": "References\n\nExternal links\n Geraldine Monk maps her poetry with where she has lived\n A comprehensive list of links to online Monk poems, essays, reviews, recordings\nWest House Books\n\nCategory:1952 births\nCategory:Living people\nCategory:English women poets",
+            "act": 0.19582298398017883
+        },
+        {
+            "text": "A bel\u00fcgyminiszt\u00e9rium honlapj\u00e1r\u00f3l let\u00f6lthet\u0151 formanyomtatv\u00e1nyt sokan nem viszik magukkal az orsz\u00e1gban, de a helyv\u00e1ltoztat\u00e1st igazol\u00f3 enged\u00e9ly az ellen\u0151rz\u00e9s pillanat\u00e1ban a rend\u0151r\u00f6kt\u0151l is elk\u00e9rhet\u0151, \u00e9s el\u0151tt\u00fck kit\u00f6lthet\u0151.",
+            "act": 0.19417229294776917
+        },
+        {
+            "text": "A szint\u00e9n d\u00e9li Bariban a lakosok kilom\u00e9tereket tesznek meg, hogy olcs\u00f3bb \u00fczletbe menjenek bev\u00e1s\u00e1rolni.",
+            "act": 0.19186726212501526
+        },
+        {
+            "text": "Gy\u00f6tr\u0151dnek a n\u00e9gy fal k\u00f6z\u00f6tt az olaszok\n\nA kij\u00e1r\u00e1si tilalmat megszeg\u0151k tov\u00e1bbra is nagy probl\u00e9m\u00e1t jelentenek Olaszorsz\u00e1gban.",
+            "act": 0.1895979642868042
+        },
+        {
+            "text": "Holders of the most League Cup titles at eight, Liverpool last met Chelsea in the 2015 semifinals, a 2-1 aggregate win for the Blues.",
+            "act": 0.1803525984287262
+        },
+        {
+            "text": "Durva influenza vagy vesz\u00e9lyes vil\u00e1gj\u00e1rv\u00e1ny?",
+            "act": 0.17996183037757874
+        },
+        {
+            "text": "M\u00e1sok horg\u00e1szfelszerel\u00e9sben mondt\u00e1k azt a rend\u0151r\u00f6knek, hogy munk\u00e1ba mennek.",
+            "act": 0.1792595535516739
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.17689046263694763
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.17621710896492004
+        },
+        {
+            "text": "The company selling the cards, Expert Pro Network, sells other supplements with dubious claims.",
+            "act": 0.1740521490573883
+        },
+        {
+            "text": "Tot\u00f3zni indultam \u2013 \u00edgy indokolta utc\u00e1n tart\u00f3zkod\u00e1s\u00e1t egy f\u00e9rfi, amikor a rend\u0151r\u00f6k megk\u00e9rdezt\u00e9k t\u0151le, mi\u00e9rt s\u00e9t\u00e1l l\u00e1that\u00f3an ok n\u00e9lk\u00fcl.",
+            "act": 0.16595260798931122
+        },
+        {
+            "text": "References\n\nExternal links \n Sydney Missionary and Bible College\n\nCategory:Seminaries and theological colleges in New South Wales\nCategory:Education in Sydney\nCategory:Bible colleges\nCategory:Educational institutions established in 1916\nCategory:Australian College of Theology",
+            "act": 0.1657092273235321
+        },
+        {
+            "text": "Volt, aki szexboltot keresett, m\u00e1s a tengerparton napozott.",
+            "act": 0.16164448857307434
+        },
+        {
+            "text": "\u201cImpressionist art\u201d, \u201cmysterianism\u201d, \u201catonality\u201d, and even \u201cthe Austrian School\u201d were all terms of mockery before being reclaimed.",
+            "act": 0.16110435128211975
+        },
+        {
+            "text": "A bez\u00e1rts\u00e1g jelentette probl\u00e9m\u00e1kr\u00f3l az Indexnek is mes\u00e9ltek a helysz\u00ednr\u0151l, az MTI pedig arr\u00f3l \u00edr, hogy horg\u00e1szni \u00e9s tengerparti napoz\u00e1sra is kil\u00f3gnak a h\u00e1zi karant\u00e9nb\u00f3l az olaszok.",
+            "act": 0.1608707159757614
+        },
+        {
+            "text": "A r\u00e9szben lez\u00e1rt r\u00f3mai Leonardo da Vinci rep\u00fcl\u0151t\u00e9ren k\u00e9sz\u00fclt felv\u00e9telek is egym\u00e1s hegy\u00e9n-h\u00e1t\u00e1n szorong\u00f3 utasokat mutattak az elrendelt legal\u00e1bb egym\u00e9teres biztons\u00e1gi t\u00e1vols\u00e1g helyett.",
+            "act": 0.1584179848432541
+        },
+        {
+            "text": "M\u00e1s elmagyar\u00e1zta, hogy musz\u00e1j j\u00e1rnia egy keveset, mert esti s\u00e9ta n\u00e9lk\u00fcl nem tud elaludni.",
+            "act": 0.15775111317634583
+        },
+        {
+            "text": "It faces a crisis of legitimacy entirely of its own making.",
+            "act": 0.15756815671920776
+        },
+        {
+            "text": "Sources \nThe History of the Russian Revolution\n\nReferences \n\nCategory:Historical legislatures\nCategory:Russian Provisional Government\nCategory:1917 establishments in Russia\nCategory:1917 disestablishments in Russia",
+            "act": 0.15691721439361572
+        },
+        {
+            "text": "Interest and failure to pay penalty continue to\naccrue on the unpaid assessment.",
+            "act": 0.15511679649353027
+        },
+        {
+            "text": "A telefont\u00e1rsas\u00e1gok adatai szerint Mil\u00e1n\u00f3 lakosainak 43 sz\u00e1zal\u00e9ka m\u00e9g mindig \u201et\u00fal nagy t\u00e1vols\u00e1got\u201d tesz meg, vagyis nem a sarki boltba megy.",
+            "act": 0.15345345437526703
+        },
+        {
+            "text": "Any combination of the previous?",
+            "act": 0.15342846512794495
+        },
+        {
+            "text": "Saucony's shoes, specifically the Jazz is one of the many sneakers eclipsed by more prominent brands' products.",
+            "act": 0.152573823928833
+        },
+        {
+            "text": "A m\u00e1rcius 8-\u00e1n bevezetett \u201ekij\u00e1r\u00e1si tilalom\u201d \u00f3ta t\u00f6bb mint egymilli\u00f3 olaszt ellen\u0151riztek az utc\u00e1kon \u00e9s k\u00f6zutakon.",
+            "act": 0.15250164270401
+        },
+        {
+            "text": "claims that the money it spent should count towards its wage obligations.",
+            "act": 0.14953753352165222
+        },
+        {
+            "text": "Hanson believes Turkish anti-Americanism is deep-rooted and reflects a general hostility to the West in Turkey, now able to find expression as \u2018the historical aberration of Ataturk's secularism\u2019 is exposed and Islamic ideology and perceptions of the global order increasingly permeate Turkish society.",
+            "act": 0.1477540284395218
+        },
+        {
+            "text": "Centre endorsements are a complete smorgasboard.",
+            "act": 0.14589856564998627
+        },
+        {
+            "text": "It has all but transformed into a slur, one which most politicians and opinion makers are uncomfortable being associated with.",
+            "act": 0.14494509994983673
+        },
+        {
+            "text": "Egy \u00e9jjel h\u00e1romkor igazoltatott f\u00e9rfi azt mondta, elromlott a mobiltelefonja, \u00e9s jav\u00edtani viszi \u2013 \u00e1ll az MTI \u00f6sszefoglal\u00f3j\u00e1ban.",
+            "act": 0.14455968141555786
+        },
+        {
+            "text": "An attack can not be dammed host Chelsea in the 17th minute.",
+            "act": 0.14410212635993958
+        },
+        {
+            "text": "Az orsz\u00e1g folyamatosan pr\u00f3b\u00e1l v\u00e9dekezni a j\u00e1rv\u00e1ny ellen, miut\u00e1n karant\u00e9n al\u00e1 helyezt\u00e9k Olaszorsz\u00e1got, m\u00falt h\u00e9ten bez\u00e1rt minden hely, ami nem gy\u00f3gyszert\u00e1r vagy \u00e9lelmiszerbolt.",
+            "act": 0.1434365063905716
+        },
+        {
+            "text": "Which emerged first in these occasions \u2013 business strategy or tax strategy?",
+            "act": 0.14282359182834625
+        },
+        {
+            "text": "Bundesliga S\u00fcd (the southern division of 2.",
+            "act": 0.14131563901901245
+        },
+        {
+            "text": "Historically the region comprising the state was known as Andhraapatha, Andhradesa, Andhraavani, and Andhra vishaya.",
+            "act": 0.14061233401298523
+        },
+        {
+            "text": "Gyne, based on the running of the statute of limitations.",
+            "act": 0.1353277862071991
+        },
+        {
+            "text": "Of all the CAM, exercise had the highest percentage of usage, excluding nutritional supplements.",
+            "act": 0.13532623648643494
+        },
+        {
+            "text": "Az \u00e9szaki Torton\u00e1ban egy f\u00e9rfi azt mondta, az\u00e9rt megy a v\u00e1ros m\u00e1sik fel\u00e9be v\u00e1s\u00e1rolni, mert egy ottani szupermarketben gy\u0171jti a v\u00e1s\u00e1rl\u00f3i pontokat.",
+            "act": 0.1347571462392807
+        },
+        {
+            "text": "VISA to Test Blockchain Payments among Banks; a SWIFT Rival?",
+            "act": 0.13225586712360382
+        },
+        {
+            "text": "Alias: This name is a shortened title of the poll, used when using SEF.",
+            "act": 0.13132596015930176
+        },
+        {
+            "text": "That taqwacore stuff, \u201cislamic\u201d punk etc.",
+            "act": 0.13043956458568573
+        },
+        {
+            "text": "The former Swansea player believes that modern football pundits and fans focus too heavily on goals rather than overall performances.",
+            "act": 0.12995503842830658
+        },
+        {
+            "text": "His books include When the World Outlawed War, and War No More: The Case for Abolition.",
+            "act": 0.12976035475730896
+        },
+        {
+            "text": "See also\n\nReferences\n\nNotes\n\nCitations\n\n \nCategory:Islam-related controversies",
+            "act": 0.12970364093780518
+        },
+        {
+            "text": "Follow Us\n\nFood for Thought:\n\nBased on 2016 IMF Report the fossil fuel industry extracted $700B (billion) in annual tax payer subsidies.",
+            "act": 0.12929457426071167
+        },
+        {
+            "text": "References\n\n4.Land grabbing case on Peela adds twist to SIT probe into mega scam\n\n5.Son shine in politics\n\nCategory:Telugu Desam Party politicians\nCategory:Andhra Pradesh MLAs 2014\u20132019",
+            "act": 0.12664860486984253
+        },
+        {
+            "text": "Competitions\n\nChallenge League:\n\nSchweizer Cup: Knocked out in the quarter-finals by Zurich.",
+            "act": 0.1264469027519226
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

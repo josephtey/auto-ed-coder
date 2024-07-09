@@ -1,0 +1,412 @@
+{
+    "index": 96,
+    "label": "Formal or informational structure",
+    "attributes": "Formally structured, informational, contains references or citations, factual content, historical data, instructions",
+    "reasoning": "Upon examining the samples, it is clear that the positive samples consist of formally structured, informational, or encyclopedic content. They contain references, historical facts, instructions, and other forms of structured data. Meanwhile, the negative samples are informal, contain personal opinions, discussions, or conversational elements, and lack a structured or formal tone.",
+    "density": 0.0017035128427785767,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "Thomas also designated that the property had not yet been recovered.",
+            "act": 0.16119147837162018
+        },
+        {
+            "text": "Shared Laundry (Insuite Laundry With Approval!",
+            "act": 0.14906728267669678
+        },
+        {
+            "text": "References\n\nCitations\n\nBibliography \n \n\nCategory:Armored cavalry regiments of the United States Army\nCategory:Military units and formations established in 1948\nCategory:Military units and formations disestablished in 1950\nCategory:Military units and formations in Massachusetts",
+            "act": 0.13461586833000183
+        },
+        {
+            "text": "Peyto\n\nPeyto may refer to:\nPeyto Lake\nPeyto Peak\nPeyto Glacier\nWilliam Peyto (disambiguation)",
+            "act": 0.12899412214756012
+        },
+        {
+            "text": "Interface Anal.",
+            "act": 0.12318041175603867
+        },
+        {
+            "text": "Internally, to be undisturbed is \u2018concentration\u2019 (ding).",
+            "act": 0.11475979536771774
+        },
+        {
+            "text": "sunken Temple sulfur his spit without preparation.",
+            "act": 0.10451038926839828
+        },
+        {
+            "text": "Independence was restored in 1945.",
+            "act": 0.10364847630262375
+        },
+        {
+            "text": "return 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 # # Send email to you!",
+            "act": 0.09867872297763824
+        },
+        {
+            "text": "Swelling over 1\u20132 days after injury indicates synovial fluid\u2014traumatic synovitis.",
+            "act": 0.0954354926943779
+        },
+        {
+            "text": "\"Mrs.",
+            "act": 0.09443572908639908
+        },
+        {
+            "text": "Lancet Neurol.",
+            "act": 0.09182505309581757
+        },
+        {
+            "text": "The police asks that everyone on Dupont Circle evacuates.",
+            "act": 0.09175260365009308
+        },
+        {
+            "text": "RETENTION: Retain in office while active or until superseded, then destroy by landfill.",
+            "act": 0.09158077836036682
+        },
+        {
+            "text": "Microservices area unit tested and deployed from your configuration information.",
+            "act": 0.08970076590776443
+        },
+        {
+            "text": "Collecting Zone: Regimental Aid Posts and Field Ambulances\n\nRegimental Aid Post.",
+            "act": 0.08960327506065369
+        },
+        {
+            "text": "Provisional App.",
+            "act": 0.0864085927605629
+        },
+        {
+            "text": "Continued site use signifies consent.",
+            "act": 0.0839463546872139
+        },
+        {
+            "text": "Login to your account\n\nWho came from my kitchen?",
+            "act": 0.0809907615184784
+        },
+        {
+            "text": "[J Contin Educ Nurs.",
+            "act": 0.07937965542078018
+        },
+        {
+            "text": "Notes\n\nExternal links\n Official website of the Government of Andhra Pradesh\n\n \nCategory:Environment of Andhra Pradesh",
+            "act": 0.07931091636419296
+        },
+        {
+            "text": "Danske Videnskab.",
+            "act": 0.07760604470968246
+        },
+        {
+            "text": "L'ensembles de donn\u00e9es associ\u00e9s n'ont aucune dimension en commun.",
+            "act": 0.07665571570396423
+        },
+        {
+            "text": "M-DD and NB cleaned, analyzed.",
+            "act": 0.07660823315382004
+        },
+        {
+            "text": "Karza's malevolent essence is scattered to the winds.",
+            "act": 0.07649705559015274
+        },
+        {
+            "text": "Provisional App.",
+            "act": 0.07633362710475922
+        },
+        {
+            "text": "Acer help work area is implied for your solace as it were.",
+            "act": 0.07407177239656448
+        },
+        {
+            "text": "47 children and 29 females among 135 civilians were killed in airstrikes by regime and Russian aircraft and ground fire on Idlib and Aleppo countryside, they were distributed as follows:\n\nBy Russian jets: 94 civilians, including 37 children and 19 females\n\nBy regime helicopters: three civilians, including one female\n\nBy regime jets: 17 civilians, including eight children and four females\n\nBy regime ground shelling: four civilians\n\nBy factions ground shelling on regime-held areas in Aleppo city: 17 civilians, including two children and five females.",
+            "act": 0.07355166226625443
+        },
+        {
+            "text": "Notice abandoned building.",
+            "act": 0.07331504672765732
+        },
+        {
+            "text": "References\n\nBibliography\n\n \n \n \n \n\nCategory:Defunct railway companies of Norway\nCategory:Rail transport in Vestfold\nCategory:Transport companies of Vestfold\nCategory:1934 establishments in Norway\nCategory:1938 disestablishments in Norway\nCategory:Railway companies established in 1934\nCategory:Railway companies disestablished in 1938\nCategory:Companies based in T\u00f8nsberg",
+            "act": 0.0720953419804573
+        },
+        {
+            "text": "Provide United States Dept.",
+            "act": 0.07167515903711319
+        },
+        {
+            "text": "Only can taste the coffee.",
+            "act": 0.07156062126159668
+        },
+        {
+            "text": "See Miss.",
+            "act": 0.07124156504869461
+        },
+        {
+            "text": "Colorado River Water Conservation Dist.",
+            "act": 0.07092693448066711
+        },
+        {
+            "text": "The tingling may be local or continue through your whole body.",
+            "act": 0.07005468755960464
+        },
+        {
+            "text": "Les ensembles de donn\u00e9es associ\u00e9s n'ont aucune dimension compl\u00e8te en commun.",
+            "act": 0.06809353083372116
+        },
+        {
+            "text": "Has a history of point production at lower levels.",
+            "act": 0.06769907474517822
+        },
+        {
+            "text": "### Identifikace vadn\u00e9ho disku\n\nPokud obdr\u017e\u00edte e-mailov\u00e9 upozorn\u011bn\u00ed nebo pokud si sami v\u0161imnete podez\u0159el\u00e9ho chov\u00e1n\u00ed disku, je zapot\u0159eb\u00ed prov\u00e9st kontrolu spr\u00e1vn\u00e9 funk\u010dnosti v\u0161ech disk\u016f.",
+            "act": 0.0663125216960907
+        },
+        {
+            "text": "mixed in there.",
+            "act": 0.0660310685634613
+        },
+        {
+            "text": "The pour of such an ingredient might not be treated as a valid pour by sensor device and might have been discarded.",
+            "act": 0.06583616882562637
+        },
+        {
+            "text": "Intrsting.",
+            "act": 0.06493464857339859
+        },
+        {
+            "text": "\u2022 Take this medicine with or without food.",
+            "act": 0.06485902518033981
+        },
+        {
+            "text": "Provide United States Dept.",
+            "act": 0.06434818357229233
+        },
+        {
+            "text": "Do you perceive badly done that you establish affectionately?",
+            "act": 0.06366913765668869
+        },
+        {
+            "text": "L'homme devra d\u00e9sormais faire face \u00e0 la justice pour relations sexuelles avec un animal ainsi que possession de cannabis.",
+            "act": 0.06288618594408035
+        },
+        {
+            "text": "Hogenson appeals.",
+            "act": 0.06256570667028427
+        },
+        {
+            "text": "References\n\n0F\nCategory:0-4-0T locomotives\nCategory:Sentinel locomotives\nCategory:Compound locomotives\nCategory:Railway locomotives introduced in 1934\nCategory:Standard gauge steam locomotives of Great Britain\nCategory:Scrapped locomotives",
+            "act": 0.0623118132352829
+        },
+        {
+            "text": "immeasurable and anonymous Erny pules to her advertisers sleet or reave Plop.",
+            "act": 0.06186572462320328
+        },
+        {
+            "text": "Drug Deliv.",
+            "act": 0.06173170357942581
+        },
+        {
+            "text": "Your sweets are a staff.",
+            "act": 0.061366207897663116
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

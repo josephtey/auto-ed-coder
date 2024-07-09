@@ -1,0 +1,412 @@
+{
+    "index": 524,
+    "label": "Complex and diverse structured content",
+    "attributes": "Longer sentences, complex structure, diverse topics including scientific and technical content, descriptive language, inclusion of sequences like RNA sequences",
+    "reasoning": "The distinction between the two sets of samples lies in the complexity and diversity of content. The texts in the first set contain longer, more complex sentences often related to scientific, historical, technical, or descriptive contexts as well as including some random sequences like RNA sequences. These texts also have a wider variety of topics and structures. Meanwhile, the texts in the second set are simpler, more conversational, and less structured, focusing on personal opinions and casual dialogues.",
+    "density": 0.0017462192928760895,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.28502556681632996
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.28502556681632996
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.20299875736236572
+        },
+        {
+            "text": "Low pitch gable end slate roof.",
+            "act": 0.1975347399711609
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.17089495062828064
+        },
+        {
+            "text": "Three storeys, stucco faced.",
+            "act": 0.16876715421676636
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.16815167665481567
+        },
+        {
+            "text": "The core sections were built in 1932 and extensions were added on in 1954 and 1962.",
+            "act": 0.14488060772418976
+        },
+        {
+            "text": "The drink recipe specifies the beverage brands and volume.",
+            "act": 0.1388983428478241
+        },
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.11302807182073593
+        },
+        {
+            "text": "The badly pillaged and damaged supporting walls were removed and marked with concrete trim and the arena wall was propped up with concrete panels.",
+            "act": 0.11151524633169174
+        },
+        {
+            "text": "Irregular two storey and attic rendered villa.",
+            "act": 0.1095021441578865
+        },
+        {
+            "text": "1 Vijay Singh, Bo Van Pelt and Lucas Glover.",
+            "act": 0.10722507536411285
+        },
+        {
+            "text": "Heads of State and heads of Governments together with other EU-member ministers will be in place.",
+            "act": 0.10652752965688705
+        },
+        {
+            "text": "Eur J Pharmacol.",
+            "act": 0.10548123717308044
+        },
+        {
+            "text": "Remove the pan from oven and pour the sour cherry juice all over.",
+            "act": 0.10227862745523453
+        },
+        {
+            "text": "\"And now.",
+            "act": 0.10038170963525772
+        },
+        {
+            "text": "Toxicol.",
+            "act": 0.09458234161138535
+        },
+        {
+            "text": "Results from thirty-six working groups from different European countries, USA, and Egypt were presented at the annual meeting.",
+            "act": 0.09453116357326508
+        },
+        {
+            "text": "J Ecol.",
+            "act": 0.09279321879148483
+        },
+        {
+            "text": "2nd edition.",
+            "act": 0.0926867350935936
+        },
+        {
+            "text": "Layer the second sheet and spoon 1/3 of sauce over and spread the filling all over covering the whole surface.",
+            "act": 0.08794581145048141
+        },
+        {
+            "text": "You and Beck and the rest of the idiots who are trying to scare the stupid people into a frenzy make me sick.",
+            "act": 0.08772747218608856
+        },
+        {
+            "text": "Once again the misinformed, uninformed and hate mongering left try to spin it.",
+            "act": 0.08706691116094589
+        },
+        {
+            "text": "Two storeys stuccoed low pitched gable end slate roof.",
+            "act": 0.08574216812849045
+        },
+        {
+            "text": "The project organized two workshops in the context of the EU-funded EQUALSOC network at the MZES in March 2007 and at AIAS, University of Amsterdam in July 2009.",
+            "act": 0.08468391746282578
+        },
+        {
+            "text": "of the 5th European Conference on Computer Systems, 2010, pp.",
+            "act": 0.08295273035764694
+        },
+        {
+            "text": "Running through crisp, multi-coloured Autumn leaves with my favourite Chocolate Lab, Walking in the first snowfall of Winter and tasting snow on my tongue.",
+            "act": 0.08201476186513901
+        },
+        {
+            "text": "The Nomad Unit headed by the Mobile Brigada fired as well hitting everything and anything.",
+            "act": 0.08153784275054932
+        },
+        {
+            "text": "The first with low pitched gables, slate roofs.",
+            "act": 0.07932531088590622
+        },
+        {
+            "text": "The Human Ethics Committee of the \u00d6rebro County Council and the Regional Ethics Committee in Uppsala approved the study.",
+            "act": 0.07868799567222595
+        },
+        {
+            "text": "\"I'll chase him round the moons of Nibia and round the Antares maelstrom and round perdition's flames before I give him up.\"",
+            "act": 0.07836733013391495
+        },
+        {
+            "text": "Biophys.",
+            "act": 0.07805348932743073
+        },
+        {
+            "text": "Biophys.",
+            "act": 0.07783622294664383
+        },
+        {
+            "text": "Biophys.",
+            "act": 0.07693211734294891
+        },
+        {
+            "text": "Biophys.",
+            "act": 0.07693211734294891
+        },
+        {
+            "text": "Nothing else.",
+            "act": 0.07682911306619644
+        },
+        {
+            "text": "Holland, Switzerland,\nGermany and Austraia have lifted their bans.",
+            "act": 0.07652989774942398
+        },
+        {
+            "text": "Current squad\n\nHonours\nThe club's honours:\n\nLeague\n 2.",
+            "act": 0.07533051818609238
+        },
+        {
+            "text": "Enzymol.",
+            "act": 0.07476814836263657
+        },
+        {
+            "text": "In the blue cups of their blossoms the world quaffed oblivion of the\nills of life.",
+            "act": 0.07294987887144089
+        },
+        {
+            "text": "In addition, M10\u2640 also deleted C339 and C340.",
+            "act": 0.07291783392429352
+        },
+        {
+            "text": "This is designed for all the little trolls out there, who are now going to RUSH to f7u12 spamposting and spamvoting up horrific comics which will possibly ruin the seriousness which has taken over this CANCEROUS and HIDEOUS scar upon the internet and possibly the worst abscess in COMIC HISTORY.",
+            "act": 0.0728631243109703
+        },
+        {
+            "text": "PET Syrup Bottles\n\nDetails\n\nThese are THE Plastic alternative to Glass Liquid Medical Bottles.",
+            "act": 0.07286246865987778
+        },
+        {
+            "text": "In a pitcher, muddle the mint leaves in the juice of the lemons and limes.",
+            "act": 0.07261630147695541
+        },
+        {
+            "text": "\"I'm kissing you, burying my face in your neck.\"",
+            "act": 0.07221253961324692
+        },
+        {
+            "text": "Biophys.",
+            "act": 0.07180752605199814
+        },
+        {
+            "text": "can covers areas up to 10 sq.",
+            "act": 0.07011213153600693
+        },
+        {
+            "text": "Worn out?",
+            "act": 0.06913489103317261
+        },
+        {
+            "text": "These were spaced 6 inches apart and took up both ends of the sheds.",
+            "act": 0.0682726800441742
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

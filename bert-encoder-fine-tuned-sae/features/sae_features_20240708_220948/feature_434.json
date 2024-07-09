@@ -1,0 +1,412 @@
+{
+    "index": 434,
+    "label": "Structured and technical information",
+    "attributes": "Structured text segments, statistical data, formal documentation, scientific content, enumerations, sports records, book references",
+    "reasoning": "The samples contain structured text segments related to specific information, such as formal documentation, scientific content, and categorical data. They feature enumerations, statistical data, sports records, scientific notations, book references, and other structured or technical content that intend to inform or document. This is unlike the other samples, which consist mainly of informal discussions, opinions, argumentative content, and anecdotal text, typically found in conversational contexts or forums.",
+    "density": 0.001366606403120418,
+    "confidence": 65.0,
+    "high_act_samples": [
+        {
+            "text": "Let n be r(-",
+            "act": 0.17159660160541534
+        },
+        {
+            "text": "(What year is this?",
+            "act": 0.16834862530231476
+        },
+        {
+            "text": "17358 (Apr.",
+            "act": 0.15539199113845825
+        },
+        {
+            "text": "(Normalized to unity.",
+            "act": 0.15486352145671844
+        },
+        {
+            "text": "(Witkin, Cal.",
+            "act": 0.1526455134153366
+        },
+        {
+            "text": "(Eek!",
+            "act": 0.13479310274124146
+        },
+        {
+            "text": "(Ibid.",
+            "act": 0.13474546372890472
+        },
+        {
+            "text": "(eds.",
+            "act": 0.12357739359140396
+        },
+        {
+            "text": "Coordination problems involving the mouth may make chewing difficult and increase the duration of meals.",
+            "act": 0.11618060618638992
+        },
+        {
+            "text": "Sanitation is, perhaps, the most important work that the M.O.",
+            "act": 0.11190154403448105
+        },
+        {
+            "text": "1992, Numerical Recipes in C, (2nd ed.",
+            "act": 0.10870766639709473
+        },
+        {
+            "text": "Manhattan is surrounded by the Hudson River.",
+            "act": 0.10681279748678207
+        },
+        {
+            "text": "One evening, I was rushed for time and had nothing planned on the weekly menu.",
+            "act": 0.10649450123310089
+        },
+        {
+            "text": "(VISIT: Find a U.S.",
+            "act": 0.10570687055587769
+        },
+        {
+            "text": "American Bulldogs Old Time Poker 473 Bulldogs Old Southern Whites.",
+            "act": 0.1023334190249443
+        },
+        {
+            "text": "Oh, and great Thai, Indian and Vietnamese food.",
+            "act": 0.09962663799524307
+        },
+        {
+            "text": "(Prescott Pharmaceuticals is apparently part of a large, rather shady company known as the Prescott Group, whom Colbert frequently promotes.",
+            "act": 0.09746728837490082
+        },
+        {
+            "text": "(Prescott Pharmaceuticals is apparently part of a large, rather shady company known as the Prescott Group, whom Colbert frequently promotes.",
+            "act": 0.09746728837490082
+        },
+        {
+            "text": "(For the record, I'm not a fan of the hunger strike of indefinite length.",
+            "act": 0.09683025628328323
+        },
+        {
+            "text": "As the brain tries to read both dark areas and highly illuminated areas, reaction time lags and the rider is unable to respond to features on the trail.",
+            "act": 0.09658463299274445
+        },
+        {
+            "text": "September 30: The Tigers and A's, battling for the pennant, play to a 17-inning 9\u20139 tie in one of the most memorable games of the 1907 season.",
+            "act": 0.09653943032026291
+        },
+        {
+            "text": "She feels better (coffee to the rescue!",
+            "act": 0.09313978254795074
+        },
+        {
+            "text": "Someone with well developed core muscles breathes easier, walks, bends, and runs better and is less prone to injury; the body is in proper alignment and does not fatigue as quickly.",
+            "act": 0.0919538140296936
+        },
+        {
+            "text": "Which is running perfectly.",
+            "act": 0.08786791563034058
+        },
+        {
+            "text": "Milwaukee returns home Friday for a game against the Miami Heat.",
+            "act": 0.0875784158706665
+        },
+        {
+            "text": "(Name: EmmaRose; Distinguishing characteristics: None.",
+            "act": 0.08418890088796616
+        },
+        {
+            "text": "The lockout is in its 104th day.",
+            "act": 0.08383869379758835
+        },
+        {
+            "text": "Excellent Product knowledge of Asiatic foods/beverages and preparation preferred.",
+            "act": 0.08178973942995071
+        },
+        {
+            "text": "Joe Sands\n\nJoe Sands is a dad of six.",
+            "act": 0.0807599425315857
+        },
+        {
+            "text": "= Batting Average; HR = Home runs; RBI = Runs batted in\n\nPitching\nNote: G = Games pitched; IP = Innings pitched; W = Wins; L = Losses; ERA = Earned run average; SO = Strikeouts\n\nNotes\n\nReferences\n\n Baseball-Reference.com 1907 Detroit Tigers Regular Season Statistics\n BaseballLibrary 1907 Detroit Tigers Season Summary\n Baseball-Reference.com 1907 World Series Statistics, Box Scores and Play by Play\n Charlton's Baseball Chronology 1907\n\nCategory:Detroit Tigers seasons\nDetroit Tigers season\nCategory:American League champion seasons\nDetroit Tigers\nCategory:1900s in Detroit",
+            "act": 0.07437954097986221
+        },
+        {
+            "text": "Excellent Product knowledge of Asiatic foods/beverages and preparation preferred.",
+            "act": 0.0727117508649826
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.07118150591850281
+        },
+        {
+            "text": "KNOWLEDGE, SKILLS, AND ABILITIES\n\n\u2022Knowledge of Asiatic Culture Service Etiquette, including Japanese preferred.",
+            "act": 0.06912467628717422
+        },
+        {
+            "text": "Air quality \n\nGood air quality is vital for the refuge to maintain itself.",
+            "act": 0.06820638477802277
+        },
+        {
+            "text": "Feeding, swallowing, and nutrition \nFeeding and swallowing can become difficult for people with A\u2013T as they get older.",
+            "act": 0.06802616268396378
+        },
+        {
+            "text": "Sandwishes with cheese (and lots of garlic..",
+            "act": 0.06760973483324051
+        },
+        {
+            "text": "(Chambers, supra, 410 U.S. at pp.",
+            "act": 0.06741420179605484
+        },
+        {
+            "text": "Awful.",
+            "act": 0.0665554404258728
+        },
+        {
+            "text": "Season highlights\n September 27: The Tigers beat the A's, 5\u20134\u201a to take over first place.",
+            "act": 0.06531856209039688
+        },
+        {
+            "text": "-American pit bull terriers.",
+            "act": 0.06524447351694107
+        },
+        {
+            "text": "New England historically plays its best football in November and December.",
+            "act": 0.06429048627614975
+        },
+        {
+            "text": "The menu at 208 Duecento Otto offers classic Italian fare like pizzas, pastas and various antipasti like beef carpaccio and marinated octopus.",
+            "act": 0.06386099755764008
+        },
+        {
+            "text": "Oranges : (_grapes.count ?",
+            "act": 0.06260242313146591
+        },
+        {
+            "text": "(BT, biceps tendon; RC, rotator cuff.",
+            "act": 0.06226499378681183
+        },
+        {
+            "text": "Brow ptosis should be addressed with each advancement.",
+            "act": 0.062244921922683716
+        },
+        {
+            "text": "The cold method which chefs sometimes prefer.",
+            "act": 0.06160745024681091
+        },
+        {
+            "text": "(\n                cur!",
+            "act": 0.06082870811223984
+        },
+        {
+            "text": "Oranges : (_grapes.count ?",
+            "act": 0.059045709669589996
+        },
+        {
+            "text": "(Hemitriccus sp.",
+            "act": 0.058374885469675064
+        },
+        {
+            "text": "On September 30, 1934, O'Leary pinch hit for the St. Louis Browns at age 51 and became one of the oldest players to collect a hit and score a run.",
+            "act": 0.05778868496417999
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

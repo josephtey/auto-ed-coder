@@ -1,0 +1,412 @@
+{
+    "index": 204,
+    "label": "Informative and descriptive content",
+    "attributes": "Descriptions of events, objects, places, interactions, Technical topics, Detailed descriptions, Comparisons, Timelines, Dialogues",
+    "reasoning": "After examining the samples, I identified that texts within the samples have specific thematic and contextual content such as distinct events, objects, places, interactions, technical topics, and are often structured in sentences with detailed descriptions, comparisons, timelines, and dialogues. These texts tend to be informative or descriptive, presenting specific facts or actions. In contrast, the other samples contain text that is more conversational, opinion-based, lacks specific details, and often discusses general or abstract topics in a fragmented manner.",
+    "density": 0.007696651339796243,
+    "confidence": 10.0,
+    "high_act_samples": [
+        {
+            "text": "The bands are surrounded by etched and gilt bands and by raised roped bands.",
+            "act": 0.26900845766067505
+        },
+        {
+            "text": "15",
+            "act": 0.20743051171302795
+        },
+        {
+            "text": "less than 18 years, 18 to 45 years and Over 45 years) and five for income level.",
+            "act": 0.19516277313232422
+        },
+        {
+            "text": "Java SE 8 and SE 9 and later\n\nBuilt-in.",
+            "act": 0.1920405626296997
+        },
+        {
+            "text": "nonprofit concerns prime as this included FXD in the 1840s and 1850s.",
+            "act": 0.18333889544010162
+        },
+        {
+            "text": "Top bars show never grazed and season long grazed CRP.",
+            "act": 0.16128060221672058
+        },
+        {
+            "text": "\"Borja, did you bring yourjunk food?\"",
+            "act": 0.15816646814346313
+        },
+        {
+            "text": "slightly shifted to the left).",
+            "act": 0.15463979542255402
+        },
+        {
+            "text": "Dryad oder Figshare) erfolgen.",
+            "act": 0.15454316139221191
+        },
+        {
+            "text": "Located just a four-hour drive from the city of Turkey, this place also comes in the top when it comes to the honeymoon destination.",
+            "act": 0.13834929466247559
+        },
+        {
+            "text": "\"AND YOUR RAGE IS CLOUDING YOUR JUDGMENT.\"",
+            "act": 0.13370250165462494
+        },
+        {
+            "text": "This is true of their Grandstand Stand-On Mower too.",
+            "act": 0.132821723818779
+        },
+        {
+            "text": "380 ACP with alternating Buffalo Barnes JHP and Buffalo Bore Cast Hardball.",
+            "act": 0.1314934492111206
+        },
+        {
+            "text": "42 seconds.",
+            "act": 0.12736600637435913
+        },
+        {
+            "text": "Apple has proven recession proof throught all the last 10 -12 years.",
+            "act": 0.12715068459510803
+        },
+        {
+            "text": "As noted above the RAP would have stretchers for hand carriage and/or wheeled stretchers.",
+            "act": 0.1265692412853241
+        },
+        {
+            "text": "The average operation time was 135 min; the range in operation time was 107 min to 182 min.",
+            "act": 0.12561637163162231
+        },
+        {
+            "text": "The brush members have triangular cross-sections.",
+            "act": 0.12419343739748001
+        },
+        {
+            "text": "146 mins.",
+            "act": 0.12340002506971359
+        },
+        {
+            "text": "After Pablo Sandoval was hit by a pitch, Buster Posey drove an RBI double deep to right that Upton made an awkward attempt on as it bounced up against the wall.",
+            "act": 0.12285821884870529
+        },
+        {
+            "text": "\"I have two eggs to be cooked.\"",
+            "act": 0.121855728328228
+        },
+        {
+            "text": "For those loci producing weak products (SsHae, Str15 and Str73) 40 iterations were generally used.",
+            "act": 0.12012235075235367
+        },
+        {
+            "text": "DevOps is trying to extend the gains made with meeting business users\u2019 needs to operations\u2019 needs.",
+            "act": 0.11993523687124252
+        },
+        {
+            "text": "ProDrivers.",
+            "act": 0.1194852814078331
+        },
+        {
+            "text": "Luke came up behind her and wrapped his arms around her waste.",
+            "act": 0.11771701276302338
+        },
+        {
+            "text": "And that's really reduced.",
+            "act": 0.11766166239976883
+        },
+        {
+            "text": "Netflix streaming traffic overtook torrent traffic FOUR YEARS AGO.",
+            "act": 0.11765863746404648
+        },
+        {
+            "text": "How long?",
+            "act": 0.11759757250547409
+        },
+        {
+            "text": "Kathy Griffin makes ME laugh.",
+            "act": 0.1170399859547615
+        },
+        {
+            "text": "Docs here\n\n) #4239 .",
+            "act": 0.11683187633752823
+        },
+        {
+            "text": "Such booms typically bust.",
+            "act": 0.11624591797590256
+        },
+        {
+            "text": "This part of field is often called the \u201ctail term\u201d.",
+            "act": 0.11493908613920212
+        },
+        {
+            "text": "While the automobile displaced the horse and buggy, people still use horses and buggies.",
+            "act": 0.11439218372106552
+        },
+        {
+            "text": "It makes it easier to farm \u201cno-till\u201d which conserves water and uses less fuel.",
+            "act": 0.11429097503423691
+        },
+        {
+            "text": "Hannity asked.",
+            "act": 0.11424781382083893
+        },
+        {
+            "text": "The company is cutting its fleet from 30 planes to three, and eliminating routes to smaller villages that relied on RavnAir Connect for travel as well as deliveries and medical services.",
+            "act": 0.11332779377698898
+        },
+        {
+            "text": "The heart of the extras is a making-of documentary (1:33:21) that is as long as the main feature itself.",
+            "act": 0.1125573217868805
+        },
+        {
+            "text": "He has posted a career-best eight consecutive top-10 finishes, has led the Sprint Cup points standings for all three weeks of the 2014 season and his three consecutive top-five finishes have him off to the best start he\u2019s ever had in NASCAR\u2019s top division.",
+            "act": 0.11227919906377792
+        },
+        {
+            "text": "127 mins.",
+            "act": 0.11211853474378586
+        },
+        {
+            "text": "It constitutes 90 or even more miles and stretches from the Central Coast from San Simeon to Carmel.",
+            "act": 0.11053396016359329
+        },
+        {
+            "text": "132 mins.",
+            "act": 0.11018646508455276
+        },
+        {
+            "text": "\"But you've got some serious problems.\"",
+            "act": 0.10999858379364014
+        },
+        {
+            "text": "Robin knows that this is trouble.",
+            "act": 0.10798410326242447
+        },
+        {
+            "text": "J1 Auto Repair offers towing service too.",
+            "act": 0.10778861492872238
+        },
+        {
+            "text": "There are two types of Google Analytics accounts ones for applications like android applications or sometimes web applications, and web sites.",
+            "act": 0.10615121573209763
+        },
+        {
+            "text": "Read More\u2026\n\nFerris has always been sporting a great line of suspension zero turn mowers.",
+            "act": 0.10554489493370056
+        },
+        {
+            "text": "This instrument is having some difficulty.",
+            "act": 0.10539429634809494
+        },
+        {
+            "text": "Albas said.",
+            "act": 0.10533031076192856
+        },
+        {
+            "text": "\"Have you got ants in your pants Jake?\"",
+            "act": 0.10512810945510864
+        },
+        {
+            "text": "Privacy Policy",
+            "act": 0.10424406081438065
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Hmmm.",
+            "act": 0.0
+        },
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

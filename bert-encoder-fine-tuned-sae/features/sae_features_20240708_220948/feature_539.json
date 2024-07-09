@@ -1,0 +1,412 @@
+{
+    "index": 539,
+    "label": "Detailed informative texts",
+    "attributes": "informative content, structured details, neutral or positive tone, specific topics",
+    "reasoning": "The primary distinction between the two sets of texts is that the samples contain informative, structured content related to specific topics such as projects, economic benefits, events, product information, technical details, or general educational information. These texts are often neutral or positive in tone, providing detailed descriptions, facts, or instructions. In contrast, the other samples consist of unstructured, conversational text with informal language, opinions, or fragmented thoughts without a clear informative structure. These tend to be more subjective and cover personal experiences, commentary, and discussions without providing the same level of detailed information.",
+    "density": 0.0004602806288287519,
+    "confidence": 40.0,
+    "high_act_samples": [
+        {
+            "text": "Dorset LEP deliver projects that support and develop infrastructure, housing, skills, enterprise and business growth to achieve long-term economic benefit for all in Dorset.",
+            "act": 0.1600332111120224
+        },
+        {
+            "text": "will be released during Gangan's next Comic Release date which is the 22nd of each month hence, November 22nd.",
+            "act": 0.12759806215763092
+        },
+        {
+            "text": "Energy + full focus on having fun.",
+            "act": 0.1025441363453865
+        },
+        {
+            "text": "2010\u201311 Sussex County Football League\n\nThe 2010\u201311 Sussex County Football League season was the 86th in the history of the competition.",
+            "act": 0.09358207136392593
+        },
+        {
+            "text": "Arianespace is proud to mobilize its entire family of launch vehicles for the benefit of Europe\u2019s ambitions and its independent access to space.",
+            "act": 0.09013534337282181
+        },
+        {
+            "text": "As the world leader in holiday rentals, we offer the largest selection of properties for any travel occasion and every budget.",
+            "act": 0.07886818051338196
+        },
+        {
+            "text": "HFCs and other fluorinated gases are cumulatively responsible for 17 percent of the global warming pollution currently in the atmosphere.",
+            "act": 0.06388721615076065
+        },
+        {
+            "text": "Air quality \n\nGood air quality is vital for the refuge to maintain itself.",
+            "act": 0.06280725449323654
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.06105910614132881
+        },
+        {
+            "text": "As time passes, and both prices and interest rates change, the value of the asset and liability also change.",
+            "act": 0.06029437854886055
+        },
+        {
+            "text": "Direct emissions refer to only those emissions that are associated with owned or controlled sources, such as company owned vehicle fleets and corporate aircraft.",
+            "act": 0.0601213239133358
+        },
+        {
+            "text": "ESO carries out an ambitious programme focused on the design, construction and operation of powerful ground-based observing facilities enabling astronomers to make important scientific discoveries.",
+            "act": 0.0594869963824749
+        },
+        {
+            "text": "About 14.0% of families and 16.3% of the population were below the poverty line, including 23.0% of those under age 18 and 6.0% of those age 65 or over.",
+            "act": 0.057516831904649734
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.05739381164312363
+        },
+        {
+            "text": "% len(new_ids) return paste_hits 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 # # Check Pastebin for keyword list.",
+            "act": 0.0536690317094326
+        },
+        {
+            "text": "Love this post\u2026and I more than 100 % agree with you on every single point you make.",
+            "act": 0.05359045788645744
+        },
+        {
+            "text": "About 11.1% of families and 14.3% of the population were below the poverty line, including 19.9% of those under age 18 and 10.3% of those age 65 or over.",
+            "act": 0.05282358452677727
+        },
+        {
+            "text": "Driving on the highway brings immense joy for people who love driving.",
+            "act": 0.05227024480700493
+        },
+        {
+            "text": "APNA\u2019s vision is a healthy Australia through best practice primary health care nursing.",
+            "act": 0.049064818769693375
+        },
+        {
+            "text": "SHIPPING We deliver the goods all over the world.",
+            "act": 0.04551101103425026
+        },
+        {
+            "text": "Though this guide and will value each week.",
+            "act": 0.04500763490796089
+        },
+        {
+            "text": "The December issue of Shonen GANGAN Monthly will be released November 12th.",
+            "act": 0.04435751959681511
+        },
+        {
+            "text": "Dividends have always played a key part in the returns from the Australian sharemarket.",
+            "act": 0.04243389144539833
+        },
+        {
+            "text": "Its use will maximize welfare of human society.",
+            "act": 0.041930023580789566
+        },
+        {
+            "text": "About 13.6% of families and 22.3% of the population were below the poverty line, including 20.2% of those under the age of eighteen and 24.1% of those sixty five or over.",
+            "act": 0.04113312438130379
+        },
+        {
+            "text": "ESO carries out an ambitious programme focused on the design, construction and operation of powerful ground-based observing facilities enabling astronomers to make important scientific discoveries.",
+            "act": 0.038732897490262985
+        },
+        {
+            "text": "It saves lives and could potentially save yours and the lives of your loved ones.",
+            "act": 0.038133617490530014
+        },
+        {
+            "text": "Always have.",
+            "act": 0.037341807037591934
+        },
+        {
+            "text": "Hands free functionality is designed for the interactive 'on the go' lifestyle and allows safe driving.",
+            "act": 0.03681908920407295
+        },
+        {
+            "text": "LiveTheLife, means living the life you really, really want.",
+            "act": 0.03656890615820885
+        },
+        {
+            "text": "Radon is a naturally occurring radioactive gas formed from the natural decay of uranium and is found in rock, soil and water.",
+            "act": 0.03586779162287712
+        },
+        {
+            "text": "this cuts down emissions and helps the earth.",
+            "act": 0.03243726119399071
+        },
+        {
+            "text": "The section addresses direct GHG emissions from owned or controlled mobile sources and indirect emissions from the use of transportation sources that are owned or controlled by other entities.",
+            "act": 0.030582422390580177
+        },
+        {
+            "text": "The focus of institutions and the scientific community on occupational health and safety is progressively increasing, leading to a continuous regulatory evolution and the development of good practices in safety and prevention, with the aim of reducing costs for businesses and the society.",
+            "act": 0.028712155297398567
+        },
+        {
+            "text": "Please remember its your money use it wisely don\u2019t invest without proper knowledge or without professionals advice.",
+            "act": 0.02802790142595768
+        },
+        {
+            "text": "In 2007, Anuncia\u00e7\u00e3o returned to Pa\u00e7os for a second spell, going on to spend several seasons in the Primeira Liga, mainly as a starter.",
+            "act": 0.02777876891195774
+        },
+        {
+            "text": "For its fourth launch of the year, Arianespace will orbit four more satellites (satellites 23 to 26) for the Galileo constellation.",
+            "act": 0.027153247967362404
+        },
+        {
+            "text": "Always has.",
+            "act": 0.027128400281071663
+        },
+        {
+            "text": "From Japan to the world, and from the world to Japan!\u201d the company works hard every day to supply great products and emotions to fans around the world by participating in anime, doujinshi, and figure exhibition events.",
+            "act": 0.02551431395113468
+        },
+        {
+            "text": "It is making sure about its presence being\nfelt.",
+            "act": 0.025302404537796974
+        },
+        {
+            "text": "Commonly, big sportswear brands have this formula perfected, constantly creating hype and getting more and more consumers hooked on their products, overshadowing other sneakers from other brands that may be as excellent.",
+            "act": 0.0248375553637743
+        },
+        {
+            "text": "Sign up now for our newsletter & get exclusive weekly content that will entertain, educate and inspire your marriage.",
+            "act": 0.02454293705523014
+        },
+        {
+            "text": "Sign up now for our newsletter & get exclusive weekly content that will entertain, educate and inspire your marriage.",
+            "act": 0.02454293705523014
+        },
+        {
+            "text": "Thank you for spending some time with us, and please continue to smile down on the good works your people carry on for you, and on all the complex forces that make good things happen in the world.",
+            "act": 0.022572482004761696
+        },
+        {
+            "text": "The valve connects to the master cylinder and distributes brake fluid to all four wheels, while the adjustable...",
+            "act": 0.022338518872857094
+        },
+        {
+            "text": "Hist\u00f3ria da filosofia na idade m\u00e9dia.",
+            "act": 0.02145748771727085
+        },
+        {
+            "text": "Our IT and media strategies support our University\u2019s commitment to providing the best possible experience for all our students.",
+            "act": 0.020188430324196815
+        },
+        {
+            "text": "There is zero recoil, and they can enjoy shooting pellets time and again.",
+            "act": 0.020184094086289406
+        },
+        {
+            "text": "We currently offer Fast Shipping internationally and great service!",
+            "act": 0.020094888284802437
+        },
+        {
+            "text": "Teens are active in their communities, working hard to make a difference.",
+            "act": 0.019982734695076942
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 143,
+    "label": "Technical and coded content",
+    "attributes": "special symbols, programming code snippets, technical terminology, mixed languages, mathematical expressions, references to technical documentation, references to frameworks",
+    "reasoning": "After analyzing the samples, the most specific attribute that all the texts in the samples share, which none of the texts in the other samples have, is the presence of special symbols, programming code snippets, and technical terminology. The samples contain mixed languages, mathematical expressions, and references to technical documentation and frameworks.",
+    "density": 0.0018743386431686287,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "Newhouse.",
+            "act": 0.1908019781112671
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.1905270516872406
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, PostgreSQL \u05dc\u05d0 \u05e8\u05d2\u05d9\u05e9 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05e9\u05de\u05d5\u05ea \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc, \u05d5\u05d0\u05e0\u05d5 \u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05ea\u05d7\u05d5\u05dd \u05d0\u05ea \u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05ea\u05e0\u05d0\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05e9\u05dd \u05d4\u05e2\u05de\u05d5\u05d3\u05d4 \u05de\u05db\u05d9\u05dc \u05e9\u05d9\u05dc\u05d5\u05d1 \u05e9\u05dc \u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea \u05d5\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.19028742611408234
+        },
+        {
+            "text": "=============================================================\n\nImplication $2\\implies 3$.",
+            "act": 0.19012713432312012
+        },
+        {
+            "text": "Chemical compound, drug   HDAC3 inhibitor, RGFP966             Sigma                 SML1652                                                                                                                                       Inhibitor of HDAC3.",
+            "act": 0.1817835569381714
+        },
+        {
+            "text": "~~~\n[php]\n$post=Post::model()-\u00bbfindByPk(10); // \u05e0\u05e0\u05d9\u05d7 \u05d5\u05d9\u05e9\u05e0\u05d4 \u05d4\u05d5\u05d3\u05e2\u05d4 \u05e2\u05dd \u05d4\u05de\u05e1\u05e4\u05e8 10\n$post-\u00bbdelete(); // \u05de\u05d7\u05e7 \u05d0\u05ea \u05d4\u05e8\u05e9\u05d5\u05de\u05d4 \u05de\u05d4\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd\n~~~\n\n\u05d4\u05e2\u05e8\u05d4, \u05dc\u05d0\u05d7\u05e8 \u05d4\u05de\u05d7\u05d9\u05e7\u05d4, \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d4 AR \u05e0\u05e9\u05d0\u05e8 \u05dc\u05dc\u05d0 \u05e9\u05d9\u05e0\u05d5\u05d9, \u05d0\u05d1\u05dc \u05d0\u05d5\u05ea\u05d4 \u05e9\u05d5\u05e8\u05d4 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05e0\u05de\u05d7\u05e7\u05d4.",
+            "act": 0.17918530106544495
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.1758439838886261
+        },
+        {
+            "text": "\u05d4\u05e8\u05e2\u05d9\u05d5\u05df \u05d4\u05de\u05e7\u05d5\u05e8\u05d9 \u05e9\u05dc \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d4\u05d2\u05d9\u05e2 \u05de  Ruby on Rails.",
+            "act": 0.16566425561904907
+        },
+        {
+            "text": "\u05ea\u05d6\u05e8\u05e7 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d9\u05d4\u05d9\u05d4 \u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05de\u05d5\u05d3\u05d4 \u05d0\u05e9\u05e8 \u05dc\u05d0 \u05e7\u05d9\u05d9\u05de\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.16385577619075775
+        },
+        {
+            "text": "These compounds are members of the phenylisopropylamine class of stimulants and hallucinogens that have a long history of abuse.",
+            "act": 0.16348883509635925
+        },
+        {
+            "text": "- [afterFind|CActiveRecord::afterFind]: \u05de\u05ea\u05d5\u05d3\u05d4 \u05d6\u05d5 \u05e8\u05e6\u05d4 \u05dc\u05d0\u05d7\u05e8 \u05d9\u05e6\u05d9\u05e8\u05ea \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR \u05db\u05ea\u05d5\u05e6\u05d0\u05d4 \u05de\u05d1\u05d9\u05e6\u05d5\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d4.",
+            "act": 0.15595325827598572
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea [CWebLogRoute] \u05d1\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4, \u05d5\u05d0\u05e0\u05d5 \u05e0\u05e8\u05d0\u05d4 \u05d0\u05ea \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e9\u05d1\u05d5\u05e6\u05e2\u05d5 \u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05e2\u05de\u05d5\u05d3.",
+            "act": 0.15405955910682678
+        },
+        {
+            "text": "\u00bb Info|\u05de\u05d9\u05d3\u05e2: \u05d1\u05de\u05d3\u05e8\u05d9\u05da \u05d6\u05d4, \u05d0\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05db\u05dc \u05e9\u05de\u05d5\u05ea \u05d4\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea.",
+            "act": 0.14731541275978088
+        },
+        {
+            "text": "\u05dc\u05de\u05e8\u05d5\u05ea \u05e9\u05d2\u05d9\u05e9\u05d4 \u05d6\u05d5 \u05e0\u05e8\u05d0\u05d9\u05ea \u05de\u05d5\u05e9\u05db\u05ea, \u05d4\u05d9\u05d0 \u05d2\u05d5\u05e8\u05de\u05ea \u05d1\u05e8\u05d5\u05d1 \u05d4\u05de\u05e7\u05e8\u05d9\u05dd \u05dc\u05d1\u05dc\u05d1\u05d5\u05dc, \u05e7\u05d5\u05e0\u05e4\u05dc\u05d9\u05e7\u05d8\u05d9\u05dd \u05d5\u05d1\u05e2\u05d9\u05d5\u05ea \u05e9\u05dc \u05e8\u05d2\u05d9\u05e9\u05d5\u05ea \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea \u05d1\u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea.",
+            "act": 0.14263686537742615
+        },
+        {
+            "text": "Stealing.",
+            "act": 0.13633057475090027
+        },
+        {
+            "text": "Sault Ste.",
+            "act": 0.13621029257774353
+        },
+        {
+            "text": "\u05de\u05d7\u05d9\u05e7\u05ea \u05e8\u05e9\u05d5\u05de\u05d4\n---------------\n\n\u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05de\u05d7\u05d5\u05e7 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d4 AR  \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e7\u05d1\u05dc\u05ea \u05d4\u05de\u05d9\u05d3\u05e2 \u05de\u05d4\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+            "act": 0.1325402557849884
+        },
+        {
+            "text": "\u05db\u05e9\u05d9\u05e9\u05e0\u05dd \u05de\u05e1\u05e4\u05e8 \u05e8\u05d1 \u05e9\u05dc \u05e8\u05e9\u05d5\u05de\u05d5\u05ea \u05d4\u05ea\u05d5\u05d0\u05de\u05d5\u05ea \u05dc\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05d4\u05d5\u05e6\u05d1\u05d5 \u05d1\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05d1\u05d9\u05d0 \u05d0\u05ea \u05db\u05d5\u05dc\u05dd \u05d9\u05d7\u05d3\u05d9\u05d5 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05de\u05ea\u05d5\u05d3\u05d5\u05ea `findAll` \u05d4\u05d1\u05d0\u05d5\u05ea, \u05dc\u05db\u05dc \u05d0\u05d7\u05ea \u05de\u05d4\u05dd \u05d9\u05e9\u05e0\u05d4 \u05de\u05ea\u05d5\u05d3\u05ea `find` \u05ea\u05d5\u05d0\u05de\u05ea, \u05db\u05e4\u05d9 \u05e9\u05db\u05d1\u05e8 \u05d4\u05e1\u05d1\u05e8\u05e0\u05d5.",
+            "act": 0.1289360523223877
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e7\u05d1\u05dc \u05de\u05d9\u05d3\u05e2 \u05d6\u05d4 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d4\u05e4\u05e2\u05dc\u05ea \u05d0\u05e4\u05e9\u05e8\u05d5\u05ea [\u05d4\u05ea\u05d9\u05e2\u05d5\u05d3](/doc/guide/topics.logging) \u05e9\u05dc Yii.",
+            "act": 0.12468099594116211
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.12441065907478333
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.1239081472158432
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d4\u05e7\u05d5\u05d3 \u05d4\u05d1\u05d0 \u05de\u05d2\u05d3\u05d9\u05e8 \u05d0\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d4 (\u05de\u05d0\u05e4\u05d9\u05d9\u05df) `title`:\n\n~~~\n[php]\n$post=new Post;\n$post-\u00bbtitle='\u05d4\u05d5\u05d3\u05e2\u05d4 \u05dc\u05d3\u05d5\u05d2\u05de\u05d0';\n~~~\n\n\u05dc\u05de\u05e8\u05d5\u05ea \u05e9\u05d0\u05e0\u05d5 \u05dc\u05d0 \u05de\u05d2\u05d3\u05d9\u05e8\u05d9\u05dd \u05e1\u05e4\u05e6\u05d9\u05e4\u05d9\u05ea \u05d0\u05ea \u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05df `title` \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 `Post`, \u05d0\u05e0\u05d5 \u05e2\u05d3\u05d9\u05d9\u05df \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d2\u05e9\u05ea \u05d0\u05dc\u05d9\u05d5 \u05d1\u05e7\u05d5\u05d3 \u05d4\u05de\u05d5\u05e6\u05d2 \u05dc\u05de\u05e2\u05dc\u05d4.",
+            "act": 0.12381577491760254
+        },
+        {
+            "text": "Shelters are dangerous places for a kitten's young immune system, so there are many kittens that get sick in shelters.",
+            "act": 0.1219005435705185
+        },
+        {
+            "text": "Modified combination chemotherapy of leukemia.",
+            "act": 0.12014743685722351
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.1175520271062851
+        },
+        {
+            "text": "- [afterConstruct|CActiveRecord::afterConstruct]: \u05de\u05ea\u05d5\u05d3\u05d4 \u05d6\u05d5 \u05e8\u05e6\u05d4 \u05d1\u05db\u05dc \u05e4\u05e2\u05dd \u05e9\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR \u05d7\u05d3\u05e9 \u05e0\u05d5\u05e6\u05e8 \u05d1\u05e2\u05d6\u05e8\u05ea \u05d4\u05d0\u05d5\u05e4\u05e8\u05d8\u05d5\u05e8 `new`.",
+            "act": 0.11687766015529633
+        },
+        {
+            "text": "- [beforeDelete|CActiveRecord::beforeDelete] \u05d5 [afterDelete|CActiveRecord::afterDelete]: \u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d0\u05dc\u05d5 \u05e0\u05e7\u05e8\u05d0\u05d5\u05ea \u05dc\u05e4\u05e0\u05d9 \u05d5\u05d0\u05d7\u05e8\u05d9 \u05de\u05d7\u05d9\u05e7\u05ea \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR.",
+            "act": 0.11680471897125244
+        },
+        {
+            "text": "*\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8* \u05de\u05d9\u05d9\u05e6\u05d2 *\u05e9\u05dd* \u05e9\u05dc \u05ea\u05e0\u05d0\u05d9 \u05d1\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05e9\u05e0\u05d9\u05ea\u05df \u05dc\u05d0\u05d7\u05d3 \u05d0\u05d5\u05ea\u05d4 \u05d1\u05d9\u05d7\u05d3 \u05e2\u05dd \u05e2\u05d5\u05d3 \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d5\u05dc\u05e6\u05e8\u05e3 \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05e9\u05dc AR.",
+            "act": 0.11594340950250626
+        },
+        {
+            "text": "A este respeito faz duas considera\u00e7\u00f5es.",
+            "act": 0.1149769127368927
+        },
+        {
+            "text": "\u05e7\u05e8\u05d9\u05d0\u05ea \u05e8\u05e9\u05d5\u05de\u05d4\n--------------\n\n\u05d1\u05db\u05d3\u05d9 \u05dc\u05e7\u05e8\u05d5\u05d0 \u05de\u05d9\u05d3\u05e2 \u05de\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd, \u05d0\u05e0\u05d5 \u05e7\u05d5\u05e8\u05d0\u05d9\u05dd \u05dc\u05d0\u05d7\u05ea \u05de\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d4 `find` \u05d4\u05d1\u05d0\u05d5\u05ea.",
+            "act": 0.11357702314853668
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.11311188340187073
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.11311188340187073
+        },
+        {
+            "text": "\u05dc\u05de\u05e2\u05e9\u05d4, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 [CActiveRecord::isNewRecord] \u05db\u05d3\u05d9 \u05dc\u05d4\u05d1\u05d7\u05d9\u05df \u05d1\u05de\u05d9\u05d3\u05d4 \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d4 AR \u05d4\u05d9\u05e0\u05d5 \u05d7\u05d3\u05e9 \u05d0\u05d5 \u05dc\u05d0.",
+            "act": 0.11154256761074066
+        },
+        {
+            "text": "Marie International Bridge, which connects with I-75 in Michigan.",
+            "act": 0.11130522936582565
+        },
+        {
+            "text": "\u05de\u05d0\u05d7\u05e8 \u05d5\u05d9\u05e9\u05e0\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d1\u05e0\u05d5\u05d2\u05e2 \u05dc\u05ea\u05d5\u05db\u05df \u05d4\u05d0\u05ea\u05e8, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8 \u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05d1\u05db\u05d3\u05d9 \u05dc\u05e4\u05ea\u05d5\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.10990690439939499
+        },
+        {
+            "text": "Active Record \u05d0\u05d5 \u05d1\u05e7\u05d9\u05e6\u05d5\u05e8 AR \u05d4\u05d9\u05e0\u05d4 \u05e9\u05d9\u05d8\u05ea ORM (Object-Relational Mapping) \u05e0\u05e4\u05d5\u05e6\u05d4.",
+            "act": 0.1082867980003357
+        },
+        {
+            "text": "~~~\n[php]\n$post=Post::model()-\u00bbfindByPk(10);\n$post-\u00bbtitle='\u05db\u05d5\u05ea\u05e8\u05ea \u05d7\u05d3\u05e9';\n$post-\u00bbsave(); // \u05e9\u05de\u05d5\u05e8 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e0\u05d5\u05d9\u05d9\u05dd \u05d1\u05de\u05e1\u05d3\n~~~\n\n\u05db\u05e4\u05d9 \u05e9\u05e0\u05d9\u05ea\u05df \u05dc\u05e8\u05d0\u05d5\u05ea, \u05d0\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d0\u05d5\u05ea\u05d4 \u05de\u05ea\u05d5\u05d3\u05d4 [save()|CActiveRecord::save] \u05db\u05d3\u05d9 \u05dc\u05d1\u05e6\u05e2 \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea \u05d4\u05d5\u05e1\u05e4\u05d4 \u05d5\u05e2\u05d3\u05db\u05d5\u05df.",
+            "act": 0.1074603796005249
+        },
+        {
+            "text": "\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05d6\u05d5 \u05e7\u05d9\u05d9\u05de\u05ea \u05de\u05d2\u05e8\u05e1\u05d0\u05d5\u05ea 1.0.9 \u05d5\u05de\u05e2\u05dc\u05d4.",
+            "act": 0.10652104765176773
+        },
+        {
+            "text": "In Houston, more than 80,000 people were without power and the flood waters closed roads including Interstate 10 and Interstate 45.",
+            "act": 0.1044517233967781
+        },
+        {
+            "text": "\u05d1\u05db\u05de\u05d4 \u05e4\u05e8\u05d9\u05d9\u05de\u05d5\u05d5\u05e8\u05e7\u05d9\u05dd (Frameworks), \u05e4\u05e2\u05d5\u05dc\u05d4 \u05d6\u05d5 \u05e0\u05d9\u05ea\u05e0\u05ea \u05dc\u05d1\u05d9\u05e6\u05d5\u05e2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e7\u05e8\u05d9\u05d0\u05d4 \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05db\u05de\u05d5 `findByNameAndTitle`.",
+            "act": 0.10293188691139221
+        },
+        {
+            "text": "In addition, M10\u2640 also deleted C339 and C340.",
+            "act": 0.0998193621635437
+        },
+        {
+            "text": "Butorphanol is a mixed agonist-antagonist opioid that is widely used in a variety of other species.",
+            "act": 0.09898140281438828
+        },
+        {
+            "text": "Marie, Ontario",
+            "act": 0.09829393029212952
+        },
+        {
+            "text": "A Short Walk To Skytrain & Yaletown.",
+            "act": 0.09807197004556656
+        },
+        {
+            "text": "Methanol is a cheap and potent adulterant of illicit liquors.",
+            "act": 0.09676346927881241
+        },
+        {
+            "text": "Sault Ste.",
+            "act": 0.09307736158370972
+        },
+        {
+            "text": "The Intel Xeon 5160, (Intel\u2019s Top Dual-Core Xeon.)",
+            "act": 0.09177902340888977
+        },
+        {
+            "text": "\"'\",\n        );\n    }\n}\n~~~\n\n\u05db\u05e2\u05ea, \u05d4\u05d1\u05d9\u05d8\u05d5\u05d9 \u05d4\u05d1\u05d0 \u05d0\u05d5\u05d8\u05d5\u05de\u05d8\u05d9\u05ea \u05de\u05e9\u05ea\u05de\u05e9 \u05d1\u05ea\u05e0\u05d0\u05d9 \u05db\u05e4\u05d9 \u05e9\u05d4\u05d5\u05d2\u05d3\u05e8 \u05dc\u05de\u05e2\u05dc\u05d4:\n\n~~~\n[php]\n$contents=Content::model()-\u00bbfindAll();\n~~~\n\n\u05d9\u05e9 \u05dc\u05d6\u05db\u05d5\u05e8 \u05e9\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05ea\u05e7\u05e3 \u05e8\u05e7 \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05de\u05e1\u05d5\u05d2 `SELECT`.",
+            "act": 0.09043364226818085
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05e8\u05db\u05d9\u05dd \u05d1\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e9\u05dc \u05d8\u05d1\u05dc\u05d4 \u05db\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.09002544730901718
+        },
+        {
+            "text": "- [beforeFind|CActiveRecord::beforeFind]: \u05de\u05ea\u05d5\u05d3\u05d4 \u05d6\u05d5 \u05e8\u05e6\u05d4 \u05dc\u05e4\u05e0\u05d9 \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d7\u05d3 \u05de\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d4 `find` (\u05dc\u05d3\u05d5\u05d2\u05de\u05d0 `find`, `findAll`).",
+            "act": 0.08989857882261276
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

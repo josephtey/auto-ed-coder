@@ -1,0 +1,412 @@
+{
+    "index": 155,
+    "label": "Detailed and structured scientific content",
+    "attributes": "detailed information, scientific studies references, structured writing, mathematical notations, animal behavior observations, citations",
+    "reasoning": "The samples within the positive category frequently provide detailed information, references to specific scientific studies, observations of animal behavior, and structured writing including mathematical notations and citations. In contrast, the samples within the negative category are more informal, conversational, and focused on personal opinions or anecdotes without the same level of structured detail or scientific references.",
+    "density": 0.0005029870789262649,
+    "confidence": 45.0,
+    "high_act_samples": [
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.15238693356513977
+        },
+        {
+            "text": "Summer visitors should watch for roseate spoonbills, magnificent frigatebirds and least terns.",
+            "act": 0.1176644116640091
+        },
+        {
+            "text": "The bushland is home to many species of Australian fauna including eastern grey kangaroos, bandicoots, goannas, possums and koalas.",
+            "act": 0.07777363806962967
+        },
+        {
+            "text": "Come and see our great range of backyard chickens, dwarf rabbits, quails and guinea pigs, & lots of coops and hutches to go.",
+            "act": 0.07676686346530914
+        },
+        {
+            "text": "Siamese cats love to \u201ctalk,\u201d especially to their owners.",
+            "act": 0.07626581937074661
+        },
+        {
+            "text": "This suggests fairy\u2010wrens use extra\u2010pair reproduction to avoid close inbreeding.",
+            "act": 0.07562373578548431
+        },
+        {
+            "text": "Tell her I think of her and the other people in your village often; I\u2019ll remember them always.",
+            "act": 0.07475563138723373
+        },
+        {
+            "text": "Inter-sharing and intra-sharing methodologies can be implemented in this daily online lottery game.",
+            "act": 0.07187945395708084
+        },
+        {
+            "text": "Then, (3) we quantified the overall effects of infidelity on the probability of offspring being inbred, testing whether extra\u2010pair offspring were less likely to be inbred than within\u2010pair offspring, and comparing observed levels of inbreeding with those that would have occurred had females always been entirely faithful.",
+            "act": 0.07145310938358307
+        },
+        {
+            "text": "Li (John Wiley&Sons, NY, 1994) p.766.",
+            "act": 0.06895128637552261
+        },
+        {
+            "text": "Thus, tickets in the second price category 2604 can be seeded in the appropriate playing combinations according to odds that the lottery operator sets.",
+            "act": 0.0665314644575119
+        },
+        {
+            "text": "In each of these camping gear categories, shoppers can choose from different brands.",
+            "act": 0.06620584428310394
+        },
+        {
+            "text": "The data provided represent mean\u2009+\u2009SD from 3 animals in each group.",
+            "act": 0.06569302827119827
+        },
+        {
+            "text": "Thus, tickets in the first price category 2602 can be seeded in the appropriate playing combinations according to odds that the lottery operator sets.",
+            "act": 0.06537787616252899
+        },
+        {
+            "text": "&& eat!",
+            "act": 0.06496603041887283
+        },
+        {
+            "text": "\u00b6 9 [Am.",
+            "act": 0.05798487737774849
+        },
+        {
+            "text": "McFadden, P. J., concurs specially.",
+            "act": 0.05526232346892357
+        },
+        {
+            "text": "Fanchon thinks and thinks.",
+            "act": 0.049877364188432693
+        },
+        {
+            "text": "In contrast, the Mandarte Island song sparrows have substantially higher frequency of closely related pairings: 21.4% of pairings were between first\u2010 or second\u2010order relatives (Reid et\u00a0al.",
+            "act": 0.044909197837114334
+        },
+        {
+            "text": "Then we have: $$\\big(\\eta(w^{\\alpha}-w^{\\beta})\\big)_{\\overline{z}}=\\alpha\\overline{\\big(\\eta(w^{\\alpha}-w^{\\beta})\\big)_{z}}+\\lambda,$$\n\nhere $\\lambda=\\eta(\\alpha-\\beta)\\overline{w^{\\beta}_{z}}+\\eta_{\\overline{z}}\\big((w^{\\alpha}-w^{\\beta})-\\alpha\\overline{(w^{\\alpha}-w^{\\beta})}\\big)$.",
+            "act": 0.04412547126412392
+        },
+        {
+            "text": "Staples, \u00b6 18.",
+            "act": 0.04363437369465828
+        },
+        {
+            "text": "Stewart.",
+            "act": 0.04067235067486763
+        },
+        {
+            "text": "Stewart",
+            "act": 0.040174491703510284
+        },
+        {
+            "text": "~ Wot ?",
+            "act": 0.04014204815030098
+        },
+        {
+            "text": "Siamese cats are especially social creatures and if they don\u2019t receive the attention they want, they will seek it.",
+            "act": 0.039186492562294006
+        },
+        {
+            "text": "Staples, \u00b6 24.",
+            "act": 0.039046432822942734
+        },
+        {
+            "text": "Staples, \u00b6 24.",
+            "act": 0.039046432822942734
+        },
+        {
+            "text": "Matthew Gillespie\n\nMatthew Gillespie (24 December 1869 \u2013 unknown) was a Scottish footballer.",
+            "act": 0.038580477237701416
+        },
+        {
+            "text": "In support of inbreeding\u2010avoidance, studies of four other fairy\u2010wren species reported higher infidelity when social partners are more closely related (splendid fairy\u2010wrens, Brooker et\u00a0al.",
+            "act": 0.03846852108836174
+        },
+        {
+            "text": "Additionally, we showed that within\u2010pair and extra\u2010pair offspring can differ in their probability of being inbred, even when infidelity occurs for reasons apparently unrelated to inbreeding avoidance.",
+            "act": 0.038438815623521805
+        },
+        {
+            "text": "(eds.",
+            "act": 0.03839293494820595
+        },
+        {
+            "text": "In one embodiment, the secondary prizes can vary according to the number of matched numbers and the price of the instant online lottery ticket.",
+            "act": 0.037818580865859985
+        },
+        {
+            "text": "Staples, \u00b6 24.",
+            "act": 0.036752913147211075
+        },
+        {
+            "text": "I have gone through periods of self-loathing and discouragement that I couldn\u2019t change those things about myself that seem the most objectionable.",
+            "act": 0.03674650564789772
+        },
+        {
+            "text": "Henry Wade, Dist.",
+            "act": 0.03651268407702446
+        },
+        {
+            "text": "\"H. CLAY EVANS",
+            "act": 0.035499852150678635
+        },
+        {
+            "text": "The females were then subsequently mated with a male rabbit.",
+            "act": 0.035297077149152756
+        },
+        {
+            "text": "niqaeli: Elsewhere:\n\nCameron: I can't believe you!",
+            "act": 0.03528040274977684
+        },
+        {
+            "text": "[Effects of kinship between the social male and female on the proportion of extra\u2010pair offspring in the brood.",
+            "act": 0.03478018566966057
+        },
+        {
+            "text": "(c).",
+            "act": 0.03473873808979988
+        },
+        {
+            "text": "Staples, \u00b6 22.",
+            "act": 0.034362662583589554
+        },
+        {
+            "text": "Staples, \u00b6 22.",
+            "act": 0.034362662583589554
+        },
+        {
+            "text": "A.J.",
+            "act": 0.03349405154585838
+        },
+        {
+            "text": "\"I was, like, 'I can't tell my friends.",
+            "act": 0.032199207693338394
+        },
+        {
+            "text": "Davy Jones played for the Tigers from 1906 to 1912.",
+            "act": 0.03163269907236099
+        },
+        {
+            "text": "Kees Akerboom Jr.\n\nKees Akerboom Jr. (born 20 December 1983)  is a retired Dutch basketball player.",
+            "act": 0.031017949804663658
+        },
+        {
+            "text": "She is quite right; animals have\nalways talked, and they talk still; but they only talk to their\nfriends.",
+            "act": 0.030842607840895653
+        },
+        {
+            "text": "~~~\nDuilen\nJSONP coming soon!",
+            "act": 0.030385484918951988
+        },
+        {
+            "text": "Industrial Shredder |\n\nHow to buy the best garden shredder - Which?",
+            "act": 0.02996881864964962
+        },
+        {
+            "text": "Zevenbergen, H.A.",
+            "act": 0.027211390435695648
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

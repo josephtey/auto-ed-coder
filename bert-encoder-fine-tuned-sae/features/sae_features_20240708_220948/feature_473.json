@@ -1,0 +1,412 @@
+{
+    "index": 473,
+    "label": "Dental and scientific content",
+    "attributes": "Contains dental or scientific content, Uses technical language",
+    "reasoning": "Upon examining the samples within both sets, it becomes clear that the samples in the first set share a common theme related to dental or scientific topics and technical language. None of the samples in the second set pertain to such topics. Therefore, the most specific attribute that encompasses all texts in the first set and none in the second is that they discuss dental, scientific, or technical information.",
+    "density": 0.0003226709562923209,
+    "confidence": 40.0,
+    "high_act_samples": [
+        {
+            "text": "Non-syndromic fourth molars are more common than syndromic fourth molars.",
+            "act": 0.16272567212581635
+        },
+        {
+            "text": "These would be prosthodontists.",
+            "act": 0.0768108144402504
+        },
+        {
+            "text": "D and E. Sagittal CBCT images show a complex odontoma superior to the maxillary right fourth molar (arrow head).",
+            "act": 0.07664476335048676
+        },
+        {
+            "text": "Comparing with subtrochanteric osteotomy, the procedure of no femoral shortening osteotomy is easier technically.",
+            "act": 0.07533063739538193
+        },
+        {
+            "text": "[@B10] Fourth molars are the second most common type of supernumerary tooth.11-13 They are usually solitary and impacted distal to the third molar,[@B11][@B12][@B14] and are more often located in the maxilla than in the mandible.",
+            "act": 0.07462774962186813
+        },
+        {
+            "text": ";\n\n                Ok(Some(Box::new(Expr::Arrow(ArrowExpr {\n                    span: span!",
+            "act": 0.07330506294965744
+        },
+        {
+            "text": "1110001011110010111\nIn base 2, what is 100000 - -110011011000001101000100?",
+            "act": 0.068844273686409
+        },
+        {
+            "text": "\";\n $body = \"Hi,\\n\\nHow are you?",
+            "act": 0.057367753237485886
+        },
+        {
+            "text": "1111000101111110\n-3883c (base 13) to base 11\n-716a8\nConvert 11000110010011110000001 (base 2) to base 5.",
+            "act": 0.051759202033281326
+        },
+        {
+            "text": "-11748\nIn base 2, what is 11 + 11101000100101011100110100?",
+            "act": 0.04813694208860397
+        },
+        {
+            "text": "HA H3 H4 CA SK S5 C5 S6 C4 D5 H7 HJ HQ\nD4 D7 SJ DT H6 S9 CT HK C8 C9 D6 CJ C6\nS8 D8 C2 S2 S3 C7 H5 DJ S4 DQ DK D9 D3\nH9 DA SA CK CQ C3 HT SQ H8 S7 ST H2 D2\nHA H2 HK H3 HQ H4 HJ H5 H6 H7 H8 H9 DA\nD2 DK D3 DQ D4 DJ D5 D6 D7 D8 D9 CA C2\nCK C3 CQ C4 CJ C5 C6 C7 C8 C9 SA S2 SK\nS3 SQ S4 SJ S5 S6 S7 S8 S9 CT ST HT DT\nHA HJ HK H3 HQ H4 H2 H5 H6 H7 H8 H9 DA\nD2 DK D3 DQ D4 DJ D5 D6 D7 D8 D9 CA C2\nCK C3 CQ C4 CJ C5 C6 C7 C8 C9 SA S2 SK\nS3 SQ S4 SJ S5 S6 S7 S8 S9 CT ST HT DT\nHA H2 H3 H4 H5 H6 H7 H8 H9 HT HJ HQ HK\nDA D2 D3 D4 D5 D6 D7 D8 D9 DT DJ DQ DK\nCA C2 C3 C4 C5 C6 C7 C8 C9 CT CJ CQ CK\nSA S2 S3 S4 S5 S6 S7 S8 S9 ST SJ SQ SK\nHA SA HJ HQ SJ SQ SK CJ CQ CK DJ DQ DK\nHK DA CA H2 H3 H4 H5 H6 H7 H8 H9 HT D2\nD3 D4 D5 D6 D7 D8 D9 DT C2 C3 C4 C5 C6\nC7 C8 C9 CT S2 S3 S4 S5 S6 S7 S8 S9 ST\n#",
+            "act": 0.04597128927707672
+        },
+        {
+            "text": "Facebook Twitter Pinterest \u2018The banter is the easiest part.\u2019 Photograph: ABC\n\nInitially their characters were a married couple.",
+            "act": 0.04212253540754318
+        },
+        {
+            "text": "They use the ditzy \u201cteenage girl\u201d voices featured so prominantly in high school cartoons ever since the 80s",
+            "act": 0.041791729629039764
+        },
+        {
+            "text": "11011110001111100101111\nIn base 3, what is -1021102220011 + 1010121?",
+            "act": 0.04086320102214813
+        },
+        {
+            "text": ";\n                Ok(Box::new(Expr::Assign(AssignExpr {\n                    span: span!",
+            "act": 0.03936871141195297
+        },
+        {
+            "text": "-1011000110001010000011\nIn base 10, what is -664 - -4382?",
+            "act": 0.038926124572753906
+        },
+        {
+            "text": "Cone-beam computed tomographic images demonstrate a fourth molar distopalatal to the maxillary right third molar (B) and a fused tooth connecting with the third molar by the dental pulp (C and D).",
+            "act": 0.03711702674627304
+        },
+        {
+            "text": ";\n\n                return Ok(Box::new(Expr::Arrow(ArrowExpr {\n                    span: span!",
+            "act": 0.035337239503860474
+        },
+        {
+            "text": "Colbert Report is not an O'Reilly parody.",
+            "act": 0.03425397351384163
+        },
+        {
+            "text": "-12220111012\nIn base 2, what is 10001 - -10010001000111000101110011?",
+            "act": 0.03418231010437012
+        },
+        {
+            "text": "Hey everyone!",
+            "act": 0.034155432134866714
+        },
+        {
+            "text": "Higher alkyl or xe2x80x9cfattyxe2x80x9d alkyl groups include those having about 10 to 24, in one embodiment 12 to 18, carbon atoms.",
+            "act": 0.031292885541915894
+        },
+        {
+            "text": "Let n = 2 - m. Is n composite?",
+            "act": 0.030945448204874992
+        },
+        {
+            "text": "Is n composite?",
+            "act": 0.030562089756131172
+        },
+        {
+            "text": ";\n\n            Ok(Box::new(Expr::Yield(YieldExpr {\n                span: span!",
+            "act": 0.03041173331439495
+        },
+        {
+            "text": "Hagar7\n\nThank you.",
+            "act": 0.02811114303767681
+        },
+        {
+            "text": "\\mid P(k+1, n-1) $\nThen $ n $ times a multiple of $ (n-1)!",
+            "act": 0.02608642168343067
+        },
+        {
+            "text": "Let n be r(-",
+            "act": 0.024400686845183372
+        },
+        {
+            "text": "-a8a236\nIn base 2, what is 11011110001111011100010 - -1001101?",
+            "act": 0.02392464689910412
+        },
+        {
+            "text": "The Europeans are very civil until they are not.",
+            "act": 0.021991198882460594
+        },
+        {
+            "text": "Supernumerary teeth and odontomas may be the expression of the same pathologic process.",
+            "act": 0.0210514385253191
+        },
+        {
+            "text": ";\n\n                return Ok(Box::new(Expr::Arrow(ArrowExpr {\n                    span: span!",
+            "act": 0.018521523103117943
+        },
+        {
+            "text": "Summary of findings and future perspectives {#Sec18}\n===========================================\n\n*Mycoplasma ovis* is presently recognised as a haemotropic Mycoplasma (haemoplasma) in the Genus *Mycoplasma* (class Mollicutes).",
+            "act": 0.017336957156658173
+        },
+        {
+            "text": "The button occasionally gives an answer before Colbert even presses it.",
+            "act": 0.016554484143853188
+        },
+        {
+            "text": "The button occasionally gives an answer before Colbert even presses it.",
+            "act": 0.016554484143853188
+        },
+        {
+            "text": "Synthesis, isomerism, and fungicidal activity against potato diseases of new (5 Z)-[2-(2,4,5-trioxopyrrolidin-3-ylidene)-4-oxo-1,3-thiazolidin-5-ylidene]acetate derivatives with 1,3-thiazolidine-4-one and pyrrolidine-2,3,5-trione moieties linked by an exocyclic C\u2550C bond were described.",
+            "act": 0.016407979652285576
+        },
+        {
+            "text": "{\n            from: r#\"*/*; a=\"hello, world!",
+            "act": 0.015043831430375576
+        },
+        {
+            "text": "ChessieNefercat\n\nYeah, I think the little reptilian part of her brain (unlike the frontal cortex) sometimes functions adequately.",
+            "act": 0.014094243757426739
+        },
+        {
+            "text": "Synthetic routes to the phosphoramidite derivatives of 2'-deoxy-2'-C-alpha-methylcytidine (14%, 15 steps) and 2'-deoxy-2'-C-alpha-hydroxymethylcytidine (19%, 10 steps) from methyl 3,5-di-O-(4-chlorobenzyl)-alpha-d-ribofuranoside are developed.",
+            "act": 0.013841277919709682
+        },
+        {
+            "text": "-5, 3, 5, 25617\nPut 12, 4, -5, -1949 in ascending order.",
+            "act": 0.013613096438348293
+        },
+        {
+            "text": "-28, -4, -3, 2, 3, 8\nSort 8, -4, -4357 in decreasing order.",
+            "act": 0.013143966905772686
+        },
+        {
+            "text": "-3a3b2\nConvert -12012011000021 (base 3) to base 6.",
+            "act": 0.012556659989058971
+        },
+        {
+            "text": "Cogan's oculomotor apraxia is generally an isolated problem, or may be associated with broader developmental delay.",
+            "act": 0.011688309721648693
+        },
+        {
+            "text": "For velar stops, tenuis  typically has a VOT of 20-30 ms, weakly aspirated [k] of some 50-60 ms, moderately aspirated  averages 80\u201390 ms, and anything much over 100 ms would be considered strong aspiration.",
+            "act": 0.010349943302571774
+        },
+        {
+            "text": "Examples of\nparticularly suitable hydroquinones include, but are not limited to,\nhydroquionone; tetrachlorohydroquinone; 2-chlorohydroquionone;\n2-bromohydroquinone; 2,5-dichlorohydroquinone; 2,5-dibromohydroquinone;\ntetrabromohydroquinone; 2-methylhydroquinone; 2-t-butylhydroquinone;\n2,5-di-t-amylhydroquinone; and 2-(2-chlorophenyl)hydroquinone hydrate.",
+            "act": 0.0100437356159091
+        },
+        {
+            "text": "](rjy283f05){#rjy283F5}\n\n!",
+            "act": 0.010011340491473675
+        },
+        {
+            "text": "Panoramic radiograph shows a borderline case classified as \"cannot decide,\" portraying a toothlike radiopacity in posterior maxillary left region that cannot be classified as a third or fourth molar because of the absence of both maxillary third molars.",
+            "act": 0.009748428128659725
+        },
+        {
+            "text": "Trinucleotide repeats were most abundant (79 SSRs) followed by hexanucleotide repeats (47 SSRs), tetranucleotide repeats (24 SSRs), and others.",
+            "act": 0.009503512643277645
+        },
+        {
+            "text": "Alright!",
+            "act": 0.00915519054979086
+        },
+        {
+            "text": ";\n            let arrow_expr = ArrowExpr {\n                span: span!",
+            "act": 0.00894081499427557
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

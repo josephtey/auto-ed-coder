@@ -1,0 +1,412 @@
+{
+    "index": 676,
+    "label": "Contains proper nouns and formal tone",
+    "attributes": "Proper nouns, complex sentences, formal language",
+    "reasoning": "When examining the texts, all the texts within the samples contain proper nouns, often names of people or places, and longer, complex sentences. In contrast, the texts in the other samples are informal discussions, opinions, or responses that do not generally use proper nouns or complex sentences, and often contain colloquial language and conversational tone.",
+    "density": 0.006538832026041444,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "Nathan Mattise\n\n\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nSam Machkovech\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nNathan Mattise\n\nAUSTIN, Texas\u2014Robots and research during the day, barbacoa and bands at night.",
+            "act": 0.25409722328186035
+        },
+        {
+            "text": "Or pizza, chicken, steak, pasta, vegies.",
+            "act": 0.23351448774337769
+        },
+        {
+            "text": "Musician Wren performed famously (such a great bird!",
+            "act": 0.22430409491062164
+        },
+        {
+            "text": "ships at one low price.",
+            "act": 0.2232440859079361
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.21933507919311523
+        },
+        {
+            "text": "(Hemitriccus sp.",
+            "act": 0.21300168335437775
+        },
+        {
+            "text": "A Short Walk To Skytrain & Yaletown.",
+            "act": 0.2091909646987915
+        },
+        {
+            "text": "(1993 Cum.",
+            "act": 0.19998683035373688
+        },
+        {
+            "text": "Delicious salad\n\nRegardless, the \u201cWholesome Grain Salad\u201d was wonderful.",
+            "act": 0.1989745944738388
+        },
+        {
+            "text": "(Ibid.",
+            "act": 0.19723503291606903
+        },
+        {
+            "text": "Service and offer are not available everywhere.",
+            "act": 0.19197367131710052
+        },
+        {
+            "text": "Warships, plains, British Airways Concorde, helicopters and more to see.",
+            "act": 0.1897953301668167
+        },
+        {
+            "text": "Marie, Ontario",
+            "act": 0.18686525523662567
+        },
+        {
+            "text": "Reach Barrows at mbarrows@sacbee.com.",
+            "act": 0.18665044009685516
+        },
+        {
+            "text": "Service and offer are not available everywhere.",
+            "act": 0.18257908523082733
+        },
+        {
+            "text": "RED-AND-GREEN MACAW(Ara chloropterus)\n\nCHESTNUT-FRONTED MACAW(Ara severus)\n\nWHITE-EYED PARAKEET(Psittacara leucophthalmus)\n\nThamnophilidae (Typical Antbirds)\n\nASH-WINGED ANTWREN(Euchrepomis spodioptila)\u2013 During our last morning in Pres.",
+            "act": 0.17618143558502197
+        },
+        {
+            "text": "Cars stranded, flooded on interstate.",
+            "act": 0.16886822879314423
+        },
+        {
+            "text": "Notes\n\nExternal links\n Official website of the Government of Andhra Pradesh\n\n \nCategory:Environment of Andhra Pradesh",
+            "act": 0.16733168065547943
+        },
+        {
+            "text": "bigcitylittlekitty@yahoo.com",
+            "act": 0.16246676445007324
+        },
+        {
+            "text": "IDEAL MEAL: Start with tuna tataki, silky ribbons of gently seared ahi drizzled with ponzu sauce, and sake.",
+            "act": 0.1606971025466919
+        },
+        {
+            "text": "* M. haemovis in goats (Wang et al.",
+            "act": 0.1570998579263687
+        },
+        {
+            "text": "Wireless internet is also provided.",
+            "act": 0.15249304473400116
+        },
+        {
+            "text": "Puddings, ices, cookies.",
+            "act": 0.15108036994934082
+        },
+        {
+            "text": "buttermilk pancakes?",
+            "act": 0.15074624121189117
+        },
+        {
+            "text": "DUSKY ANTBIRD(Cercomacroides tyrannina)\n\nGRAY ANTBIRD(Cercomacra cinerascens)\n\nASH-BREASTED ANTBIRD(Myrmoborus lugubris)\n\nBLACK-FACED ANTBIRD(Myrmoborus myotherinus ardesiacus)\n\nBLACK-CHINNED ANTBIRD(Hypocnemoides melanopogon)\n\nBLACK-HEADED ANTBIRD (HELLMAYR'S)(Percnostola rufifrons subcristata)\n\nFERRUGINOUS-BACKED ANTBIRD(Myrmoderus ferrugineus)\u2013 One of the greatest birds of the tour, this antbird was seen very well at Cachoeira da On\u00e7a private reserve.",
+            "act": 0.1482267528772354
+        },
+        {
+            "text": "The well-spoken float of a Lexus or an Acura \u2013 and Great Terms on a Lease!",
+            "act": 0.14603565633296967
+        },
+        {
+            "text": "(BT, biceps tendon; RC, rotator cuff.",
+            "act": 0.1453886777162552
+        },
+        {
+            "text": "INSIDER TIP: Chaat is a type of savory Indian street fare, and Lehja serves one daily.",
+            "act": 0.14487318694591522
+        },
+        {
+            "text": "Their example is of transportation by horse and buggy.",
+            "act": 0.143385648727417
+        },
+        {
+            "text": "(Evid.",
+            "act": 0.1428631991147995
+        },
+        {
+            "text": "Limited time offer.",
+            "act": 0.142164945602417
+        },
+        {
+            "text": "Other notable dishes include Pondicherry duck, featuring shredded duck with a hint of peppery spice, and Andhra chicken curry.",
+            "act": 0.14141812920570374
+        },
+        {
+            "text": "Donkeys?",
+            "act": 0.14075453579425812
+        },
+        {
+            "text": "thick slice french toast?",
+            "act": 0.13697370886802673
+        },
+        {
+            "text": "Limited time offer.",
+            "act": 0.13666753470897675
+        },
+        {
+            "text": "References\n\n4.Land grabbing case on Peela adds twist to SIT probe into mega scam\n\n5.Son shine in politics\n\nCategory:Telugu Desam Party politicians\nCategory:Andhra Pradesh MLAs 2014\u20132019",
+            "act": 0.13622352480888367
+        },
+        {
+            "text": "Andhra Pradesh has 13 districts: Anantapur, Chittoor, Kadapa, East Godavari, Guntur, Krishna, Kurnool, Sri Potti Sreeramulu Nellore, Prakasam, Srikakulam, Visakhapatnam, Vizianagaram and West Godavari.",
+            "act": 0.13481280207633972
+        },
+        {
+            "text": "Brexit deal imminent!",
+            "act": 0.1341383159160614
+        },
+        {
+            "text": "Free travel.",
+            "act": 0.13387906551361084
+        },
+        {
+            "text": "Grallariidae (Antpittas)\n\nVARIEGATED ANTPITTA(Grallaria varia)[*]\n\nFormicariidae (Antthrushes)\n\nRUFOUS-CAPPED ANTTHRUSH(Formicarius colma)\n\nFurnariidae (Ovenbirds and Woodcreepers)\n\nSPOT-THROATED WOODCREEPER(Certhiasomus stictolaemus)\u2013 A really hard bird to get.",
+            "act": 0.13220252096652985
+        },
+        {
+            "text": "Anhingidae (Anhingas)\n\nANHINGA(Anhinga anhinga)\n\nArdeidae (Herons, Egrets, and Bitterns)\n\nRUFESCENT TIGER-HERON(Tigrisoma lineatum)\n\nCOCOI HERON(Ardea cocoi)\n\nGREAT EGRET(Ardea alba)\n\nSNOWY EGRET(Egretta thula)\n\nCATTLE EGRET(Bubulcus ibis)\n\nSTRIATED HERON(Butorides striata)\n\nCAPPED HERON(Pilherodius pileatus)\u2013 This nice looking Heron was seen once during a canoe trip on the Ja\u00fa river.",
+            "act": 0.1320575326681137
+        },
+        {
+            "text": "On a cold afternoon, nothing beats the velvety Jok Gai, a steaming rice congee with a runny egg, crispy dried pork and earthy shiitakes.",
+            "act": 0.13205625116825104
+        },
+        {
+            "text": "Limited time offer.",
+            "act": 0.13180036842823029
+        },
+        {
+            "text": "After Sri Lanka were smashed for just 117 inside 40 overs on the opening day of the first Test at Pallekele.",
+            "act": 0.13167966902256012
+        },
+        {
+            "text": "PEARLY ANTSHRIKE(Megastictus margaritatus)\n\nDUSKY-THROATED ANTSHRIKE(Thamnomanes ardesiacus)\n\nCINEREOUS ANTSHRIKE(Thamnomanes caesius)\u2013 Widespread over the Amazon, this bird is a nuclear species in the understory mixed species flocks.",
+            "act": 0.13161934912204742
+        },
+        {
+            "text": "(Name: EmmaRose; Distinguishing characteristics: None.",
+            "act": 0.13145306706428528
+        },
+        {
+            "text": "Weather Underground | via Dealnews",
+            "act": 0.13141293823719025
+        },
+        {
+            "text": "Only once since the end of the 19th Century has Australia dismissed a Test team for a lesser total but ended up beaten \u2013 on a dodgy deck at Mumbai\u2019s Wankhede Stadium against an Indian team that in 2004 included Tendulkar, Dravid, Sehwag, Laxman, Kumble and Harbhajan Singh.",
+            "act": 0.1309974640607834
+        },
+        {
+            "text": "* M. haemobos detected in cattle (Tagawa et al.",
+            "act": 0.1293560117483139
+        },
+        {
+            "text": "Along the airport road, the rusting wrecks of planes and helicopters testify to the threat.",
+            "act": 0.12924008071422577
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

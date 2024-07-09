@@ -1,0 +1,412 @@
+{
+    "index": 643,
+    "label": "Detailed and structured information",
+    "attributes": "detailed and structured information, specific data, statistics, measurements, intricate descriptions, formal content, clear context",
+    "reasoning": "After analyzing both sets of samples, the most specific attribute that distinguishes the samples from the others is the presence of detailed and structured information, often containing specific data, statistics, measurements, intricate descriptions, and formal content. These samples tend to provide more context and clarity in their content. In contrast, the other samples are more casual, less detailed, and often contain conversational language or opinion-based content.",
+    "density": 0.001774690259607765,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "Strengths: Smith emerged as the team's most important player and backstopped a team that was fifth in the regular season in goals-against average while finishing 28th in shots-allowed per game.",
+            "act": 0.15404245257377625
+        },
+        {
+            "text": "His lips are guided with learning.",
+            "act": 0.1348336637020111
+        },
+        {
+            "text": "Hair.",
+            "act": 0.12535825371742249
+        },
+        {
+            "text": "Slightly rounded edges.",
+            "act": 0.12456858903169632
+        },
+        {
+            "text": "The roofline is defined by a brick parapet which sports a medallion of pattened bricks in the very center.",
+            "act": 0.12045089155435562
+        },
+        {
+            "text": "The teeth have bases with triangular shaped cross-sections.",
+            "act": 0.11539449542760849
+        },
+        {
+            "text": "Trunk followed.",
+            "act": 0.10944950580596924
+        },
+        {
+            "text": "Trunk was there.",
+            "act": 0.10547786951065063
+        },
+        {
+            "text": "Jupiter passed quadrature 90 degrees east of the Sun on June 4th and opposition for 2016 on March 8th.",
+            "act": 0.10331068187952042
+        },
+        {
+            "text": "In two games against the Blazers last season, Hill averaged 28.2 minutes per game, 13.5 shot attempts, 16 points, four assists, 3.5 rebounds and 26.4 DraftKings points per game.",
+            "act": 0.09737899899482727
+        },
+        {
+            "text": "November\u2019s UK Retail Sales report headlines the calendar in European hours.",
+            "act": 0.09666119515895844
+        },
+        {
+            "text": "The tastes are full, natural, not too many, and distinct.",
+            "act": 0.09530720859766006
+        },
+        {
+            "text": "My name is Kari.",
+            "act": 0.09154822677373886
+        },
+        {
+            "text": "Lightly brush or spray the chicken on both sides with oil and season with salt and pepper to taste.",
+            "act": 0.09016042947769165
+        },
+        {
+            "text": "She had red and glassy eyes and constricted pupils.",
+            "act": 0.08986283093690872
+        },
+        {
+            "text": "Black reached a double-double with 19 points and 11 rebounds, but fouled out with five turnovers.",
+            "act": 0.08877847343683243
+        },
+        {
+            "text": "Wood patio furniture and vibrant geraniums soften the Place.",
+            "act": 0.08838126808404922
+        },
+        {
+            "text": "After pushing its home record to 12-5-0-5 with a win over Florida on Friday, Gwinnett lost in regulation and overtime in Greenville.",
+            "act": 0.08631259948015213
+        },
+        {
+            "text": "She has blue eyes, and has piercings in her left nostril and lower right lip.",
+            "act": 0.084886334836483
+        },
+        {
+            "text": "The Abs adsorb at the outer edge of the brush.",
+            "act": 0.08392111212015152
+        },
+        {
+            "text": "\u201cAttends.",
+            "act": 0.08305073529481888
+        },
+        {
+            "text": "The 6-foot-4, 275-pound Chickillo, a former five-star recruit, has started almost every single game Miami has played during his four years on campus.",
+            "act": 0.08150099217891693
+        },
+        {
+            "text": "This was the Cardinal\u2019s sixth win over Cal in the last seven games at Maples, which makes it Cal\u2019s sixth loss in the last seven games at Maples.",
+            "act": 0.08148762583732605
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.07750948518514633
+        },
+        {
+            "text": "It is hot pink on the outside, and a cool white and black speckled flesh on the inside.",
+            "act": 0.07726078480482101
+        },
+        {
+            "text": "Abdominal examination revealed an enlarged spleen 4\u2009cm below the costal margin.",
+            "act": 0.07696445286273956
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.07483791559934616
+        },
+        {
+            "text": "Sheahan and Tatar both had a goal and an assist against Florida while playing on a line with Jurco, who drew an assist.",
+            "act": 0.07454175502061844
+        },
+        {
+            "text": "Young left, but continued to question the suspect outside the front door.",
+            "act": 0.07449623197317123
+        },
+        {
+            "text": "NSS's national network includes major retail banners such as Whole Foods Market, Sprouts Farmers Market, and National Co-op Grocers.",
+            "act": 0.07297869771718979
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.07079266756772995
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.07079266756772995
+        },
+        {
+            "text": "Brown scored 10 with five points and four assists, hitting just four of 15 from the field.",
+            "act": 0.06977717578411102
+        },
+        {
+            "text": "This was emphasised when Pastore\u2019s wonderful defensive-splitting pass picked out Gameiro, who slotted through the legs of the exposed Simon Pouplin.",
+            "act": 0.06966426968574524
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.06898891180753708
+        },
+        {
+            "text": "Intercontinental praised the strategic location and strong mix of tenants.",
+            "act": 0.06892625242471695
+        },
+        {
+            "text": "Mitochondria were arranged in a line in the ventral portion of the central filaments.",
+            "act": 0.068806953728199
+        },
+        {
+            "text": "brain and spleen lysates.",
+            "act": 0.06762748211622238
+        },
+        {
+            "text": "Same beige case, same floating shift chrome emblem in center.",
+            "act": 0.0675286278128624
+        },
+        {
+            "text": "Taylor drove into the median and overcorrected.",
+            "act": 0.06734322756528854
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.06597255915403366
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.06597255915403366
+        },
+        {
+            "text": "The tomatoes tasted wonderful.",
+            "act": 0.06508925557136536
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.06427677720785141
+        },
+        {
+            "text": "Defendants' car was also searched at the police parking lot and a part of a partially smoked marijuana cigarette was found under the right front floormat.",
+            "act": 0.0641535297036171
+        },
+        {
+            "text": "This weekend, The Webster University Film Series will screen Blacktop as the featured film of its May-June-July programming.",
+            "act": 0.06327258795499802
+        },
+        {
+            "text": "Playing the role of a floor-general, the sophomore Edwards scored six points, grabbed seven boards, handed out three assists, and blocked two shots.",
+            "act": 0.06288277357816696
+        },
+        {
+            "text": "A soft hand ran over his face and cupped his check.",
+            "act": 0.06276244670152664
+        },
+        {
+            "text": "\"Please come in.\"",
+            "act": 0.06161154434084892
+        },
+        {
+            "text": "The garden block is followed by a slightly projecting low gabled entrance bay, the gable supported by heavy shaped brackets.",
+            "act": 0.05929502472281456
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

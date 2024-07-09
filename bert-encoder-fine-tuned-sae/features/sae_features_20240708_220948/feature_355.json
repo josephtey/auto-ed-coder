@@ -1,0 +1,412 @@
+{
+    "index": 355,
+    "label": "Structured and factual content with details",
+    "attributes": "use of scientific terminology, proper nouns indicating specific entities or places, timestamped events, numerical data questions, special characters like emojis and scientific equations, structured formatting",
+    "reasoning": "The samples within the positive-samples tag contain instances of diverse subject matter, including factual information, scientific terminology, proper nouns, and structured formatting related to specific events or instructions. These characteristics include the use of timestamps, numerical data, and a mix of descriptive and directive sentences. The samples also include special characters like emojis, proteins, and scientific equations. Contrarily, the samples in the negative-samples tag primarily consist of causal or argumentative discussions, reflections, colloquial language, and lack of structured factual data or scientific terminologies.",
+    "density": 0.005157990139555189,
+    "confidence": 82.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.30661872029304504
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.30661872029304504
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.26281389594078064
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.22463910281658173
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.20749063789844513
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.16688187420368195
+        },
+        {
+            "text": "Both series will be available exclusively on MONDO\u2019s channel on VRV, the new video platform from Ellation.",
+            "act": 0.16457004845142365
+        },
+        {
+            "text": "From there they would travel down the French River into Georgian Bay and onwards to Lake Superior.",
+            "act": 0.15842817723751068
+        },
+        {
+            "text": "HYDRA has successfully knocked out communications between SHIELD forces on the ground and their reinforcements back at homebase.",
+            "act": 0.1549714356660843
+        },
+        {
+            "text": "They are herded in this direction by the puppet masters.",
+            "act": 0.1532764732837677
+        },
+        {
+            "text": "Plastic waste is shredded into flakes which will be used in the other machines to create new things.",
+            "act": 0.13881342113018036
+        },
+        {
+            "text": "Also the Medical Services was reliant on other branches of the army to supply materials to build Dressing Stations, construct roads, railway sidings, and/or provide telephonic communications.",
+            "act": 0.13843075931072235
+        },
+        {
+            "text": "The paper is distributed throughout the Provinces of Phetchaburi and Prachuap Khiri Khan with a focus on the towns of Hua Hin, Cha-Am and Pranburi.",
+            "act": 0.13800711929798126
+        },
+        {
+            "text": "For its fourth launch of the year, Arianespace will orbit four more satellites (satellites 23 to 26) for the Galileo constellation.",
+            "act": 0.13648566603660583
+        },
+        {
+            "text": "62 60 58 67 58 66\n\nDK/NA 4 3 5 3 3 4\n\n22.",
+            "act": 0.13611553609371185
+        },
+        {
+            "text": "12:51 AM\nHow many minutes are there between 8:15 AM and 12:25 PM?",
+            "act": 0.13340117037296295
+        },
+        {
+            "text": "Produced by ARTMIC, AIC, and Youmex, the sci-fi OVA series ran for eight episodes.",
+            "act": 0.1323174089193344
+        },
+        {
+            "text": "10:16 AM\nHow many minutes are there between 3:39 AM and 1:28 PM?",
+            "act": 0.13161422312259674
+        },
+        {
+            "text": "NieR: Automata will be available for PC through Steam and on PS4, with plans to optimise the game for PS4 Pro.",
+            "act": 0.13067102432250977
+        },
+        {
+            "text": "The codes for the blocks are broken by miners.",
+            "act": 0.13028554618358612
+        },
+        {
+            "text": "My legs ache and feel weak.",
+            "act": 0.13026557862758636
+        },
+        {
+            "text": "The menu of entrees is limited, but it is supplemented with specials, including pasta and lasagna preparations that change nightly.",
+            "act": 0.13020937144756317
+        },
+        {
+            "text": "9:18 AM\nHow many minutes are there between 11:01 PM and 5:00 AM?",
+            "act": 0.128628209233284
+        },
+        {
+            "text": "Traveling to Tanegashima, Daichi quickly finds himself involved with the machinations of Globe, a secret agency created to defend mankind from extraterrestrial forces.",
+            "act": 0.12856964766979218
+        },
+        {
+            "text": "Energy Reg.",
+            "act": 0.12847886979579926
+        },
+        {
+            "text": "Natural Killer (NK) cells are a safeguard in the human body designed to\nrecognize and detect cells under stress due to cancer or viral\ninfection.",
+            "act": 0.1284724324941635
+        },
+        {
+            "text": "DHX Media will add additional content to these channels regularly and will showcase a selection of first-run programming through their digital channels in all territories.",
+            "act": 0.12806051969528198
+        },
+        {
+            "text": "By the time of the Allied Counter-Offensive in August, they had recovered their losses, but it was agreed, that although they would be placed as far forward as possible, they must remain sufficiently mobile to keep up pace with any advance or retreat.",
+            "act": 0.1276591420173645
+        },
+        {
+            "text": "Additional ground resources as well as an air attack are en route.",
+            "act": 0.1266336739063263
+        },
+        {
+            "text": "3:43 PM\nHow many minutes are there between 6:22 AM and 4:34 PM?",
+            "act": 0.12493708729743958
+        },
+        {
+            "text": "There are staffers; they are laying down, but they are having to make a difficult decision as the shots are landing around them.",
+            "act": 0.12486676871776581
+        },
+        {
+            "text": "660\nWhat is 260 minutes after 1:06 AM?",
+            "act": 0.12300804257392883
+        },
+        {
+            "text": "7:33 AM\nHow many minutes are there between 10:58 PM and 5:23 AM?",
+            "act": 0.12215597927570343
+        },
+        {
+            "text": "8:58 AM\nHow many minutes are there between 9:45 AM and 12:30 PM?",
+            "act": 0.12098295986652374
+        },
+        {
+            "text": "3:00 AM\nHow many minutes are there between 2:05 AM and 5:56 AM?",
+            "act": 0.12069042026996613
+        },
+        {
+            "text": "Then the joint probability distribution of leaf nodes at site \u03b1 can be expressed as\n\nQ\n\nL\n\n,\n\n\u03b1\n\n(\n\nx\n\nL\n\n)\n\n=\n\n\u2211\n\nx\n\ni\n\n\u2208\n\nB\n\n\u2211\n\nx\n\nj\n\n\u2208\n\nB\n\nI\n\n(\n\nx\n\ni\n\n\u2208\n\nB\n\ni\n\n\u03b1\n\n,\n\nx\n\nj\n\n\u2208\n\nB\n\nj\n\n\u03b1\n\n)\n\nQ\n\n(\n\ni\n\n,\n\nj\n\n)\n\n(\n\nx\n\ni\n\n,\n\nx\n\nj\n\n)\n\nP\n\n(\n\nL\n\n(\n\ni\n\n,\n\nj\n\n)\n\n\\|\n\nx\n\ni\n\n)\n\nP\n\n(\n\nL\n\n(\n\nj\n\n,\n\ni\n\n)\n\n\\|\n\nx\n\nj\n\n)\n\n.",
+            "act": 0.12029710412025452
+        },
+        {
+            "text": "Traveling to Tanegashima, Daichi quickly finds himself involved with the machinations of Globe, a secret agency created to defend mankind from extraterrestrial forces.",
+            "act": 0.11892405152320862
+        },
+        {
+            "text": "4:17 AM\nHow many minutes are there between 11:01 PM and 6:10 AM?",
+            "act": 0.11830998957157135
+        },
+        {
+            "text": "Steel is the orignal, and still the most popular material used in the manufacture of gauge blocks.",
+            "act": 0.11750279366970062
+        },
+        {
+            "text": "Full entrees must be ordered to receive the deal; beverages, appetizers and desserts are not included.",
+            "act": 0.11081075668334961
+        },
+        {
+            "text": "This was achieved by a small \u2018light section\u2019 of each unit moving forward immediately.",
+            "act": 0.10929963737726212
+        },
+        {
+            "text": "During movement, the finished glass web is cut longitudinally and transversely into glass plates of the desired format and these glass plates are also moved by plate conveyors to stacking station where the plates are removed from the conveyor.",
+            "act": 0.10856963694095612
+        },
+        {
+            "text": "Which are the properties of these proteins and what role do they play in the defence mechanism of the embryos?",
+            "act": 0.10853050649166107
+        },
+        {
+            "text": "The segregation unit, A, contains five pods with a maximum capacity of 360.",
+            "act": 0.10723818838596344
+        },
+        {
+            "text": "For over 30 years, both sides agreed to the elimination of all nuclear and conventional ground-launched ballistic and cruise missiles with ranges of between 500 and 5,500 kilometre.",
+            "act": 0.10609302669763565
+        },
+        {
+            "text": "The dishes were transferred to a\u2009\u2212\u200980\u2009\u00b0C freezer and subsequently to liquid nitrogen for long term storage.",
+            "act": 0.1038864254951477
+        },
+        {
+            "text": "Additionally, the training data were shuffled before each training epoch.",
+            "act": 0.10380043089389801
+        },
+        {
+            "text": "As a reminder, The Legend of Zelda: Twilight Princess HD will launch exclusively on the Wii U on March 4, 2016.",
+            "act": 0.10319394618272781
+        },
+        {
+            "text": "Chem.",
+            "act": 0.1024414673447609
+        },
+        {
+            "text": "H3Ks) are brought into close proximity.",
+            "act": 0.10197088867425919
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

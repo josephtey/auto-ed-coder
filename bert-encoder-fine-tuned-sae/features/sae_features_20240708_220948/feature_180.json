@@ -1,0 +1,412 @@
+{
+    "index": 180,
+    "label": "Baseball-related detailed descriptions",
+    "attributes": "Detailed information about baseball events, Specific player names and actions, Statistical data, Injuries and trades, Game results and specific play-by-play descriptions",
+    "reasoning": "The samples contain detailed information about specific baseball and sports-related events, trades, player injuries, statistics, and game results. These samples also occasionally include technical, context-specific information, and references to specific players and their actions. None of the negative samples provide this level of detail or focus on baseball-related content.",
+    "density": 0.0014709999478032276,
+    "confidence": 71.0,
+    "high_act_samples": [
+        {
+            "text": "Moss pinch-hit for Mark Reynolds with runners in first and third and one out in the bottom of the ninth inning against Scott Oberg.",
+            "act": 0.28172481060028076
+        },
+        {
+            "text": "The Rangers have been decimated with injuries already having lost Prince Fielder, LHP Derek Holland, C Geovany Soto, 2B Jurickson Profar, LHP Matt Harrison, LHP Martin Perez, RHP Alexi Ogando and 3B Kevin Kouzmanoff to injuries.",
+            "act": 0.21787840127944946
+        },
+        {
+            "text": "(Knock it off.",
+            "act": 0.21403804421424866
+        },
+        {
+            "text": "Brandon Moss sent the Cardinals to a walk-off victory on Sunday with an RBI single in the bottom of the ninth inning against the Rockies.",
+            "act": 0.21074002981185913
+        },
+        {
+            "text": "The Boston Red Sox have placed reliever Matt Thornton on the 15 day disabled list with an oblique strain.",
+            "act": 0.2033025324344635
+        },
+        {
+            "text": "The Milwaukee Brewers put outfielder Ryan Braun on the 15 day disabled list following a 4-3 loss to the Cincinnati Reds on Friday night.",
+            "act": 0.192255899310112
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.18687239289283752
+        },
+        {
+            "text": "LOS ANGELES -- In the hunt for a second baseman and a leadoff man, the Dodgers found both in Logan Forsythe, whom they acquired Monday from the Tampa Bay Rays in exchange for highly regarded pitching prospect Jose De Leon.",
+            "act": 0.18299999833106995
+        },
+        {
+            "text": "After Pablo Sandoval was hit by a pitch, Buster Posey drove an RBI double deep to right that Upton made an awkward attempt on as it bounced up against the wall.",
+            "act": 0.17784981429576874
+        },
+        {
+            "text": "Hunter Pence was intentionally walked to load the bases, and Braves interim manager Carlos Tosca called on Cory Gearrin to relieve Maholm.",
+            "act": 0.17302754521369934
+        },
+        {
+            "text": "The Tampa Bay Rays activated Alex Cobb off the 60 day DL and designated infielder Ryan Roberts for assignment to clear space on the roster.",
+            "act": 0.15141995251178741
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.15091757476329803
+        },
+        {
+            "text": "Bumgarner struck out a season-high 11 over seven innings, Gregor Blanco entered in the fifth as a pinch hitter and drove in four runs, and the San Francisco Giants routed the Atlanta Braves 10-1 Saturday.",
+            "act": 0.150119349360466
+        },
+        {
+            "text": "The Pittsburgh Pirates placed RHP Jason Grilli on the 15-day disabled list with a right forearm strain.",
+            "act": 0.14594462513923645
+        },
+        {
+            "text": "Last season he was picked up by the St. Louis Cardinals to fill the void created when Jhonny Peralta went down with a bad thumb.",
+            "act": 0.14464125037193298
+        },
+        {
+            "text": "After surrendering a solo home run to Jacoby Ellsbury to open the game, Samardzija would not allow another run until the fourth inning.",
+            "act": 0.14301763474941254
+        },
+        {
+            "text": "(By the way, I can see how many of you click on those links.",
+            "act": 0.13855336606502533
+        },
+        {
+            "text": "The Pittsburgh Pirates have placed young ace Gerrit Cole on the 15-day disabled list with right shoulder fatigue.",
+            "act": 0.13346417248249054
+        },
+        {
+            "text": "About the author\n\nJohn was a newspaper reporter and editor until his geek gene lead him to launch his first website in 1994.",
+            "act": 0.13075917959213257
+        },
+        {
+            "text": "Cobb has been on the DL since being hit by a line drive off the bat of Kansas City\u2019s Eric Hosmer in July.",
+            "act": 0.12518952786922455
+        },
+        {
+            "text": "[ASSHOLE.",
+            "act": 0.12398971617221832
+        },
+        {
+            "text": "That's why your code is not working\nso i've fixed it in my case you have to change in your css code, html code and jquery code\ncheck this fiddle http://jsfiddle.net/yNg95/2/\nhere is Html\n<div class=\"header\" id=\"one\">hi</div>\n<div class=\"border\" id=\"two\">\n    hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>\n</div>\n\nhere is css code\n*{margin:0; padding:0;}\nbody {\n    background-image:url(../images/bg.png);\n    background-repeat:repeat;\n    color: #FFFFFF;\n    overflow:hidden;\n}\n\n.header{\n    position: absolute;\n    left: 0;\n    top: 0;\n    right:0;\n    height: 120px;\n    background-color: black;\n    box-shadow: 0px 0px 40px #000000;\n}\n\n.border{\n    position: absolute;\n    left: 25%;\n    z-index:0;\n    width: 50%;\n    top:120px;\n    /*height: 100%;*/\n    background-color: white;\n    color: black;\n    padding: 5px;\n    overflow-y:scroll;\n}\n\nhere is jquery code\nvar one, two;\n    one = $('.header').outerHeight(true);\n    two = $(window).height() - one;\n    console.log(one, two)\n    $('#two').css({height : two})\n\nhere is the fiddle for another option only by pure css\nhttp://jsfiddle.net/sarfarazdesigner/neR4U/",
+            "act": 0.12108997255563736
+        },
+        {
+            "text": "His liner to left field skipped past a charging Evan Gattis and went for an RBI triple.",
+            "act": 0.12080582976341248
+        },
+        {
+            "text": "Now that free agents Robinson Cano, Jacoby Ellsbury, Brian McCann, Carlos Beltran, Curtis Granderson and Mike Napoli are off the board, the focus naturally turns to Choo, a hit-by-pitch and OBP machine who has a special niche as a true leadoff hitter.",
+            "act": 0.11711286753416061
+        },
+        {
+            "text": "(but everyone is stronger then they should be at that time.",
+            "act": 0.11455744504928589
+        },
+        {
+            "text": "Johnson, the Braves third baseman, struck out swinging in all three at-bats against Bumgarner.",
+            "act": 0.11429757624864578
+        },
+        {
+            "text": "@\"Apples\" : (_oranges.count ?",
+            "act": 0.1133192852139473
+        },
+        {
+            "text": "(Eek!",
+            "act": 0.11155157536268234
+        },
+        {
+            "text": "The Cincinnati Reds placed setup man, Jonathan Broxton, on the DL with a right elbow flexor strain.",
+            "act": 0.10583865642547607
+        },
+        {
+            "text": "@\"Oranges\" : (_grapes.count ?",
+            "act": 0.1046663299202919
+        },
+        {
+            "text": "@\"Oranges\" : (_grapes.count ?",
+            "act": 0.1046663299202919
+        },
+        {
+            "text": "Upton let Marco Scutaro's liner skip past him for a one-out triple.",
+            "act": 0.09933287650346756
+        },
+        {
+            "text": "Instead, he ran Girardi, who went apoplectic after Dempster hit Rodriguez with a 3-0, 92-mph fastball in the left elbow and ribcage.",
+            "act": 0.09720485657453537
+        },
+        {
+            "text": "He started the season as MSU's ace and finished it as a mop-up duty reliever.",
+            "act": 0.09704478830099106
+        },
+        {
+            "text": "Left-handed reliever Xavier Cedeno was optioned to Triple-A Syracuse.",
+            "act": 0.09598241746425629
+        },
+        {
+            "text": "Brandon Crawford doubled in a run in the fourth to make it 2-0, one of two hits the left-handed hitting Crawford had off Maholm.",
+            "act": 0.09360594302415848
+        },
+        {
+            "text": "The Dodgers had reportedly been in discussions to acquire slugging second baseman Brian Dozier from the Minnesota Twins, but any chance at that deal fell through earlier this month.",
+            "act": 0.09207659959793091
+        },
+        {
+            "text": "'\u201d\n\nThough Charles hit just .207/.286/.320 with three home runs in 61 games in 1969, two of those homers came off future Hall of Famers Gaylord Perry and Steve Carlton.",
+            "act": 0.09011537581682205
+        },
+        {
+            "text": "Giants manager Bruce Bochy sent up Blanco to hit for Francisco Peguero, and Blanco delivered a three-run double to right-center that extended the Giants' lead to 6-1.",
+            "act": 0.089711993932724
+        },
+        {
+            "text": "In particular, helpers only gain within\u2010group paternity when their mother is no longer the breeding female, because she has either died or divorced her social partner to move to another territory, and so has then been replaced as breeder by an unrelated female (Cockburn et\u00a0al.",
+            "act": 0.08774052560329437
+        },
+        {
+            "text": "In addition to home brewing, the family also has experience in restaurants, marketing and customer service.",
+            "act": 0.0876999944448471
+        },
+        {
+            "text": "\"He was like, 'Grant?",
+            "act": 0.08682826161384583
+        },
+        {
+            "text": "(Wait!",
+            "act": 0.0833180621266365
+        },
+        {
+            "text": "Thorton was acquired from the Chicago White Sox after losing left-hander Andrew Miller for the rest of the season, and has made 10 appearances for Boston, giving up two runs on 12 hits over 8 1/3 innings with two walks and six strikeouts.",
+            "act": 0.08264997601509094
+        },
+        {
+            "text": "In any of groups (a)-(e), the amine nitrogen (the terminal amine in group (e)) may bear a further carboxyl or acyl group (i.e.",
+            "act": 0.08168148994445801
+        },
+        {
+            "text": "Here is my current code:\n    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>\n<script>\n    var one = $('#header').height(),\n    two = parseInt($(window).height() - one);\n    $('#border').height(two)\n</script>\n\n<div class=\"header\" id=\"one\">hi</div>\n<div class=\"border\" id=\"two\">hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br>hi<br><div>\n\nCSS:\nbody {\n    margin: 0;\n    background-image:url(../images/bg.png);\n    background-repeat:repeat;\n    color: #FFFFFF;\n    height: 100%;\n}\n\n.header\n{\n    position: absolute;\n    left: 0px;\n    top: 0px;\n    width: 100%;\n    height: 120px;\n    background-color: black;\n    box-shadow: 0px 0px 40px #000000;\n}\n\n.border\n{\n    position: absolute;\n    left: 25%;\n    z-index:0;\n    top: 120px;\n    width: 50%;\n    background-color: white;\n    color: black;\n    padding: 5px;\n    overflow-y:scroll;\n}\n\nThanks!",
+            "act": 0.08067886531352997
+        },
+        {
+            "text": "He, along with his brother, uncle and dad, own and operate Colorado Malting Company (CMC) in Alamosa, Colorado.",
+            "act": 0.08064854145050049
+        },
+        {
+            "text": "Chris Davis was the only Baltimore regular with an on-base percentage above .330 last season, so Choo (.423 OBP at leadoff last season) would be a welcome addition at leadoff.",
+            "act": 0.08049315959215164
+        },
+        {
+            "text": "After a slow start to his 1967 season, the 34-year-old Charles was traded to the Mets on May 10 so that the A\u2019s could make way for 23-year-old Sal Bando at third base.",
+            "act": 0.08038802444934845
+        },
+        {
+            "text": "Huh?",
+            "act": 0.07969300448894501
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

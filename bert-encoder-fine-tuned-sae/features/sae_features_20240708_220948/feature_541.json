@@ -1,0 +1,412 @@
+{
+    "index": 541,
+    "label": "Structured and detailed content",
+    "attributes": "specific information, context, structured formats, precise details, events, narrative descriptions, news reports, instructions, dialogues, scientific data, legal references, direct quotes",
+    "reasoning": "I examined the content of each sample and noticed that the texts within the <positive-samples> range from news reports and narrative descriptions to instructions and dialogue, often containing specific information, context, or events. This contrasts with the texts in the <negative-samples>, which are generally less specific, more conversational, and often involve expressions of personal opinions, confusion, and discourse about general topics. Additionally, the <positive-samples> often have structured formats, including legal references, scientific data, and direct quotes with precise details. These structured elements and precise data are consistent across all texts in <positive-samples> but are absent in <negative-samples>.",
+    "density": 0.004659748221750869,
+    "confidence": 8.0,
+    "high_act_samples": [
+        {
+            "text": "Suitably shattered and psychologically drained, he did not continue up the remaining 150m of what appeared to be straightforward ground to the summit, but instead rappelled.",
+            "act": 0.22364595532417297
+        },
+        {
+            "text": "\"COMPUTER VOICE:\" \"Subject vessel is third class neutronic fuel carrier, crew of 81, 300 passengers.\"",
+            "act": 0.16750168800354004
+        },
+        {
+            "text": "Worn out?",
+            "act": 0.1674267053604126
+        },
+        {
+            "text": "The most ardent terrorists are ardent students\nof the Koran.",
+            "act": 0.1666393280029297
+        },
+        {
+            "text": "The runways are laid on parallel raised banks having flattened tops.",
+            "act": 0.15983450412750244
+        },
+        {
+            "text": "\"'Fifteen minutes to lift-off.\"",
+            "act": 0.1559516340494156
+        },
+        {
+            "text": "15",
+            "act": 0.14993144571781158
+        },
+        {
+            "text": "21",
+            "act": 0.14639624953269958
+        },
+        {
+            "text": "The ship measures  long and  wide.",
+            "act": 0.13995736837387085
+        },
+        {
+            "text": "18\nRace?",
+            "act": 0.13980688154697418
+        },
+        {
+            "text": "Season short ribs generously with salt and pepper.",
+            "act": 0.13062310218811035
+        },
+        {
+            "text": "The rotten ice on Lowe's crux proved impossible, so they traversed 30m right and climbed an overhanging chimney at F5.",
+            "act": 0.12427076697349548
+        },
+        {
+            "text": "14",
+            "act": 0.12014534324407578
+        },
+        {
+            "text": "Broadcast TV has cratered and most Americans have cut the chord.",
+            "act": 0.11616770923137665
+        },
+        {
+            "text": "sati_demise\n\nFUCK THOSE FUCKING FUCKS.",
+            "act": 0.11570064723491669
+        },
+        {
+            "text": "Looks like Laussanne is going down, 10 points adrift.",
+            "act": 0.1126101091504097
+        },
+        {
+            "text": "Swede referee loses finger in bizarre accident during game!",
+            "act": 0.11200091987848282
+        },
+        {
+            "text": "Soup Hams\n\nThick cut slices of pasture raised ham.",
+            "act": 0.10917004942893982
+        },
+        {
+            "text": "She attended tonic sol-fa classes on Sundays in the Capel Paradwys, Llanallgo, where she practiced singing.",
+            "act": 0.1067238301038742
+        },
+        {
+            "text": "2 dead in Russian fighter jet crash off Syria coast\nThe disaster occurred as the aircraft was gaining altitude.",
+            "act": 0.10556016117334366
+        },
+        {
+            "text": "The water around Atlas Cove jetty is brackish (mixture of fresh and marine water).",
+            "act": 0.10543102771043777
+        },
+        {
+            "text": "To restore balance to the Force, the Jedi must end.",
+            "act": 0.10438699275255203
+        },
+        {
+            "text": "\u201cMaria made her closest pass to us and the swell just pumped all day.",
+            "act": 0.10339701175689697
+        },
+        {
+            "text": "p 63,057 (1983), aff'd by 25 F.E.R.C.",
+            "act": 0.10304385423660278
+        },
+        {
+            "text": "This 300 year Old Rectory and Sunny Retreat Cottage sits on the lower slope of Carn Ingli (mountain of Angels) with a spectacular view of the Newport Bay and cliffs .",
+            "act": 0.10297976434230804
+        },
+        {
+            "text": "Made it?",
+            "act": 0.10272341966629028
+        },
+        {
+            "text": "parsed unexpectedly.",
+            "act": 0.10255356132984161
+        },
+        {
+            "text": "Sea ice camps are moving targets, drifting along with the wind and ocean currents.",
+            "act": 0.10186585783958435
+        },
+        {
+            "text": "\"I'm gonna burn this fucking hovel down and piss on the ashes!",
+            "act": 0.10156834870576859
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.09847471117973328
+        },
+        {
+            "text": "42 seconds.",
+            "act": 0.09793980419635773
+        },
+        {
+            "text": "Micronauts is the best.",
+            "act": 0.09747041761875153
+        },
+        {
+            "text": "at *9, 2006 R.I.Super.",
+            "act": 0.09673186391592026
+        },
+        {
+            "text": "They despise capitalism, they despise free markets, and they despise America.",
+            "act": 0.09673067927360535
+        },
+        {
+            "text": "These are fundamental rights which have been established through the Title VII, ADEA, and the Civil Rights statutes which defendants should have been aware of.",
+            "act": 0.0966491624712944
+        },
+        {
+            "text": "The plaintiffs' cause of action rests on both negligence and strict liability theories of recovery.",
+            "act": 0.09649445116519928
+        },
+        {
+            "text": "\"Our three vessels dancing dangerously through the ice packs locked in confrontation with the three harpoon ships of the Japanese whaling fleet.",
+            "act": 0.0960598737001419
+        },
+        {
+            "text": "IDEAL MEAL: Start with tuna tataki, silky ribbons of gently seared ahi drizzled with ponzu sauce, and sake.",
+            "act": 0.0956333726644516
+        },
+        {
+            "text": "Sunday, 18 November 2007\n\nHuman folly, madness, barbaric dreams, the thin veneer of civilisation, the overwhelming evil of the universe, faith and superstition, human cruelty and violence, the hubristic desire to conquer nature.",
+            "act": 0.0954301655292511
+        },
+        {
+            "text": "132 mins.",
+            "act": 0.09494468569755554
+        },
+        {
+            "text": "June 30, 1999.",
+            "act": 0.09400264173746109
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.09319889545440674
+        },
+        {
+            "text": "The Cardinal mixed defenses, attacked the rim, pounced on Cal lapses.",
+            "act": 0.09265217930078506
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.09226686507463455
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.09226686507463455
+        },
+        {
+            "text": "at *9, 2006 R.I.Super.",
+            "act": 0.09161403030157089
+        },
+        {
+            "text": "CapeClod\n\nFucking bastards.",
+            "act": 0.09056904166936874
+        },
+        {
+            "text": "4",
+            "act": 0.09013772755861282
+        },
+        {
+            "text": "Base Modifications\n\nFollow the preparation method selected previously to repeat the process for the Base J boxing sections.",
+            "act": 0.09009826183319092
+        },
+        {
+            "text": "RavnAir Alaska Dash 8 flights will continue to operate.",
+            "act": 0.08848993480205536
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Hmmm.",
+            "act": 0.0
+        },
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

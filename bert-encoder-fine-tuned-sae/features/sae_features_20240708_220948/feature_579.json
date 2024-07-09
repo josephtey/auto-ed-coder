@@ -1,0 +1,412 @@
+{
+    "index": 579,
+    "label": "Detailed contextual descriptions and narratives",
+    "attributes": "detailed descriptions, cultural context, academic mentions, technical details, personal narratives, specific quotations or mentions of individuals",
+    "reasoning": "Upon analyzing the texts, the shared attribute that best distinguishes them is that all the samples contain detailed descriptions or narratives, often specific to a cultural, academic, technical, or personal context. These descriptions include technical details, thank-yous, event narratives, or quotes from specific individuals, which are not present in the other set of samples.",
+    "density": 0.0033785547188254776,
+    "confidence": 2.0,
+    "high_act_samples": [
+        {
+            "text": "He also delivered some dialogues in Bharat.",
+            "act": 0.16326840221881866
+        },
+        {
+            "text": "Apart from the fully air-conditioned Raman auditorium with 300 seats, the college offers an open-air theatre called Rang Peeth free to groups.",
+            "act": 0.13734544813632965
+        },
+        {
+            "text": "We LOVE feedback!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "act": 0.13560828566551208
+        },
+        {
+            "text": "She is sitting down, so I talk to her and sit down with her.",
+            "act": 0.1344471573829651
+        },
+        {
+            "text": "Kothari Post-Doctoral Fellowship by UGC, Government of India, New Delhi.",
+            "act": 0.13050274550914764
+        },
+        {
+            "text": "What at?",
+            "act": 0.12821806967258453
+        },
+        {
+            "text": "Mrs.Prema and Mrs.Arivukkarasi have sung Science songs.",
+            "act": 0.1270601600408554
+        },
+        {
+            "text": "This, combined with the aluminium subframe, ensures longevity of the deck.",
+            "act": 0.1250941902399063
+        },
+        {
+            "text": "But the pressure on the rupee is unlikely to alleviate until the ravaging trade wars and global crude oil prices settle down.",
+            "act": 0.12216770648956299
+        },
+        {
+            "text": "Min.",
+            "act": 0.11807422339916229
+        },
+        {
+            "text": "As such they had a unique exposure to the prevalent traditions of \"Gurbani Kirtan\"in the \"Guru Darbars\".",
+            "act": 0.11585316807031631
+        },
+        {
+            "text": "-Anjeeta Nayar",
+            "act": 0.11580324172973633
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.11291911453008652
+        },
+        {
+            "text": "kalpana singh\n\nDear Medha Di & Sweet staff\u2026 Juvena is a \u201cjannnat\u201d in juvena every person is so sweet 7 their work is marvelous \u2026.",
+            "act": 0.11254070699214935
+        },
+        {
+            "text": "Reader Mats writes:\n\nI also was there, and have to agree with Keith.",
+            "act": 0.11088600754737854
+        },
+        {
+            "text": "Rangarajan for support.",
+            "act": 0.10843051970005035
+        },
+        {
+            "text": "\" Omar Sharif f!\"",
+            "act": 0.10835674405097961
+        },
+        {
+            "text": "Feeling guilty much?",
+            "act": 0.10817541927099228
+        },
+        {
+            "text": "Grewal came to the university to offer a series of courses on Sikh History.",
+            "act": 0.10695869475603104
+        },
+        {
+            "text": "O, friend!",
+            "act": 0.10682657361030579
+        },
+        {
+            "text": "After 3 minutes of work time, I have students clap out their answer choice for this problem.",
+            "act": 0.10639248043298721
+        },
+        {
+            "text": "I\nshoot up into a standing position.",
+            "act": 0.10128222405910492
+        },
+        {
+            "text": "The 50-year-old actor in an interaction at the Ramnath Goenka Excellence in Journalism awards ceremony on Monday had said, \"Kiran (his wife) and I have lived all our life in India.",
+            "act": 0.1004101112484932
+        },
+        {
+            "text": "Heavy Synchronicity with AM47!!",
+            "act": 0.09726519882678986
+        },
+        {
+            "text": "VETERAN CONTRIBUTION Sushma Seth, Romesh Chander and Mohini Mathur, who were honoured for their service to the art.",
+            "act": 0.09402014315128326
+        },
+        {
+            "text": "After 10 minutes of partner work time, the class comes back together.",
+            "act": 0.09344020485877991
+        },
+        {
+            "text": "niqaeli: Wilson: *sigh* James.",
+            "act": 0.0929502621293068
+        },
+        {
+            "text": "Why was Logan so skinny??",
+            "act": 0.09095041453838348
+        },
+        {
+            "text": "This causes the entire mechanism to roll up or down during most any impact.",
+            "act": 0.09038561582565308
+        },
+        {
+            "text": "Bhai Santu played Jori with Bhai Moti and Bhai Harnam Singh of Thatha Tibba (a senior disciple of Ustad Bhai Harnam Singh of Jammu) played with him.",
+            "act": 0.08759608864784241
+        },
+        {
+            "text": "I tried to cross my legs.",
+            "act": 0.08515080064535141
+        },
+        {
+            "text": "Pakistan is the guest team there and they could not understand the field nature clearly.",
+            "act": 0.08347334712743759
+        },
+        {
+            "text": "Dextrose and mashing low put me down to ~1.008 FG.",
+            "act": 0.08247960358858109
+        },
+        {
+            "text": "This coupling and uncoupling has the effect of altering the critical rotational speeds.",
+            "act": 0.08010780066251755
+        },
+        {
+            "text": "I also like to thank Prof.",
+            "act": 0.07949061691761017
+        },
+        {
+            "text": "The resulting widely varying loads and thermal expansion/contraction cause relative movement between the commutator bars and their supporting members during motor operation.",
+            "act": 0.0791972354054451
+        },
+        {
+            "text": "For any students not serving or who happen to be off for a certain week, we have a devotional and breakout time in The Edge during the 9:30 AM worship hour.",
+            "act": 0.07902685552835464
+        },
+        {
+            "text": "7000 people are now homeless.",
+            "act": 0.07814699411392212
+        },
+        {
+            "text": "I close my eyes and turn on my side and\nsink into the mattress.",
+            "act": 0.0780576542019844
+        },
+        {
+            "text": "We recommand painting it up to 70%~80% to finish before you apply the Brick Joint Filler.",
+            "act": 0.07768391072750092
+        },
+        {
+            "text": "\"ETA, 40 seconds.\"",
+            "act": 0.07749415189027786
+        },
+        {
+            "text": "GOP Sens.",
+            "act": 0.07690291106700897
+        },
+        {
+            "text": "Across the country, women continue to pay the cost.",
+            "act": 0.07624900341033936
+        },
+        {
+            "text": "Long sides of the triangular cross-sections are parallel to the longitudinal axis of the support.",
+            "act": 0.0759490430355072
+        },
+        {
+            "text": "Authors wish to convey gratitude to Mr. Venkatesh A. Millanatti and Mr. Bhoopal Talwar (lab attendants), Mr. Shrikant Suryavanshi (field attendant) and Mr. Lagamanna Jindrali for their assistance during the study.",
+            "act": 0.07575325667858124
+        },
+        {
+            "text": "thick slice french toast?",
+            "act": 0.07559369504451752
+        },
+        {
+            "text": "There are 15 different levels of resistance which covers 95% of the exercises in my program.",
+            "act": 0.07445963472127914
+        },
+        {
+            "text": "Then Pakistani squad disabled the telephone and telegraph lines.",
+            "act": 0.07417220622301102
+        },
+        {
+            "text": "Finally, a PDS analysis was performed and did not demonstrate evidence of periodic variability in the frequency range $0.0001$\u2013$0.10{\\mbox{$\\rm\\,Hz$}}$.",
+            "act": 0.07405821233987808
+        },
+        {
+            "text": "!!!!!!!!!!!!!!!!!!!!",
+            "act": 0.07371579110622406
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

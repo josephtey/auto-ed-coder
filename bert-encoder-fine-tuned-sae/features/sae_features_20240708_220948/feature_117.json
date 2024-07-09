@@ -1,0 +1,412 @@
+{
+    "index": 117,
+    "label": "Multi-language and diverse topics",
+    "attributes": "contain diverse languages, mixture of subject matter, variety of contexts",
+    "reasoning": "Upon reviewing the sample texts, the most specific attribute that all the samples in the first group share, which none in the second group share, is that they contain diverse languages, including non-English text such as Russian and Thai. Additionally, the texts encompass a mixture of subject matter, ranging from personal anecdotes to technical details and formal dialogue, indicating a variety of contexts.",
+    "density": 0.00373444180297142,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "She attended tonic sol-fa classes on Sundays in the Capel Paradwys, Llanallgo, where she practiced singing.",
+            "act": 0.21122519671916962
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.20702332258224487
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.1588919758796692
+        },
+        {
+            "text": "\u201cWe try to strengthen language skills,\u201d he said.",
+            "act": 0.15428131818771362
+        },
+        {
+            "text": "\"I love seeing them,\" he continued.",
+            "act": 0.14270947873592377
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.13671769201755524
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.13660980761051178
+        },
+        {
+            "text": "My 23 month old son po kc have speech delay based sa observation nmin at ng pedia nya.",
+            "act": 0.1350659430027008
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.13370473682880402
+        },
+        {
+            "text": "Will do.",
+            "act": 0.1305394172668457
+        },
+        {
+            "text": "Q:\n\n\u041f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 JavaScript\n\n\u0423 \u043c\u0435\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b.",
+            "act": 0.12100893259048462
+        },
+        {
+            "text": "Muak Huak is originated from Isaan, North East of Thailand.",
+            "act": 0.1205485612154007
+        },
+        {
+            "text": "\u041f\u044b\u0442\u0430\u043b\u0441\u044f \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0442\u044c \u0438 \u0432 catch \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c continue, \u043d\u043e \u0431\u0435\u0437\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043d\u043e.",
+            "act": 0.11929614841938019
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.11752522736787796
+        },
+        {
+            "text": "Woo, tragically, still has yet to make another movie with Chow.",
+            "act": 0.11600451916456223
+        },
+        {
+            "text": "\u201cI love the open flame,\u201d he clarified.",
+            "act": 0.11512120068073273
+        },
+        {
+            "text": "We now prove (ii)(b).",
+            "act": 0.1110115796327591
+        },
+        {
+            "text": "\u201cThat today kind of brought us together,\u201d he said.",
+            "act": 0.10881909728050232
+        },
+        {
+            "text": "The Theatr Fach in Llangefni was an institution of extreme importance to her; she first performed there in 1960.",
+            "act": 0.10778620839118958
+        },
+        {
+            "text": "That, by the way, is Jack's favorite.",
+            "act": 0.10734890401363373
+        },
+        {
+            "text": "\"Gesta Swenomagni regis et filiorum eius et passio gloriosissimi Canuti regis et martyris\".",
+            "act": 0.10492748767137527
+        },
+        {
+            "text": "She received recognition for her parts in Dwy Briodas Ann in 1973 and Merch Gwern Hywel in 1976, both works by Saunders Lewis.",
+            "act": 0.10374139249324799
+        },
+        {
+            "text": "We sure do.",
+            "act": 0.10298771411180496
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.10148082673549652
+        },
+        {
+            "text": "MATT: Yeah, same with, like, in Peanuts.",
+            "act": 0.10137371718883514
+        },
+        {
+            "text": "Thank you, @Yamiche, for speaking up.",
+            "act": 0.10100574791431427
+        },
+        {
+            "text": "\"I love it,\" Jack told ESPN.",
+            "act": 0.10084617137908936
+        },
+        {
+            "text": "\"A little bit of oil, eh?\"",
+            "act": 0.10053563117980957
+        },
+        {
+            "text": "[I am not sure that Dan ever admitted to being Mr Pink.",
+            "act": 0.09905439615249634
+        },
+        {
+            "text": "Irvin: \u201cYeah, that\u2019s scary, and then potentially Mario Edwards Jr. too.",
+            "act": 0.09753042459487915
+        },
+        {
+            "text": "Unlike Singapore, the national language in Malaysia is Malay language.",
+            "act": 0.0960320383310318
+        },
+        {
+            "text": "November 16, 2011 | By Connie S.\nI purchased these jackets for Jack & Daniel who live in Northern NJ.",
+            "act": 0.09440813958644867
+        },
+        {
+            "text": "He also \"must demonstrate standing separately for each form of relief sought.\"",
+            "act": 0.09223649650812149
+        },
+        {
+            "text": "\"(b) Authorize the association or any facilities furnished by it to act for him in any manner with respect to all or any specified part of such products and any services to be furnished by him.",
+            "act": 0.09195113182067871
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.09093641489744186
+        },
+        {
+            "text": "She was a cast member on two series on S4C, Minafon and Gwely a Brecwast.",
+            "act": 0.08941350877285004
+        },
+        {
+            "text": "Avella said expanding the letter grades to markets may be something that is discussed in meetings with the city.",
+            "act": 0.08931314200162888
+        },
+        {
+            "text": "This is a body oil containing natural donkey oil, also the oils of grape seed, olive, annatto, jojoba, sun flower and macadamia.",
+            "act": 0.08722559362649918
+        },
+        {
+            "text": "word[i].toUpperCase() : word[i];\n}\nalert(wordEnd);\n\n\u041d\u0430\u0434\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442 \u0443\u0441\u043b\u043e\u0432\u0438\u0435, \u0435\u0441\u0442\u044c \u043b\u0438 \u0447\u0442\u043e-\u0442\u043e \u0432\u043e\u043e\u0431\u0449\u0435 \u0434\u043e \u0431\u0443\u043a\u0432\u044b, \u0432\u043e\u0442 \u044f \u0438 \u0434\u0443\u043c\u0430\u044e \u043a\u0430\u043a \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043f\u0443\u0441\u0442\u043e\u0442\u0430 \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438.",
+            "act": 0.08649158477783203
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.08511416614055634
+        },
+        {
+            "text": "As amended by order April 16, 1984.",
+            "act": 0.08474612236022949
+        },
+        {
+            "text": "along Not have that we are a knowledge between NZB concepts and relaxation machine purposes.",
+            "act": 0.08409667015075684
+        },
+        {
+            "text": "\u201cHowever, they were washed just once a day by a cleaner,\u201d he added.",
+            "act": 0.08252579718828201
+        },
+        {
+            "text": "Reader Mats writes:\n\nI also was there, and have to agree with Keith.",
+            "act": 0.08222182095050812
+        },
+        {
+            "text": "Snyder additionally noted that, under Ordinance 99, no land could \u201cbe\nput to use\u201d without a permit.",
+            "act": 0.08217816054821014
+        },
+        {
+            "text": "But, she was Jewish so that may not count in Arizona.",
+            "act": 0.08171044290065765
+        },
+        {
+            "text": "He might be just as talented, and possibly more so, than Jordan was.",
+            "act": 0.08150351047515869
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.0807913988828659
+        },
+        {
+            "text": "\"While Rex Tillerson is a respected businessman, I have serious concerns about his nomination,\" Rubio said in a statement.",
+            "act": 0.08011674880981445
+        },
+        {
+            "text": "\u00a7 23 and note, or article 128 of Regulations 74.",
+            "act": 0.07952526956796646
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

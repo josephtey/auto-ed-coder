@@ -1,0 +1,412 @@
+{
+    "index": 587,
+    "label": "Procedural retention instructions",
+    "attributes": "Presence of procedural retention guidelines, Formal instructions mentioning 'Retain' and 'destroy', Specific durations or steps outlined",
+    "reasoning": "After examining both sets of samples, it is evident that the texts within 'the samples' frequently contain strict guidelines and retention policies, often mentioning terms like 'Retain,' 'destroy,' and specific durations or actions to be taken. These guidelines are presented in a formal, procedural format. In contrast, 'the other samples' contain informal, conversational language often used in discussions, opinions, or personal reflections, indicating a broad context without procedural instructions.",
+    "density": 0.0007165193294138303,
+    "confidence": 44.0,
+    "high_act_samples": [
+        {
+            "text": "RETENTION: Retain in office while active or until superseded, then destroy by landfill.",
+            "act": 0.14435571432113647
+        },
+        {
+            "text": "Duplicates: Retain in office while active, then destroy by\n\nlandfill.",
+            "act": 0.12221664190292358
+        },
+        {
+            "text": "RETENTION: Retain in office until superseded, then destroy by shredding then landfill.",
+            "act": 0.11492152512073517
+        },
+        {
+            "text": ">\n<>\u201dTulsa Spine & Rehab is not your ordinary chiropractor experience.",
+            "act": 0.11177138984203339
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.10297248512506485
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.09462909400463104
+        },
+        {
+            "text": "RETENTION: Retain 1 year in office, then destroy by landfill.",
+            "act": 0.08799442648887634
+        },
+        {
+            "text": "There is no full body exfoliation or massage.",
+            "act": 0.08549515157938004
+        },
+        {
+            "text": "Unfortunately, adult Saucony Jazz shoes come solely with traditional lace-up closures.",
+            "act": 0.08384232223033905
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term distributed, then\n\ndestroy by shredding then landfill.",
+            "act": 0.08071273565292358
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.08009156584739685
+        },
+        {
+            "text": "1995, pet denied,\nuntimely filed).",
+            "act": 0.07934008538722992
+        },
+        {
+            "text": "RETENTION: Retain 2 years in office, then 5 years in Records Center, then destroy by landfill.",
+            "act": 0.07177891582250595
+        },
+        {
+            "text": "I was very hungry.",
+            "act": 0.07044112682342529
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.06929624080657959
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.06929624080657959
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.06693673878908157
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.06693673878908157
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.06693673878908157
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.06573832035064697
+        },
+        {
+            "text": "21",
+            "act": 0.0650501549243927
+        },
+        {
+            "text": "Job Info\n\nHanover, MD\n\nLive!",
+            "act": 0.06504613906145096
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.06493023037910461
+        },
+        {
+            "text": "\u201cI was ready to keep him out,\u201d Reds manager Bryan Price said.",
+            "act": 0.06351620703935623
+        },
+        {
+            "text": "Salaries from lost games and time cut off from already short career windows.",
+            "act": 0.06337203085422516
+        },
+        {
+            "text": "Typical facility: RAP\u2019s were usually situated in a dugout, in a communication trench, a ruined house, or a deep shell hole.",
+            "act": 0.05872533842921257
+        },
+        {
+            "text": "They don't look real squishy though.",
+            "act": 0.05762968212366104
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.05711152032017708
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term distributed, then destroy by shredding then landfill.",
+            "act": 0.05603437498211861
+        },
+        {
+            "text": "Do not swallow whole.",
+            "act": 0.055679913610219955
+        },
+        {
+            "text": "RETENTION: Retain in office 5 years after graduation term or term of last attendance, then destroy by shredding then landfill.",
+            "act": 0.055419374257326126
+        },
+        {
+            "text": "Serious cases in urgent need of immediate treatment.",
+            "act": 0.05457599088549614
+        },
+        {
+            "text": "Sustained price.",
+            "act": 0.05392497405409813
+        },
+        {
+            "text": "After two great weeks on the road The Poodles are sad to announce the cancellation of the rest of the tour.",
+            "act": 0.053913410753011703
+        },
+        {
+            "text": "Do not depend on the eBay Buyer Vehicle Protection Program.",
+            "act": 0.0519988052546978
+        },
+        {
+            "text": "RETENTION: Retain in office 1 year after term submitted, then\n\ndestroy by shredding then landfill.",
+            "act": 0.04963906481862068
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.0463688038289547
+        },
+        {
+            "text": "Bengali forces were alerted about the Pakistani squads.",
+            "act": 0.044672463089227676
+        },
+        {
+            "text": "Algerian Hostage Tapes: Inside Intel on Terror Attack?",
+            "act": 0.04465432092547417
+        },
+        {
+            "text": "RETENTION: Retain in office 2 years after termination or until final disposition of charge or civil action, then destroy by shredding then landfill.",
+            "act": 0.04433352127671242
+        },
+        {
+            "text": "RETENTION: Retain in office 2 years after termination or until final disposition of charge or civil action, then destroy by shredding then landfill.",
+            "act": 0.04433352127671242
+        },
+        {
+            "text": "Students not accepted: Retain in office 1 year after application term, then destroy by shredding then landfill.",
+            "act": 0.042778030037879944
+        },
+        {
+            "text": "( roughly)",
+            "act": 0.041732173413038254
+        },
+        {
+            "text": "RETENTION: Retain in office 3 years after termination of contract, then destroy by shredding then recycling.",
+            "act": 0.0411253497004509
+        },
+        {
+            "text": "This rare finch-like tanager (as it is currently classified) has been very spotty in recent years, with most tours failing to see it.",
+            "act": 0.040921133011579514
+        },
+        {
+            "text": "The armpits and elbow areas pinched something awful.",
+            "act": 0.04047434404492378
+        },
+        {
+            "text": "28:18; Luke 2:11.]",
+            "act": 0.04026275500655174
+        },
+        {
+            "text": "It was so horrible that many retailers decided not to carry it.",
+            "act": 0.03964626416563988
+        },
+        {
+            "text": "Do not chew, break, or crush.",
+            "act": 0.039527129381895065
+        },
+        {
+            "text": "The casualties came from Yemen, Sudan, Philippines, India and Sri Lanka.",
+            "act": 0.038038838654756546
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

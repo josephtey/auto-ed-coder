@@ -1,0 +1,412 @@
+{
+    "index": 398,
+    "label": "Texts with formal informative content",
+    "attributes": "presence of proper nouns, presence of formal titles, inclusion of dates, structured factual content",
+    "reasoning": "The samples are extracted text snippets that mainly come from sources such as news articles, scientific reports, official documentation, and formal descriptions. These texts often include specific references to events, people, places, and institutions, indicating their informative and structured nature. In contrast, the other samples are informal conversations, opinions, or casual remarks that do not have the same structured and informative characteristics. The most specific attribute I found that all the samples share is the presence of proper nouns, formal titles, dates, and structured factual content, which indicates a more formal and informative nature.",
+    "density": 0.0034449869745327203,
+    "confidence": 44.0,
+    "high_act_samples": [
+        {
+            "text": "(KNS)",
+            "act": 0.25072604417800903
+        },
+        {
+            "text": "Prince Richard\u2019s son is Earl Alexander Windsor.",
+            "act": 0.2235582172870636
+        },
+        {
+            "text": "Guests:",
+            "act": 0.1838030070066452
+        },
+        {
+            "text": "The cascade drops approximately  in and is highly intermittent, fed by runoff from snowmelt and the Middle Teton Glacier.",
+            "act": 0.16611668467521667
+        },
+        {
+            "text": "\u2014 Matthew Sheffield",
+            "act": 0.16461394727230072
+        },
+        {
+            "text": "Yahoo!",
+            "act": 0.16310803592205048
+        },
+        {
+            "text": "And there appeared to be no let up in sight, with Weather Channel meteorologist Kevin Roth predicting the storm would likely refocus on central Texas, as well as branching out to the Ohio Valley and further north later on Tuesday.",
+            "act": 0.15551455318927765
+        },
+        {
+            "text": "Media partner:\n\nBack",
+            "act": 0.15505515038967133
+        },
+        {
+            "text": "Vice-Chancellor of Austria\n\nThe Vice-Chancellor of Austria (German: Vizekanzler) is a member of the Federal Government and the deputy of the Chancellor.",
+            "act": 0.15138402581214905
+        },
+        {
+            "text": "Host key verification failed.",
+            "act": 0.1488056480884552
+        },
+        {
+            "text": "comes out.",
+            "act": 0.13592170178890228
+        },
+        {
+            "text": "This was apparently agreeable to all of the parties.",
+            "act": 0.13228896260261536
+        },
+        {
+            "text": "Elen competed in the local eisteddfodau.",
+            "act": 0.13205797970294952
+        },
+        {
+            "text": "He duly stood down as prime minister on 5 December.",
+            "act": 0.1306883841753006
+        },
+        {
+            "text": "All pedestals were taken while the beam was disabled.",
+            "act": 0.13013873994350433
+        },
+        {
+            "text": "Source: Ol\u00e9",
+            "act": 0.12522824108600616
+        },
+        {
+            "text": "Vice-Chancellors of Austria after the end of World War II\n\nSee also\nChancellor of Austria\n\nReferences\n\nAustria, Vice-Chancellors",
+            "act": 0.12472791969776154
+        },
+        {
+            "text": "\u201cSubstantial seawater impacts are detected in the groundwater due to the flooding\n\nexperienced at The Bahamas during the hurricane.",
+            "act": 0.12398014962673187
+        },
+        {
+            "text": "However, the universal tube is still included despite being disconnected.",
+            "act": 0.11931303143501282
+        },
+        {
+            "text": "Control mechanisms failed.",
+            "act": 0.11561805009841919
+        },
+        {
+            "text": "In 2010, the Hon.",
+            "act": 0.1137630045413971
+        },
+        {
+            "text": "(UNI)",
+            "act": 0.11355647444725037
+        },
+        {
+            "text": "Source",
+            "act": 0.11333736777305603
+        },
+        {
+            "text": "An additional consequence of girdling was that the supply of carbon from the large basal branch systems back into the main stem and roots would also have been blocked.",
+            "act": 0.10945706069469452
+        },
+        {
+            "text": "Queen Elizabeth II is the Duchess of Lancaster.",
+            "act": 0.10944294929504395
+        },
+        {
+            "text": "Today the butter mountains have been replaced by less visible byproducts of overproduction.",
+            "act": 0.10851006209850311
+        },
+        {
+            "text": "The bad weather prevented them from making any further attempts to reach the summit.",
+            "act": 0.10683782398700714
+        },
+        {
+            "text": "This similarity likely reflects joint features in habitat selection and foraging strategies, but also the high general availability of the main prey taxa (Diptera).",
+            "act": 0.10655374825000763
+        },
+        {
+            "text": "In an apparent sign of her prominence, Haley was dual-hatted as ambassador to the United Nations and member of cabinet.",
+            "act": 0.10480865836143494
+        },
+        {
+            "text": "(AP) \u2014 Missouri Lt. Gov.",
+            "act": 0.1043824553489685
+        },
+        {
+            "text": "Ghosh\u2019s ire is understandable.",
+            "act": 0.10418331623077393
+        },
+        {
+            "text": "- newsday",
+            "act": 0.10364934802055359
+        },
+        {
+            "text": "It was a potentially catastrophic Category 4 storm but was expected to keep drawing energy from the warm water and intensify to near Category 5, which means winds of 157 mph or higher.",
+            "act": 0.10314452648162842
+        },
+        {
+            "text": "According to the Birmingham weather office, the third round of severe weather is of the most concern because it is most closely associated with an advancing cold front \u2013 which could provide the ingredients for strong tornadoes.",
+            "act": 0.10163456201553345
+        },
+        {
+            "text": "Prince Richard the Duke of Gloucester is a Windsor and Montagu and high level Knight of the Garter.",
+            "act": 0.09992130100727081
+        },
+        {
+            "text": "Adaptations vary.",
+            "act": 0.09767603874206543
+        },
+        {
+            "text": "Despite the isolation of the highway, it is well-travelled throughout its length.",
+            "act": 0.09671571850776672
+        },
+        {
+            "text": "The cross section of this channel has been scaled down accordingly.",
+            "act": 0.09586137533187866
+        },
+        {
+            "text": "The treasurer of the state of Iowa is the custodian of the retirement\n       fund.",
+            "act": 0.09384915232658386
+        },
+        {
+            "text": "Angered at the contents of the cybertheft, they boo any mention of their party\u2019s nominee.",
+            "act": 0.09342026710510254
+        },
+        {
+            "text": "The mate-panels are missing.",
+            "act": 0.0909527987241745
+        },
+        {
+            "text": "Bad weather precluded any further attempts to reach the summit.",
+            "act": 0.09087957441806793
+        },
+        {
+            "text": "The storms are expected to sweep across Alabama in waves, which could lead to a series of severe weather events.",
+            "act": 0.09062571823596954
+        },
+        {
+            "text": "All leagues from the Bezirksligas onwards were elevated one tier.",
+            "act": 0.08820854127407074
+        },
+        {
+            "text": "Mongkut was the son of Prince Isarasundhorn, son of Phutthayotfa Chulalok.",
+            "act": 0.08632390201091766
+        },
+        {
+            "text": "were also included in the Pre-Parliament.",
+            "act": 0.08620642125606537
+        },
+        {
+            "text": "Thus, mainly across\u2010year effects, rather than within\u2010year effects, influenced carnivore community composition and plant fitness.",
+            "act": 0.08457030355930328
+        },
+        {
+            "text": "References \n\nCategory:Waterfalls of Wyoming\nCategory:Waterfalls of Grand Teton National Park",
+            "act": 0.0837220698595047
+        },
+        {
+            "text": "The results of phylogeny also provide some interesting feature, although evolutionary patterns appear to be largely conserved.",
+            "act": 0.08331628143787384
+        },
+        {
+            "text": "General Wesley Clark is a Knight of the British Empire.",
+            "act": 0.08314569294452667
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

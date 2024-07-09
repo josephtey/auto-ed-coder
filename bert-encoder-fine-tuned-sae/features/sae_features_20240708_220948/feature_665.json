@@ -1,0 +1,412 @@
+{
+    "index": 665,
+    "label": "Fragmented and varied presentation",
+    "attributes": "direct speech, questions, narrative fragments, standalone factual statements, disjointed or non-linear style, incomplete actions or thoughts",
+    "reasoning": "The samples feature a mix of dialogues, narrative fragments, and standalone factual statements. They include direct speech, questions, and sentences expressing incomplete actions or thoughts. These elements create a disjointed or non-linear style, often giving the impression of scenes or moments captured mid-action. This fragmented and varied presentation contrasts with the longer, more cohesive and detailed paragraphs present in the other set of samples, which form more complete narratives or explanations.",
+    "density": 0.0006216161069749123,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "\u201cMICHAEL!\u201d\nI scream.",
+            "act": 0.18102112412452698
+        },
+        {
+            "text": "All but\none are closed.",
+            "act": 0.1271313726902008
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.12707100808620453
+        },
+        {
+            "text": "Somebody bother you?",
+            "act": 0.1005948856472969
+        },
+        {
+            "text": "Anyone know?",
+            "act": 0.09034335613250732
+        },
+        {
+            "text": "They are\nstaring, staring hard, all three.",
+            "act": 0.087819904088974
+        },
+        {
+            "text": "\u201cr u up\u201d\n\nTwo minutes later\u2026\n\n\u201chope so\u201d\n\nTwo minutes later\u2026\n\n\u201ci guess not\u201d\n\nBefore even reading the messages I knew who it was.",
+            "act": 0.08597976714372635
+        },
+        {
+            "text": "Dont do that.",
+            "act": 0.08361727744340897
+        },
+        {
+            "text": "The median age was 40 years.",
+            "act": 0.07626497745513916
+        },
+        {
+            "text": "It seems very dry,\u201d in a nasally voice.",
+            "act": 0.07462744414806366
+        },
+        {
+            "text": "0 : ((x) > 0 ?",
+            "act": 0.07427459955215454
+        },
+        {
+            "text": "These individuals were identified as\nDefendant and Edmond Triplett (\u201cMr.",
+            "act": 0.07280392199754715
+        },
+        {
+            "text": "Spotted Puffbird came quite easily (and close!",
+            "act": 0.07169817388057709
+        },
+        {
+            "text": "The Bushes and John Kerry are members of that.)",
+            "act": 0.06356337666511536
+        },
+        {
+            "text": "Who came?",
+            "act": 0.061351437121629715
+        },
+        {
+            "text": "The median age was 40 years.",
+            "act": 0.06031211093068123
+        },
+        {
+            "text": "HOMESTAR RUNNER:{Sighs twice; his breath is visible.",
+            "act": 0.060124848037958145
+        },
+        {
+            "text": "The median age was 31 years.",
+            "act": 0.05764470621943474
+        },
+        {
+            "text": "(Wake up UK for the love of Hollywood.",
+            "act": 0.05402061715722084
+        },
+        {
+            "text": "Where were you?",
+            "act": 0.053174592554569244
+        },
+        {
+            "text": "Almost half were for people age 60 and over, with approximately 70 per cent accounting for people 50 and over.",
+            "act": 0.046565037220716476
+        },
+        {
+            "text": "Others are closing in sleep.",
+            "act": 0.04648473858833313
+        },
+        {
+            "text": "The answer, my friends, is ANYWHERE.",
+            "act": 0.04528682678937912
+        },
+        {
+            "text": "Pierre has taken\nhis big basket; he is quite a little man.",
+            "act": 0.04452953115105629
+        },
+        {
+            "text": "Guests:",
+            "act": 0.04395023360848427
+        },
+        {
+            "text": "44.2% of all households were made up of individuals and 19.1% had someone living alone who was 65 years of age or older.",
+            "act": 0.0435137078166008
+        },
+        {
+            "text": "Starless are the nights of travel,\nBleak the winter wind;\nRun with terror all before you\nAnd regret behind.",
+            "act": 0.039739225059747696
+        },
+        {
+            "text": "Frances x",
+            "act": 0.03903980925679207
+        },
+        {
+            "text": "Fenris starts to walk forward.",
+            "act": 0.03774921968579292
+        },
+        {
+            "text": "Jeremiah Wright.",
+            "act": 0.03753325715661049
+        },
+        {
+            "text": "(Skokie Police Dept.",
+            "act": 0.036871399730443954
+        },
+        {
+            "text": "1;) for then he must have\nbeen more than sixty years of age at the time of which Luke speaks.",
+            "act": 0.036067184060811996
+        },
+        {
+            "text": "And Jeanne snatches the rod.",
+            "act": 0.03601014241576195
+        },
+        {
+            "text": "There are over 130 clubs and societies on campus.",
+            "act": 0.034156739711761475
+        },
+        {
+            "text": ":(",
+            "act": 0.03392454609274864
+        },
+        {
+            "text": "About 11.1% of families and 14.3% of the population were below the poverty line, including 19.9% of those under age 18 and 10.3% of those age 65 or over.",
+            "act": 0.033846933394670486
+        },
+        {
+            "text": "Do you know that profound thinker?",
+            "act": 0.03360404446721077
+        },
+        {
+            "text": "2",
+            "act": 0.03328816220164299
+        },
+        {
+            "text": "One dead at the hospital \u2013 the child.",
+            "act": 0.03294534236192703
+        },
+        {
+            "text": "Porter Goss is a member of Book and Snake and was former Director of the CIA.",
+            "act": 0.03286103531718254
+        },
+        {
+            "text": "Hey Michael!",
+            "act": 0.0326530784368515
+        },
+        {
+            "text": "asks Fanchon.",
+            "act": 0.03183088079094887
+        },
+        {
+            "text": "They\u2019re both dead by the time he touches the ground.",
+            "act": 0.031566642224788666
+        },
+        {
+            "text": "('(') {\n                        expect!",
+            "act": 0.029474040493369102
+        },
+        {
+            "text": "Hayko Mko\n\nHayko Mko (in ) was an Armenian comedian duo made up of Hayk Marutyan  (known as Hayko) and Mkrtich Arzumanyan (known as Mko).",
+            "act": 0.029399985447525978
+        },
+        {
+            "text": "Across the street there is a (long) line of taxis.",
+            "act": 0.02867140807211399
+        },
+        {
+            "text": "\u201cMr.",
+            "act": 0.028299828991293907
+        },
+        {
+            "text": "Did you?",
+            "act": 0.027843795716762543
+        },
+        {
+            "text": "I have fighted, included her mom, brother, father and even their Pandit.",
+            "act": 0.02759353257715702
+        },
+        {
+            "text": "18\nRace?",
+            "act": 0.02738809399306774
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

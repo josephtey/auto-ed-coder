@@ -1,0 +1,412 @@
+{
+    "index": 718,
+    "label": "Structured contextual narratives with data",
+    "attributes": "References to sports events, financial data, product descriptions, structured contexts",
+    "reasoning": "After carefully examining the texts within both sample groups, I identified that the texts within the first group share a specific attribute related to the context of sports, entertainment, financial reports, and specific situational narratives. They contain references to sporting events, financial data, and product descriptions, all framed in a specific and structured context. On the other hand, the texts from the second group are more conversational, informal, and discuss social or political issues often devoid of structured narrative elements found in the first group.",
+    "density": 0.0009347967410233414,
+    "confidence": 83.0,
+    "high_act_samples": [
+        {
+            "text": "Boult\u2019s third over saw Aaron Finch out lbw falling over an inswinger.",
+            "act": 0.15370924770832062
+        },
+        {
+            "text": "Williamson - dropped by Sarfraz Ahmed on 26 - scored at nearly a run a ball, but resisted the temptation to cut loose and felt that paid off.",
+            "act": 0.1374104619026184
+        },
+        {
+            "text": "James Neesham entered the attack and 81 for three became 81 for four as Marcus Stoinis was caught behind, before Neesham held a one-handed caught and bowled just above the grass to get rid of Glenn Maxwell.",
+            "act": 0.12994492053985596
+        },
+        {
+            "text": "Borger 3 Piece Reclining Living Room Set Red Barrel Studio\n\nPuffy, overstuffed loveseat soft cushions arent your thing?",
+            "act": 0.1287834197282791
+        },
+        {
+            "text": "5TH MINUTE\n\nHaving started like he means business, sprinting after a Jack Wilshere long ball but drifting offside, Rooney decides not to pull rank at a free-kick from around 25 yards from goal.",
+            "act": 0.1242477148771286
+        },
+        {
+            "text": "Bolt nervous for Mariners debut \u00b7 Watch Now \u00b7 Inside look at Murrayfield Stadium \u00b7 Watch Now\n\nTottenham took control of the second half at Manchester United, burying three goals in the Theatre of Dreams to up the pressure on Jose Mourinho.",
+            "act": 0.09570248425006866
+        },
+        {
+            "text": "\"Ailnoth  (fl.",
+            "act": 0.09400443732738495
+        },
+        {
+            "text": "If ye do (such harm), it would be wickedness in you.",
+            "act": 0.09020115435123444
+        },
+        {
+            "text": "They name thee before me,\nA knell to mine ear;\nA shrudder comes o\u2019er me\u2013\nWhy wert thou so dear?",
+            "act": 0.08910602331161499
+        },
+        {
+            "text": "CONTRAST:\n\n1Th 5:16 \u00b6\nRejoice evermore.",
+            "act": 0.08868604898452759
+        },
+        {
+            "text": "It took the return of Mitchell Starc to restore a sense of World Cup order, figures of five for 26 reflecting a spell of brutal, high-grade, white-ball fast-bowling that blew away the tail.",
+            "act": 0.08570042997598648
+        },
+        {
+            "text": "He was still infuriated after his side wasted a good free-kick opportunity a minute before the opener, with captain Aaron Lennon making a feeble challenge on Eduardo Salvio, who chipped a cross to team-mate Garay.",
+            "act": 0.08249309659004211
+        },
+        {
+            "text": "\u201cright?",
+            "act": 0.08105520159006119
+        },
+        {
+            "text": "It can also cause vitiligo (an auto-immune disease causing loss of skin pigment resulting in a blotchy \u201cbleach-splashed\u201d look), and warts which can be extensive and recalcitrant to treatment.",
+            "act": 0.07595385611057281
+        },
+        {
+            "text": "Dell is worth around 22b to 25b.",
+            "act": 0.074334055185318
+        },
+        {
+            "text": "In allotted 50 overs, New Zealand post a challenging total.",
+            "act": 0.07311520725488663
+        },
+        {
+            "text": "83-run stand before Hasan Ali finally removed Munro three balls into the 13th over.",
+            "act": 0.07013878226280212
+        },
+        {
+            "text": "The pair dropped as much as 5.05-percent ahead of the European session to neutralize its overbought sentiments, finding interim support at $0.384-level.",
+            "act": 0.06894878298044205
+        },
+        {
+            "text": "The city accepted the Korneffel bid on May 21 at a cost of $339,000, but that apparently included the seawall for the condominiums next door to Doane\u2019s Landing park.",
+            "act": 0.06783092021942139
+        },
+        {
+            "text": "Carey inside-edged to the pavilion fence to reach a battling 51 off 41 balls.",
+            "act": 0.06745130568742752
+        },
+        {
+            "text": "In the end, the film did $370 million domestically at the box office, an additional $241 million at the foreign box office and $400 million in home video sales.",
+            "act": 0.06680607795715332
+        },
+        {
+            "text": "\"What's a convent?\"",
+            "act": 0.06027965992689133
+        },
+        {
+            "text": "But Williamson and Henry Nicholls steadied the ship with a 90-run stand for the fifth wicket before Nicholls was dismissed on 50 by Hasan Ali with just two overs remaining.",
+            "act": 0.059838756918907166
+        },
+        {
+            "text": "However, Pakistan came to chase the score and made 166 runs in 30.1 overs.",
+            "act": 0.05817803367972374
+        },
+        {
+            "text": "Yet Australia let slip not just a huge advantage in the match when they managed to post a first innings lead of just 86, but surrendered momentum to the home side that they were never able to arrest.",
+            "act": 0.05759183317422867
+        },
+        {
+            "text": "PAC generally arises due to the consequence of a cancer-associated mutation that is acquired or inherited.",
+            "act": 0.057224586606025696
+        },
+        {
+            "text": "$1 billion a year to operate\n\nThe $740 million compound \u2013 expected to cost more than $1 billion a year to operate \u2013 was originally expected to cost $600 million to build and was to open in September 2007.",
+            "act": 0.05712701380252838
+        },
+        {
+            "text": "> \n\nPokud se chyst\u00e1te prov\u00e9st v\u00fdm\u011bnu disku bez p\u0159eru\u0161en\u00ed dostupnosti slu\u017eby na serveru s megaRAID kartou, aktivujte pros\u00edm po napl\u00e1nov\u00e1n\u00ed intervence u p\u0159\u00edslu\u0161n\u00e9ho disku blikaj\u00edc\u00ed LED diodu.",
+            "act": 0.05617130920290947
+        },
+        {
+            "text": "Joke\u2019s on you!",
+            "act": 0.055906977504491806
+        },
+        {
+            "text": "~ Wot ?",
+            "act": 0.0558675080537796
+        },
+        {
+            "text": "It grossed $34 million at the box office.",
+            "act": 0.05529347062110901
+        },
+        {
+            "text": "Borger 3 Piece Reclining Living Room Set Red Barrel Studio\n\nSerta RTA Copenhagen Selection 61 Loveseat in Marzipan was created especially for little rooms.",
+            "act": 0.055159054696559906
+        },
+        {
+            "text": "\u201cI get that.",
+            "act": 0.05485369637608528
+        },
+        {
+            "text": "The makeover will cost an estimated $1.6 million.",
+            "act": 0.05309027433395386
+        },
+        {
+            "text": "Budget impact would be about $94,000 pro-rated for 2016 and $125,500 for 2017.",
+            "act": 0.0502622053027153
+        },
+        {
+            "text": "HALF-TIME\n\nJust a few minutes after an inaccurate crossfield pass, Rooney\u2019s half comes to an end with England drawing 0-0 with Norway.",
+            "act": 0.04907212778925896
+        },
+        {
+            "text": "Web objects that it is an attempt to tuck it away.",
+            "act": 0.048739008605480194
+        },
+        {
+            "text": "The Native Client will give Chrome's web store a chance to remake itself with more sophisticated apps leading the charge; the lack of Bastion on the store's front page proves it's in need of a content curation makeover.",
+            "act": 0.048395588994026184
+        },
+        {
+            "text": "It was not linked to pheA, was located in the 95--100 min region of the Salmonella chromosome, and was recessive to the wild type gene in merodiploids.",
+            "act": 0.04724053665995598
+        },
+        {
+            "text": "buy raiblockss using payza\n\nQuadrant 100 billion XRP in xRapid Pilots.",
+            "act": 0.04666697233915329
+        },
+        {
+            "text": "Today I got another call.",
+            "act": 0.045576829463243484
+        },
+        {
+            "text": "The Belgium international was put through by a misplaced Danny Rose back-pass, before bizarrely missing a gaping goal when he rounded Hugo Lloris.",
+            "act": 0.04494243115186691
+        },
+        {
+            "text": "It is suggested that SP does not play an etiological role in the development of gastroduodenitis in JRA but may serve as a pathogenetic factor in the development of an erosive-ulcerous lesion.",
+            "act": 0.044344425201416016
+        },
+        {
+            "text": "The teen replies: \u2018Yeah maybe where you tonight\u2019.",
+            "act": 0.04357760399580002
+        },
+        {
+            "text": "Australia lose 5-23 after the lunch break\n\nThat record might be worse if the planned tour to Bangladesh with a revised squad in the wake of last year\u2019s Ashes defeat wasn\u2019t postponed amid security concerns.",
+            "act": 0.04336586594581604
+        },
+        {
+            "text": "Wouldn\u00e2\u20ac\u2122t \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.0412352979183197
+        },
+        {
+            "text": "'Fulham must follow own style' \u00b7 Watch Now \u00b7 Hughes: McCarthy can be England No 1 \u00b7 Watch Now.",
+            "act": 0.04115662723779678
+        },
+        {
+            "text": "In the wake of his team\u2019s thumping 163-run loss in Colombo today, a defeat that came at a clip as the world\u2019s top-ranked team saw all 10 batsmen dismissed for a Trent Bridge-esque 83 runs in less than 23 overs, captain Steve Smith fronted the post-match media bereft of answers.",
+            "act": 0.04023158922791481
+        },
+        {
+            "text": "He shall cover\nthee with his feathers, and under his wings shalt thou trust: his truth shallbethy shield and buckler.",
+            "act": 0.04013925790786743
+        },
+        {
+            "text": "\u201cTake my yoke upon you, and learn of me; for I am meek and\nlowly in heart: and ye shall find rest unto your souls.",
+            "act": 0.04001981019973755
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

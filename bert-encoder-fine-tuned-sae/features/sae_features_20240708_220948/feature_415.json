@@ -1,0 +1,412 @@
+{
+    "index": 415,
+    "label": "Multilingual content in texts",
+    "attributes": "multilingual text, includes non-English phrases, language diversity, mixed language content",
+    "reasoning": "All the texts within the samples have multilingual content, showing phrases and sentences in various languages including English, Greek, Chinese, and more. This attribute is consistent across the texts and is not found in the other set of samples, which are strictly English.",
+    "density": 0.0018553579986808452,
+    "confidence": 92.0,
+    "high_act_samples": [
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.1609010398387909
+        },
+        {
+            "text": "\u6700\u8fd1\uff0c\u5f53\u6211\u770b\u5230\u8fd9\u4e2a\u65f6\u662f\u5728\u88d5\u5eca\u574a\u8d70\u8d70\u6d88\u78e8\u70b9\u65f6\u95f4\u3002\u5b83\u8bf4\u201c\u6211\u662f\u4e00\u4e2a\u806a\u660e\u7684\u5783\u573e\u6876\u201d\u3002 \u6709\u4e00\u4e2a\u8bcd\u201c\u5927\u809a\u5b50\u201d\u3002 \u66f4\u591a\u63cf\u8ff0\uff1a\u7d27\u51d1\u591a\u8fbe7\u500d\u7684\u5783\u573e\u3002 \u62ef\u6551\u5730\u7403\u548c\u8282\u7701\u52b3\u52a8\u529b\u3002\u4e5f\u5f88\u806a\u660e\uff0c\u5e76\u4f1a\u5728\u9700\u8981\u6e05\u7406\u7684\u65f6\u5019\u548c\u5730\u70b9\u53d1\u9001\u8b66\u62a5\u3002\u8fd9\u51cf\u5c11\u4e86\u6392\u653e\u5e76\u5e2e\u52a9\u4e86\u5730\u7403\u3002\u662f\u7684\u786e\u633a\u806a\u660e\u7684\u3002\n\nMy Referral Links to recent airdrops | \u6211\u6700\u8fd1\u53c2\u4e0e\u7684\u7a7a\u6295\u8fde\u63a5\n\nI See\ud83d\udc40.",
+            "act": 0.1592446267604828
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.1585117131471634
+        },
+        {
+            "text": "Tornadoes?",
+            "act": 0.14171312749385834
+        },
+        {
+            "text": "This prevents hearing and using ears.",
+            "act": 0.13824200630187988
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.1380460262298584
+        },
+        {
+            "text": "Released in 1962, \u201cDr.",
+            "act": 0.13349813222885132
+        },
+        {
+            "text": "Such existential questions can be clarifying.",
+            "act": 0.13036227226257324
+        },
+        {
+            "text": "\ud83d\ude42\n\nwelcome to brown eyed baker!",
+            "act": 0.12698711454868317
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.12423289567232132
+        },
+        {
+            "text": "This prevents them from aging.",
+            "act": 0.11499672383069992
+        },
+        {
+            "text": "Turning the catch in the opposite direction unlocks the window and allows its opening.",
+            "act": 0.11069563776254654
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.10639800876379013
+        },
+        {
+            "text": "Unemployment?",
+            "act": 0.10165558010339737
+        },
+        {
+            "text": "These are dedicated uppers, so the barrels have the right twist.",
+            "act": 0.09503491967916489
+        },
+        {
+            "text": "Tease the lower sections before securing them for extra volume.",
+            "act": 0.09476014971733093
+        },
+        {
+            "text": "The past dough needs to be rolled into a very thin flat shape, before cut into small square wraps of the tortellini.",
+            "act": 0.09304500371217728
+        },
+        {
+            "text": "The midsole is accompanied with AIR model.",
+            "act": 0.09225483983755112
+        },
+        {
+            "text": "Men are in short supply among the elderly.",
+            "act": 0.08977784961462021
+        },
+        {
+            "text": "Basketball tournament?",
+            "act": 0.0850769579410553
+        },
+        {
+            "text": "D-sub connectors follow another rule for pin assignment.",
+            "act": 0.08076055347919464
+        },
+        {
+            "text": "Donkeys?",
+            "act": 0.0781794935464859
+        },
+        {
+            "text": "\u2013 Says passengers must be allowed to check strollers when flying with a small child, and that pregnant passengers can board ahead of others.",
+            "act": 0.07737966626882553
+        },
+        {
+            "text": "Such developments have great existential significance for human beings.",
+            "act": 0.07697468250989914
+        },
+        {
+            "text": "Whilst Chiron is retrograde, this is your chance to find the key, to open the doors and let the healing waters rush in.",
+            "act": 0.07693544775247574
+        },
+        {
+            "text": "Grand-Am to Run with Champ Car?",
+            "act": 0.07683970779180527
+        },
+        {
+            "text": "This enables the glove box to open accordingly.",
+            "act": 0.07564308494329453
+        },
+        {
+            "text": "This may lead to damage.",
+            "act": 0.07295465469360352
+        },
+        {
+            "text": "Traffic is being diverted in that area.",
+            "act": 0.0711156576871872
+        },
+        {
+            "text": "\u00abDesafortunadamente, estas cosas son evitables.",
+            "act": 0.06643417477607727
+        },
+        {
+            "text": "To prevent shock these machines come with safety redundancies and regulators.",
+            "act": 0.06637576967477798
+        },
+        {
+            "text": "Biggest?",
+            "act": 0.06631053984165192
+        },
+        {
+            "text": "Does 211 divide x?",
+            "act": 0.06582862138748169
+        },
+        {
+            "text": "\u2022 Access the propelled choice:\n\n1 Display issues are regularly identified with the driver.",
+            "act": 0.06378208100795746
+        },
+        {
+            "text": "\"You have Genesis.\"",
+            "act": 0.06322479993104935
+        },
+        {
+            "text": "Vietnamese will be forced to buy low tech locally made cars.",
+            "act": 0.062395330518484116
+        },
+        {
+            "text": "Collars 76 are used to secure bolts 70 in their mounting position.",
+            "act": 0.0594852976500988
+        },
+        {
+            "text": "Season short ribs generously with salt and pepper.",
+            "act": 0.05918508395552635
+        },
+        {
+            "text": "This also requires special tables.",
+            "act": 0.058772485703229904
+        },
+        {
+            "text": "\u201cEnglish is encouraged but is not required.",
+            "act": 0.05788666382431984
+        },
+        {
+            "text": "Motorcycles are rare on the roads, further impacting the traffic patterns.",
+            "act": 0.056797292083501816
+        },
+        {
+            "text": "Both hospitals and the people are facing a shortage of masks.",
+            "act": 0.05565902218222618
+        },
+        {
+            "text": "Litecoins are selling for about $5 today.",
+            "act": 0.055639754980802536
+        },
+        {
+            "text": "Our results showed that areas with strong alpha ERS also exhibited strong connectivity.",
+            "act": 0.0536925233900547
+        },
+        {
+            "text": "Small-volume corrections were conducted using these ROI masks.",
+            "act": 0.05358259007334709
+        },
+        {
+            "text": "<?",
+            "act": 0.05317269638180733
+        },
+        {
+            "text": "Because, after all, he started as an innocent angel?",
+            "act": 0.0530448742210865
+        },
+        {
+            "text": "Importantly, during the retention interval, sensors with large alpha ERS also showed strong overall connectivity.",
+            "act": 0.052874770015478134
+        },
+        {
+            "text": "We pray that, inshallah, health and peace will soon come to the Syrian people.",
+            "act": 0.05163266509771347
+        },
+        {
+            "text": "Total free space on volume: %d MB\nmsg: \u03a4\u03b1 torrents \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd %d MB \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 %d MB.",
+            "act": 0.05155495926737785
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

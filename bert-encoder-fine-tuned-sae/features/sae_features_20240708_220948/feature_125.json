@@ -1,0 +1,412 @@
+{
+    "index": 125,
+    "label": "Detailed scientific and descriptive content",
+    "attributes": "Contain specific data or descriptions, Often related to scientific or technical contexts, Structured and detailed information, Sometimes include formal writing or terminology",
+    "reasoning": "After analyzing the samples, I noticed that the samples share detailed descriptive content, often involving scientific, technical, or event-related context. These texts contain specific data points, weather forecasts, scientific phenomena descriptions, and structured information about various topics. Meanwhile, the non-samples seem to be comprised largely of conversational, opinion-based, or less structured formats focused on general statements and narratives.",
+    "density": 0.000498241917804319,
+    "confidence": 75.0,
+    "high_act_samples": [
+        {
+            "text": "They may describe short bursts of gravitational radiation.",
+            "act": 0.1486859917640686
+        },
+        {
+            "text": "The storms are expected to sweep across Alabama in waves, which could lead to a series of severe weather events.",
+            "act": 0.12077418714761734
+        },
+        {
+            "text": "In Wuhan, particularly after the initial phase, most transmissions occurred within households.",
+            "act": 0.08839304745197296
+        },
+        {
+            "text": "(It's been tried and tested by our little one!",
+            "act": 0.0693870484828949
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.06876850128173828
+        },
+        {
+            "text": "Cobb has been on the DL since being hit by a line drive off the bat of Kansas City\u2019s Eric Hosmer in July.",
+            "act": 0.06524527817964554
+        },
+        {
+            "text": "By applying complex decoders to the PAL signal, up to 5.5 MHz may be derived.",
+            "act": 0.0641450434923172
+        },
+        {
+            "text": "And there's the reports of Ven.",
+            "act": 0.06311756372451782
+        },
+        {
+            "text": "Both regions are free of any strong emission lines.",
+            "act": 0.06226392090320587
+        },
+        {
+            "text": "The potential for tornadoes, some of which could be strong, is part of a severe weather threat across Alabama starting early next week and continuing perhaps into Wednesday.",
+            "act": 0.0569445826113224
+        },
+        {
+            "text": "Li Zhike said.",
+            "act": 0.055873580276966095
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.05302480608224869
+        },
+        {
+            "text": "Ind.",
+            "act": 0.050626836717128754
+        },
+        {
+            "text": "Mongkut was the son of Prince Isarasundhorn, son of Phutthayotfa Chulalok.",
+            "act": 0.04943025857210159
+        },
+        {
+            "text": "Studies have also shown that microsatellite instability (MSI) is the molecular fingerprint of a deficient mismatch repair system.",
+            "act": 0.048118606209754944
+        },
+        {
+            "text": "This may break video playback.",
+            "act": 0.04733637720346451
+        },
+        {
+            "text": "Ray Bulgarin?",
+            "act": 0.04645060375332832
+        },
+        {
+            "text": "Divisions \n\nAndhra Pradesh can be divided into two regions, namely Coastal Andhra and Rayalaseema.",
+            "act": 0.04627257585525513
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, PostgreSQL \u05dc\u05d0 \u05e8\u05d2\u05d9\u05e9 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05e9\u05de\u05d5\u05ea \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc, \u05d5\u05d0\u05e0\u05d5 \u05d7\u05d9\u05d9\u05d1\u05d9\u05dd \u05dc\u05ea\u05d7\u05d5\u05dd \u05d0\u05ea \u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05ea\u05e0\u05d0\u05d9\u05dd \u05d1\u05ea\u05d5\u05da \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05e9\u05dd \u05d4\u05e2\u05de\u05d5\u05d3\u05d4 \u05de\u05db\u05d9\u05dc \u05e9\u05d9\u05dc\u05d5\u05d1 \u05e9\u05dc \u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea \u05d5\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.04583827406167984
+        },
+        {
+            "text": "The repeated waves of severe weather, which are expected to be slow moving, could lead to flooding.",
+            "act": 0.04431048035621643
+        },
+        {
+            "text": "Check out the sexy stars, (including all the dapper guys!",
+            "act": 0.043235212564468384
+        },
+        {
+            "text": "The error is frequently coming for some files.",
+            "act": 0.042707979679107666
+        },
+        {
+            "text": "They could have erupted under any state, and continue to rumble at dangerous levels.",
+            "act": 0.040285930037498474
+        },
+        {
+            "text": "Target sites for some miRNAs and gene sequences for some lncRNAs were also available in TaSDGs.",
+            "act": 0.03733013570308685
+        },
+        {
+            "text": "Ind.",
+            "act": 0.03708628565073013
+        },
+        {
+            "text": "IND.",
+            "act": 0.03708628565073013
+        },
+        {
+            "text": "(Which it has been documented that some captive dolphins have done!",
+            "act": 0.035022392868995667
+        },
+        {
+            "text": "MLH1 (mutL homologue 1) is a mismatch repair gene and is commonly associated with HNPCC.",
+            "act": 0.034833766520023346
+        },
+        {
+            "text": "Time delays may be an hour or up to 3 days.",
+            "act": 0.034575775265693665
+        },
+        {
+            "text": "Severe thunderstorms were also possible throughout the day in the Ohio Valley and as far north as Chicago, Milwaukee and Green Bay, Roth said.",
+            "act": 0.03444777429103851
+        },
+        {
+            "text": "This invention relates to high definition televison, and in particular to the reception of signals transmitted over different types of transmission channels.",
+            "act": 0.033902961760759354
+        },
+        {
+            "text": "It can extract all the coal within an area and fully recover very thick seams.",
+            "act": 0.03276606649160385
+        },
+        {
+            "text": "\u201cSubstantial seawater impacts are detected in the groundwater due to the flooding\n\nexperienced at The Bahamas during the hurricane.",
+            "act": 0.03082224912941456
+        },
+        {
+            "text": "Sch.",
+            "act": 0.030247768387198448
+        },
+        {
+            "text": "It also caused small tsunami waves to lap Pacific coastlines and emergency sirens to blare evacuation warnings.",
+            "act": 0.029541539028286934
+        },
+        {
+            "text": "I got all types of crazy crap!",
+            "act": 0.02932974137365818
+        },
+        {
+            "text": "In situations of long delay especially when parameters, which are affected by pre-filtering, are used, oscillations between extreme filtering states may occur, leading to instability in video encoding.",
+            "act": 0.028850333765149117
+        },
+        {
+            "text": "These rearrangements involved recombination between copies of the transposon IS3 and were proposed to have resulted from multiple rounds of unequal crossing-over or rolling circle amplification.",
+            "act": 0.028136448934674263
+        },
+        {
+            "text": "Fucking troglodyte Rethugs, both of them\u2026\n\nUuuuugh.",
+            "act": 0.02790902741253376
+        },
+        {
+            "text": "Changes in the profiles of some emission lines are evident.",
+            "act": 0.026379967108368874
+        },
+        {
+            "text": "The structural variants of the regulatory and coding regions of the LTR-retrotransposon 1731 are described.",
+            "act": 0.025866279378533363
+        },
+        {
+            "text": "Satellites would likely be able to detect such activity.",
+            "act": 0.025519313290715218
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.024417990818619728
+        },
+        {
+            "text": "(In some circumstances, conscious information may become input data to automatic programs.",
+            "act": 0.024138057604432106
+        },
+        {
+            "text": "Caverns are common in the gulf states of the United States where demand for hydrogen is particularly high.",
+            "act": 0.02393541857600212
+        },
+        {
+            "text": "He was able to deliver the rehearsed lines technically.",
+            "act": 0.023749912157654762
+        },
+        {
+            "text": "It seems very dry,\u201d in a nasally voice.",
+            "act": 0.022945204749703407
+        },
+        {
+            "text": "A-repeat from Xist (85 nt): GGAACTCGTTCCTTCTCCTTAGCCCATCGGGGCCATGGATACCTGCTTTTAACCTTTCTCGGTCCATCGGGACCTCGGATACCTG\n\n2.",
+            "act": 0.021952414885163307
+        },
+        {
+            "text": "References\n\nExternal links \n\n About A\u2013T from the NINDS\n Orphanet for A\u2013T\n GeneReviews for ataxia\u2013telangiectasia\n Replication-Independent Double-Strand Breaks (DSBs) Discusses importance of the ATM kinase\n\nCategory:Chromosome instability syndromes\nCategory:Genodermatoses\nCategory:Systemic atrophies primarily affecting the central nervous system\nCategory:Neurodegenerative disorders\nCategory:IUIS-PID table 3 immunodeficiencies\nCategory:DNA replication and repair-deficiency disorders\nCategory:Syndromes affecting the nervous system\nCategory:Syndromes with tumors",
+            "act": 0.02152537740767002
+        },
+        {
+            "text": "(if they've ever been free?",
+            "act": 0.020160989835858345
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

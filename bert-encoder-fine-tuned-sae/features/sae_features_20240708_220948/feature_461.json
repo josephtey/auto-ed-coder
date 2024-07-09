@@ -1,0 +1,412 @@
+{
+    "index": 461,
+    "label": "Structured and factual textual content",
+    "attributes": "variety of topics, technical specifications, historical accounts, product descriptions, structured data, figures and measurements, technical tone, factual tone, narrative tone, multi-language sentences, jargon, formal to semi-formal language",
+    "reasoning": "The samples exhibit a wide variety of topics ranging from technical specifications, historical accounts, and product descriptions to casual conversations. They include structured data, explicit mention of figures, measurements, and often have a technical, factual, or narrative tone. These samples also contain sentences and phrases in different languages, specific jargon, and formal to semi-formal language. In contrast, the other samples are primarily conversational and opinion-based, with informal language, rhetorical questions, and lack of structured data or specific technical details.",
+    "density": 0.009082238387404445,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "Then Pakistani squad disabled the telephone and telegraph lines.",
+            "act": 0.3069050908088684
+        },
+        {
+            "text": "Personnel\n\nThe Field Ambulance at full strength composed of 10 Officers and 224 men.",
+            "act": 0.20428912341594696
+        },
+        {
+            "text": "NIKECOURT VAPOR RF X AM95\n\nGREEDY\n\n180 \u20ac\n\nEine Audienz mit exklusiver Air.",
+            "act": 0.203582301735878
+        },
+        {
+            "text": "PAF sources said that two Indian fighter jets had intruded into Pakistan territory, but the Pakistani airforce had chased back the Indians.",
+            "act": 0.1962873637676239
+        },
+        {
+            "text": "Spicy chicken flavor would work well.",
+            "act": 0.1808953434228897
+        },
+        {
+            "text": "MATT: Right.",
+            "act": 0.18040713667869568
+        },
+        {
+            "text": "Bengali forces were alerted about the Pakistani squads.",
+            "act": 0.178382009267807
+        },
+        {
+            "text": "Bengali volunteers and police were also present in Rajshahi.",
+            "act": 0.17672112584114075
+        },
+        {
+            "text": "Riot police have been deployed to the scene.",
+            "act": 0.16806618869304657
+        },
+        {
+            "text": "They disarmed 500 police personnel and took control of the Police lines.",
+            "act": 0.1677590012550354
+        },
+        {
+            "text": "The lane capacity was found to reach 3,600 vphpl at 90% MPR of CACC.",
+            "act": 0.16173286736011505
+        },
+        {
+            "text": "The average 230 gr 45 ACP has 415-430 on average.",
+            "act": 0.15959013998508453
+        },
+        {
+            "text": "Total free space on volume: %d MB\nmsg: \u03a4\u03b1 torrents \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd %d MB \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 %d MB.",
+            "act": 0.15850217640399933
+        },
+        {
+            "text": "The historical center is reachable in 10 Minutes or the Hauptbahnhof in 15 Minutes.",
+            "act": 0.1565471589565277
+        },
+        {
+            "text": "It has a 7V sensor, 12V power and ground.",
+            "act": 0.15302038192749023
+        },
+        {
+            "text": "msg: Cell-h264: \u0395\u03be\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 4.2 \u03c3\u03b5 \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf %d.%d.",
+            "act": 0.15288996696472168
+        },
+        {
+            "text": "Decent replay value.",
+            "act": 0.15257467329502106
+        },
+        {
+            "text": "Gradually advancing\ndifficulty levels adjust automatically.",
+            "act": 0.15236486494541168
+        },
+        {
+            "text": "Has some versatility.",
+            "act": 0.15176720917224884
+        },
+        {
+            "text": "All made up.",
+            "act": 0.150774285197258
+        },
+        {
+            "text": "flows were there available and different, and people thought away spread from a alphabetical download Sams plume.",
+            "act": 0.1494082808494568
+        },
+        {
+            "text": "It is the same scene, the same lightning, just different ISO settings and shutter speeds to keep the same EV.",
+            "act": 0.14807075262069702
+        },
+        {
+            "text": "Two fire companies are ordered to put out the blaze.",
+            "act": 0.148063063621521
+        },
+        {
+            "text": "essentially is is random search with scaling of update by reward std.",
+            "act": 0.14756101369857788
+        },
+        {
+            "text": "Apparently Slow Food Columbus\u2019 blog comment notification system is not working.",
+            "act": 0.14545173943042755
+        },
+        {
+            "text": "Kitchen was renovated in 2013.",
+            "act": 0.14486666023731232
+        },
+        {
+            "text": "The sensor then switches its adaptive mode to active mode.",
+            "act": 0.14483173191547394
+        },
+        {
+            "text": "76 mins.",
+            "act": 0.14445851743221283
+        },
+        {
+            "text": "\u2018The Work of a Cavalry Field Ambulance\u2019]\n\nEvacuation Zone - Casualty Clearing Station.",
+            "act": 0.14246290922164917
+        },
+        {
+            "text": "RavnAir Alaska Dash 8 flights will continue to operate.",
+            "act": 0.1414223462343216
+        },
+        {
+            "text": "0\n\nSmooth Away Your Wrinkle Insecurities!",
+            "act": 0.14071980118751526
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.14023944735527039
+        },
+        {
+            "text": "local   all             openerp                                ident",
+            "act": 0.139383003115654
+        },
+        {
+            "text": "Officials could not be reached for confirmation, with phone lines down.",
+            "act": 0.13874375820159912
+        },
+        {
+            "text": "Then, 50\u00a0ng/mL of SCF was added for 10\u00a0min.",
+            "act": 0.13836795091629028
+        },
+        {
+            "text": "The young man\nwho had fallen silent, he get a another beer, and start scolding the\nold main again.",
+            "act": 0.13804231584072113
+        },
+        {
+            "text": "The position and orientation of the camera will be saved.",
+            "act": 0.1373073309659958
+        },
+        {
+            "text": "CAVs are coordinated to enter the highway in platoons.",
+            "act": 0.13581110537052155
+        },
+        {
+            "text": "The 10\u2010Hz wavelet had a half\u2010intensity width of 389\u00a0ms corresponding to the bandwidth of 2.57\u00a0Hz.",
+            "act": 0.13553188741207123
+        },
+        {
+            "text": "Composite reliability was good (CR = 0.73).",
+            "act": 0.13539491593837738
+        },
+        {
+            "text": "Limit 1 per person.",
+            "act": 0.13461148738861084
+        },
+        {
+            "text": "Barack severed all dies and he \u201ckilled\u201d the racist bully and put him in his grave.",
+            "act": 0.1344778686761856
+        },
+        {
+            "text": "ABI StepOnePlusTM System was used.",
+            "act": 0.13436147570610046
+        },
+        {
+            "text": "Shuttle Drivers run from Dallas Fort Worth, TX DC to cross docks for re-supply, $22.00 an hour, Overtime after 40 hours 90% no touch, Must be willing to touch if needed.",
+            "act": 0.13420291244983673
+        },
+        {
+            "text": "All Transfort routes will be free to ride on Saturday.",
+            "act": 0.13303090631961823
+        },
+        {
+            "text": "Next train station (line 1) is five minutes by feet.",
+            "act": 0.13146044313907623
+        },
+        {
+            "text": "Two couchsurf girls and their gay friend shows up.",
+            "act": 0.128145232796669
+        },
+        {
+            "text": "Totally cool.",
+            "act": 0.12801389396190643
+        },
+        {
+            "text": "\u201cBare\u201d charge and electromagnetic \u201ccloud\u201d constitute new entity: dressed charged particle.",
+            "act": 0.12793712317943573
+        },
+        {
+            "text": "---------------------------------------------------------------------------------------------------------\n  \\                        \\      Crowdsourcing   In-house                                \n  ------------------------ ------ --------------- -------------- ----------------- ------ -----------------\n  Medical named-entities   3400   17,000          \\$652.85\\      57 hours\\         6800   128 hours\\\n                                                  (3.84 cents)   (12.07 seconds)          (67.76seconds)\n\n  Correction               735    3675            \\$141.13\\      38 hours\\         N/A    N/A\n                                                  (3.84 cents)   (37.22 seconds)          \n\n  Linking                  3400   17,000          \\$652.85\\      27 hours\\         6800   44 hours\\\n                                                  (3.84 cents)   (5.72 seconds)           (23.29 seconds)\n  ---------------------------------------------------------------------------------------------------------\n\n!",
+            "act": 0.12683840095996857
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

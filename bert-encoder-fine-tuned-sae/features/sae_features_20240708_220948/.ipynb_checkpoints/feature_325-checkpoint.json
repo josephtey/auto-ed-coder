@@ -1,0 +1,412 @@
+{
+    "index": 325,
+    "label": "Descriptive and technical content",
+    "attributes": "Factual and descriptive content, Technical language, Details about physical attributes or features, Avoidance of abstract or conversational language",
+    "reasoning": "To find the most specific attribute that distinguishes the samples, I reviewed both the structure and content within the texts. The primary distinguishing feature of the samples is their focus on factual and descriptive content. These texts tend to describe specific physical attributes, features, and technical details about buildings, mechanical systems, and locations, often using precise terminologies and technical language. They typically avoid abstract, conversational, or opinion-based language, which is present in the samples. As such, the shared attribute is the presence of detailed descriptive or technical content.",
+    "density": 0.002695251517265269,
+    "confidence": 58.0,
+    "high_act_samples": [
+        {
+            "text": "Three storeys, stucco faced.",
+            "act": 0.2866158187389374
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.2640392482280731
+        },
+        {
+            "text": "Two storeys stucco faced, Italianate features.",
+            "act": 0.2524729371070862
+        },
+        {
+            "text": "Low pitch gable end slate roof.",
+            "act": 0.23582223057746887
+        },
+        {
+            "text": "The runways are laid on parallel raised banks having flattened tops.",
+            "act": 0.19971539080142975
+        },
+        {
+            "text": "Slightly rounded edges.",
+            "act": 0.18381288647651672
+        },
+        {
+            "text": "Two storeys stuccoed low pitched gable end slate roof.",
+            "act": 0.1832219958305359
+        },
+        {
+            "text": "Stepped double gable garden block.",
+            "act": 0.18225091695785522
+        },
+        {
+            "text": "Porch to centre with balustraded parapet.",
+            "act": 0.17813348770141602
+        },
+        {
+            "text": "Garden block has low slate roof.",
+            "act": 0.16605590283870697
+        },
+        {
+            "text": "Wing to the rear is of two storeys with hipped slate roof, and sash windows.",
+            "act": 0.16565170884132385
+        },
+        {
+            "text": "The shared combustion chamber is formed by the walls of two interconnected cylinders, the crowns of two opposing pistons which slidably reciprocate within the cylinders, and a single cylinder head.",
+            "act": 0.15555211901664734
+        },
+        {
+            "text": "Station layout\nBoonton has one mini-high level side platform.",
+            "act": 0.15404380857944489
+        },
+        {
+            "text": "Irregular two storey and attic rendered villa.",
+            "act": 0.14564041793346405
+        },
+        {
+            "text": "Supongo que esa forma de entretenimiento nunca me ha interesado lo suficiente.",
+            "act": 0.13643024861812592
+        },
+        {
+            "text": "They most recently served together as co-OCs for Ole Miss.",
+            "act": 0.13268572092056274
+        },
+        {
+            "text": "Rusticated ground floor.",
+            "act": 0.12974697351455688
+        },
+        {
+            "text": "Rusticated ground floor.",
+            "act": 0.12974697351455688
+        },
+        {
+            "text": "The teeth have bases with triangular shaped cross-sections.",
+            "act": 0.12875953316688538
+        },
+        {
+            "text": "Irregular two storey rendered building, with attic and tower block to street.",
+            "act": 0.12790179252624512
+        },
+        {
+            "text": "\u201cIf you see somebody that\u2019s getting in an argument please pick up your phone.",
+            "act": 0.12609392404556274
+        },
+        {
+            "text": "Three storey tower block has low pitch pyramid slate roof.",
+            "act": 0.1253836303949356
+        },
+        {
+            "text": "All pedestals were taken while the beam was disabled.",
+            "act": 0.12474945932626724
+        },
+        {
+            "text": "Defensive lineman William Gholston and Marcus Rush are All Big Ten candidates.",
+            "act": 0.12398805469274521
+        },
+        {
+            "text": "The grounds incorporate large leisure areas, including 3 outdoor pools and an extensive green area.",
+            "act": 0.1236233189702034
+        },
+        {
+            "text": "Sasha sat across from him, the pistol leveled at him.",
+            "act": 0.12230946868658066
+        },
+        {
+            "text": "Generally, these types of engines are known as horizontally-opposed engines.",
+            "act": 0.12083893269300461
+        },
+        {
+            "text": "Circa 1850 villa.",
+            "act": 0.11768349260091782
+        },
+        {
+            "text": "Click New.",
+            "act": 0.11417446285486221
+        },
+        {
+            "text": "Quiz\u00e1s hay algo de lo que no me estoy dando cuenta.",
+            "act": 0.11382279545068741
+        },
+        {
+            "text": "Composite reliability was good (CR = 0.73).",
+            "act": 0.11360932141542435
+        },
+        {
+            "text": "Click New.",
+            "act": 0.11156295239925385
+        },
+        {
+            "text": "All clamping cylinders are connected advantageously to one single hydraulic coupling part.",
+            "act": 0.1113404929637909
+        },
+        {
+            "text": "Building features include exercise centre,guest suite,in suite laundry,pool; outdoor,sauna/steam room,storage.",
+            "act": 0.1069713607430458
+        },
+        {
+            "text": "All three wheels feature an inclination of the wheels for cornering.",
+            "act": 0.10440206527709961
+        },
+        {
+            "text": "slightly shifted to the left).",
+            "act": 0.10431022197008133
+        },
+        {
+            "text": "The intake and exhaust valve assemblies are typically located between the ends of the dual cylinders to serve a common or shared combustion chamber.",
+            "act": 0.1030101478099823
+        },
+        {
+            "text": "French windows to left on ground floor, to the right conservatory extends to north.",
+            "act": 0.10297845304012299
+        },
+        {
+            "text": "As previously indicated, in engines without shared combustion chambers, each cylinder has a cylinder head which provides a surface for the valve assemblies.",
+            "act": 0.10192115604877472
+        },
+        {
+            "text": "The two front wheels comprise an independent wheel suspension with a double wishbone.",
+            "act": 0.10151749849319458
+        },
+        {
+            "text": "Click New.",
+            "act": 0.09965928643941879
+        },
+        {
+            "text": "The brush members have circular cross-sections and are offset relative to one another in the longitudinal direction.",
+            "act": 0.09647050499916077
+        },
+        {
+            "text": "In addition, M10\u2640 also deleted C339 and C340.",
+            "act": 0.09518600255250931
+        },
+        {
+            "text": "In their room?",
+            "act": 0.09473616629838943
+        },
+        {
+            "text": "Projecting porch to the north with panelled door and rectangular fanlight.",
+            "act": 0.09262549132108688
+        },
+        {
+            "text": "Got Dinner?",
+            "act": 0.0902685895562172
+        },
+        {
+            "text": "The rotor shaft is made of carbide, at least in the area of the bearing surface which cooperates with the axial bearing.",
+            "act": 0.08863604813814163
+        },
+        {
+            "text": "Ping me if you need help.",
+            "act": 0.08862197399139404
+        },
+        {
+            "text": "Also available with air conditioning these rooms feature sliding glass doors to let in the cooling sea breeze.",
+            "act": 0.08730966597795486
+        },
+        {
+            "text": "Marissa was an excellent shot and could have riddled him with bullets.",
+            "act": 0.08563722670078278
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

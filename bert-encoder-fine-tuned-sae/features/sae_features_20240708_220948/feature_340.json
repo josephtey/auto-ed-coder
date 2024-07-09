@@ -1,0 +1,412 @@
+{
+    "index": 340,
+    "label": "Contextually detailed and specific",
+    "attributes": "features specific data points, includes direct quotes, uses specialized terminology, mentions unique situations or entities, describes events and outcomes, provides technical details, contains structured information, context-rich sentences",
+    "reasoning": "The samples tend to feature specific data points, direct quotes, specialized terminology, unique situations or entities, events, outcomes, as well as technical details and structured information that imply a high level of specificity and context. All samples include sentences that are context-rich, often tying in multiple concepts or specific details, thus indicating a coherent narrative or technical explanation.",
+    "density": 0.003933738570093147,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "have also been proposed.",
+            "act": 0.3266320526599884
+        },
+        {
+            "text": "have been proposed.",
+            "act": 0.2752758264541626
+        },
+        {
+            "text": "Species have died off from dumps and poisonings.",
+            "act": 0.18893256783485413
+        },
+        {
+            "text": "One GM said Hinkie offered him \u201cNerlens Noel for one of our popcorn making machines and an extra crate of nets.",
+            "act": 0.18323811888694763
+        },
+        {
+            "text": "SRA RNA (82 nt): GGAGCAGGTATGTGATGACATCAGCCGACGCCTGGCACTGCTGCAGGAACAGTGGGCTGGAGGAAAGTTGTCAATACCTGTA\n\n3.",
+            "act": 0.18295979499816895
+        },
+        {
+            "text": "CUP, 2011.",
+            "act": 0.16246405243873596
+        },
+        {
+            "text": "\u201cGovernment has also directed for supply of water, power, Medicare, parking, transportation, sanitation, seating, and heating public address system, and fire fighting measures,\u201d sources maintained.",
+            "act": 0.15754225850105286
+        },
+        {
+            "text": "Well it look like thei ar aim to pleas you gui thi time.",
+            "act": 0.1566140055656433
+        },
+        {
+            "text": "Barack severed all dies and he \u201ckilled\u201d the racist bully and put him in his grave.",
+            "act": 0.1565426141023636
+        },
+        {
+            "text": "Tea party threatened ballets or bullets.",
+            "act": 0.14951324462890625
+        },
+        {
+            "text": "They could have erupted under any state, and continue to rumble at dangerous levels.",
+            "act": 0.1454828679561615
+        },
+        {
+            "text": "Fucking troglodyte Rethugs, both of them\u2026\n\nUuuuugh.",
+            "act": 0.1452838033437729
+        },
+        {
+            "text": "-\n\nTha csLua scf class will encapsulate the lua related stuff.",
+            "act": 0.1400253027677536
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.13387127220630646
+        },
+        {
+            "text": "\"Thank you Massa Allen for pickin\u2019 whose we should honuh suh.",
+            "act": 0.12497618049383163
+        },
+        {
+            "text": "Many will decline in shelters and have to be put to death.",
+            "act": 0.12196188420057297
+        },
+        {
+            "text": "United have 70 points from 29 games with City on 69.",
+            "act": 0.12063100188970566
+        },
+        {
+            "text": "Smaller increases were also recorded for diamonds, gold, iron ore and steel.",
+            "act": 0.11708538234233856
+        },
+        {
+            "text": "Hayes and Abu Risha have joined it, and come out in\nsupport of Baghdad as well.",
+            "act": 0.11095462739467621
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.10960013419389725
+        },
+        {
+            "text": "GATA, NAC and Nin-like TF.",
+            "act": 0.10881700366735458
+        },
+        {
+            "text": "Thus, As input during irrigation was at least partly counteracted by As mobilization during monsoon flooding.",
+            "act": 0.106267549097538
+        },
+        {
+            "text": "N/A\n\nOzlem Barut Selver: *Fnd, Dsg, Exp, Sur, Wrt, Stat.",
+            "act": 0.10612836480140686
+        },
+        {
+            "text": "They ended when he fell into the severe depression that led him to end his life.",
+            "act": 0.1045825257897377
+        },
+        {
+            "text": "Duplicates: Retain in office while active, then destroy by\n\nlandfill.",
+            "act": 0.1044410914182663
+        },
+        {
+            "text": "Always have.",
+            "act": 0.10405289381742477
+        },
+        {
+            "text": "We already know he\u2019s filling his cabinet with cronies, ass kissers and denizens of the swamp.",
+            "act": 0.10399884730577469
+        },
+        {
+            "text": "When stars like the Sun come to the ends of their lives they exhaust their fuel, expand as red giants and later expel their outer layers into space.",
+            "act": 0.10302980989217758
+        },
+        {
+            "text": "They are never restarted.",
+            "act": 0.10196451097726822
+        },
+        {
+            "text": "msgstr \"Noklus\u0113tais fonta izm\u0113rs monospace teksta att\u0113lo\u0161anai.\"",
+            "act": 0.10089433938264847
+        },
+        {
+            "text": "are commonas with the disturbing trend of human collagen.",
+            "act": 0.10084191709756851
+        },
+        {
+            "text": "Their self-sufficient local economies were replaced by sporadic public handouts.",
+            "act": 0.10082555562257767
+        },
+        {
+            "text": "Sewage sludge deriving from biofiltrationof municipal waste abound in soil processed organic substances and mineral fertilization components which may be used for fertil-ization of energy willow plantations.",
+            "act": 0.10045134276151657
+        },
+        {
+            "text": "This results in a struggle that ends with Colbert accidentally killing Death with his pistol Sweetness and becoming an immortal.",
+            "act": 0.10009884089231491
+        },
+        {
+            "text": "This results in a struggle that ends with Colbert accidentally killing Death with his pistol Sweetness and becoming an immortal.",
+            "act": 0.10009884089231491
+        },
+        {
+            "text": "Drinking games and Freedom Trivia were also offered.",
+            "act": 0.098390132188797
+        },
+        {
+            "text": "Drinking games and Freedom Trivia were also offered.",
+            "act": 0.098390132188797
+        },
+        {
+            "text": "1914 and 1915: CCSs mobilized in August 1914 under the title \u2018Clearing Hospitals\u2019.",
+            "act": 0.09814482927322388
+        },
+        {
+            "text": "CUP, 1991.",
+            "act": 0.09652451425790787
+        },
+        {
+            "text": "Basketball tournament?",
+            "act": 0.09561295062303543
+        },
+        {
+            "text": "The Haw scattered and some fled to Vietnam.",
+            "act": 0.09540107846260071
+        },
+        {
+            "text": "The thinking is, that if people react they way the NFFA hope, then the Purge will be rolled out across the Nation.",
+            "act": 0.09518183022737503
+        },
+        {
+            "text": "\"You think revenge is gonna make Caleb feel better about seeing his brother die?\"",
+            "act": 0.09514626860618591
+        },
+        {
+            "text": "Suicide finally results from stressful life events, losses and conflicts, which, through an accumulating effect, end up in hopelessness and despair.",
+            "act": 0.0949222519993782
+        },
+        {
+            "text": "Reda said 203 cities, villages and townships have also participated in the training.",
+            "act": 0.09488578885793686
+        },
+        {
+            "text": "Resources have become poisonous for people to consume.",
+            "act": 0.09485836327075958
+        },
+        {
+            "text": "\"Late for work, rolling out the door with the shakes.\"",
+            "act": 0.09260416030883789
+        },
+        {
+            "text": "Such membrane-bound M-CSF may be cleaved to release secreted M-CSF.",
+            "act": 0.09247111529111862
+        },
+        {
+            "text": "After that war and scattering\nthe Jews were persecuted, bullied almost everywhere they went.",
+            "act": 0.09226512163877487
+        },
+        {
+            "text": "There would be a \u201clarge entertainment city with comprehensive functions such as leisure, vacation, tourism, food, entertainment, hotels, casinos and golf courses\u201d.",
+            "act": 0.0920868068933487
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

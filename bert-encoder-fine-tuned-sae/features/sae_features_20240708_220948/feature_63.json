@@ -1,0 +1,412 @@
+{
+    "index": 63,
+    "label": "Factual or event-based content",
+    "attributes": "involves events, announcements, instructions, political matters, notable statements, factual information, reports, directives",
+    "reasoning": "The positive samples share a specific attribute where none of the negative samples do. Upon examining the texts, it appears that all the samples involve some form of event, announcement, instruction, political matter, or notable statement. These samples often convey factual information, reports, or directives. In contrast, the negative samples are more conversational and opinionated, lacking specific factual or event-based content.",
+    "density": 0.0010391902857061512,
+    "confidence": 2.0,
+    "high_act_samples": [
+        {
+            "text": "Tea party threatened ballets or bullets.",
+            "act": 0.1621929109096527
+        },
+        {
+            "text": "Media also shifted to reach the target.",
+            "act": 0.1291058510541916
+        },
+        {
+            "text": "Tento krok zna\u010dn\u011b zjednodu\u0161\u00ed pr\u00e1ci na\u0161im t\u00fdm\u016fm v datacentru.",
+            "act": 0.12738314270973206
+        },
+        {
+            "text": "TV shows have been known to be cancelled and jobs have been known to be lost.",
+            "act": 0.12368115782737732
+        },
+        {
+            "text": "35 land border ports will be closed.",
+            "act": 0.12186569720506668
+        },
+        {
+            "text": "Tato \u010d\u00edsla je zapot\u0159eb\u00ed odeslat na\u0161im technik\u016fm.",
+            "act": 0.11735306680202484
+        },
+        {
+            "text": "School officials are scrambling.",
+            "act": 0.11406883597373962
+        },
+        {
+            "text": "Pro nalezen\u00ed p\u0159\u00edstupov\u00e9 cesty ke sv\u00fdm disk\u016fm postupujte podle instrukc\u00ed v\u00e1\u017e\u00edc\u00edch se k V\u00e1mi vyu\u017e\u00edvan\u00e9mu typu RAID ovlada\u010de.",
+            "act": 0.11148915439844131
+        },
+        {
+            "text": "Artfully furrowed brow.",
+            "act": 0.1113162636756897
+        },
+        {
+            "text": "Government-run television stations broadcast competing commercials for consumer goods.",
+            "act": 0.10611054301261902
+        },
+        {
+            "text": "Politically the Iraqi National\nMovement is threatening a boycott\nof government in protest.",
+            "act": 0.09703575074672699
+        },
+        {
+            "text": "Zazwyczaj jednak nie jest to potrzebne.",
+            "act": 0.0966460332274437
+        },
+        {
+            "text": "India blames the LeT for the Mumbai attacks.",
+            "act": 0.09614183753728867
+        },
+        {
+            "text": "Pokud do \u017e\u00e1dosti zahrnete ve\u0161ker\u00e9 relevantn\u00ed \u00fadaje, m\u016f\u017eete t\u00edm cel\u00fd proces zna\u010dn\u011b urychlit.",
+            "act": 0.09499293565750122
+        },
+        {
+            "text": "How about \u201cmodernism\u201d, \u201cclassical\u201d, \u201cprinciples of the Enlightenment\u201d, or \u201ctonal music\u201d?",
+            "act": 0.09398835897445679
+        },
+        {
+            "text": "parsed unexpectedly.",
+            "act": 0.0933154821395874
+        },
+        {
+            "text": "Weather stations were shut down.",
+            "act": 0.09231755137443542
+        },
+        {
+            "text": "Teachers protested by calling in sick, and schools were forced to close.",
+            "act": 0.09007289260625839
+        },
+        {
+            "text": "Obiekty Zend_Mime_Part\n        mog\u0105 by\u0107 wtedy zmienione poniewa\u017c s\u0105 one przechowywane w tablicy jako referencje.",
+            "act": 0.08995810151100159
+        },
+        {
+            "text": "Disabilities?",
+            "act": 0.0870637521147728
+        },
+        {
+            "text": "Pro spr\u00e1vnou funk\u010dnost se pros\u00edm ujist\u011bte, \u017ee jste ji nedeaktivovali.",
+            "act": 0.08624690026044846
+        },
+        {
+            "text": "Now the government is demanding that the\nprotest sites close.",
+            "act": 0.08276813477277756
+        },
+        {
+            "text": "Germany and other countries are in mourning because of lives lost.",
+            "act": 0.08245131373405457
+        },
+        {
+            "text": "Paris tourist sites reopened Sunday, while workers cleaned up debris from protests that left widespread damage in the capital and elsewhere.",
+            "act": 0.08237883448600769
+        },
+        {
+            "text": "As a result, congestion and transit time ballooned in these areas as well.",
+            "act": 0.08134589344263077
+        },
+        {
+            "text": "Z toho d\u016fvodu spo\u010d\u00edv\u00e1 zaji\u0161t\u011bn\u00ed ka\u017edodenn\u00ed spr\u00e1vy softwaru a zabezpe\u010den\u00ed stroje pouze na V\u00e1s.",
+            "act": 0.08058418333530426
+        },
+        {
+            "text": "\"PSUs in Gujarat turned profitable due to professional management,\" he stated as an example.",
+            "act": 0.07982435822486877
+        },
+        {
+            "text": "Politicians stuffed it up, the people fixed it.",
+            "act": 0.07815749943256378
+        },
+        {
+            "text": "Not EU.",
+            "act": 0.078144371509552
+        },
+        {
+            "text": "Is Russia fuelling anti-NATO campaign in Ukraine?",
+            "act": 0.0777362585067749
+        },
+        {
+            "text": "Controversial news reports are suppressed, people are censored for speaking out, and lives are shattered as the arena for public expression is turned into a private profit zone.",
+            "act": 0.0759701281785965
+        },
+        {
+            "text": "Kodowanie i obs\u0142uga\n      p\u00f3l rozgraniczaj\u0105cych s\u0105 obs\u0142ugiwane przez sam\u0105 klas\u0119.",
+            "act": 0.07497040927410126
+        },
+        {
+            "text": "He wants to make a new currency or something.",
+            "act": 0.07454749941825867
+        },
+        {
+            "text": "Over in India, the telecom minister urged carriers to stop charging for voice calls and derive all their revenues only from data plans.",
+            "act": 0.07361389696598053
+        },
+        {
+            "text": "Intervenci je v\u0161ak mo\u017en\u00e9 napl\u00e1novat kdykoli, 24/7.",
+            "act": 0.07357238233089447
+        },
+        {
+            "text": "A silent revolution caused by Chinese capital and online distribution\u201d (Seikaisha Shinsho).",
+            "act": 0.07332107424736023
+        },
+        {
+            "text": "The Occupy movement started in New York in September as a call to action against unequal wealth distribution.",
+            "act": 0.07303154468536377
+        },
+        {
+            "text": "Co-dependent or Selfless?",
+            "act": 0.0717044398188591
+        },
+        {
+            "text": "cm moved.",
+            "act": 0.07132977247238159
+        },
+        {
+            "text": "A Problem In The Brain?",
+            "act": 0.07000470906496048
+        },
+        {
+            "text": "Spole\u010dnost OVH nen\u00ed administr\u00e1torsk\u00fdm subjektem t\u011bchto stroj\u016f a nedisponuje \u017e\u00e1dn\u00fdmi p\u0159\u00edstupov\u00fdmi pr\u00e1vy.",
+            "act": 0.06916221976280212
+        },
+        {
+            "text": "\"Rebooting crashed capitalism\"?",
+            "act": 0.06877325475215912
+        },
+        {
+            "text": "Also, 7 months ago, in Thailand, opposition stormed the main airport and sat there 2 weeks.",
+            "act": 0.06847099214792252
+        },
+        {
+            "text": "A conceptual framework.",
+            "act": 0.06754086911678314
+        },
+        {
+            "text": "Such booms typically bust.",
+            "act": 0.06564591825008392
+        },
+        {
+            "text": "nonprofit concerns prime as this included FXD in the 1840s and 1850s.",
+            "act": 0.06398837268352509
+        },
+        {
+            "text": "Dal\u0161\u00ed informace naleznete v posledn\u00ed sekci t\u00e9to p\u0159\u00edru\u010dky.",
+            "act": 0.06183058023452759
+        },
+        {
+            "text": "A\u010dkoli je vysoce nepravd\u011bpodobn\u00e9, \u017ee by do\u0161lo k poru\u0161e dvou disk\u016f z\u00e1rove\u0148, nen\u00ed to nemo\u017en\u00e9.",
+            "act": 0.056532122194767
+        },
+        {
+            "text": "Co-dependent or Selfless?",
+            "act": 0.056519702076911926
+        },
+        {
+            "text": "Her back (according to me) went into spasm and she couldn't walk, sit, stand.",
+            "act": 0.056328244507312775
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

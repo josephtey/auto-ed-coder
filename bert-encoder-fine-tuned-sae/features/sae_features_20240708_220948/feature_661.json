@@ -1,0 +1,412 @@
+{
+    "index": 661,
+    "label": "Technical and instructional content",
+    "attributes": "structured information, technical details, procedural steps, historical facts, instructive language, enumerated lists, bullet points",
+    "reasoning": "The texts within the samples contain specific and structured information that is directly instructive or descriptive in nature. They prominently contain technical details, procedural steps, or historical facts, which are clearly meant to inform or guide the reader. Furthermore, some entries include enumerated lists or bullet points that provide explicit details or instructions. In contrast, the texts in the other samples are more conversational, opinion-based, or narrative, without the structured and informative nature found in the samples.",
+    "density": 0.0007924419073649646,
+    "confidence": 45.0,
+    "high_act_samples": [
+        {
+            "text": "Pokud se V\u00e1m s\u00e9riov\u00e9 \u010d\u00edslo vadn\u00e9ho disku nepoda\u0159\u00ed z\u00edskat, zahr\u0148te tuto informaci spole\u010dn\u011b se s\u00e9riov\u00fdmi \u010d\u00edsly v\u0161ech ostatn\u00edch disk\u016f do ticketu.",
+            "act": 0.16518421471118927
+        },
+        {
+            "text": "V p\u0159\u00edpad\u011b podez\u0159en\u00ed na defekt dvou disk\u016f v RAIDu bude p\u0159ednostn\u011b vym\u011bn\u011bn disk s v\u011bt\u0161\u00edm po\u010dtem chyb.",
+            "act": 0.12819872796535492
+        },
+        {
+            "text": "Current squad\n\nHonours\nThe club's honours:\n\nLeague\n 2.",
+            "act": 0.12295401096343994
+        },
+        {
+            "text": "Bundesliga), but lost in the promotion round 1\u20131 and 1\u20132 to Bayer Uerdingen.",
+            "act": 0.12035815417766571
+        },
+        {
+            "text": "Tento krok zna\u010dn\u011b zjednodu\u0161\u00ed pr\u00e1ci na\u0161im t\u00fdm\u016fm v datacentru.",
+            "act": 0.10648764669895172
+        },
+        {
+            "text": "V\u00fdm\u011bna disku nem\u016f\u017ee b\u00fdt provedena bez:\n\n-\tPotvrzen\u00ed o proveden\u00ed z\u00e1lohy dat.",
+            "act": 0.1046217530965805
+        },
+        {
+            "text": "Cloud right away.",
+            "act": 0.10325762629508972
+        },
+        {
+            "text": "> \n\nPokud se chyst\u00e1te prov\u00e9st v\u00fdm\u011bnu disku bez p\u0159eru\u0161en\u00ed dostupnosti slu\u017eby na serveru s megaRAID kartou, aktivujte pros\u00edm po napl\u00e1nov\u00e1n\u00ed intervence u p\u0159\u00edslu\u0161n\u00e9ho disku blikaj\u00edc\u00ed LED diodu.",
+            "act": 0.10323555767536163
+        },
+        {
+            "text": "Mongkut was the son of Prince Isarasundhorn, son of Phutthayotfa Chulalok.",
+            "act": 0.10315920412540436
+        },
+        {
+            "text": "Albas said.",
+            "act": 0.10208895802497864
+        },
+        {
+            "text": "Tato \u010d\u00edsla jsou odes\u00edl\u00e1na technik\u016fm v na\u0161ich datacentrech, co\u017e zajist\u00ed vyhnut\u00ed se p\u0159\u00edpadn\u00fdm chyb\u00e1m v pr\u016fb\u011bhu v\u00fdm\u011bny Va\u0161eho disku.",
+            "act": 0.10056395083665848
+        },
+        {
+            "text": "Z toho d\u016fvodu spo\u010d\u00edv\u00e1 zaji\u0161t\u011bn\u00ed ka\u017edodenn\u00ed spr\u00e1vy softwaru a zabezpe\u010den\u00ed stroje pouze na V\u00e1s.",
+            "act": 0.09753622114658356
+        },
+        {
+            "text": "Pokud pou\u017e\u00edv\u00e1te softwarov\u00fd RAID, doporu\u010dujeme resynchronizaci prov\u00e9st manu\u00e1ln\u011b.",
+            "act": 0.09442964941263199
+        },
+        {
+            "text": "Bundesliga S\u00fcd.",
+            "act": 0.09280118346214294
+        },
+        {
+            "text": "Li Zhike said.",
+            "act": 0.09104245901107788
+        },
+        {
+            "text": "He was also a patron of Thai literature and performing arts.",
+            "act": 0.08850767463445663
+        },
+        {
+            "text": "Pro nalezen\u00ed p\u0159\u00edstupov\u00e9 cesty ke sv\u00fdm disk\u016fm postupujte podle instrukc\u00ed v\u00e1\u017e\u00edc\u00edch se k V\u00e1mi vyu\u017e\u00edvan\u00e9mu typu RAID ovlada\u010de.",
+            "act": 0.08835312724113464
+        },
+        {
+            "text": "Jak bylo \u0159e\u010deno ji\u017e v\u00fd\u0161e, informace o s\u00e9riov\u00fdch \u010d\u00edslech v\u0161ech disk\u016f jsou velice d\u016fle\u017eit\u00e9.",
+            "act": 0.0881475955247879
+        },
+        {
+            "text": "As the Bavarian champions, the club was entitled to enter the promotion round to the 2.",
+            "act": 0.08552995324134827
+        },
+        {
+            "text": "Pokud do \u017e\u00e1dosti zahrnete ve\u0161ker\u00e9 relevantn\u00ed \u00fadaje, m\u016f\u017eete t\u00edm cel\u00fd proces zna\u010dn\u011b urychlit.",
+            "act": 0.08483407646417618
+        },
+        {
+            "text": "Spole\u010dnost OVH nen\u00ed administr\u00e1torsk\u00fdm subjektem t\u011bchto stroj\u016f a nedisponuje \u017e\u00e1dn\u00fdmi p\u0159\u00edstupov\u00fdmi pr\u00e1vy.",
+            "act": 0.0841016173362732
+        },
+        {
+            "text": "Dal\u0161\u00ed informace naleznete v posledn\u00ed sekci t\u00e9to p\u0159\u00edru\u010dky.",
+            "act": 0.08232417702674866
+        },
+        {
+            "text": "Pro spr\u00e1vnou funk\u010dnost se pros\u00edm ujist\u011bte, \u017ee jste ji nedeaktivovali.",
+            "act": 0.08106981217861176
+        },
+        {
+            "text": "-\tPotvrzen\u00ed o srozum\u011bn\u00ed s rizikem potenci\u00e1ln\u00ed ztr\u00e1ty dat vypl\u00fdvaj\u00edc\u00ed z v\u00fdm\u011bny disku.",
+            "act": 0.08098219335079193
+        },
+        {
+            "text": "Resynchroniza\u010dn\u00ed proces m\u016f\u017ee trvat n\u011bkolik minut a v jeho pr\u016fb\u011bhu m\u016f\u017ee doj\u00edt ke sn\u00ed\u017een\u00ed v\u00fdkonu Va\u0161eho RAIDu.",
+            "act": 0.08074642717838287
+        },
+        {
+            "text": "A\u010dkoli je vysoce nepravd\u011bpodobn\u00e9, \u017ee by do\u0161lo k poru\u0161e dvou disk\u016f z\u00e1rove\u0148, nen\u00ed to nemo\u017en\u00e9.",
+            "act": 0.07753567397594452
+        },
+        {
+            "text": "> \n> Tato p\u0159\u00edru\u010dka slou\u017e\u00ed jako \u00favod do nej\u010dast\u011bj\u0161\u00edch \u00fakon\u016f spojen\u00fdch se spr\u00e1vou a zabezpe\u010den\u00edm Va\u0161eho serveru.",
+            "act": 0.07742080092430115
+        },
+        {
+            "text": "In 1922, Chernesovo got renamed to Garefio to honor him.",
+            "act": 0.0772518664598465
+        },
+        {
+            "text": "N\u00ed\u017ee naleznete seznam po\u017eadovan\u00fdch informac\u00ed:\n\n- **S\u00e9riov\u00e9 \u010d\u00edslo vadn\u00e9ho disku a s\u00e9riov\u00e1 \u010d\u00edsla v\u0161ech ostatn\u00edch disk\u016f, kter\u00e9 funguj\u00ed norm\u00e1ln\u011b.",
+            "act": 0.07160941511392593
+        },
+        {
+            "text": "Bundesliga S\u00fcd (the southern division of 2.",
+            "act": 0.07039794325828552
+        },
+        {
+            "text": "> \n\n### Dokon\u010den\u00ed procesu v\u00fdm\u011bny disku\n\nPokud pou\u017e\u00edv\u00e1te hardwarov\u00fd RAID, V\u00e1\u0161 RAID se nastav\u00ed automaticky.",
+            "act": 0.06935687363147736
+        },
+        {
+            "text": "Importers use air freight to import high-priority cargo.",
+            "act": 0.06934013962745667
+        },
+        {
+            "text": "CUP, 1970.",
+            "act": 0.06608987599611282
+        },
+        {
+            "text": "These tanks are used for the storage of the beer prior to being\nserved or packaged.",
+            "act": 0.06567488610744476
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 fontu \u0123imene, ko izmanto monospace teksta att\u0113lo\u0161anai.\"",
+            "act": 0.062248967587947845
+        },
+        {
+            "text": "sati_demise\n\nwith you on this.",
+            "act": 0.06035235524177551
+        },
+        {
+            "text": "**Zjist\u011bte, jak identifikovat vadn\u00fd disk a jak po\u017e\u00e1dat o jeho v\u00fdm\u011bnu.",
+            "act": 0.058008186519145966
+        },
+        {
+            "text": "Diwan'\n- 'A.",
+            "act": 0.057928070425987244
+        },
+        {
+            "text": "CUP, 2011.",
+            "act": 0.05755311995744705
+        },
+        {
+            "text": "Pokud naraz\u00edte na jak\u00e9koli pot\u00ed\u017ee \u010di pochybnosti ohledn\u011b spr\u00e1vy, pou\u017eit\u00ed nebo zabezpe\u010den\u00ed sv\u00e9ho serveru, obra\u0165te se pros\u00edm na profesion\u00e1ln\u00edho serverov\u00e9ho administr\u00e1tora.",
+            "act": 0.055802322924137115
+        },
+        {
+            "text": "Joe said cheerfully.",
+            "act": 0.05480752885341644
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 fontu \u0123imene, ko izmanto monospace teksta att\u0113lo\u0161anai.\"",
+            "act": 0.05326808989048004
+        },
+        {
+            "text": "His main international backer is Donald Trump.",
+            "act": 0.05222094804048538
+        },
+        {
+            "text": "msgstr \"Noklus\u0113t\u0101 Serif fontu \u0123imene, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.052114084362983704
+        },
+        {
+            "text": "TRUNKS UP to Avondale Brewing in Birmingham AL!",
+            "act": 0.051328904926776886
+        },
+        {
+            "text": "And completely aside, a proper Manhattan should be stirred.",
+            "act": 0.05120377987623215
+        },
+        {
+            "text": "And completely aside, a proper Manhattan should be stirred.",
+            "act": 0.05120377987623215
+        },
+        {
+            "text": "And completely aside, a proper Manhattan should be stirred.",
+            "act": 0.05120377987623215
+        },
+        {
+            "text": "And completely aside, a proper Manhattan should be stirred.",
+            "act": 0.05120377987623215
+        },
+        {
+            "text": "i Prilo\u017een.",
+            "act": 0.050969116389751434
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

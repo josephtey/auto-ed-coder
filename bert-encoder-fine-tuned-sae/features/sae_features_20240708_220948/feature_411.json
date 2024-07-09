@@ -1,0 +1,412 @@
+{
+    "index": 411,
+    "label": "Includes Russian text",
+    "attributes": "Contains text in Russian, Includes Cyrillic script",
+    "reasoning": "The samples in question consist of both English and non-English text. Upon inspection, it appears that the texts include sentences, code snippets, proper nouns, and references to authors. Conversely, the texts from the other samples primarily consist of dialogue, personal opinions, and conversational pieces. A specific attribute shared by all these samples is that they contain at least one text in Russian language, as indicated by Cyrillic script, which are not present in the other samples.",
+    "density": 0.001679787037168847,
+    "confidence": 37.0,
+    "high_act_samples": [
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.17175163328647614
+        },
+        {
+            "text": "SOURCE",
+            "act": 0.15801264345645905
+        },
+        {
+            "text": "The authors hold that both utilitarianism and Kantianism share three basic features.",
+            "act": 0.15516211092472076
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.1506931334733963
+        },
+        {
+            "text": "Source",
+            "act": 0.14687035977840424
+        },
+        {
+            "text": "Marie, Ontario",
+            "act": 0.14595988392829895
+        },
+        {
+            "text": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0435\u0442\u044c.",
+            "act": 0.1411767452955246
+        },
+        {
+            "text": "\u0421\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043d\u0443\u0436\u043d\u043e \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0443 \u043d\u0430 \u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e undefined: word[i-1] == undefined\n\u041f\u0440\u0438\u043c\u0435\u0440:\n\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.14056479930877686
+        },
+        {
+            "text": "Ingrid Wacker\n\nIngrid Wacker (died 4 August 2009) was a German film editor.",
+            "act": 0.13895992934703827
+        },
+        {
+            "text": "\u041f\u044b\u0442\u0430\u043b\u0441\u044f \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0442\u044c \u0438 \u0432 catch \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c continue, \u043d\u043e \u0431\u0435\u0437\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043d\u043e.",
+            "act": 0.1378951221704483
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.13665632903575897
+        },
+        {
+            "text": "There is an evil presence lurking, I can\nfeel it.",
+            "act": 0.13215534389019012
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.120356984436512
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438\u043b\u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u0432 \u0447\u0451\u043c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430?",
+            "act": 0.11680156737565994
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.11588854342699051
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.11344850063323975
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.10920239239931107
+        },
+        {
+            "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\n\u0420\u043e\u0441\u0441\u0438\u044f\n\n\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\n\n\u0410\u0440\u043c\u0435\u043d\u0438\u044f\n\n\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\n\n\u0413\u0440\u0443\u0437\u0438\u044f\n\n\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f\n\n\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d\n\n\u041a\u0440\u044b\u043c\n\n\u0415\u0432\u0440\u0430\u0437\u0438\u044f\n\nHow to Listen\n\nRadio Free Europe / Radio Liberty broadcasts in 28 languages.",
+            "act": 0.106282539665699
+        },
+        {
+            "text": "Though admittedly it was Historical Materialism that made me become a Marxist, rather than DM.",
+            "act": 0.10049911588430405
+        },
+        {
+            "text": "As a result, racist ideologies are almost always also misogynist and anti-feminist, says British philosopher Jane Clare Jones.",
+            "act": 0.09447749704122543
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.09380749613046646
+        },
+        {
+            "text": "They both looked up when they heard the scanners.",
+            "act": 0.09247849881649017
+        },
+        {
+            "text": "There she is wrong.",
+            "act": 0.08811862021684647
+        },
+        {
+            "text": "Carol Costello is stupid.",
+            "act": 0.0853886678814888
+        },
+        {
+            "text": "References\n\nCategory:Straits of the Laptev Sea\nCategory:Straits of the Kara Sea\nCategory:Straits of Severnaya Zemlya",
+            "act": 0.08347015082836151
+        },
+        {
+            "text": "18\nRace?",
+            "act": 0.08307263255119324
+        },
+        {
+            "text": "All pedestals were taken while the beam was disabled.",
+            "act": 0.08178762346506119
+        },
+        {
+            "text": "Looking now.",
+            "act": 0.08074603229761124
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.07621419429779053
+        },
+        {
+            "text": "Some father you are.",
+            "act": 0.07528074830770493
+        },
+        {
+            "text": "\u2018To bury somebody alive has very well-known consequences.",
+            "act": 0.07454589009284973
+        },
+        {
+            "text": "She may be a fanatic \u2014 many of the HYDRA types are, but she cannot be the sort of maniac that Joker is.",
+            "act": 0.0740075409412384
+        },
+        {
+            "text": "The authors distinguish between what they call \"act-based\" versus \"character-based\" ethics, discussing in turn utilitarianism and Kantian ethics.",
+            "act": 0.07234334200620651
+        },
+        {
+            "text": "Of course, metal icons who identify with vegetarianism were present even in the earliest days of the genre.",
+            "act": 0.07181275635957718
+        },
+        {
+            "text": "Solar water heating systems use solar panels, called collectors, fitted to your roof.",
+            "act": 0.0687134861946106
+        },
+        {
+            "text": "Differentiate w(q) wrt q.",
+            "act": 0.06829658150672913
+        },
+        {
+            "text": "return 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 # # Send email to you!",
+            "act": 0.06675908714532852
+        },
+        {
+            "text": "Therefore, consciousness must have a nonexecutive biological function---a secondary or supporting role to associated neural mechanisms that do have executive functions.",
+            "act": 0.0665828064084053
+        },
+        {
+            "text": "Taaibos Lifestyle Estate is a former coal-mining village between Sasolburg and Heilbron, and is home to two decommissioned power stations, Taaibos and Highveld, inactive since 1994.",
+            "act": 0.06541571021080017
+        },
+        {
+            "text": "A solar thermal system works alongside conventional water heaters.",
+            "act": 0.0647040605545044
+        },
+        {
+            "text": "SRA RNA (82 nt): GGAGCAGGTATGTGATGACATCAGCCGACGCCTGGCACTGCTGCAGGAACAGTGGGCTGGAGGAAAGTTGTCAATACCTGTA\n\n3.",
+            "act": 0.06427830457687378
+        },
+        {
+            "text": "The Bayview\u2019s similarly problematic John McLaren Park was also targeted for overnight shutdown.",
+            "act": 0.0642104223370552
+        },
+        {
+            "text": "In shower units, the water from the pipe where the mixer and/or closure valve is positioned, is conveyed to a rose at the end of the unit.",
+            "act": 0.06372261792421341
+        },
+        {
+            "text": "The score was well received by critics.",
+            "act": 0.06346111744642258
+        },
+        {
+            "text": "But again, perhaps Marxism is wrong.",
+            "act": 0.06331970542669296
+        },
+        {
+            "text": "Conversely, critics say The Last Jedi equals A New Hope and The Force Awakens, only falling behind The Empire Strikes Back.",
+            "act": 0.0628746822476387
+        },
+        {
+            "text": "Before long, the counter-attack almost ripped the WBA Chelsea goal.",
+            "act": 0.06227453798055649
+        },
+        {
+            "text": "author:\n- Boris Alexeev\n- 'M.",
+            "act": 0.06089127063751221
+        },
+        {
+            "text": "word[i].toUpperCase() : word[i];\n}\nconsole.log(wordEnd);\n\n\u041a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e \u043c\u043e\u0436\u043d\u043e \u0432\u043e\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0441\u0442\u043e\u0439 \u0440\u0435\u0433\u0443\u043b\u044f\u0440\u043a\u043e\u0439:\n\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.059325121343135834
+        },
+        {
+            "text": "Q:\n\n\u0413\u0434\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043b\u043e\u0433\u0438 \u0440\u0430\u0431\u043e\u0442\u044b NodeJS-PushServer?",
+            "act": 0.05914127081632614
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

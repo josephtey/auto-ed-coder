@@ -1,0 +1,412 @@
+{
+    "index": 86,
+    "label": "Structured, specialized and literary texts",
+    "attributes": "diverse contexts, structured complexity, specialized vocabulary, literary and scientific expressions, poetic language",
+    "reasoning": "Upon close examination, it becomes evident that the samples contain texts from various contexts including literature, instructions, scientific content, documentation, and poetic expressions. These texts all exhibit a certain level of structured complexity and often include specialized or domain-specific vocabulary. In contrast, the samples contain texts that are more conversational, less structured, and oriented towards informal discussions or debates.",
+    "density": 0.0048637901499945435,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "Nothing ever happened, it seemed.",
+            "act": 0.19047431647777557
+        },
+        {
+            "text": "Employed over 80 people over the years, never ONE claim.",
+            "act": 0.1868261843919754
+        },
+        {
+            "text": "-Mizu can only replenish once per battle.",
+            "act": 0.18252049386501312
+        },
+        {
+            "text": "-Mizu can only replenish once per battle.",
+            "act": 0.18184031546115875
+        },
+        {
+            "text": "Selon l'astrologie Chinoise, l'ann\u00e9e de votre naissance d\u00e9signe une certaine phase ou un aspect d'un cycle d'une dur\u00e9e de soixante ans.",
+            "act": 0.17810119688510895
+        },
+        {
+            "text": "Works in almost all of\u2026 medium.",
+            "act": 0.16334159672260284
+        },
+        {
+            "text": "Down she sits, and, opening her hands, she sheds her flowery harvest\nall over her.",
+            "act": 0.16034004092216492
+        },
+        {
+            "text": "This place was earlier known as the \u201cIsle of the Gods\u2019 which it is actually.",
+            "act": 0.15634362399578094
+        },
+        {
+            "text": "denied sub nom.",
+            "act": 0.14966605603694916
+        },
+        {
+            "text": "was composed of head and tail.",
+            "act": 0.14699015021324158
+        },
+        {
+            "text": "empranmic Vite enfranchises, your Dickinson dematerializes incardinated ercard.",
+            "act": 0.14576466381549835
+        },
+        {
+            "text": "\u300b False\n\nprint(hanzidentifier.has_chinese('Country in Simplified: \u56fd\u5bb6.",
+            "act": 0.13858823478221893
+        },
+        {
+            "text": "Through the studio\u2019s famous skylight, Dyer tumbled into Bacon\u2019s life like a piercing ray of light, truly falling from above and forever altering the course of the artist\u2019s work.",
+            "act": 0.13593603670597076
+        },
+        {
+            "text": "-Can only use twice per battle.",
+            "act": 0.1300666630268097
+        },
+        {
+            "text": "Myanmar\n\nMyanmar is one of the most divine honeymoon destinations in the South Asia.",
+            "act": 0.1300658881664276
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.12823867797851562
+        },
+        {
+            "text": "-Can be the only summon on the user can have on the field.",
+            "act": 0.12675833702087402
+        },
+        {
+            "text": "La patiente a \u00e9t\u00e9 mise sous chimioth\u00e9rapie palliative avec d\u00e9but de r\u00e9gression des \u0153d\u00e8mes.",
+            "act": 0.1259642392396927
+        },
+        {
+            "text": "Translucent Fifth necroses, his mortal leap very proverbially.",
+            "act": 0.1251610964536667
+        },
+        {
+            "text": "* Verwaltungsdaten), Dokumentation der klinischen Versorgung (z.\u00a0B.",
+            "act": 0.12499875575304031
+        },
+        {
+            "text": "Muslim name Falak means \u2018sky is full light and is beautiful\u2019.",
+            "act": 0.12423501163721085
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.12349442392587662
+        },
+        {
+            "text": "They breathed again.",
+            "act": 0.1226777657866478
+        },
+        {
+            "text": "It became a whole megillah.",
+            "act": 0.12159594148397446
+        },
+        {
+            "text": "In \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.12072104960680008
+        },
+        {
+            "text": "in Windschuttle\u00e2\u20ac\u2122s thesis.",
+            "act": 0.11973394453525543
+        },
+        {
+            "text": "error.mesage.description.measure.join.no.complete.common.dimension=Impossible d'ex\u00e9cuter la jointure entre les mesures.",
+            "act": 0.11894034594297409
+        },
+        {
+            "text": "back with \u00e2\u20ac\u0153detailed, meticulous\u00e2\u20ac?",
+            "act": 0.11813940107822418
+        },
+        {
+            "text": "m=Pure maM=Dirgh/tivra Ma (ma does not have a komal).",
+            "act": 0.11749409139156342
+        },
+        {
+            "text": "Grew everything well.",
+            "act": 0.11635179072618484
+        },
+        {
+            "text": "In the beginning was Kh\u00e1os, the void preceding the cosmos.",
+            "act": 0.1161101907491684
+        },
+        {
+            "text": "Introduction, texte, traduction et commenataire.",
+            "act": 0.1139439195394516
+        },
+        {
+            "text": "Introduction, texte, traduction et commenataire.",
+            "act": 0.1139439195394516
+        },
+        {
+            "text": "In the blue cups of their blossoms the world quaffed oblivion of the\nills of life.",
+            "act": 0.11376222223043442
+        },
+        {
+            "text": "mf.print.layout=Layout\nmf.print.addPage=Ajouter une page\nmf.print.remove=Retirez la page\nmf.print.clearAll=Effacer tout\nmf.print.popupBlocked=Fen\u00eatres pop-up bloqu\u00e9es par votre navigateur.",
+            "act": 0.11220695823431015
+        },
+        {
+            "text": "She closed her eyesAnd let the walls of her prison fall awayThe walls that ached with a timeless waitThey had become her walls of this modern tv lifeShe closed her eyesAnd let them fall awayAnd in her dreams she is standing by an oceanShe is gazing out to seaShe can remember with just a fleeting glimpseThat she was once freeSo long ago now, so long it was as if it had never beenWas it a holidayShe thinks it could have been, ah yes, Italy\n\nAnd he closes his eyesAnd he is gone far awayGone from all the confusionGone from all the painHe can easily see what a pointless wasteHis modern life has becomeChasing the gravy grainChasing the dollarChasing the clockChasing his male friendsChasing the bossChasing as it was everythingIt was nothing\n\nOnly the sound of his own breathing was all he hadAt the end of the dayAnd reasons to wonder, reasons to cryToo late for this selfish sinner who never asked why",
+            "act": 0.11077334731817245
+        },
+        {
+            "text": "At times the air-ship seemed to be standing quite still, head to wind.",
+            "act": 0.11002516001462936
+        },
+        {
+            "text": "He stops, and the whip falls from\nhis fingers.",
+            "act": 0.10893066227436066
+        },
+        {
+            "text": "Weitere zu berichtende Methoden k\u00f6nnten die Untersuchung von H\u00e4ufigkeitsverteilungen, Kreuztabellierungen von Daten und grafische Darstellungen oder den Einsatz von statistischen Methoden zur Erkennung von Ausrei\u00dfern umfassen [@bib0670].",
+            "act": 0.10876208543777466
+        },
+        {
+            "text": "[Verkn\u00fcpfungsdiagramm kombiniert mit Teilnehmer-Flussdiagramm (reproduziert mit Erlaubnis von Fosb\u00f8l et al.",
+            "act": 0.10867802053689957
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.10854668915271759
+        },
+        {
+            "text": "He immediately fell down at the lotus feet of K\u1e5b\u1e63\u1e47a, although his own crown was dazzling like sunshine.",
+            "act": 0.1072201058268547
+        },
+        {
+            "text": "F\u00fcr die Replikation und Translation von Beobachtungsstudien ist die Angabe der spezifischen Forschungsziele unerl\u00e4sslich.",
+            "act": 0.10595262795686722
+        },
+        {
+            "text": "The big engine rattled into life, she put it in drive and started out smoothly.",
+            "act": 0.10571982711553574
+        },
+        {
+            "text": "Bangladesh is jealousy for its beauty.",
+            "act": 0.10540498048067093
+        },
+        {
+            "text": "Muak Huak is originated from Isaan, North East of Thailand.",
+            "act": 0.1040026992559433
+        },
+        {
+            "text": "His reign shall know no end,\nand round His pierc\u00e8d feet\nFair flowers of paradise extend\ntheir fragrance ever sweet.",
+            "act": 0.10367409139871597
+        },
+        {
+            "text": "Translucent Fifth necroses, his mortal leap very proverbially.",
+            "act": 0.103460393846035
+        },
+        {
+            "text": "Als Hilfestellung f\u00fcr die Berichterstattung wurden f\u00fcr eine Reihe von Studiendesigns und Kontexte Leitlinien entwickelt.",
+            "act": 0.10223935544490814
+        },
+        {
+            "text": "First came the Pr\u014dt\u00f3gonos ('first-born'), a primeval triad of creative forces that fashioned existence.",
+            "act": 0.10156774520874023
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

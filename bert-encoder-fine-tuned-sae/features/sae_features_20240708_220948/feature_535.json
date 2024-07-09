@@ -1,0 +1,412 @@
+{
+    "index": 535,
+    "label": "Structured, informative text with names",
+    "attributes": "specific names, dates, detailed facts, formal writing, structured information, technical terms",
+    "reasoning": "All the samples include specific references to proper names (e.g., Henry C\u00e1rdenas, Ashford Emmanuel Inkumsah) or events, dates, detailed facts, technical terms, or references that can be seen as part of structured information. These references come from articles, formal writing, or snippets of documentation. In contrast, the other set of samples consists of informal conversational text, debates, expressions of personal opinions, or casual remarks without such detailed references.",
+    "density": 0.005869764307847073,
+    "confidence": 43.0,
+    "high_act_samples": [
+        {
+            "text": "Henry C\u00e1rdenas\n\nHenry C\u00e1rdenas Ordaz (born October 30, 1965 in Sogamoso, Boyac\u00e1) is a retired road cyclist from Colombia, who was a professional rider from 1986 to 1997.",
+            "act": 0.21191471815109253
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.19032840430736542
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.19032840430736542
+        },
+        {
+            "text": "Muslim name Falak means \u2018sky is full light and is beautiful\u2019.",
+            "act": 0.18515732884407043
+        },
+        {
+            "text": "Bitch.",
+            "act": 0.18020184338092804
+        },
+        {
+            "text": "Ashford Emmanuel Inkumsah\n\nAshford Emmanuel Inkumsah was a Ghanaian chemist and politician.",
+            "act": 0.17663151025772095
+        },
+        {
+            "text": "Much too straightforward.",
+            "act": 0.16974711418151855
+        },
+        {
+            "text": "They did not find that people overwhelmingly favoured objectivism.",
+            "act": 0.15563806891441345
+        },
+        {
+            "text": "I didn\u2019t give him his respect.",
+            "act": 0.15027564764022827
+        },
+        {
+            "text": "Child factors included child age, sex, and birth order.",
+            "act": 0.14947520196437836
+        },
+        {
+            "text": "Her husband promptly abandoned her.",
+            "act": 0.14710208773612976
+        },
+        {
+            "text": "Symmetrical front.",
+            "act": 0.1444815695285797
+        },
+        {
+            "text": "Docfaustino\n\nA lot of Albanians are Muslim because of the Ottomans.",
+            "act": 0.14376625418663025
+        },
+        {
+            "text": "Q:\n\nWebsite showing localhost?",
+            "act": 0.14370854198932648
+        },
+        {
+            "text": "\u6700\u8fd1\uff0c\u5f53\u6211\u770b\u5230\u8fd9\u4e2a\u65f6\u662f\u5728\u88d5\u5eca\u574a\u8d70\u8d70\u6d88\u78e8\u70b9\u65f6\u95f4\u3002\u5b83\u8bf4\u201c\u6211\u662f\u4e00\u4e2a\u806a\u660e\u7684\u5783\u573e\u6876\u201d\u3002 \u6709\u4e00\u4e2a\u8bcd\u201c\u5927\u809a\u5b50\u201d\u3002 \u66f4\u591a\u63cf\u8ff0\uff1a\u7d27\u51d1\u591a\u8fbe7\u500d\u7684\u5783\u573e\u3002 \u62ef\u6551\u5730\u7403\u548c\u8282\u7701\u52b3\u52a8\u529b\u3002\u4e5f\u5f88\u806a\u660e\uff0c\u5e76\u4f1a\u5728\u9700\u8981\u6e05\u7406\u7684\u65f6\u5019\u548c\u5730\u70b9\u53d1\u9001\u8b66\u62a5\u3002\u8fd9\u51cf\u5c11\u4e86\u6392\u653e\u5e76\u5e2e\u52a9\u4e86\u5730\u7403\u3002\u662f\u7684\u786e\u633a\u806a\u660e\u7684\u3002\n\nMy Referral Links to recent airdrops | \u6211\u6700\u8fd1\u53c2\u4e0e\u7684\u7a7a\u6295\u8fde\u63a5\n\nI See\ud83d\udc40.",
+            "act": 0.14250397682189941
+        },
+        {
+            "text": "Matthew Gillespie\n\nMatthew Gillespie (24 December 1869 \u2013 unknown) was a Scottish footballer.",
+            "act": 0.1405446082353592
+        },
+        {
+            "text": "I had never met him.",
+            "act": 0.13248904049396515
+        },
+        {
+            "text": "I have left for myself seven thousand men, who\nhave not bowed the knee to Baal.",
+            "act": 0.12822256982326508
+        },
+        {
+            "text": "\"My Angela,\" \"I only took you for that piece of land that was in your dowry.\"",
+            "act": 0.12739217281341553
+        },
+        {
+            "text": "user.rb\nclass User < ActiveRecord::Base\n    has_one :survey\n    validates :first_name, presence: true, on: :update, if: :survey_completed?",
+            "act": 0.12525491416454315
+        },
+        {
+            "text": "The team announced that they would not be competing at Indianapolis, and that they could also end up missing Brno.",
+            "act": 0.12513945996761322
+        },
+        {
+            "text": "I wasn\u2019t sure what Chikungunya virus was, but it didn\u2019t sound like something I would want.",
+            "act": 0.1249428391456604
+        },
+        {
+            "text": "Results\nThe race was started at 14:30 EET.",
+            "act": 0.12065991759300232
+        },
+        {
+            "text": "That was not good enough for me.",
+            "act": 0.11962255090475082
+        },
+        {
+            "text": "Derek Woodman\n\nDerek Woodman was a British former Grand Prix motorcycle road racer.",
+            "act": 0.11788378655910492
+        },
+        {
+            "text": "Land changes gradually into sea.",
+            "act": 0.11785269528627396
+        },
+        {
+            "text": "Delivery FAQ:\n\n* How About Shipping Cost?",
+            "act": 0.11768678575754166
+        },
+        {
+            "text": "Cal Crutchlow set the pace shortly after, then also fell (at Turn 5).",
+            "act": 0.11730079352855682
+        },
+        {
+            "text": "She went straight on her way and she did not meet the wolf.",
+            "act": 0.11723281443119049
+        },
+        {
+            "text": "Written by Ulf Kjell G\u00fcr\n\nAdditional Details\n\nDid You Know?",
+            "act": 0.11690683662891388
+        },
+        {
+            "text": "Some riders, including Crutchlow, were faster than during Sunday's race.",
+            "act": 0.11601867526769638
+        },
+        {
+            "text": "In Idlib, regime forces captured 84 villages and towns: Telmans, Ma\u2019ar Shmasha, Deir Sharqi, Deir Al-Gharbi, Ma\u2019ar Shmarin, Ma\u2019rata, Al-Ghadfa, Ma\u2019ar Shourin Al-Za\u2019alana, Al-Dana, Tal Sheikh, Sawami\u2019e, Khirbet Mezyan, Masaran, Bsida, Taqana, Babolin, Kafr Bassin, Marhatat, Hamidia, Dar Al-Salaam, Salhia, Kafruma, Maarrat Al-Nu\u2019man city, Wadi Al-Daif, Hantutin, Al-Jarrada, Al-Ruwayha and Al-Qahiryah, Khan al-Sobol town, Mardebseh, Al-Hartamiyah, Qamhana, Abu Juraif, Tal Khatrah, Tal Musaytif, Al-Kana\u2019es, Karsyan, Hish, Kafr Mazdah, Jabbalah, Muqah, Al-Amudiyah, Armanya, Kafr Batikh, Dadikh, Luf, Anqarati, Jubas, Sannan, Zakkar, Tarnabeh and Al-Nayrab, Mardikh, Tal Mardikh, Kaddur, Al-Ruwayha, the Abandoned Battalion, Al-Balisah, Al-Wasitah, Kuwayris, Tal Al-Agher, Al-Mushayrafah, Tawil Al-Halib, Al-Raqim, Jadidat Al-Khatrah, Sheikh Idrees, Baj\u2019as, Al-Rayyan, Tal Al-Rumman, Parisa, al-Hammamat, Tal al-Sultan, Om Sharshuh, al-Khashakhish, Tal Ibrahim, Jabal al-Taweel, Mas\u2019adah, Ras Al-Ain, Shuha, Kafr Amim and Tal Rihan).",
+            "act": 0.11406770348548889
+        },
+        {
+            "text": "Click here to visit the website for Adoption & Birth Mothers.",
+            "act": 0.11362754553556442
+        },
+        {
+            "text": "Worse home loss since 1968.",
+            "act": 0.11322981864213943
+        },
+        {
+            "text": "Mary Clinton\n Charles Clinton (1690\u20131773), who married Elizabeth Denniston (1703\u20131775) and had seven children.",
+            "act": 0.11280098557472229
+        },
+        {
+            "text": "Jack Miller was riding at Marc VDS for the first time, alongside rookie team-mate Tito Rabat.",
+            "act": 0.11140283197164536
+        },
+        {
+            "text": "I had never met her.",
+            "act": 0.11106204986572266
+        },
+        {
+            "text": "Kids are not \"pure\".",
+            "act": 0.11099691689014435
+        },
+        {
+            "text": "Much too genuine.",
+            "act": 0.10949401557445526
+        },
+        {
+            "text": "Insulated mug method:\n\nAdd the seasoning blend to your mug, crush the ramen a bit and add on top.",
+            "act": 0.10940414667129517
+        },
+        {
+            "text": "$submissions[\"message\"] .",
+            "act": 0.10569415241479874
+        },
+        {
+            "text": "Gurevi\u010d.",
+            "act": 0.10555976629257202
+        },
+        {
+            "text": "She did not give the cause of death.",
+            "act": 0.10482772439718246
+        },
+        {
+            "text": "1995, pet denied,\nuntimely filed).",
+            "act": 0.10431714355945587
+        },
+        {
+            "text": "FACTS\n       Mona Sanders met appellant in November 2007.",
+            "act": 0.10337749123573303
+        },
+        {
+            "text": "msgstr \"\"\n\n#: src/org.mate.marco.gschema.xml:226 src/org.mate.marco.gschema.xml:231\n#: src/org.mate.marco.gschema.xml:236 src/org.mate.marco.gschema.xml:241\n#: src/org.mate.marco.gschema.xml:246 src/org.mate.marco.gschema.xml:251\n#: src/org.mate.marco.gschema.xml:256 src/org.mate.marco.gschema.xml:261\n#: src/org.mate.marco.gschema.xml:266 src/org.mate.marco.gschema.xml:271\n#: src/org.mate.marco.gschema.xml:276 src/org.mate.marco.gschema.xml:281\n#: src/org.mate.marco.gschema.xml:286 src/org.mate.marco.gschema.xml:291\n#: src/org.mate.marco.gschema.xml:296 src/org.mate.marco.gschema.xml:301\n#: src/org.mate.marco.gschema.xml:306 src/org.mate.marco.gschema.xml:311\n#: src/org.mate.marco.gschema.xml:316 src/org.mate.marco.gschema.xml:321\n#: src/org.mate.marco.gschema.xml:326 src/org.mate.marco.gschema.xml:331\n#: src/org.mate.marco.gschema.xml:336 src/org.mate.marco.gschema.xml:341\n#: src/org.mate.marco.gschema.xml:346 src/org.mate.marco.gschema.xml:351\n#: src/org.mate.marco.gschema.xml:356 src/org.mate.marco.gschema.xml:361\n#: src/org.mate.marco.gschema.xml:366 src/org.mate.marco.gschema.xml:371\n#: src/org.mate.marco.gschema.xml:376 src/org.mate.marco.gschema.xml:381\n#: src/org.mate.marco.gschema.xml:386 src/org.mate.marco.gschema.xml:391\n#: src/org.mate.marco.gschema.xml:396 src/org.mate.marco.gschema.xml:401\nmsgid \"Name of workspace\"\nmsgstr \"Nom del espaci de trabalh\"\n\n#: src/org.mate.marco.gschema.xml:227 src/org.mate.marco.gschema.xml:232\n#: src/org.mate.marco.gschema.xml:237 src/org.mate.marco.gschema.xml:242\n#: src/org.mate.marco.gschema.xml:247 src/org.mate.marco.gschema.xml:252\n#: src/org.mate.marco.gschema.xml:257 src/org.mate.marco.gschema.xml:262\n#: src/org.mate.marco.gschema.xml:267 src/org.mate.marco.gschema.xml:272\n#: src/org.mate.marco.gschema.xml:277 src/org.mate.marco.gschema.xml:282\n#: src/org.mate.marco.gschema.xml:287 src/org.mate.marco.gschema.xml:292\n#: src/org.mate.marco.gschema.xml:297 src/org.mate.marco.gschema.xml:302\n#: src/org.mate.marco.gschema.xml:307 src/org.mate.marco.gschema.xml:312\n#: src/org.mate.marco.gschema.xml:317 src/org.mate.marco.gschema.xml:322\n#: src/org.mate.marco.gschema.xml:327 src/org.mate.marco.gschema.xml:332\n#: src/org.mate.marco.gschema.xml:337 src/org.mate.marco.gschema.xml:342\n#: src/org.mate.marco.gschema.xml:347 src/org.mate.marco.gschema.xml:352\n#: src/org.mate.marco.gschema.xml:357 src/org.mate.marco.gschema.xml:362\n#: src/org.mate.marco.gschema.xml:367 src/org.mate.marco.gschema.xml:372\n#: src/org.mate.marco.gschema.xml:377 src/org.mate.marco.gschema.xml:382\n#: src/org.mate.marco.gschema.xml:387 src/org.mate.marco.gschema.xml:392\n#: src/org.mate.marco.gschema.xml:397 src/org.mate.marco.gschema.xml:402\nmsgid \"The name of a workspace.\"",
+            "act": 0.1025499701499939
+        },
+        {
+            "text": "$username .",
+            "act": 0.1022285744547844
+        },
+        {
+            "text": "straight neckline.",
+            "act": 0.10157255083322525
+        },
+        {
+            "text": "\u201cTake my yoke upon you, and learn of me; for I am meek and\nlowly in heart: and ye shall find rest unto your souls.",
+            "act": 0.10043293982744217
+        },
+        {
+            "text": "high round neckline with small stand up colllar.",
+            "act": 0.09995067864656448
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Hmmm.",
+            "act": 0.0
+        },
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

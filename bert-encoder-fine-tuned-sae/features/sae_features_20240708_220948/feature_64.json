@@ -1,0 +1,412 @@
+{
+    "index": 64,
+    "label": "Uses non-standard characters or formats",
+    "attributes": "includes emojis, special symbols, mathematical notations, non-ASCII characters",
+    "reasoning": "Upon analyzing the provided texts, it becomes evident that the samples share the attribute of including non-standard characters or formats. These encompass emojis, special symbols, mathematical notations, and sequences of non-ASCII characters (e.g., Greek letters, Japanese Kanji). These elements are not found within the other samples, which consist solely of standard text without such unique symbols or formatting.",
+    "density": 0.0003274161174142668,
+    "confidence": 43.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.32677823305130005
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.32677823305130005
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.22788868844509125
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.21198217570781708
+        },
+        {
+            "text": "Evidence that consciousness is solely information\n====================================================\n\n4.1.",
+            "act": 0.19138801097869873
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.14219792187213898
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.1333184689283371
+        },
+        {
+            "text": "\"Yeah, for the love of God, Mom, tell them.\"",
+            "act": 0.11524692177772522
+        },
+        {
+            "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n6\\.",
+            "act": 0.10480956733226776
+        },
+        {
+            "text": "\"The sword oi Sam Aarch.\"",
+            "act": 0.10024721175432205
+        },
+        {
+            "text": "\"Man, just have a hard-boiled egg or something.\"",
+            "act": 0.09851235896348953
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.09608717262744904
+        },
+        {
+            "text": "\"It's nothing, honey, it's nothing.\"",
+            "act": 0.09266146272420883
+        },
+        {
+            "text": "=============================================================\n\nImplication $2\\implies 3$.",
+            "act": 0.0902891755104065
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.07789195328950882
+        },
+        {
+            "text": "\"AWWWWWWWWWW!\"",
+            "act": 0.0715099647641182
+        },
+        {
+            "text": "\" So, what are you gonna say?\"",
+            "act": 0.07017691433429718
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct -- one year\\'s error *2 points*\n\n\u25a1 Not correct -- several years\\' errors *1 point*\n\n**2.",
+            "act": 0.0688168928027153
+        },
+        {
+            "text": "\"There's something I need to get.\"",
+            "act": 0.06539557874202728
+        },
+        {
+            "text": "\"I've been missing you all day long, dawg.\"",
+            "act": 0.06454890221357346
+        },
+        {
+            "text": "\"Do we have to talk?\"",
+            "act": 0.05696946009993553
+        },
+        {
+            "text": "The 2/67th Armored served with the 2nd Armored Division during World War II, fighting in Operation Torch, the Tunisian Campaign, the Allied invasion of Sicily, the Normandy Campaign, the Northern France Campaign, the Rhineland Campaign, the Ardennes-Alsace Campaign, and the Central Europe Campaign.",
+            "act": 0.050092313438653946
+        },
+        {
+            "text": "</strong>A full-angle is defined as an ordered pair of two lines u and v denoted by \u2220[u, v].<br />\n  <strong>R2.</strong> \u2220[u, v] = \u2212\u2220[v, u].<br />\n  <strong>R3.</strong> Constant full-angle \u2220[u, u] is denoted by \u2220[0].",
+            "act": 0.048354074358940125
+        },
+        {
+            "text": "\"Come on, by God, it's nothing.\"",
+            "act": 0.04820575937628746
+        },
+        {
+            "text": "\"So, Kelso, how many things around here have you put your butt on?\"",
+            "act": 0.04135315120220184
+        },
+        {
+            "text": "\"Beth, what's happening?\"",
+            "act": 0.03889404982328415
+        },
+        {
+            "text": "He had been promoted to major, attached to the 12th Battalion, when he was awarded the Distinguished Service Order in 1919.",
+            "act": 0.0363391675055027
+        },
+        {
+            "text": "Danach sollen ausl\u00e4ndische Truppen binnen 14 Monaten abgezogen werden, wenn die Taliban ihre Zusagen erf\u00fcllen und unter anderem eine Waffenruhe einhalten sowie bestimmten militanten Gruppen keinen Unterschlupf gew\u00e4hren.",
+            "act": 0.03521250933408737
+        },
+        {
+            "text": "The building has a brick and reinforced concrete structure.",
+            "act": 0.03475075960159302
+        },
+        {
+            "text": "\"Now, all we have to do is wait.\"",
+            "act": 0.03370284661650658
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.030898436903953552
+        },
+        {
+            "text": "\"Relax, Curly, I got it covered.\"",
+            "act": 0.029443979263305664
+        },
+        {
+            "text": "It is wrapped having a thick polyethylene fiber with a drawstring edge.",
+            "act": 0.029074013233184814
+        },
+        {
+            "text": "\u05d9\u05e9 \u05dc\u05e7\u05e8\u05d5\u05d0 \u05dc\u05de\u05ea\u05d5\u05d3\u05d4 \u05d4 getErrors() \u05dc\u05e7\u05d1\u05dc\u05ea \u05d4\u05e9\u05d2\u05d9\u05d0\u05d5\u05ea \u05e9\u05d7\u05d6\u05e8\u05d5\n}\n~~~\n\n\u05db\u05e9\u05d4\u05de\u05d9\u05d3\u05e2 \u05dc\u05e2\u05d3\u05db\u05d5\u05df \u05d0\u05d5 \u05d4\u05d5\u05e1\u05e4\u05d4 \u05e9\u05dc \u05e8\u05e9\u05d5\u05de\u05d4 \u05de\u05ea\u05e7\u05d1\u05dc \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4 \u05d1\u05e2\u05d6\u05e8\u05ea \u05d8\u05d5\u05e4\u05e1 HTML , \u05d0\u05e0\u05d5 \u05e6\u05e8\u05d9\u05db\u05d9\u05dd \u05dc\u05d4\u05e6\u05d9\u05d1 \u05d0\u05d5\u05ea\u05dd \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05de\u05d9\u05dd \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.028515346348285675
+        },
+        {
+            "text": "\"'Bye, Paula.\"",
+            "act": 0.027107439935207367
+        },
+        {
+            "text": "Tot Rep Dem Ind Men Wom\n\nApprove 63% 30% 87% 64% 59% 66%\n\nDisapprove 33 66 10 31 37 29\n\nDK/NA 4 3 3 6 4 5\n\n10.",
+            "act": 0.025725051760673523
+        },
+        {
+            "text": "\u05d4\u05e8\u05e2\u05d9\u05d5\u05df \u05d4\u05de\u05e7\u05d5\u05e8\u05d9 \u05e9\u05dc \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d4\u05d2\u05d9\u05e2 \u05de  Ruby on Rails.",
+            "act": 0.021908193826675415
+        },
+        {
+            "text": "\u2018Thanks\nfor the assist.\u2019\n\nI\u2019d\nrather not fight at all, but winning was second-best.",
+            "act": 0.020764663815498352
+        },
+        {
+            "text": "\u00c2 Personally I wasn\u2019t a big fan of any of them, but I think I\u2019d have to plump for Pickled Onion flavour if I had to choose\u2026",
+            "act": 0.02014429122209549
+        },
+        {
+            "text": "\"Baby, you tell me it's late, and I'm here to tell you, it only feels that way.\"",
+            "act": 0.019560180604457855
+        },
+        {
+            "text": "\"1, 2, 3, we love you, Mum!\"",
+            "act": 0.01647203415632248
+        },
+        {
+            "text": "\"it was just a small kiss on\" \"You know what?\"",
+            "act": 0.016335442662239075
+        },
+        {
+            "text": "When it was released in 2010, it was met with a lukewarm reception, having received an aggregate rating of 68%.",
+            "act": 0.01598784513771534
+        },
+        {
+            "text": "\"Just gotta get enough for the first order.\"",
+            "act": 0.015011227689683437
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nYes, considerably *3 points*\n\nYes, to some extent *2 points*\n\nNo adaptation at all *1 point*\n\nThank you.",
+            "act": 0.01404344942420721
+        },
+        {
+            "text": "3,107,976, 2,895,793, 2,880,060, 2,819,945, 4,182,744, 4,069,268, 4,065,405, 3,972,710.",
+            "act": 0.013682006858289242
+        },
+        {
+            "text": "\"We're gonna miss you.\"",
+            "act": 0.011010373942553997
+        },
+        {
+            "text": "\"If you're wanting a bottle all you have to do is ask.\"",
+            "act": 0.010777286253869534
+        },
+        {
+            "text": "\"What do we do.\"",
+            "act": 0.010702664963901043
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.010429291985929012
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 548,
+    "label": "Structured technical documentation",
+    "attributes": "formal structure, technical terminology, references to studies, factual reporting style, consistent formatting, documentation or academic purpose",
+    "reasoning": "The texts within the <positive-samples> share the attribute of being structured in a formal style, often containing medical or technical terminology, references to studies and data, as well as consistent formatting like bullet points and sub-sections. The texts also maintain a factual reporting style intended for documentation or academic purposes. In contrast, the texts within the <negative-samples> are more informal, conversational, and opinion-based, often lacking structured formatting and technical language.",
+    "density": 0.0015659031702421455,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "G.I.",
+            "act": 0.2202320396900177
+        },
+        {
+            "text": "\\- awareness        \\- persuasive communication\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThirdly, the active transport lesson was developed by two researchers (HV and DS).",
+            "act": 0.2168130874633789
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------\n  A sputum specimen collected at PHC after enrolment was positive for TB by at least one of smear microscopy, Xpert or culture\\                                                                                                                         Positive laboratory sputum test for TB                                    No\n  \u00a0\u00a0\u00a0\u00a0AND\\                                                                                                                                                                                                                                                                                                                        \n  \u00a0\u00a0\u00a0\u00a0Sputum results were available to PHC clinicians at the time of TB treatment start (as defined by collection date of the sputum preceded the TB treatment start date by a minimum of 2 days (smear microscopy or Xpert) or 14 days \\[culture\\])\\                                                                             \n  \u00a0\u00a0\u00a0\u00a0WITH OR WITHOUT\\                                                                                                                                                                                                                                                                                                            \n  \u00a0\u00a0\u00a0\u00a0Chest radiography and/or referral to higher level of care                                                                                                                                                                                                                                                                   \n\n  Extra-pulmonary TB diagnosed at a higher level of care (including pleural TB, TB of lymph nodes or miliary/disseminated TB)\\                                                                                                                          Extra-pulmonary TB                                                        No for the purposes of this analysis, but uncertain as clinical notes not available for review\n  \u00a0\u00a0\u00a0\u00a0AND\\                                                                                                                                                                                                                                                                                                                        \n  \u00a0\u00a0\u00a0\u00a0No documented positive laboratory test (smear microscopy, Xpert or culture) at the time of TB treatment start\\                                                                                                                                                                                                              \n  \u00a0\u00a0\u00a0\u00a0WITH OR WITHOUT\\                                                                                                                                                                                                                                                                                                            \n  \u00a0\u00a0\u00a0\u00a0Chest radiography                                                                                                                                                                                                                                                                                                           \n\n  No documented positive laboratory test (smear microscopy, Xpert or culture) at the time of TB treatment start\\                                                                                                                                        Clinical assessment                                                       Yes\n  \u00a0\u00a0\u00a0\u00a0AND\\                                                                                                                                                                                                                                                                                                                        \n  \u00a0\u00a0\u00a0\u00a0No evidence of chest radiography\\                                                                                                                                                                                                                                                                                           \n  \u00a0\u00a0\u00a0\u00a0AND\\                                                                                                                                                                                                                                                                                                                        \n  \u00a0\u00a0\u00a0\u00a0No referral to a higher level of care                                                                                                                                                                                                                                                                                       \n\n  Chest radiography documented within 7 days prior to TB treatment start\\                                                                                                                                                                               Chest radiography findings compatible with TB                             Yes\n  \u00a0\u00a0\u00a0\u00a0AND\\                                                                                                                                                                                                                                                                                                                        \n  \u00a0\u00a0\u00a0\u00a0No positive smear microscopy, Xpert or sputum culture results for *M*.",
+            "act": 0.21385416388511658
+        },
+        {
+            "text": "[](pone.0191608.t003){#pone.0191608.t003g}\n\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                                                                                               All participants with negative sputum index results at enrolment who were subsequently started on TB treatment\\                   \n  -------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------- --------------- ------------------\n  **Investigations for TB initiated by PHC staff after enrolment in XTEND**                                                                                                                                                                                                      \n\n  \u00a0\u00a0\u00a0\u00a0Sputum culture done, n (%)                                                                                                               64 (38)                                                                                                           23 (28)         42 (70)\n\n  \u00a0\u00a0\u00a0\u00a0Documented chest radiography, n (%)                                                                                                      58 (35)                                                                                                           51 (62)         9 (15)\n\n  \u00a0\u00a0\u00a0\u00a0Undocumented chest radiography, n (%) (patient reported at interview)                                                                    29 (17)                                                                                                           10 (11)         6 (10)\n\n  \u00a0\u00a0\u00a0\u00a0Any admission to hospital, n (%)                                                                                                         27 (22)                                                                                                           70 (85)         9 (15)\n\n  Algorithm followed (any of documented CXR, culture, or referral for hospital), n (%)                                                         106 (63)                                                                                                          58 (71)         45 (75)\n\n  **TB treatment initiation**                                                                                                                                                                                                                                                    \n\n  Reason for TB treatment start (as defined in [Table 1](#pone.0191608.t001){ref-type=\"table\"})                                                                                                                                                                                  \n\n  \u00a0\u00a0\u00a0\u00a0Clinical assessment compatible with TB, n (%)                                                                                            19 (11)                                                                                                           19 (23)         1 (2)\n\n  \u00a0\u00a0\u00a0\u00a0Chest radiography compatible with TB (documented or undocumented), n (%)                                                                 63 (38)                                                                                                           63 (77)         10 (17)\n\n  \u00a0\u00a0\u00a0\u00a0Positive sputum test for TB^z^, n (%)                                                                                                    49 (29)                                                                                                           0               45 (75)\n\n  \u00a0\u00a0\u00a0\u00a0Extra-pulmonary TB diagnosed at higher level of care, n (%)                                                                              9 (5)                                                                                                             0               2 (3)\n\n  \u00a0\u00a0\u00a0\u00a0Assessment at a higher level of care leading to TB treatment initiation, n (%)                                                           19 (11)                                                                                                           0               2 (3)\n\n  \u00a0\u00a0\u00a0\u00a0Unclear^y^, n (%)                                                                                                                        8 (5)                                                                                                             0               0\n\n  TB treatment started 'empirically' (i.e.",
+            "act": 0.18203318119049072
+        },
+        {
+            "text": "[](pone.0191608.t002){#pone.0191608.t002g}\n\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                                    All participants with negative sputum index results at enrolment who were subsequently started on TB treatment\\                 \n  --------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------- ------------- -------------\n  **Characteristics at enrolment**                                                                                                                                                                                  \n\n  \u00a0\u00a0\u00a0\u00a0Female gender, n (%)                                                          79 (47)                                                                                                           39 (48)       25 (41)\n\n  \u00a0\u00a0\u00a0\u00a0Age in years, median (IQR)                                                    37 (31--45)                                                                                                       36 (30--45)   37 (31--43)\n\n  \u00a0\u00a0\u00a0\u00a0Residing in a rural area, n (%)                                               72 (43)                                                                                                           32 (39)       27 (45)\n\n  \u00a0\u00a0\u00a0\u00a0HIV status at enrolment                                                                                                                                                                                       \n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0HIV positive before or at enrolment/HIV status known, n/N, (%)            120/137 (88)                                                                                                      59/78 (76)    46/50 (92)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0on ART, among those HIV positive, n/N (%)                                 30/120 (25)                                                                                                       10/59 (17)    14/46 (30)\n\n  \u00a0\u00a0\u00a0\u00a0Previous TB, n (%)                                                            41 (25)                                                                                                           22/82 (27)    16 (26)\n\n  \u00a0\u00a0\u00a0\u00a0Karnofsky score \\<80, n (%)                                                   41 (25)                                                                                                           46/82 (47)    16 (27)\n\n  \u00a0\u00a0\u00a0\u00a0Body mass index \\<18.5, kg/m^2^, n (%)                                        23 (14)                                                                                                           9 (11)        11 (18)\n\n  \u00a0\u00a0\u00a0\u00a0XTEND study arm                                                                                                                                                                                               \n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Smear microscopy                                                          113 (68)                                                                                                          61 (74)       43 (72)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Xpert                                                                     54 (32)                                                                                                           21 (26)       17 (28)\n\n  **Health seeking behaviour and symptoms prior to and at enrolment**                                                                                                                                               \n\n  \u00a0\u00a0\u00a0\u00a0Participants with duration of symptoms \\> 2 weeks prior to enrolment, n (%)   109 (65)                                                                                                          47 (57)       14 (23)\n\n  \u00a0\u00a0\u00a0\u00a0Enrolment visit was first health seeking visit for TB symptoms, n (%)         111 (66)                                                                                                          43 (52)       30 (50)\n\n  \u00a0\u00a0\u00a0\u00a0Visits to health care provider prior to enrolment, median (IQR)               1 (0--2)                                                                                                          1.5 (1--3)    1 (0--2)\n\n  \u00a0\u00a0\u00a0\u00a0Provider from whom participant first sought help for presenting symptoms                                                                                                                                      \n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Public clinic, n, %                                                       126 (75)                                                                                                          66 (80)       46 (77)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Pharmacy, n (%)                                                           20 (12)                                                                                                           8 (10)        9 (15)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Private doctor/other, n(%)                                                15 (9)                                                                                                            5 (7)         5 (8)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Public Hospital, n (%)                                                    5 (3)                                                                                                             3 (5)         0\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Traditional healer, n (%)                                                 1 (1)                                                                                                             0             0\n\n  \u00a0\u00a0\u00a0\u00a0Reason for visit to PHC at which enrolment took place                                                                                                                                                         \n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0TB symptoms, n (%)                                                        140 (84)                                                                                                          71 (87)       51 (85)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0HIV testing or routine visit, n (%)                                       15 (9)                                                                                                            8 (8)         5(8)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Chronic disease routine visit/other, n (%)                                12 (7)                                                                                                            3 (4)         4 (7)\n\n  \u00a0\u00a0\u00a0\u00a0Number of symptoms at enrolment                                                                                                                                                                               \n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0None, n (%)                                                               3 (2)                                                                                                             1 (1)         2 (3)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a01--2, n (%)                                                               61 (37)                                                                                                           29 (35)       22 (37)\n\n  \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a03--4, n (%)                                                               103 (62)                                                                                                          52 (64)       36 (60)\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n\\* A subset of the group n = 167 who met the definition for empiric TB treatment initiation as defined in [Table 1](#pone.0191608.t001){ref-type=\"table\"}.",
+            "act": 0.17667555809020996
+        },
+        {
+            "text": "Regards,\nMike\n--------------------------------------------------------------------------\nMike Smith Anix Computers Ltd\n\"Death isn't the Handicap it used to be\" Third Technician, Dave Lister\nJupiter Mining Corporation\n--------------------------------------------------------------------------\nmickey@anix.co.uk\n--------------------------------------------------------------------------",
+            "act": 0.17209312319755554
+        },
+        {
+            "text": "----------------- --------------- --------------- ---------------\n                    $\\chi^2$ Fit    5% Point        10% Point\n                                                    \n  5 mm 250\u00a0V Data   4.4 $\\pm$ 0.6   5.0 $\\pm$ 0.7   9.4 $\\pm$ 1.2\n  5 mm 500\u00a0V Data   6.0 $\\pm$ 0.8   11 $\\pm$ 2      22 $\\pm$ 3\n  5 mm 750\u00a0V Data   5.8$\\pm$1.0     14 $\\pm$ 3      23$\\pm$ 4\n  3 mm 250\u00a0V Data   10 $\\pm$3       18 $\\pm$ 5      23 $\\pm$ 6\n  3 mm 400\u00a0V Data   12 $\\pm$3       20$\\pm$ 4       23 $\\pm$ 5\n  ----------------- --------------- --------------- ---------------\n\n!",
+            "act": 0.16346563398838043
+        },
+        {
+            "text": "*tuberculosis* were available before TB treatment initiation (within 2 days of the sputum collection date (smear microscopy or Xpert) or within 14 days (culture)\\                                                                                   \n  \u00a0\u00a0\u00a0\u00a0AND\\                                                                                                                                                                                                                                                                                                                        \n  \u00a0\u00a0\u00a0\u00a0No documentation that a chest radiograph had been taken or requested at PHC                                                                                                                                                                                                                                                 \n\n  Insufficient data and/or patient pathway could not be reliably reconstructed                                                                                                                                                                          No reason assigned                                                        Uncertain\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nInstitutional and ethical review {#sec009}\n--------------------------------\n\nThe XTEND protocol and this secondary data analysis received formal approval following review by the Human Sciences Research Ethics Committee (HREC) of the University of the Witwatersrand in 2011 (M110827), the London School of Hygiene & Tropical Medicine, the University of Cape Town and WHO.",
+            "act": 0.1613025814294815
+        },
+        {
+            "text": "###### \n\nData quality assessment (DQA) activities implementation schedule, 2017\n\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Phase 1: preparation                  January 2-March 14, 2017\n  ------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                        Identifying resources, partners, and staff, scheduling activities, venues, and transport, finalizing protocol and data collection tools (printed or electronic).",
+            "act": 0.1478930115699768
+        },
+        {
+            "text": "STROBE-Punkte                                                                                                                                                                                                                                                                                                                                    RECORD-Punkte\n  ------------------------------------------------------------------- ----- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Titel und Abstract**                                                                                                                                                                                                                                                                                                                                                                                                     \n\n                                                                      1     \\(a\\) Machen Sie das Studiendesign im Titel oder Abstract kenntlich, indem Sie daf\u00fcr einen allgemein gebr\u00e4uchlichen Begriff verwenden\\                                                                                                                                                                                                           RECORD 1.1: Der verwendete Datentyp sollte im Titel oder Abstract angegeben werden.",
+            "act": 0.14591406285762787
+        },
+        {
+            "text": "[](pone.0191608.t001){#pone.0191608.t001g}\n\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Criteria used to infer the reason for TB treatment start                                                                                                                                                                                              Inferred reason for TB treatment start                                    Was TB treatment given empirically?",
+            "act": 0.1424213945865631
+        },
+        {
+            "text": "Sequence-based reagent    Xist Primers                         Dr. Edith Heard       5'GCTGGTTCGTCTATCTTGTGGG3'\\                                                                                                                   \n                                                                                       5'CAGAGTAGCGAGGACTTGAAGAG3'                                                                                                                   \n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nCell lines and culture {#s4-1}\n----------------------\n\nHATX WT and Spen KO clone 2 and clone 3 cell lines were gift of A. Wutz and are described in detail in [@bib40].",
+            "act": 0.14129866659641266
+        },
+        {
+            "text": "Materials and methods {#s4}\n=====================\n\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Reagent type\\             Designation                          Source or reference   Identifiers                                                                                                                                   Additional information\n  (species) or resource                                                                                                                                                                                                              \n  ------------------------- ------------------------------------ --------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------\n  Gene (mouse)              Spen                                 RefSeq                [NM_019763.2](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nucleotide&term=NM_019763&doptcmdl=GenBank&tool=genome.ucsc.edu)   \n\n  Cell line (mouse)         TXY WT and TXY deltaA                Dr. Edith Heard       Xist-WT and Xist-deltaA                                                                                                                       Cell lines have a doxycycline inducible Xist gene + / - the A repeat region\n\n  Cell line (mouse)         HATX WT and HATX Spen KO             Dr. Anton Wutz        WT, *Spen* KO                                                                                                                                 KO cells have a deletion\\\n                                                                                                                                                                                                                                     of the majority of the Spen gene.",
+            "act": 0.1398986577987671
+        },
+        {
+            "text": "-------------------------------------------\nBatch: 1\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 10:00:10|10   |0.0|1.0 |\n+-------------------+-----+---+----+\n\n-------------------------------------------\nBatch: 2\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 3\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 10:00:20|20   |0.0|0.0 |\n+-------------------+-----+---+----+\n\n-------------------------------------------\nBatch: 4\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 5\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 10:00:30|10   |0.0|1.0 |\n+-------------------+-----+---+----+\n\n-------------------------------------------\nBatch: 6\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 7\n-------------------------------------------\n+----------+-----+---+----+\n|wtimestamp|value|key|dkey|\n+----------+-----+---+----+\n+----------+-----+---+----+\n\n-------------------------------------------\nBatch: 8\n-------------------------------------------\n+-------------------+-----+---+----+\n|wtimestamp         |value|key|dkey|\n+-------------------+-----+---+----+\n|2017-08-09 11:00:30|40   |0.0|0.0 |\n+-------------------+-----+---+----+\n\nI know watermark drop state by use maxevent-time in window, but in dropduplicate, I don't know how it clear state?",
+            "act": 0.1370469033718109
+        },
+        {
+            "text": "~~~~~~~~~~~~~\nDays later - Mamoru's Apartment\n~~~~~~~~~~~~~\nIt puzzled him.",
+            "act": 0.13675343990325928
+        },
+        {
+            "text": "\"Take your clothes off!\"",
+            "act": 0.13503733277320862
+        },
+        {
+            "text": "--------------------------------------------------------------------------------------------------\n  Level                      No        Quality measure   All 4 quality\\                      \n                                                         measures evident                    \n  -------------------------- --------- ----------------- ------------------ -------- ------- -------\n  Bibliometrics              31        100               42                 29       6       3\n\n  Collaboration Activities   53        100               13                 9        0       0\n\n  Infrastructure             5         100               20                 0        0       0\n\n  Knowledge Translation      39        100               18                 18       0       0\n\n  Recognition                11        100               27                 18       0       0\n\n  Research Funding           25        100               56                 40       12      12\n\n  RMS                        97        100               7                  7        1       1\n\n  Skills/Knowledge           62        100               27                 0        21      0\n\n  Other                      77        100               19                 19       1       1\n\n  **Total**                  **400**   **100**           **21**             **13**   **5**   **1**\n  --------------------------------------------------------------------------------------------------\n\nImpact indicators\n-----------------\n\nThe three impact indicators were all systemic-level indicators and were all coded to a 'health and wellbeing' theme; two to a sub-category of 'people', one to a sub-category of 'disease'.",
+            "act": 0.13302680850028992
+        },
+        {
+            "text": "Table [1](#T1){ref-type=\"table\"} illustrates an overview of Round 4 and 5 TRP comments on human resources interventions:\n\n###### \n\nRound 4 and 5 comments of the Global Fund\\'s Technical Review Panel on human resources for health\n\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Positive TRP comments**                                                                                                                        **Negative TRP comments**\n  ------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------\n  Proposal could make a significant contribution to the underlying structural difficulties preventing adequate response to AIDS, Tb and malaria\\   Insufficient assessment and planning of HR issues\\\n  Link to specific disease well articulated\\                                                                                                       Limited human resources available -- capacity insufficient to achieve goals\\\n  Standardization of training curricula\\                                                                                                           Insufficient situational analysis in terms of human resources\\\n  Involvement of training institution\\                                                                                                             Training strategies lack an accurate description of partners/providers\\\n  Involvement of private sector\\                                                                                                                   Unclear number of trainees and costs\\\n  National code of practice for health workers being developed to reduce stigma\\                                                                   Inadequately addressing motivation issues\n  Key role of non-health personnel acknowledged                                                                                                    \n\n  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nSource: \\[15, 16\\]\n\nHuman resources in integrated and health system proposals\n---------------------------------------------------------\n\nIn Round 4, the guidelines introduce a specific option to address cross-cutting health systems issues, including human resources constraints, in an integrated proposal.",
+            "act": 0.13030913472175598
+        },
+        {
+            "text": "[](pone.0168594.t001){#pone.0168594.t001g}\n\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Element of the active transport lesson                                                                                   Description                                                                                                                                                                                                                                                                     Determinant(s)      Method(s)\n  ------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------- ------------------------------\n  1\\) Brief introduction                                                                                                   The purpose of the lesson was explained and importance to always choose consciously between transport modes, even after obtaining a driving licence, was stressed.",
+            "act": 0.1298721432685852
+        },
+        {
+            "text": "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#d1e561}\n==================================================================================================\n\n  ------ ------------- --------------- ------------- -------------------- --\n         *x*           *y*             *z*           *U*~iso~\\*/*U*~eq~   \n  O1     0.37595 (5)   \u22120.09851 (12)   0.25430 (5)   0.0178 (2)           \n  O2     0.46409 (5)   0.36094 (13)    0.13692 (6)   0.0223 (2)           \n  O3     0.48126 (5)   0.09177 (13)    0.11188 (5)   0.0203 (2)           \n  O4     0.28470 (5)   0.53164 (13)    0.53959 (6)   0.0195 (2)           \n  N1     0.35473 (6)   0.20560 (15)    0.29392 (7)   0.0167 (3)           \n  H1N    0.3533 (9)    0.090 (2)       0.2929 (10)   0.033 (5)\\*          \n  C1     0.51239 (8)   \u22120.1830 (2)     0.07643 (9)   0.0261 (4)           \n  H1A    0.558974      \u22120.151115       0.094154      0.039\\*              \n  H1B    0.495675      \u22120.158824       0.020257      0.039\\*              \n  H1C    0.507565      \u22120.305845       0.085797      0.039\\*              \n  C2     0.47443 (7)   \u22120.08168 (19)   0.12051 (8)   0.0186 (3)           \n  C3     0.43857 (7)   \u22120.14438 (18)   0.16567 (8)   0.0179 (3)           \n  H3     0.433601      \u22120.265332       0.168807      0.021\\*              \n  C4     0.40712 (6)   \u22120.03355 (17)   0.20989 (8)   0.0154 (3)           \n  C5     0.41363 (6)   0.14995 (17)    0.20071 (7)   0.0153 (3)           \n  C6     0.45203 (6)   0.21302 (18)    0.15026 (8)   0.0169 (3)           \n  C7     0.38639 (6)   0.26807 (18)    0.24515 (8)   0.0162 (3)           \n  C8     0.39081 (7)   0.45891 (18)    0.23821 (8)   0.0203 (3)           \n  H8C    0.374124      0.492541        0.183088      0.031\\*              \n  H8B    0.436806      0.495022        0.257827      0.031\\*              \n  H8A    0.364402      0.514294        0.269172      0.031\\*              \n  C9     0.33460 (7)   0.29881 (17)    0.35356 (8)   0.0164 (3)           \n  C10    0.26863 (7)   0.30913 (17)    0.35148 (8)   0.0171 (3)           \n  H10    0.236228      0.263353        0.308090      0.020\\*              \n  C11    0.24977 (7)   0.38655 (17)    0.41296 (8)   0.0173 (3)           \n  H11    0.204561      0.393367        0.411788      0.021\\*              \n  C12    0.29738 (7)   0.45369 (17)    0.47593 (8)   0.0166 (3)           \n  C13    0.36385 (7)   0.44554 (18)    0.47719 (8)   0.0193 (3)           \n  H13    0.396300      0.493437        0.519946      0.023\\*              \n  C14    0.38224 (7)   0.36797 (18)    0.41637 (8)   0.0186 (3)           \n  H14    0.427417      0.361699        0.417316      0.022\\*              \n  C15    0.21698 (7)   0.56107 (18)    0.53868 (8)   0.0193 (3)           \n  H15A   0.192613      0.451001        0.533117      0.023\\*              \n  H15B   0.195276      0.637069        0.494438      0.023\\*              \n  C16    0.21851 (7)   0.64530 (19)    0.61584 (9)   0.0224 (3)           \n  H16A   0.245376      0.749760        0.622067      0.034\\*              \n  H16B   0.237520      0.565599        0.658818      0.034\\*              \n  H16C   0.173613      0.675273        0.616796      0.034\\*              \n  ------ ------------- --------------- ------------- -------------------- --\n\nAtomic displacement parameters (\u00c5^2^) {#d1e1074}\n=====================================\n\n  ----- ------------ ------------ ------------ ------------- ------------- -------------\n        *U*^11^      *U*^22^      *U*^33^      *U*^12^       *U*^13^       *U*^23^\n  O1    0.0187 (5)   0.0183 (5)   0.0179 (5)   \u22120.0034 (4)   0.0075 (4)    0.0023 (4)\n  O2    0.0232 (5)   0.0233 (5)   0.0203 (5)   \u22120.0055 (4)   0.0056 (4)    0.0058 (4)\n  O3    0.0226 (5)   0.0243 (5)   0.0155 (5)   \u22120.0066 (4)   0.0077 (4)    \u22120.0002 (4)\n  O4    0.0167 (5)   0.0222 (5)   0.0200 (5)   0.0015 (4)    0.0058 (4)    \u22120.0013 (4)\n  N1    0.0170 (6)   0.0156 (6)   0.0179 (6)   \u22120.0009 (5)   0.0052 (5)    0.0022 (5)\n  C1    0.0239 (8)   0.0343 (9)   0.0214 (8)   \u22120.0039 (7)   0.0083 (6)    \u22120.0058 (6)\n  C2    0.0168 (7)   0.0232 (7)   0.0133 (7)   \u22120.0027 (6)   \u22120.0003 (6)   \u22120.0006 (6)\n  C3    0.0180 (7)   0.0186 (7)   0.0155 (7)   \u22120.0022 (6)   0.0017 (6)    0.0012 (5)\n  C4    0.0116 (6)   0.0202 (7)   0.0121 (6)   \u22120.0029 (5)   \u22120.0008 (5)   0.0018 (5)\n  C5    0.0125 (6)   0.0188 (7)   0.0122 (6)   \u22120.0023 (5)   \u22120.0008 (5)   0.0024 (5)\n  C6    0.0139 (7)   0.0232 (7)   0.0108 (6)   \u22120.0028 (6)   \u22120.0016 (5)   0.0022 (5)\n  C7    0.0118 (6)   0.0199 (7)   0.0135 (7)   \u22120.0020 (5)   \u22120.0022 (5)   0.0035 (5)\n  C8    0.0221 (7)   0.0183 (7)   0.0197 (7)   \u22120.0007 (6)   0.0040 (6)    0.0036 (5)\n  C9    0.0183 (7)   0.0137 (6)   0.0175 (7)   0.0006 (5)    0.0056 (6)    0.0039 (5)\n  C10   0.0170 (7)   0.0148 (6)   0.0175 (7)   \u22120.0012 (5)   0.0012 (6)    0.0031 (5)\n  C11   0.0146 (7)   0.0164 (7)   0.0209 (7)   0.0020 (5)    0.0045 (6)    0.0038 (5)\n  C12   0.0199 (7)   0.0141 (6)   0.0166 (7)   0.0022 (5)    0.0063 (6)    0.0026 (5)\n  C13   0.0170 (7)   0.0197 (7)   0.0198 (7)   \u22120.0002 (6)   0.0024 (6)    \u22120.0001 (6)\n  C14   0.0137 (7)   0.0213 (7)   0.0210 (7)   0.0010 (6)    0.0048 (6)    0.0030 (6)\n  C15   0.0165 (7)   0.0189 (7)   0.0238 (8)   0.0021 (5)    0.0079 (6)    0.0037 (6)\n  C16   0.0221 (7)   0.0211 (7)   0.0266 (8)   0.0021 (6)    0.0112 (6)    0.0024 (6)\n  ----- ------------ ------------ ------------ ------------- ------------- -------------\n\nGeometric parameters (\u00c5, \u00ba) {#d1e1484}\n===========================\n\n  ------------------- -------------- ----------------------- --------------\n  O1---C4             1.2585 (16)    C8---H8C                0.9800\n  O2---C6             1.2154 (17)    C8---H8B                0.9800\n  O3---C2             1.3698 (17)    C8---H8A                0.9800\n  O3---C6             1.3988 (18)    C9---C10                1.385 (2)\n  O4---C12            1.3680 (16)    C9---C14                1.392 (2)\n  O4---C15            1.4427 (16)    C10---C11               1.392 (2)\n  N1---C7             1.3182 (18)    C10---H10               0.9500\n  N1---C9             1.4358 (18)    C11---C12               1.387 (2)\n  N1---H1N            0.902 (19)     C11---H11               0.9500\n  C1---C2             1.486 (2)      C12---C13               1.398 (2)\n  C1---H1A            0.9800         C13---C14               1.378 (2)\n  C1---H1B            0.9800         C13---H13               0.9500\n  C1---H1C            0.9800         C14---H14               0.9500\n  C2---C3             1.332 (2)      C15---C16               1.508 (2)\n  C3---C4             1.440 (2)      C15---H15A              0.9900\n  C3---H3             0.9500         C15---H15B              0.9900\n  C4---C5             1.4474 (19)    C16---H16A              0.9800\n  C5---C7             1.427 (2)      C16---H16B              0.9800\n  C5---C6             1.4431 (19)    C16---H16C              0.9800\n  C7---C8             1.4946 (19)                            \n                                                             \n  C2---O3---C6        122.46 (11)    H8C---C8---H8A          109.5\n  C12---O4---C15      118.24 (11)    H8B---C8---H8A          109.5\n  C7---N1---C9        126.68 (12)    C10---C9---C14          120.28 (13)\n  C7---N1---H1N       112.0 (11)     C10---C9---N1           120.22 (12)\n  C9---N1---H1N       120.3 (11)     C14---C9---N1           119.34 (12)\n  C2---C1---H1A       109.5          C9---C10---C11          120.03 (13)\n  C2---C1---H1B       109.5          C9---C10---H10          120.0\n  H1A---C1---H1B      109.5          C11---C10---H10         120.0\n  C2---C1---H1C       109.5          C12---C11---C10         119.60 (13)\n  H1A---C1---H1C      109.5          C12---C11---H11         120.2\n  H1B---C1---H1C      109.5          C10---C11---H11         120.2\n  C3---C2---O3        121.42 (13)    O4---C12---C11          124.71 (13)\n  C3---C2---C1        126.45 (14)    O4---C12---C13          115.09 (12)\n  O3---C2---C1        112.10 (12)    C11---C12---C13         120.19 (13)\n  C2---C3---C4        121.71 (13)    C14---C13---C12         119.94 (13)\n  C2---C3---H3        119.1          C14---C13---H13         120.0\n  C4---C3---H3        119.1          C12---C13---H13         120.0\n  O1---C4---C3        119.56 (12)    C13---C14---C9          119.95 (13)\n  O1---C4---C5        123.19 (13)    C13---C14---H14         120.0\n  C3---C4---C5        117.25 (12)    C9---C14---H14          120.0\n  C7---C5---C6        119.89 (12)    O4---C15---C16          106.17 (11)\n  C7---C5---C4        120.58 (12)    O4---C15---H15A         110.5\n  C6---C5---C4        119.38 (13)    C16---C15---H15A        110.5\n  O2---C6---O3        113.66 (12)    O4---C15---H15B         110.5\n  O2---C6---C5        128.60 (14)    C16---C15---H15B        110.5\n  O3---C6---C5        117.73 (12)    H15A---C15---H15B       108.7\n  N1---C7---C5        118.27 (13)    C15---C16---H16A        109.5\n  N1---C7---C8        118.28 (13)    C15---C16---H16B        109.5\n  C5---C7---C8        123.44 (12)    H16A---C16---H16B       109.5\n  C7---C8---H8C       109.5          C15---C16---H16C        109.5\n  C7---C8---H8B       109.5          H16A---C16---H16C       109.5\n  H8C---C8---H8B      109.5          H16B---C16---H16C       109.5\n  C7---C8---H8A       109.5                                  \n                                                             \n  C6---O3---C2---C3   0.80 (19)      C4---C5---C7---N1       \u22120.68 (18)\n  C6---O3---C2---C1   \u2212177.59 (11)   C6---C5---C7---C8       4.91 (19)\n  O3---C2---C3---C4   \u22122.3 (2)       C4---C5---C7---C8       \u2212179.52 (12)\n  C1---C2---C3---C4   175.89 (13)    C7---N1---C9---C10      119.67 (15)\n  C2---C3---C4---O1   \u2212177.10 (12)   C7---N1---C9---C14      \u221264.93 (18)\n  C2---C3---C4---C5   2.62 (19)      C14---C9---C10---C11    \u22121.0 (2)\n  O1---C4---C5---C7   2.5 (2)        N1---C9---C10---C11     174.36 (12)\n  C3---C4---C5---C7   \u2212177.19 (12)   C9---C10---C11---C12    0.3 (2)\n  O1---C4---C5---C6   178.11 (12)    C15---O4---C12---C11    \u22125.99 (19)\n  C3---C4---C5---C6   \u22121.60 (18)     C15---O4---C12---C13    173.59 (12)\n  C2---O3---C6---O2   178.87 (11)    C10---C11---C12---O4    \u2212179.66 (12)\n  C2---O3---C6---C5   0.19 (18)      C10---C11---C12---C13   0.8 (2)\n  C7---C5---C6---O2   \u22122.5 (2)       O4---C12---C13---C14    179.28 (12)\n  C4---C5---C6---O2   \u2212178.17 (13)   C11---C12---C13---C14   \u22121.1 (2)\n  C7---C5---C6---O3   175.91 (11)    C12---C13---C14---C9    0.4 (2)\n  C4---C5---C6---O3   0.28 (18)      C10---C9---C14---C13    0.7 (2)\n  C9---N1---C7---C5   167.68 (12)    N1---C9---C14---C13     \u2212174.74 (12)\n  C9---N1---C7---C8   \u221213.4 (2)      C12---O4---C15---C16    179.27 (11)\n  C6---C5---C7---N1   \u2212176.26 (12)                           \n  ------------------- -------------- ----------------------- --------------\n\nHydrogen-bond geometry (\u00c5, \u00ba) {#d1e2193}\n=============================\n\nCg1 is the centroid of the C9--C14 benzene ring.",
+            "act": 0.12954634428024292
+        },
+        {
+            "text": "[](pone.0168594.t002){#pone.0168594.t002g}\n\n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Feedback semi-structured group interviews                                                                                                                                                                                             Adaptations intervention\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Stronger emphasis should be put on the focus of the lesson (i.e.",
+            "act": 0.12636826932430267
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.12289076298475266
+        },
+        {
+            "text": "and D.L.",
+            "act": 0.1227300688624382
+        },
+        {
+            "text": "and D.L.",
+            "act": 0.1227300688624382
+        },
+        {
+            "text": "\"That's all the stuff you've got?\"",
+            "act": 0.12150775641202927
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.1211443617939949
+        },
+        {
+            "text": "and K.N.",
+            "act": 0.11540988832712173
+        },
+        {
+            "text": "and K.G.",
+            "act": 0.11482565850019455
+        },
+        {
+            "text": "\"We've got to get out of here now.\"",
+            "act": 0.11261112242937088
+        },
+        {
+            "text": "and M.K.",
+            "act": 0.10982555150985718
+        },
+        {
+            "text": "\"Come\non, we're getting ready to open gifts.\"",
+            "act": 0.10857681185007095
+        },
+        {
+            "text": "and K.G.",
+            "act": 0.10552423447370529
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.10344142466783524
+        },
+        {
+            "text": "and K.G.",
+            "act": 0.10263510793447495
+        },
+        {
+            "text": "The input data requirements of the flexible response mechanism correspond to the properties of consciousness\n-----------------------------------------------------------------------------------------------------------------\n\nThe flexible response mechanism requires a restricted data input, and consciousness, which is closely associated with operations of the FRM, is a limited information flow.",
+            "act": 0.10177785903215408
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.10149466246366501
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.10149466246366501
+        },
+        {
+            "text": "N.-T. Yu and X.-Y.",
+            "act": 0.10080422461032867
+        },
+        {
+            "text": "\"I don't think talking to Barb's gonna be such a good idea.\"",
+            "act": 0.09962083399295807
+        },
+        {
+            "text": "\"You're gonna be leaving us then?\"",
+            "act": 0.09916093200445175
+        },
+        {
+            "text": "\"Do as I'm doing.\"",
+            "act": 0.09595222026109695
+        },
+        {
+            "text": "------------------------------------------------------------------------------------\n  Distribution of cell cycle   Control   Ang II\\   Ang II (1\u2009*\u03bc*M)            \n                                         1\u2009*\u03bc*M                               \n  ---------------------------- --------- --------- ----------------- -------- --------\n  G~0~/G~1~                    70.56%    68.09%    67.53%            69.79%   72.97%\n\n  G~2~/M                       3.15%     1.87%     2.83%             2.68%    2.79%\n\n  S                            25.63%    30.22%    29.82%            24.72%   24.27%\n  ------------------------------------------------------------------------------------\n\n[^1]: Academic Editor: Honglin Luo",
+            "act": 0.09413175284862518
+        },
+        {
+            "text": "and T.D.",
+            "act": 0.09324677288532257
+        },
+        {
+            "text": "and T.D.",
+            "act": 0.09324677288532257
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.09312524646520615
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.09312524646520615
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.09197432547807693
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.09197432547807693
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.09197432547807693
+        },
+        {
+            "text": "and C.K.",
+            "act": 0.09197432547807693
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

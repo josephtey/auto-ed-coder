@@ -1,0 +1,412 @@
+{
+    "index": 335,
+    "label": "Informative and structured text",
+    "attributes": "specific and structured information, references to places, proper nouns, technical terminology, formal expressions, specific instructions, detailed descriptions",
+    "reasoning": "The samples in '<positive-samples>' contain specific and structured information, including references to places, proper nouns, technical terminology, formal expressions, specific instructions, or detailed descriptions. These samples often include specialized content like geographical locations, scientific data, and formal communication. They can include sentences of appreciation, inquiries asking for help, and exclamatory phrases, among others. In contrast, the samples in '<negative-samples>' are more conversational, informal, and opinion-driven, often discussing subjective matters, conjectures, rhetorical questions, or casual commentary.",
+    "density": 0.00027047418395091606,
+    "confidence": 23.0,
+    "high_act_samples": [
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.19975034892559052
+        },
+        {
+            "text": "Appreciate it, guys!",
+            "act": 0.09575934708118439
+        },
+        {
+            "text": "Any help?",
+            "act": 0.0845579281449318
+        },
+        {
+            "text": "boy you sure are brave.",
+            "act": 0.06884287297725677
+        },
+        {
+            "text": "However, I probably wouldnt venture much bigger than that .",
+            "act": 0.06187624856829643
+        },
+        {
+            "text": "It is a left tributary of the Lutter.",
+            "act": 0.059956129640340805
+        },
+        {
+            "text": "In \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.059107016772031784
+        },
+        {
+            "text": "\"Heavens!",
+            "act": 0.0549001470208168
+        },
+        {
+            "text": "\"NO, THANK YOU, I'M FINE.\"",
+            "act": 0.05330921337008476
+        },
+        {
+            "text": "It is the basis of all concentrations.",
+            "act": 0.04762610048055649
+        },
+        {
+            "text": "Click on...",
+            "act": 0.04608919844031334
+        },
+        {
+            "text": "They were degraded with cerous hydroxide to cobinamide and the corresponding nucleoside.",
+            "act": 0.044007930904626846
+        },
+        {
+            "text": "Shahuanga Punta\n\nShahuanga Punta (possibly from Quechua Shawanka Punta) is a  mountain in the Cordillera Blanca in the Andes of Peru.",
+            "act": 0.041628073900938034
+        },
+        {
+            "text": "\"Well I can't thank you enough for saving my life mister...?\"",
+            "act": 0.04091614857316017
+        },
+        {
+            "text": "Copy this to your primary email or anywhere else safe and secure because you can\u2019t lose it anyway.",
+            "act": 0.039141204208135605
+        },
+        {
+            "text": "is 21 times more potent than carbon dioxide.",
+            "act": 0.03776196762919426
+        },
+        {
+            "text": "Gemcitabine is an analogue of pyrimidine cytosine and functions as an anti-metabolite.",
+            "act": 0.03757287934422493
+        },
+        {
+            "text": "When M is a\nmetal component, it may be any suitable elemental metal.",
+            "act": 0.03335236757993698
+        },
+        {
+            "text": "Wouldn\u00e2\u20ac\u2122t \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.030890781432390213
+        },
+        {
+            "text": "She began modeling.",
+            "act": 0.02878178283572197
+        },
+        {
+            "text": "Sports drinks are great but if you cannot always afford it there\u2019s no substitute for water.",
+            "act": 0.027415063232183456
+        },
+        {
+            "text": "Give l(3).",
+            "act": 0.026496294885873795
+        },
+        {
+            "text": "The posterior branch innervates the anterior and superior auricular and tragus muscles.",
+            "act": 0.02622295543551445
+        },
+        {
+            "text": "Marta Carneiro et al.",
+            "act": 0.024986010044813156
+        },
+        {
+            "text": "The teen replies: \u2018Yeah maybe where you tonight\u2019.",
+            "act": 0.02342008799314499
+        },
+        {
+            "text": "\u201cMy name\u2019s Buddy.",
+            "act": 0.022559793666005135
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.022089369595050812
+        },
+        {
+            "text": "\u201cExcuse me?",
+            "act": 0.02045542374253273
+        },
+        {
+            "text": "Deadpool\u2026 uses it to scratch his back.",
+            "act": 0.02044750563800335
+        },
+        {
+            "text": "Give t(q(a)).",
+            "act": 0.020207900553941727
+        },
+        {
+            "text": "Hydrogen is separated from the synthesis gas to produce a hydrogen product stream that is introduced into the pipeline system for distribution to customers that are connected to the pipeline system.",
+            "act": 0.0200633741915226
+        },
+        {
+            "text": "Let q be i(4).",
+            "act": 0.018602732568979263
+        },
+        {
+            "text": "You ready?",
+            "act": 0.018544603139162064
+        },
+        {
+            "text": "It allows users to have free services for their entire lives.",
+            "act": 0.018388990312814713
+        },
+        {
+            "text": "Thanks for reading!",
+            "act": 0.01785632036626339
+        },
+        {
+            "text": "render == id for pie Charts\" $\n      [testPieChartSpace] @==?",
+            "act": 0.017043136060237885
+        },
+        {
+            "text": "Above the arch, it continues in the subgaleal space with the superficial temporal fascia deeply.",
+            "act": 0.01698693260550499
+        },
+        {
+            "text": "It is one of the most common cancers worldwide and accounts for substantial morbidity and mortality.",
+            "act": 0.016508225351572037
+        },
+        {
+            "text": "\"Oh.",
+            "act": 0.01581031084060669
+        },
+        {
+            "text": "\"What the hell do you want?\"",
+            "act": 0.015576164238154888
+        },
+        {
+            "text": "\u201c\u2026 Looking forward to doing it again.\u201d Yeah you are.",
+            "act": 0.012780777178704739
+        },
+        {
+            "text": "Turco made the save, but the rebound went right to Michalek, who scored his team-leading 16th goal at 6:11.",
+            "act": 0.011000561527907848
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.009810267947614193
+        },
+        {
+            "text": "The metal is\ngenerally a transition metal, and is preferably tellurium or selenium.",
+            "act": 0.009577850811183453
+        },
+        {
+            "text": "& S. Ry.",
+            "act": 0.008246111683547497
+        },
+        {
+            "text": "just google it.",
+            "act": 0.00734670739620924
+        },
+        {
+            "text": "The only reason I can think about would be when you need to login with different credentials for both actions.",
+            "act": 0.006482607685029507
+        },
+        {
+            "text": "One can ask for a similar theorem for .",
+            "act": 0.00602963101118803
+        },
+        {
+            "text": "Through the WHO, tools are available to assist with health inequality analysis and reporting.",
+            "act": 0.005892579443752766
+        },
+        {
+            "text": "Similar deposits are also induced by treatment with oxalic and citric acids, but not by the potassium salts of these acids buffered at pH 7.2.",
+            "act": 0.005757945589721203
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

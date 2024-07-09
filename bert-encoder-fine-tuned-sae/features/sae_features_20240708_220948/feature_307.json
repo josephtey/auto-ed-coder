@@ -1,0 +1,412 @@
+{
+    "index": 307,
+    "label": "Informative and factual content",
+    "attributes": "Informative tone, specific place names, factual data, descriptions, scientific principles, absence of conversational language",
+    "reasoning": "The samples exhibit a distinct pattern indicating informative content. They contain specific place names, factual data, descriptions, or scientific theories and principles, without displaying conversational or informal interactions. This contrasts with the other samples, which include random discussions, personal opinions, informal tones, and conversational language.",
+    "density": 0.001964496704485601,
+    "confidence": 24.0,
+    "high_act_samples": [
+        {
+            "text": "New Gairlock, Nova Scotia\n\nNew Gairlock, also New Gairloch , is a community in the Canadian province of Nova Scotia, located  in Pictou County.",
+            "act": 0.15133047103881836
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.13683688640594482
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.13079047203063965
+        },
+        {
+            "text": "The addition of a flavor might be enough to sway you.",
+            "act": 0.13065439462661743
+        },
+        {
+            "text": "There might be something there that\u2019s right for you.",
+            "act": 0.12772762775421143
+        },
+        {
+            "text": "That helps ease the pain.",
+            "act": 0.12136715650558472
+        },
+        {
+            "text": "One woman shouted: \u201cYou\u2019re not alone Guaid\u00f3!",
+            "act": 0.11002252250909805
+        },
+        {
+            "text": "With each birth there is the pain of the delivery.",
+            "act": 0.10865426808595657
+        },
+        {
+            "text": "One theory states that planets form from a single, monolithic collapse that creates the entire planet\u2019s mass at one time.",
+            "act": 0.10604047775268555
+        },
+        {
+            "text": "Ecuador's surfing is focused around the northern reaches of the country and the famous surf town of Atacames.",
+            "act": 0.10437443852424622
+        },
+        {
+            "text": "It may be time to make a change.",
+            "act": 0.10325900465250015
+        },
+        {
+            "text": "The LEGUANO can help.",
+            "act": 0.0944286361336708
+        },
+        {
+            "text": "\"She's great!",
+            "act": 0.09290464967489243
+        },
+        {
+            "text": "It was fashionable to spend weekends \u201cin the country\u201d for recreation.",
+            "act": 0.08853715658187866
+        },
+        {
+            "text": "Says it\u2019s been \u201cdownward spiral\u201d since.",
+            "act": 0.08701184391975403
+        },
+        {
+            "text": "Turbulence is very high due to its proximity to the Atlantic Ocean.",
+            "act": 0.08608122915029526
+        },
+        {
+            "text": "This provides significant benefits.",
+            "act": 0.0854361280798912
+        },
+        {
+            "text": "The city of San Pedro Sula is an hour away.",
+            "act": 0.08386864513158798
+        },
+        {
+            "text": "\"Take it easy.",
+            "act": 0.08030863106250763
+        },
+        {
+            "text": "Vaughan is Canada's 17th largest municipality, and the 8th largest in Ontario with more than 320,000 residents.",
+            "act": 0.0798228457570076
+        },
+        {
+            "text": "\"If there's any change.",
+            "act": 0.0793849527835846
+        },
+        {
+            "text": "Motion alone can generate transparency.",
+            "act": 0.07898101955652237
+        },
+        {
+            "text": "An evening that can leave you in a state of melancholy and urge to live well.",
+            "act": 0.07693234831094742
+        },
+        {
+            "text": "A model proposed by @King05 suggests that the late-time activity could be attributed to the fragmentation and accretion of a collapsed stellar core resulting in a sporadic release of energy rather than the classic view of a single cataclysmic event.",
+            "act": 0.0762946829199791
+        },
+        {
+            "text": "Varsity Tutors Monthly Scholarship Description\n\nAmount: $1,000\n\nEligibility: Varsity Tutors offers a monthly scholarship contest to students who write the best essay in response to a monthly prompt.",
+            "act": 0.07606174796819687
+        },
+        {
+            "text": "The\ngeneral plan is to continue south towards the End of the World.",
+            "act": 0.07594066858291626
+        },
+        {
+            "text": "Response was inferior when preload or contractility was decreased.",
+            "act": 0.07210253179073334
+        },
+        {
+            "text": "This is due to a phenomenon called as senescence.",
+            "act": 0.06958469748497009
+        },
+        {
+            "text": "Flexibility will be crucial.",
+            "act": 0.06939434260129929
+        },
+        {
+            "text": "Might be home tomorrow, might have to stay overnight.",
+            "act": 0.06778232008218765
+        },
+        {
+            "text": "Clearwater Lake (Manitoba)\n\nClearwater Lake is a lake in Manitoba, Canada.",
+            "act": 0.06777972728013992
+        },
+        {
+            "text": "Reach Barrows at mbarrows@sacbee.com.",
+            "act": 0.06774591654539108
+        },
+        {
+            "text": "And you can feel it.",
+            "act": 0.06763114780187607
+        },
+        {
+            "text": "\"Usako, it's okay baby.",
+            "act": 0.06661882251501083
+        },
+        {
+            "text": "Conclusion?",
+            "act": 0.06603974103927612
+        },
+        {
+            "text": "Consciousness is associated with actions of the FRM.",
+            "act": 0.06553725153207779
+        },
+        {
+            "text": "it's not like you to just pass out.\"",
+            "act": 0.06533148884773254
+        },
+        {
+            "text": "SCLC is a centrally located mass of the lungs.",
+            "act": 0.06524347513914108
+        },
+        {
+            "text": "What ensues is \u201cRosemary\u2019s Baby amped up into a fugue state of self-indulgent solipsism,\u201d EW\u2019s Chris Nashawaty writes.",
+            "act": 0.064726822078228
+        },
+        {
+            "text": "Can there truly be love after death?",
+            "act": 0.06358449161052704
+        },
+        {
+            "text": "\"Don't tease!",
+            "act": 0.06332842260599136
+        },
+        {
+            "text": "The catalyst of pain, for example, is that which grabs your attention and points towards an area which contains the opportunity for uncovering a portion of the self which waits to be born.",
+            "act": 0.06267054378986359
+        },
+        {
+            "text": "\u201cAnything can definitely happen.",
+            "act": 0.0626576766371727
+        },
+        {
+            "text": "The effect of a lesion near one uterotubal junction on contractions originating contralaterally near the cervix results from communication between uterine horns at the cervical junction; arrival of a caudally propagating contraction in one horn frequently generates a cranially propagating contraction in the other.",
+            "act": 0.06220794469118118
+        },
+        {
+            "text": "\u201cCome on!",
+            "act": 0.0608706995844841
+        },
+        {
+            "text": "Fitting in?",
+            "act": 0.060523755848407745
+        },
+        {
+            "text": "Any solutions?",
+            "act": 0.06043543666601181
+        },
+        {
+            "text": "Bring me more of this!",
+            "act": 0.06007198244333267
+        },
+        {
+            "text": "Consciousness could be biologically valuable in a non-executive role associated with the generation of behavior.",
+            "act": 0.05947227030992508
+        },
+        {
+            "text": "It has been speculated that activity in the upper alpha band predicts performance in memory and cognition.",
+            "act": 0.0592736154794693
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

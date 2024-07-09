@@ -1,0 +1,412 @@
+{
+    "index": 311,
+    "label": "Context-rich factual and dialog content",
+    "attributes": "mentions specific geographic locations, includes formal titles or names, contains dialogues often in quotations, provides statistics or measurements, describes specific events or entities in detail, discusses identifiable people or characters, references literature or formal texts, uses questions within context-driven scenarios",
+    "reasoning": "Upon analyzing the samples, it appears that the samples contain a wide array of sentences that are contextually rich, often containing specific factual information, quotations, or specific scenarios. In contrast, the samples are more conversational, often opinionated, and relate to ongoing discussions or general commentary without detailed factual context.",
+    "density": 0.0002562387005850784,
+    "confidence": 3.0,
+    "high_act_samples": [
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.2785448729991913
+        },
+        {
+            "text": "Pinoy, Tapat Ka Ba?",
+            "act": 0.10743655264377594
+        },
+        {
+            "text": "\"I don't get it.\"",
+            "act": 0.09785260260105133
+        },
+        {
+            "text": "scents?",
+            "act": 0.0951293483376503
+        },
+        {
+            "text": "\" I don't know.\"",
+            "act": 0.08460579812526703
+        },
+        {
+            "text": "\"Rosa gets married and you act you don't know her.\"",
+            "act": 0.06838434934616089
+        },
+        {
+            "text": "Trunk held Cal firm and looked to her.",
+            "act": 0.06599777936935425
+        },
+        {
+            "text": "\"What's going to stop us?\"",
+            "act": 0.064210906624794
+        },
+        {
+            "text": "\" What's up with her?\"",
+            "act": 0.06005225330591202
+        },
+        {
+            "text": "in nonfiction writing and literature from Bennington College.",
+            "act": 0.05625149980187416
+        },
+        {
+            "text": "\"Lee?\"",
+            "act": 0.04973989725112915
+        },
+        {
+            "text": "Ang hindi boboto sa kanya, manigas ka sa gutom!",
+            "act": 0.0447014644742012
+        },
+        {
+            "text": "\"The mayor's back.\"",
+            "act": 0.04193272441625595
+        },
+        {
+            "text": "1,353 people (34.9% of the population) lived in owner-occupied housing units and 2,418 people (62.3%) lived in rental housing units.",
+            "act": 0.04192875325679779
+        },
+        {
+            "text": "\" I don't know.\"",
+            "act": 0.041850894689559937
+        },
+        {
+            "text": "Liga in 2008 as the new third tier, below the 2.",
+            "act": 0.03972116857767105
+        },
+        {
+            "text": "\" The mayor isn't here, he's always out.\"",
+            "act": 0.03959571570158005
+        },
+        {
+            "text": "Summer visitors should watch for roseate spoonbills, magnificent frigatebirds and least terns.",
+            "act": 0.03382990509271622
+        },
+        {
+            "text": "\" SIR, EVEN IF IT WERE\" \" IT'S HIM.\"",
+            "act": 0.029998652637004852
+        },
+        {
+            "text": "in weight and up to 6\u20195\u201d height.",
+            "act": 0.028382234275341034
+        },
+        {
+            "text": "\"What's the plant?\"",
+            "act": 0.02759912610054016
+        },
+        {
+            "text": "Fugu chiri\n\nFugu chiri is a pufferfish soup.",
+            "act": 0.026807479560375214
+        },
+        {
+            "text": "\"The Mayor is with us now, at least you have to trust him.\"",
+            "act": 0.02582450956106186
+        },
+        {
+            "text": "\"Don't you agree, Admiral?\"",
+            "act": 0.022992387413978577
+        },
+        {
+            "text": "\"Lee?\"",
+            "act": 0.022029947489500046
+        },
+        {
+            "text": "\"Lee!\"",
+            "act": 0.021795406937599182
+        },
+        {
+            "text": "Club career\nLee joined Incheon Hyundai Steel Red Angels before the start of the 2018 season.",
+            "act": 0.02126357890665531
+        },
+        {
+            "text": "\" Throw it high.\"",
+            "act": 0.02063266932964325
+        },
+        {
+            "text": "External links\nPowdermill Water Level (Southern Water).",
+            "act": 0.020314984023571014
+        },
+        {
+            "text": "Omaha had a chance to take control of the match early, but Nebraska won five of the final six points of the set to come from behind and sneak out the set.",
+            "act": 0.01757894828915596
+        },
+        {
+            "text": "\" Elijah?\"",
+            "act": 0.017259515821933746
+        },
+        {
+            "text": "Shahuanga Punta\n\nShahuanga Punta (possibly from Quechua Shawanka Punta) is a  mountain in the Cordillera Blanca in the Andes of Peru.",
+            "act": 0.015916183590888977
+        },
+        {
+            "text": "\"Where's the baby?\"",
+            "act": 0.014438600279390812
+        },
+        {
+            "text": "M. E. Fisher, in Lectures in Theoretical Physics, edited by W. E. Brittin (University of Colorado Press, Boulder, CO, 1965), Vol.",
+            "act": 0.014403552748262882
+        },
+        {
+            "text": "\"The mayor left this morning.\"",
+            "act": 0.013204731978476048
+        },
+        {
+            "text": "\" Poor, poor Gwendoline.\"",
+            "act": 0.012651012279093266
+        },
+        {
+            "text": "The waiter sits in a corner crying for a while, but then comes to our\ntable and tells a long story.",
+            "act": 0.011931424960494041
+        },
+        {
+            "text": "It is cold outside, but the soup is warm.",
+            "act": 0.011925836093723774
+        },
+        {
+            "text": "from George Washington University.",
+            "act": 0.011513703502714634
+        },
+        {
+            "text": "\"If she's fine then ?\"",
+            "act": 0.010462303645908833
+        },
+        {
+            "text": "\"What's in there?\"",
+            "act": 0.009889223612844944
+        },
+        {
+            "text": "Acad.",
+            "act": 0.008819651789963245
+        },
+        {
+            "text": "\"Rosa!\"",
+            "act": 0.007256620563566685
+        },
+        {
+            "text": "food\n\nservice\n\nbreakfast\n\nstaff\n\nprice\n\nportions\n\natmosphere\n\ntable\n\nmeal\n\ncoffee\n\nmenu\n\nomelette\n\nparking spaces\n\nwaitress\n\nexperience\n\ndishes\n\neggs\n\npotatoes\n\nlunch\n\nhollandaise sauce\n\nRelevant Reviews\n\nEarned when a user has written 5 or more reviews\n\nWant to earn this badge?",
+            "act": 0.006757290102541447
+        },
+        {
+            "text": "That\u2019s one \u201ccool\u201d cat!",
+            "act": 0.005874695256352425
+        },
+        {
+            "text": "During his early career he played mostly in the Portuguese second division, and represented C.D.",
+            "act": 0.005734319798648357
+        },
+        {
+            "text": "\"Commander?\"",
+            "act": 0.005042008124291897
+        },
+        {
+            "text": "\"What's wrong with Cutty?\"",
+            "act": 0.0038328643422573805
+        },
+        {
+            "text": "I can't recall the time.\"",
+            "act": 0.0033956326078623533
+        },
+        {
+            "text": "\"Spike?\"",
+            "act": 0.0028887621592730284
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

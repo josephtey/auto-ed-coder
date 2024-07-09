@@ -1,0 +1,412 @@
+{
+    "index": 185,
+    "label": "Diverse structured content",
+    "attributes": "long, multi-thematic, structured format, informational, instructional",
+    "reasoning": "The texts within the samples all contain lengthy content that appears to be listed information, instructions, or detailed descriptions across a variety of topics. The texts frequently shift between diverse subjects without a common central theme, including religious verses, medical prescriptions, movie cast listings, cooking instructions, and more. This multi-thematic and structured textual format is not observed in the samples, which consist of conversational dialogue, commentary, and responses typically seen in forums or social media.",
+    "density": 0.0024769741056557574,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.2416253685951233
+        },
+        {
+            "text": "Take following medicines\nnat suph 30 4pills to be sucked thrice a day for 15 days\nkali bich 200 4pills to be sucked thrice a day for 15 days\ntake plain water steam once a day\navoid eating curd, icecreams, pickles, papad, citrus fruits, watermelon, green skin bananas, pineapple, strawberries, custard apple, guavas.",
+            "act": 0.15628233551979065
+        },
+        {
+            "text": "Story continues below advertisement",
+            "act": 0.154039666056633
+        },
+        {
+            "text": "Regardless of after divorce reconciling motive be, be sure that to be simple in the whole dealings.",
+            "act": 0.14734530448913574
+        },
+        {
+            "text": "Obiekty Zend_Mime_Part\n        mog\u0105 by\u0107 wtedy zmienione poniewa\u017c s\u0105 one przechowywane w tablicy jako referencje.",
+            "act": 0.14633405208587646
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.14586186408996582
+        },
+        {
+            "text": "Unless a contrary intention appears by the will, the property comprised in a devise or bequest in a will that fails or is void or is otherwise incapable of taking effect, shall be deemed included in the residuary devise or bequest, if any, contained in the will.",
+            "act": 0.14035682380199432
+        },
+        {
+            "text": "This is delicious eaten alone or with other dishes.",
+            "act": 0.13720111548900604
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.13433188199996948
+        },
+        {
+            "text": "And there are three kinds in this dish - straw, white and shiitake.",
+            "act": 0.13305774331092834
+        },
+        {
+            "text": "Before we analyse the case, however, to make some distinction.",
+            "act": 0.12869855761528015
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.12766510248184204
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.12766510248184204
+        },
+        {
+            "text": "Think pintxos, stuffed squid, roasted olives and jamon Ib\u00e9rico.",
+            "act": 0.12606224417686462
+        },
+        {
+            "text": "It is usually eaten together with sticky rice (khao niao).",
+            "act": 0.12401723861694336
+        },
+        {
+            "text": "But this part iwayuru zazen wa shuzen ni arazu is very clear in reference to tazuneru ni sore do moto enzu.",
+            "act": 0.1214955598115921
+        },
+        {
+            "text": "Cast\nChang Yi\nHon Seung Kam\nSammo Hung\nShih Chun\nWong Chung Shun\nMiu Tin\nYee Yuen\nWang Lai\nLui Jun\nLee Ka Ting\n\nExternal links\n \n The Fast Sword at HKcinemamagic.com\n\nCategory:1971 films\nCategory:Hong Kong films\nCategory:1970s action films\nCategory:Mandarin-language films",
+            "act": 0.12124060094356537
+        },
+        {
+            "text": "But nurse has seen her.",
+            "act": 0.1211746335029602
+        },
+        {
+            "text": "Kodowanie i obs\u0142uga\n      p\u00f3l rozgraniczaj\u0105cych s\u0105 obs\u0142ugiwane przez sam\u0105 klas\u0119.",
+            "act": 0.12006087601184845
+        },
+        {
+            "text": "After that, I do wudoo\u2019 for prayer.",
+            "act": 0.11728818714618683
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.11492004990577698
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.11492004990577698
+        },
+        {
+            "text": "Muak Huak is mixed up with lemongrass, chilies, dill, seasonings, sweet basil and herbs in a bowl.",
+            "act": 0.11285008490085602
+        },
+        {
+            "text": "Zazwyczaj jednak nie jest to potrzebne.",
+            "act": 0.11273834109306335
+        },
+        {
+            "text": "Go Jeremy Go!",
+            "act": 0.1118597537279129
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.11133229732513428
+        },
+        {
+            "text": "In particular, we know the following.",
+            "act": 0.1111125648021698
+        },
+        {
+            "text": "Sym_type: module\nSym_name: top\nSym_lineno: 0\nSym_nested: False\nSym_haschildren: False\n-- Identifiers --\nname: d\n  is_referenced: True\n  is_imported: False\n  is_parameter: False\n  is_global: False\n  is_declared_global: False\n  is_local: True\n  is_free: False\n  is_assigned: True\n  is_namespace: False\n  namespaces: [\n  ]\nname: dict\n  is_referenced: True\n  is_imported: False\n  is_parameter: False\n  is_global: True\n  is_declared_global: False\n  is_local: False\n  is_free: False\n  is_assigned: False\n  is_namespace: False\n  namespaces: [\n  ]\nname: l\n  is_referenced: True\n  is_imported: False\n  is_parameter: False\n  is_global: False\n  is_declared_global: False\n  is_local: True\n  is_free: False\n  is_assigned: True\n  is_namespace: False\n  namespaces: [\n  ]\nname: l2\n  is_referenced: True\n  is_imported: False\n  is_parameter: False\n  is_global: False\n  is_declared_global: False\n  is_local: True\n  is_free: False\n  is_assigned: True\n  is_namespace: False\n  namespaces: [\n  ]\nname: l3\n  is_referenced: True\n  is_imported: False\n  is_parameter: False\n  is_global: False\n  is_declared_global: False\n  is_local: True\n  is_free: False\n  is_assigned: True\n  is_namespace: False\n  namespaces: [\n  ]\nname: list\n  is_referenced: True\n  is_imported: False\n  is_parameter: False\n  is_global: True\n  is_declared_global: False\n  is_local: False\n  is_free: False\n  is_assigned: False\n  is_namespace: False\n  namespaces: [\n  ]",
+            "act": 0.11073267459869385
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.10861227661371231
+        },
+        {
+            "text": "The Stock Exchange, Mumbai is not in any manner answerable, responsible or liable to any person or persons for any acts of omission or commission, errors, mistakes and/or violation, actual or perceived, by us or our partners, agents, associates etc., of any of the Rules, Regulations, Bye-laws of the Stock Exchange, Mumbai, SEBI Act or any other laws in force from time to time.",
+            "act": 0.103273406624794
+        },
+        {
+            "text": "Serve with onion and lime.",
+            "act": 0.10147058218717575
+        },
+        {
+            "text": "Besides maize and rice, he plants a wider variety of foods \u2013 beans, taro root, cassava, papaya \u2013 for better nutrition.",
+            "act": 0.10019657015800476
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.09841973334550858
+        },
+        {
+            "text": "(eksperymentalne)</title>\n\n        <para>Wiadomo\u015b\u0107 zgodna z MIME zapisana w postaci \u0142a\u0144cucha znak\u00f3w mo\u017ce\n        by\u0107 u\u017cyta do zrekonstruowania obiektu <code>Zend_Mime_Message</code>.",
+            "act": 0.09504056721925735
+        },
+        {
+            "text": "But then s fish soup (to the right on the\npicture) and rice with camberetti (large shrimps).",
+            "act": 0.09401756525039673
+        },
+        {
+            "text": "\"Heavens!",
+            "act": 0.09385743737220764
+        },
+        {
+            "text": "To help conceal any darkness under my eyes, I use Urban Decay Naked Skin Colour Correcting Fluid in Peach.",
+            "act": 0.09384580701589584
+        },
+        {
+            "text": "In a pitcher, muddle the mint leaves in the juice of the lemons and limes.",
+            "act": 0.09189042448997498
+        },
+        {
+            "text": "Fold towels.",
+            "act": 0.090776726603508
+        },
+        {
+            "text": "We will never see his likes again.\"",
+            "act": 0.08989918231964111
+        },
+        {
+            "text": "\u6700\u8fd1\uff0c\u5f53\u6211\u770b\u5230\u8fd9\u4e2a\u65f6\u662f\u5728\u88d5\u5eca\u574a\u8d70\u8d70\u6d88\u78e8\u70b9\u65f6\u95f4\u3002\u5b83\u8bf4\u201c\u6211\u662f\u4e00\u4e2a\u806a\u660e\u7684\u5783\u573e\u6876\u201d\u3002 \u6709\u4e00\u4e2a\u8bcd\u201c\u5927\u809a\u5b50\u201d\u3002 \u66f4\u591a\u63cf\u8ff0\uff1a\u7d27\u51d1\u591a\u8fbe7\u500d\u7684\u5783\u573e\u3002 \u62ef\u6551\u5730\u7403\u548c\u8282\u7701\u52b3\u52a8\u529b\u3002\u4e5f\u5f88\u806a\u660e\uff0c\u5e76\u4f1a\u5728\u9700\u8981\u6e05\u7406\u7684\u65f6\u5019\u548c\u5730\u70b9\u53d1\u9001\u8b66\u62a5\u3002\u8fd9\u51cf\u5c11\u4e86\u6392\u653e\u5e76\u5e2e\u52a9\u4e86\u5730\u7403\u3002\u662f\u7684\u786e\u633a\u806a\u660e\u7684\u3002\n\nMy Referral Links to recent airdrops | \u6211\u6700\u8fd1\u53c2\u4e0e\u7684\u7a7a\u6295\u8fde\u63a5\n\nI See\ud83d\udc40.",
+            "act": 0.08928705006837845
+        },
+        {
+            "text": "Go!",
+            "act": 0.08873187005519867
+        },
+        {
+            "text": "BEST FOR: Seafood \u2014 soft-shell crabs, crab cakes, ceviche, rockfish and white anchovies with radicchio are favorites.",
+            "act": 0.08803494274616241
+        },
+        {
+            "text": "ENTER:\nAprilanne Agostino\nClerk of the Court",
+            "act": 0.08602669835090637
+        },
+        {
+            "text": "The float dives.",
+            "act": 0.08531790971755981
+        },
+        {
+            "text": "Enjoy it with some turkey, fried eggs, pickled ginger, fried shallots and Sriracha.",
+            "act": 0.08478649705648422
+        },
+        {
+            "text": "Or have some thrown the baby (prophet) out with the bath water.",
+            "act": 0.08423813432455063
+        },
+        {
+            "text": "IDEAL MEAL: Start with tuna tataki, silky ribbons of gently seared ahi drizzled with ponzu sauce, and sake.",
+            "act": 0.0825173631310463
+        },
+        {
+            "text": "But the Ocean is a capricious old fellow, who takes\nall shapes and sings in many voices.",
+            "act": 0.08226235210895538
+        },
+        {
+            "text": "Finally I declare a private instance of this Enum along with the appropriate public property.",
+            "act": 0.08163667470216751
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

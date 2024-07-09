@@ -1,0 +1,412 @@
+{
+    "index": 184,
+    "label": "Diverse structured informational content",
+    "attributes": "mathematical problems, code snippets, diverse content types, elaborate formatting",
+    "reasoning": "After analyzing the samples, I observed that texts within the specified tags exhibit a greater diversity in content type, including mathematical problems, code snippets, biographical content, and recipes. In contrast, the other samples predominantly contain discussion-based dialogue or comments on various topics. Furthermore, the texts within the specified tags demonstrate a broader use of formatting symbols such as quotation marks, commas, and periods to structure and segment information more elaborately.",
+    "density": 0.0021353225048756533,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "Go Jeremy Go!",
+            "act": 0.20832152664661407
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.1773289293050766
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.1354425847530365
+        },
+        {
+            "text": "Blend until smooth.",
+            "act": 0.13393796980381012
+        },
+        {
+            "text": "Trip, trap, trip, trap, trip, trap!",
+            "act": 0.1244867593050003
+        },
+        {
+            "text": "******************************************************************",
+            "act": 0.12087289988994598
+        },
+        {
+            "text": "Copy one shape.",
+            "act": 0.11698097735643387
+        },
+        {
+            "text": "Adjust seasonings and blend till smooth and creamy.",
+            "act": 0.11574646830558777
+        },
+        {
+            "text": "This emphasis on fatalism, suffering and yearning for death is eastern \u2013 Iranian, Turkish and Arabic \u2013 and indeed Kazantzidis has refugee roots in Asia Minor and Pontos.",
+            "act": 0.11381474137306213
+        },
+        {
+            "text": "NO!",
+            "act": 0.10895562171936035
+        },
+        {
+            "text": "No!",
+            "act": 0.10895562171936035
+        },
+        {
+            "text": "153, 5, 2, -2\nPut -4, -2, 0, 9 in ascending order.",
+            "act": 0.1059177964925766
+        },
+        {
+            "text": "2, 0, -2, -3, -5, -29\nPut 4, 5, -3, -7, -4, 6 in decreasing order.",
+            "act": 0.10516265034675598
+        },
+        {
+            "text": "No!",
+            "act": 0.10495545715093613
+        },
+        {
+            "text": "Stir to combine.",
+            "act": 0.10228373110294342
+        },
+        {
+            "text": "Crabbe and Goyle never saw Harry or Ron, and Snape has no proof they were involved in stealing from his stores.",
+            "act": 0.10228115320205688
+        },
+        {
+            "text": "Both love God.",
+            "act": 0.1008700504899025
+        },
+        {
+            "text": "He could.",
+            "act": 0.09999589622020721
+        },
+        {
+            "text": "But he will get there.",
+            "act": 0.0977606475353241
+        },
+        {
+            "text": "Drain and transfer to ice-water bath until cool.",
+            "act": 0.0955200344324112
+        },
+        {
+            "text": "He looooves his lean to caves and his jar.",
+            "act": 0.0928991287946701
+        },
+        {
+            "text": "Never would.",
+            "act": 0.09230577200651169
+        },
+        {
+            "text": "Cannot know which one to stop.",
+            "act": 0.08978302776813507
+        },
+        {
+            "text": "SLOWLY!",
+            "act": 0.08897370100021362
+        },
+        {
+            "text": "Jeddah attracted Muslim sailors and merchants from Sindh, Southeast Asia and East Africa, and other distant regions.",
+            "act": 0.08708637952804565
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.08608828485012054
+        },
+        {
+            "text": "Isolates were recovered from different patients and were identified at species level by PCR and hybridization.",
+            "act": 0.08528251200914383
+        },
+        {
+            "text": "And Rick hated it.",
+            "act": 0.08481068909168243
+        },
+        {
+            "text": "Luke nodded.",
+            "act": 0.08400025218725204
+        },
+        {
+            "text": "It can.",
+            "act": 0.08145055174827576
+        },
+        {
+            "text": "were not further typed because the bacteria could not be recultured.",
+            "act": 0.0813058614730835
+        },
+        {
+            "text": "M-DD and NB cleaned, analyzed.",
+            "act": 0.0809120163321495
+        },
+        {
+            "text": "-14, -6, -5, 4, 5, 7\nSort 5, -8, 35, -4, 7 in decreasing order.",
+            "act": 0.07944914698600769
+        },
+        {
+            "text": "His\nawareness returned slowly and reluctantly.",
+            "act": 0.07869841158390045
+        },
+        {
+            "text": "These observations further speak to the possible existence of distinct molecular phenotypes.",
+            "act": 0.07790923118591309
+        },
+        {
+            "text": "This indirectly implies that there is some form of equivalence between Christianity and Islam.",
+            "act": 0.07542402297258377
+        },
+        {
+            "text": "The key pieces are still there.",
+            "act": 0.0751686692237854
+        },
+        {
+            "text": "RETENTION: Retain 2 years in off ice, then 5 years in Records Center, then destroy by shredding then landfill.",
+            "act": 0.0735211968421936
+        },
+        {
+            "text": "Yamanoi had visualized the line for three years, through the lower rock wall and up steep snow and mixed ground above.",
+            "act": 0.07147938013076782
+        },
+        {
+            "text": "Adaptations vary.",
+            "act": 0.071073018014431
+        },
+        {
+            "text": "Their relationship to this pig is unknown.",
+            "act": 0.06903831660747528
+        },
+        {
+            "text": "4*o**3 - 2788*o**2\nExpand (146*k**2 + 177*k**2 - 370*k**2)*(-3 + 3 + 2*k**2) + 5*k - k - 26*k**4 + 19*k**4.",
+            "act": 0.06734423339366913
+        },
+        {
+            "text": "However, the functional significance and the underlying mechanisms are unknown.",
+            "act": 0.06674296408891678
+        },
+        {
+            "text": "3 bed 2 bath up, plus large basement with 3 pc bath, office, huge Rec room, possible extra bedroom, separate outside access.",
+            "act": 0.06630130112171173
+        },
+        {
+            "text": "The three codon sites were separated into different alignments using a program called CODONSPLIT (by IB Jakobsen) before being analysed.",
+            "act": 0.0650339350104332
+        },
+        {
+            "text": "One of the cops in pursuit is Chow Yun-Fat, the De Niro to Woo\u2019s Scorsese.",
+            "act": 0.06457177549600601
+        },
+        {
+            "text": "Find it later in the \"Following\" feed.",
+            "act": 0.06425052881240845
+        },
+        {
+            "text": "67, 8, 5, -5, -16\nPut -12, -7, -1, 1, 6 in decreasing order.",
+            "act": 0.06364444643259048
+        },
+        {
+            "text": "Indeed, some 7000 languages exist worldwide, and it is unlikely that one research project could study them all and retrieve their relevant words.",
+            "act": 0.06330062448978424
+        },
+        {
+            "text": "A further 500 years and it would be proponents of Islamic culture.",
+            "act": 0.0632658377289772
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

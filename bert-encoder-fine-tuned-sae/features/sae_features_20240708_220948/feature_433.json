@@ -1,0 +1,412 @@
+{
+    "index": 433,
+    "label": "Structured factual content with details",
+    "attributes": "specific details like names, dates, places, measurements, and events, structured and factual information, formal or informational style, presence of lists, narrative style",
+    "reasoning": "The texts in the samples primarily consist of structured, factual information and lists that often include specific details such as names, dates, places, measurements, and events. They follow a more formal, informational, or narrative style. In contrast, the texts in the other samples are informal, conversational, opinionated, or speculative with a focus on personal opinions, dialogue, and subjective commentary.",
+    "density": 0.003606322452678881,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "RT-WHO 1624.",
+            "act": 0.20305871963500977
+        },
+        {
+            "text": "TIP!",
+            "act": 0.15501166880130768
+        },
+        {
+            "text": "TIP!",
+            "act": 0.15501166880130768
+        },
+        {
+            "text": "rapid double clicking.",
+            "act": 0.15406917035579681
+        },
+        {
+            "text": "S: Jeremy Cash, Duke.",
+            "act": 0.14974939823150635
+        },
+        {
+            "text": "TIP!",
+            "act": 0.14650069177150726
+        },
+        {
+            "text": "TIP!",
+            "act": 0.14650069177150726
+        },
+        {
+            "text": "CP at 22.",
+            "act": 0.14594469964504242
+        },
+        {
+            "text": "TIP!",
+            "act": 0.143997922539711
+        },
+        {
+            "text": "TIP!",
+            "act": 0.14250759780406952
+        },
+        {
+            "text": "TIP!",
+            "act": 0.14250759780406952
+        },
+        {
+            "text": "TIP!",
+            "act": 0.14099393784999847
+        },
+        {
+            "text": "Cook for about twenty minutes, stirring occasionally.",
+            "act": 0.1409415453672409
+        },
+        {
+            "text": "Both feature roping, raised circles, and etched decorations.",
+            "act": 0.14086942374706268
+        },
+        {
+            "text": "Ten minutes later beeping again, excitement, digging, rusty nail.",
+            "act": 0.1381547451019287
+        },
+        {
+            "text": "TIP!",
+            "act": 0.13782481849193573
+        },
+        {
+            "text": "TIP!",
+            "act": 0.13782481849193573
+        },
+        {
+            "text": "Espelette pepper.",
+            "act": 0.1326936036348343
+        },
+        {
+            "text": "They are\nstaring, staring hard, all three.",
+            "act": 0.1308073252439499
+        },
+        {
+            "text": "She married (1st) Baron Johann von Morien and (2nd) Johann Melchior von Dombroeck;\n Agnes Elisabeth of Limburg, Abbess of Elten (died 1641).",
+            "act": 0.12655755877494812
+        },
+        {
+            "text": "The shield is embossed and gilt with a lion's head as its boss.",
+            "act": 0.12633146345615387
+        },
+        {
+            "text": "The later harness, with its skirt (tonlet), features pierced bands of gilded silver over violet velvet.",
+            "act": 0.12305860221385956
+        },
+        {
+            "text": "at 1.",
+            "act": 0.12062391638755798
+        },
+        {
+            "text": "RT-WHO 730, 740-41.",
+            "act": 0.11935147643089294
+        },
+        {
+            "text": "A variety of meats \u2014 pulled pork, chicken and tri-tip steak, smoked in-house \u2014 are served throughout the day.",
+            "act": 0.11913951486349106
+        },
+        {
+            "text": "Disagreements were resolved by discussion, and, if necessary, a third reviewer was consulted.",
+            "act": 0.11856447905302048
+        },
+        {
+            "text": "Calves were weaned, backgrounded and sold.",
+            "act": 0.11747325956821442
+        },
+        {
+            "text": "Hits over the knee.",
+            "act": 0.11376283317804337
+        },
+        {
+            "text": "Often a dentist and a pathologist were attached.",
+            "act": 0.11293607950210571
+        },
+        {
+            "text": "It was a potentially catastrophic Category 4 storm but was expected to keep drawing energy from the warm water and intensify to near Category 5, which means winds of 157 mph or higher.",
+            "act": 0.10979680716991425
+        },
+        {
+            "text": "G: Laken Tomlinson, Duke.",
+            "act": 0.10849586129188538
+        },
+        {
+            "text": "If morphine was given or a tourniquet applied, the soldier\u2019s forehead was marked with a \u201cM\u201d or \u201cT\u201d.",
+            "act": 0.10698416084051132
+        },
+        {
+            "text": "Postoperative pain was treated by analgesic therapy.",
+            "act": 0.10521310567855835
+        },
+        {
+            "text": "Basket was used to remove the broken tip smoothly.",
+            "act": 0.10257114470005035
+        },
+        {
+            "text": "360*k**3\nLet s = -11 - -15.",
+            "act": 0.10227499902248383
+        },
+        {
+            "text": "; Ribbed cuff.",
+            "act": 0.10155947506427765
+        },
+        {
+            "text": "Sufferers have described cluster headaches as a hot dagger being poked through the eye and into the brain.",
+            "act": 0.09971875697374344
+        },
+        {
+            "text": "Final Decision at 2.",
+            "act": 0.09924662113189697
+        },
+        {
+            "text": "Yale and Harvard along with several other \u201cprestigious\u201d universities are owned by the British Crown.",
+            "act": 0.09916827827692032
+        },
+        {
+            "text": "Each of them take off suit and tie, covertly looking at one another as they do so.",
+            "act": 0.09910708665847778
+        },
+        {
+            "text": "8 comprises a hollow shaft 71 having a first end provided with a head 72 and a second end provided with a grip 73.",
+            "act": 0.0988331213593483
+        },
+        {
+            "text": "Peter Odemwingie with a good kick off the right leg, use of bait Jerome Thomas.",
+            "act": 0.0988088846206665
+        },
+        {
+            "text": "From the cottage roofs rise light puffs of smoke.",
+            "act": 0.09832345694303513
+        },
+        {
+            "text": "Zijlstra'\n- 'S.\u00a0K.",
+            "act": 0.09702251851558685
+        },
+        {
+            "text": "Off 'em and try again.",
+            "act": 0.09693513810634613
+        },
+        {
+            "text": "-1910\nRound 163.141 to the nearest 10.",
+            "act": 0.09546622633934021
+        },
+        {
+            "text": "RT-WHO 385.",
+            "act": 0.0934281274676323
+        },
+        {
+            "text": "On and on, crisscrossing Camp Strake, through the woods, down the dirt roads, along the lake: rusty nail, rusty nail, rusty nail.",
+            "act": 0.09323325753211975
+        },
+        {
+            "text": "Feirense players\nCategory:F.C.",
+            "act": 0.09142743796110153
+        },
+        {
+            "text": "RT-WHO 1204-16, 1381-82, 1395, 1399-1400.",
+            "act": 0.09075042605400085
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

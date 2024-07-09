@@ -1,0 +1,412 @@
+{
+    "index": 655,
+    "label": "Technical and formal structured texts",
+    "attributes": "consistent formal structure, mathematical notation, technical jargon, metadata annotations, structured assessments, code comments, historical records",
+    "reasoning": "The samples are characterized by consistently presenting a formal, structured format that includes mathematical notation, technical jargon, metadata annotations, structured assessments, code comments, or historical records. These elements reflect a high level of formality and complexity. In contrast, the other samples are relatively informal and conversational, often consisting of casual dialogue, opinions, and narrative prose without structured elements or technical complexity.",
+    "density": 0.0005409483679018321,
+    "confidence": 39.0,
+    "high_act_samples": [
+        {
+            "text": "Further, if *L*~(~*~i~*~,~ *~j~*~)~ = *L* \u2229 *T*~(~*~i~*~,~ *~j~*~)~ and *I*~(~*~i~*~,~ *~j~*~)~ = *I* \u2229 *T*~(~*~i~*~,~ *~j~*~)~ denote the sets of leaf nodes and internal nodes, respectively, in *T*~(~*~i~*~,~ *~j~*~)~, then **X**~(~*~i~*~,~ *~j~*~)~ and **X**~T(~*~i~*~,~ *~j~*~)~ denote the vectors of the values of bases in *L*~(~*~i~*~,~ *~j~*~)~ and *T*~(~*~i~*~,~ *~j~*~)~, respectively, and\n\nQ\n\nL\n\n(\n\ni\n\n,\n\nj\n\n)\n\n(\n\nx\n\nL\n\n(\n\ni\n\n,\n\nj\n\n)\n\n)\n\n=\n\n\u2211\n\nx\n\nk\n\n:\n\nk\n\n\u2208\n\nI\n\n(\n\ni\n\n,\n\nj\n\n)\n\nQ\n\nT\n\n(\n\ni\n\n,\n\nj\n\n)\n\n(\n\nx\n\nT\n\n(\n\ni\n\n,\n\nj\n\n)\n\n)\n\nTake the model to be Markovian, so that, given (*X~i~*, *X~j~*) = (*x~i~*, *x~j~*), the conditional distribution of the bases on the leaves of the rooted sub-trees *T*~(~*~i~*~,~ *~j~*~)~ and *T*~(~*~j~*~,~ *~i~*~)~, given by deleting edge (*i*, *j*), are independent.",
+            "act": 0.2023964524269104
+        },
+        {
+            "text": "/////////////////////////////////////////////////////////////////////////////////////////////\n\nThe tourist industry brought in $3.7 billion in 2013 accounting for 3.7% of the GDP.",
+            "act": 0.157441183924675
+        },
+        {
+            "text": "(If the patient still works, he/she is asked about the present profession)**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**3.",
+            "act": 0.14072486758232117
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Protocol**\n\nDate of the investigation\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSubject code:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Introduction**\n\nDuring this investigation I am going to ask you questions, and to ask you to perform tasks.",
+            "act": 0.13369113206863403
+        },
+        {
+            "text": "///////////////////////////////////////////////////////////////////////////////\n//  Copyright Christopher Kormanyos 2007 - 2020.",
+            "act": 0.13215678930282593
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.13135802745819092
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Good understanding *3 points*\n\n\u25a1 Partial understanding *2 points*\n\n\u25a1 Does not know what it means *1 point*\n\n**6.",
+            "act": 0.12807756662368774
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Significantly changed *3 points*\n\n\u25a1 Same as before *2 points*\n\n\u25a1 Does not know/remember *1 point*\n\n**4.",
+            "act": 0.11594036221504211
+        },
+        {
+            "text": "For example:\n\nDate1      Date2\n1/1/2012   1/1/2000\nnull       null\n1/1/2009   1/1/2015\n1/1/2013   null\n1/1/2003   1/1/2003\n\nShould end up as:\n\nDate1      Date2\nnull       null\n1/1/2012   1/1/2000\n1/1/2003   1/1/2003\n1/1/2009   1/1/2015\n1/1/2013   null\n\nIs this possible?",
+            "act": 0.11508440971374512
+        },
+        {
+            "text": "Bundesliga S\u00fcd (the southern division of 2.",
+            "act": 0.11406590789556503
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Relevant diagnosis *3 points*\n\n\u25a1 Irrelevant diagnosis *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**5.",
+            "act": 0.1139286607503891
+        },
+        {
+            "text": "SASKATCHEWAN ROUGHRIDERS\n\n\u2013 The Saskatchewan Roughriders have officially signed national linebacker Henoc Muamba.",
+            "act": 0.1091991513967514
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Worried (specified) *3 points*\n\n\u25a1 Generally but vaguely worried *2 points*\n\n\u25a1 Not worried *1 point*\n\n**10.",
+            "act": 0.10583184659481049
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Association with relevant diagnosis and illness *4 points*\n\n\u25a1 Association with a relevant diagnostic name, but without knowing the implications of the diagnosis *3 points*\n\n\u25a1 Association with illness, but no diagnosis *2 points*\n\n\u25a1 Does not know *1 point*\n\n**9.",
+            "act": 0.10245559364557266
+        },
+        {
+            "text": "Liga in 2008 as the new third tier, below the 2.",
+            "act": 0.10006507486104965
+        },
+        {
+            "text": "-1\nExpress -44*n**2 + n + 2*n**3 + n + 39*n**2 in the form w*n**2 + x*n + j + b*n**3 and give w.\n-5\nExpress (4*n**3 + 2 - 2 + n**3 - 3*n**2 + 3*n**2 + (-7*n + 3*n + 3*n)*(-4*n**2 - n**2 + 3*n**2))*(-2 - 5 - 2) in the form b*n**2 + l*n + i*n**3 + g and give b.",
+            "act": 0.09934598952531815
+        },
+        {
+            "text": "If an edge (*i*, *j*) of the unrooted tree is deleted then two rooted sub-trees *T*~(~*~i~*~,~*~j~*~)~ and *T*~(~*~j~*~,~*~i~*~)~ are formed with roots at *i* and *j*, respectively.",
+            "act": 0.09565381705760956
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct -- one year\\'s error *2 points*\n\n\u25a1 Not correct -- several years\\' errors *1 point*\n\n**2.",
+            "act": 0.09284152090549469
+        },
+        {
+            "text": "n**(-4847/1820)\nSimplify ((m**(2/3)*m)/m)**(-2/3)*m/(((m*m**(-2/7)/m)/m)/m)*m*m*m/m**(4/7)*m*(m**(-3)/m**(-2/15))/(m**(-7)/(m*m**(-2/3))) assuming m is positive.",
+            "act": 0.09189333766698837
+        },
+        {
+            "text": "Of those, 7,305 (35.1%) scored 3+.",
+            "act": 0.09098334610462189
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Prominent cognitive symptoms *3 points*\n\n\u25a1 Some cognitive symptoms *2 points*\n\n\u25a1 No cognitive symptoms *1 point*\n\n**7.",
+            "act": 0.08867424726486206
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nYes, considerably *3 points*\n\nYes, to some extent *2 points*\n\nNo adaptation at all *1 point*\n\nThank you.",
+            "act": 0.08857472985982895
+        },
+        {
+            "text": "Pro spr\u00e1vnou funk\u010dnost se pros\u00edm ujist\u011bte, \u017ee jste ji nedeaktivovali.",
+            "act": 0.08744682371616364
+        },
+        {
+            "text": "The correlation function is defined in the following form[@b20]:where *P~HH~* = *N~HH~* (*\u03b8~a~*,*\u03b8~b~*)/*N~Total~*, *P~VV~* = *N~VV~* (*\u03b8~a~*,*\u03b8~b~*)/*N~Total~*, *P~HV~* = *N~HV~* (*\u03b8~a~*,*\u03b8~b~*)/*N~Total~*, and *P~VH~* = *N~VH~* (*\u03b8~a~*,*\u03b8~b~*)/*N~Total~* are normalized correlated probabilities when polarizations of each beam are measured, and *N~Total~* = *N~HH~* (*\u03b8~a~*,*\u03b8~b~*) + *N~VV~* (*\u03b8~a~*,*\u03b8~b~*) + *N~HV~* (*\u03b8~a~*,*\u03b8~b~*) + *N~VH~* (*\u03b8~a~*,*\u03b8~b~*).",
+            "act": 0.08329890668392181
+        },
+        {
+            "text": "v**(-1643/798)\nSimplify (j*(((j*j*j**(-5)/j)/j)/j)/j*j*j*j/(j/(j*j**(-5)))*(j*j*j**3/j)/(j*j**(-1)))/(j**(-2/7)/(j*j**(2/13)/j))**(-5/13) assuming j is positive.",
+            "act": 0.08243007957935333
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Yes, very problematic *3 points*\n\n\u25a1 Yes, to some extent *2 points*\n\n\u25a1 No problems at all *1 point*\n\n**8.",
+            "act": 0.0786450207233429
+        },
+        {
+            "text": "z**22\nSimplify ((n*n/(n*n**(1/3)))/(n*n/(n*n/(n*n**1*n*n*n)*n)))/((n/n**(3/4))/(n*n**2)) assuming n is positive.",
+            "act": 0.07564988732337952
+        },
+        {
+            "text": "A\u010dkoli je vysoce nepravd\u011bpodobn\u00e9, \u017ee by do\u0161lo k poru\u0161e dvou disk\u016f z\u00e1rove\u0148, nen\u00ed to nemo\u017en\u00e9.",
+            "act": 0.07176685333251953
+        },
+        {
+            "text": "Along with the railway crossing immediately to the south, and another on the northern shore of Lake Nipigon, this forms the narrowest bottleneck in Canada between the Atlantic and Pacific oceans.",
+            "act": 0.06581391394138336
+        },
+        {
+            "text": "Ray Usher\n\nRay Usher (16 October 1904 \u2013 15 April 1964) was a former Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).",
+            "act": 0.061648763716220856
+        },
+        {
+            "text": "\u2013 The Edmonton Eskimos have reportedly signed recently-released receiver Vidal Hazelton (Justin Dunk, 3 Down Nation).",
+            "act": 0.05902578681707382
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.059009626507759094
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.054064929485321045
+        },
+        {
+            "text": "m**(5/11)\nSimplify ((t/(t*t/(t/(t**(-1/4)/t)*t)))**(2/23))**25*(t**(-1/5)*t)/t**5*(t*((t/t**(2/23))/t)/t)/(((t*t/(t*t**6))/t)/t) assuming t is positive.",
+            "act": 0.052186742424964905
+        },
+        {
+            "text": "Long snapper Kameron Canaday and punter A.J.",
+            "act": 0.051087502390146255
+        },
+        {
+            "text": "Jawaan Taylor\n\nJawaan Taylor (born November 25, 1997) is an American football offensive tackle for the Jacksonville Jaguars of the National Football League (NFL).",
+            "act": 0.048721231520175934
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.048496946692466736
+        },
+        {
+            "text": "The Yuny Strait, separating Pioneer Island from Komsomolets Island, branches to the northwest in the eastern part of the strait.",
+            "act": 0.047648463398218155
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.04699473828077316
+        },
+        {
+            "text": "/*==============================================================================\n\n  Program: 3D Slicer\n\n  Copyright (c) Laboratory for Percutaneous Surgery (PerkLab)\n  Queen's University, Kingston, ON, Canada.",
+            "act": 0.04376690834760666
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.041657865047454834
+        },
+        {
+            "text": "Joseph said Peko (knee), defensive end Derek Wolfe (neck), quarterback Paxton Lynch (ankle) and guard Ron Leary (back) will not play against the Dolphins.",
+            "act": 0.0394318550825119
+        },
+        {
+            "text": "17*l\nExpand (-1 - 5 - 1)*(-n + 8 - 2*n + n) + 4*n + 4*n - 7*n - n - n + 0*n + (2*n - 2*n - n)*(-2 - 3 + 3) + 2*n + 0 + 0.",
+            "act": 0.03891889005899429
+        },
+        {
+            "text": "4*m**2\nExpand (-2 - 4 + 4 - 5 + 4 + 2 - 3 + 3 + 3 + (1 + 2 - 4)*(-1 + 3 + 0) - 1 + 3 - 3 - 5 + 1 + 2)*(-4 - 3*o + 4).",
+            "act": 0.038432225584983826
+        },
+        {
+            "text": "-6*j**2 - 12*j\nExpand (0*n**2 + 0*n**2 + 4*n**4)*(-2*n - n + 2*n) - 2*n**5 + n**5 + 4*n**5 + (-3*n + 6*n - n)*(3*n**4 - 3*n**4 + 2*n**4).",
+            "act": 0.038306914269924164
+        },
+        {
+            "text": "In 2003, Salt Publishing brought out Monk's 'Selected Poems', and in 2007 also published 'The Salt Companion to Geraldine Monk', a book of critical works on her poetry.",
+            "act": 0.03770170360803604
+        },
+        {
+            "text": "2000 - Anne Flynn and Lisa Doolittle, \"Dancing in the Canadian Wasteland: A Post-Colonial Reading of Regionalism in the 1960s and 1970s,\" in Dancing Bodies, Living Histories: New Writing about Dance and Culture, edited by Anne Flynn and Lisa Doolittle (Banff Centre Press, 2000).",
+            "act": 0.03739900141954422
+        },
+        {
+            "text": "EDITED :\nAfter executing dput(head(mydata,20)); it looks something like below\n    structure(list(Q3_1 = c(\"1\", \"1\", \"1\", \"5\", \"6\", \"3\", \"2\", \"\", \n\"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q6_1 = c(\"2\", \"2\", \"1\", \"2\", \"6\", \n\"3\", \"2\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q12_1 = c(\"1\", \"1\", \n\"8\", \"7\", \"1\", \"4\", \"7\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q15_1 = c(\"1\", \n\"1\", \"4\", \"5\", \"1\", \"9\", \"8\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), \n    Q18_1 = c(\"2\", \"2\", \"1\", \"6\", \"4\", \"9\", \"3\", \"\", \"\", \"6\", \n    \"\", \"\", \"\", \"\", \"\"), Q21_1 = c(\"1\", \"1\", \"2\", \"3\", \"3\", \"4\", \n    \"8\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q24_1 = c(\"1\", \"1\", \n    \"1\", \"2\", \"2\", \"8\", \"8\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), \n    Q27_1 = c(\"1\", \"2\", \"3\", \"4\", \"5\", \"2\", \"9\", \"\", \"\", \"\", \n    \"\", \"\", \"\", \"\", \"\"), Q30_1 = c(\"2\", \"2\", \"2\", \"2\", \"2\", \"2\", \n    \"2\", \"\", \"\", \"\", \"\", \"\", \"\", \"\", \"\"), Q36_1 = c(\"6\", \"2\", \n    \"2\", \"2\", \"2\", \"6\", \"6\", \"\", \"\", \"4\", \"\", \"\", \"\", \"9\", \"7\"\n    ), Q39_1 = c(\"10\", \"2\", \"2\", \"2\", \"2\", \"2\", \"2\", \"4\", \"2\", \n    \"\", \"\", \"3\", \"7\", \"10\", \"9\"), Q42_1 = c(\"1\", \"2\", \"3\", \"4\", \n    \"5\", \"6\", \"7\", \"9\", \"5\", \"4\", \"\", \"\", \"7\", \"\", \"5\"), Q45_1 = c(\"1\", \n    \"2\", \"2\", \"2\", \"2\", \"2\", \"2\", \"\", \"\", \"5\", \"\", \"\", \"8\", \"4\", \n    \"\"), Q48_1 = c(\"7\", \"2\", \"3\", \"4\", \"5\", \"6\", \"8\", \"\", \"6\", \n    \"\", \"5\", \"\", \"1\", \"8\", \"\"), Q51_1 = c(\"1\", \"2\", \"3\", \"8\", \n    \"3\", \"4\", \"4\", \"9\", \"8\", \"6\", \"4\", \"8\", \"1\", \"7\", \"7\"), Q54_1 = c(\"1\", \n    \"2\", \"3\", \"7\", \"4\", \"4\", \"4\", \"1\", \"4\", \"6\", \"\", \"1\", \"\", \n    \"\", \"2\"), Q60_1 = c(\"1\", \"2\", \"3\", \"3\", \"3\", \"3\", \"3\", \"3\", \n    \"6\", \"\", \"\", \"10\", \"\", \"\", \"9\"), Q63_1 = c(\"1\", \"1\", \"1\", \n    \"1\", \"1\", \"1\", \"1\", \"1\", \"1\", \"\", \"\", \"1\", \"5\", \"\", \"\"), \n    Q66_1 = c(\"4\", \"4\", \"4\", \"7\", \"6\", \"4\", \"4\", \"7\", \"3\", \"\", \n    \"7\", \"\", \"4\", \"\", \"1\"), Q69_1 = c(\"3\", \"3\", \"5\", \"4\", \"7\", \n    \"4\", \"5\", \"5\", \"5\", \"\", \"\", \"\", \"7\", \"\", \"1\"), Q72_1 = c(\"3\", \n    \"4\", \"5\", \"4\", \"5\", \"6\", \"6\", \"3\", \"8\", \"\", \"8\", \"1\", \"\", \n    \"7\", \"6\"), Q74_1 = c(\"4\", \"5\", \"5\", \"5\", \"2\", \"4\", \"5\", \"4\", \n    \"4\", \"5\", \"4\", \"3\", \"3\", \"5\", \"2\"), Q75_1 = c(\"5\", \"2\", \"3\", \n    \"5\", \"4\", \"3\", \"4\", \"4\", \"3\", \"4\", \"1\", \"2\", \"2\", \"4\", \"5\"\n    ), Q76_1 = c(\"1\", \"2\", \"1\", \"4\", \"5\", \"2\", \"5\", \"1\", \"2\", \n    \"5\", \"5\", \"2\", \"2\", \"2\", \"5\")), row.names = c(5L, 7L, 9L, \n11L, 12L, 16L, 17L, 18L, 21L, 24L, 26L, 32L, 34L, 35L, 40L), class = \"data.frame\")\n\nA:\n\nI would first change your blank \"\" values to NA missing values, then the functions na.omit or complete.cases can be used to do what you want:\nmydata[mydata == \"\"] <- NA\n\n# then either of these should work\nresult1 <- na.omit(mydata)\nresult2 <- mydata[complete.cases(mydata), ]\n\nYou may want to address the \"\" earlier in your workstream - the function you use to read the data into R (maybe read.csv() or similar) probably has a way to specify that blanks should be treated as missing values.",
+            "act": 0.03635266423225403
+        },
+        {
+            "text": "It is the main geographical feature of Manitoba's Clearwater Lake Provincial Park, located northeast of The Pas in western Manitoba.",
+            "act": 0.0359993502497673
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.03599763289093971
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

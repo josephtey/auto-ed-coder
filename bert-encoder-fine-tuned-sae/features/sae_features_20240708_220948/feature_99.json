@@ -1,0 +1,412 @@
+{
+    "index": 99,
+    "label": "Informative and specific factual content",
+    "attributes": "Discusses specific detailed information, formal tone, cites numerical data or historical contexts, factual and objective",
+    "reasoning": "The texts within the first set of samples share the characteristic of discussing specific, tangible, and detailed information often related to technological, historical, geographical, scientific, or operational subjects. They are factual, objective, and demonstrate a formal tone. They also often cite numerical data, technical details, or historical contexts, making them sound informative and credible. On the other hand, the texts in the second set of samples consist of conversational, opinion-based, and subjective statements, often with informal or colloquial language. The discussions tend to be generalized without providing specific facts or details and frequently contain personal views or anecdotal evidence.",
+    "density": 0.008517564213892883,
+    "confidence": 21.0,
+    "high_act_samples": [
+        {
+            "text": "(Supp.",
+            "act": 0.2468876987695694
+        },
+        {
+            "text": "The ridge had previously been attempted by Germans.",
+            "act": 0.21402014791965485
+        },
+        {
+            "text": "They\u2019re also easy to maneuver in tight areas due to their smaller machine width.",
+            "act": 0.20023728907108307
+        },
+        {
+            "text": "These results permit successful utilization of pulp and paper mill wastewater for crop production without damaging the soils.",
+            "act": 0.19612975418567657
+        },
+        {
+            "text": "Geography\nBoronia Heights lies to the west of Park Ridge.",
+            "act": 0.19071349501609802
+        },
+        {
+            "text": "Their inherent low profile offers an opportunity to reduce engine size while maintaining fuel efficiency and power.",
+            "act": 0.18977312743663788
+        },
+        {
+            "text": "Several sets of runways may be required.",
+            "act": 0.17789728939533234
+        },
+        {
+            "text": "By using PCR, Neimark et al.",
+            "act": 0.1759728044271469
+        },
+        {
+            "text": "This region of the alignment is highly variable and could not be not improved manually.",
+            "act": 0.172463059425354
+        },
+        {
+            "text": "However, the arrangement is not as rugged as is desired and further takes up axial rotor length which thus cannot be used for rotor windings.",
+            "act": 0.17022480070590973
+        },
+        {
+            "text": "It is powerful enough to cut through normal rock (at short range).",
+            "act": 0.1663358211517334
+        },
+        {
+            "text": "Some aircraft were sold by the Air Force to the Somali Air Corps as trainers.",
+            "act": 0.16600464284420013
+        },
+        {
+            "text": "This, combined with the aluminium subframe, ensures longevity of the deck.",
+            "act": 0.1647750586271286
+        },
+        {
+            "text": "This, however, resulted in them now coming under enemy attack, especially from aircraft bombing.",
+            "act": 0.16432258486747742
+        },
+        {
+            "text": "North Slope residents said multiple communities there relied solely or primarily on Ravn for air service.",
+            "act": 0.15885303914546967
+        },
+        {
+            "text": "Further works revealed that the structure was largely intact underneath the ground.",
+            "act": 0.15775667130947113
+        },
+        {
+            "text": "Cuts were made on the beam position and horizontal and vertical widths to select well behaved beam pulses.",
+            "act": 0.1577414572238922
+        },
+        {
+            "text": "When the war began, construction on Highway\u00a017 halted, with effort instead focused on the simpler northern route via Geraldton and Hearst.",
+            "act": 0.1564054638147354
+        },
+        {
+            "text": "The Japanese fleet had just arrived from Japan and had not begun their killing operations when the Sea Shepherd fleet intercepted them.",
+            "act": 0.1528465300798416
+        },
+        {
+            "text": "SFB is also a major economic driver for central Florida.",
+            "act": 0.14738909900188446
+        },
+        {
+            "text": "The results indicated that sample processing significantly reduced population of competing bacteria.",
+            "act": 0.14631986618041992
+        },
+        {
+            "text": "The improvement shown with biasing may be extended with further circuit optimization.",
+            "act": 0.14589528739452362
+        },
+        {
+            "text": "The badly pillaged and damaged supporting walls were removed and marked with concrete trim and the arena wall was propped up with concrete panels.",
+            "act": 0.14463956654071808
+        },
+        {
+            "text": "Also, increasing the exhaust gas recirculation rate would cause the blower load to increase.",
+            "act": 0.14460405707359314
+        },
+        {
+            "text": "This problem can be addressed by providing a degree of flexibility to the drive shaft.",
+            "act": 0.14406347274780273
+        },
+        {
+            "text": "90% of them fade from their anti-gun stance after the second magazine.",
+            "act": 0.14234314858913422
+        },
+        {
+            "text": "Duplicates: Retain in office while active, then destroy by\n\nlandfill.",
+            "act": 0.14125098288059235
+        },
+        {
+            "text": "On the other hand, our pilot experiments show that the proportion of empty units did not influence the performance of the turkers.",
+            "act": 0.13977397978305817
+        },
+        {
+            "text": "1.46   2,363   1.47   1.45      1.42.",
+            "act": 0.1376456469297409
+        },
+        {
+            "text": "Operational history\nAlthough successfully introduced into the Italian Air Force service, the P.148 was withdrawn from use with the introduction of an all-jet training programme.",
+            "act": 0.13567401468753815
+        },
+        {
+            "text": "Although the design of spark plugs has improved considerably during that time, there is a continuing need for spark plugs which will further enhance engine performance and, hopefully, reduce the rate of fuel consumption.",
+            "act": 0.13524065911769867
+        },
+        {
+            "text": "A total of 42 TE were also identified in 25 of the 130 TaSDGs.",
+            "act": 0.1332550197839737
+        },
+        {
+            "text": "Several samples were recovered from the plates and pooled to compensate for viability losses due to friction.",
+            "act": 0.13196630775928497
+        },
+        {
+            "text": "However, the surrounding cones\nthat were not being used are still \"fresh\", and send out a strong signal.",
+            "act": 0.1316719502210617
+        },
+        {
+            "text": "The cross section of this channel has been scaled down accordingly.",
+            "act": 0.13069675862789154
+        },
+        {
+            "text": "In each case, flares occurring at larger radii are expected to produce broader pulse durations.",
+            "act": 0.13059936463832855
+        },
+        {
+            "text": "364 (D.La.",
+            "act": 0.1293932944536209
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by landfill.",
+            "act": 0.1278953105211258
+        },
+        {
+            "text": "1.44   1,834   1.48   1.45      1.42.",
+            "act": 0.12721829116344452
+        },
+        {
+            "text": "Additional ground resources as well as an air attack are en route.",
+            "act": 0.12658949196338654
+        },
+        {
+            "text": "Toronto mayor\nConboy had served as mayor since 1940 and was seeking his fifth term of office, but he was decisively beaten by Saunders.",
+            "act": 0.12612493336200714
+        },
+        {
+            "text": "The system will have only a small number of interceptors, so it could be easily defeated if an adversary launched credible decoys along with warheads.",
+            "act": 0.12553881108760834
+        },
+        {
+            "text": "This provides more incentive to stay on the bases and try to advance.",
+            "act": 0.12424694746732712
+        },
+        {
+            "text": "Then Pakistani squad disabled the telephone and telegraph lines.",
+            "act": 0.12367073446512222
+        },
+        {
+            "text": "Of those, 7,305 (35.1%) scored 3+.",
+            "act": 0.12298112362623215
+        },
+        {
+            "text": "Composite reliability was good (CR = 0.73).",
+            "act": 0.12287614494562149
+        },
+        {
+            "text": "This sacrifices speed\n                for accuracy.",
+            "act": 0.1224730983376503
+        },
+        {
+            "text": "RETENTION: Retain 3 years in office, then destroy by recycling.",
+            "act": 0.12194400280714035
+        },
+        {
+            "text": "Dunleavy\u2019s plan regarding Ravn.",
+            "act": 0.12167900055646896
+        },
+        {
+            "text": "That suggests that neither of them were in top shape.",
+            "act": 0.12074833363294601
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

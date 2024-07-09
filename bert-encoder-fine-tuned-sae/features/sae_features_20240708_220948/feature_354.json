@@ -1,0 +1,412 @@
+{
+    "index": 354,
+    "label": "High punctuation and engagement",
+    "attributes": "frequent use of question marks, exclamation points, commas, short stand-alone phrases or questions, engaging tone",
+    "reasoning": "The most specific attribute shared by all the samples in the first set, but not the second, is the frequent use of punctuation marks, specifically question marks, exclamation points, and commas. These punctuation marks convey an engaging, energetic, and dynamic tone. Additionally, many of the samples include short, stand-alone phrases or questions that capture attention. This attribute is not present in the second set, which tends to comprise longer, more narrative sentences without the same punctuation frequency or style.",
+    "density": 0.00630157396994415,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "A Playstation 3 Exclusive!",
+            "act": 0.2908475399017334
+        },
+        {
+            "text": "Leverage?",
+            "act": 0.2874498963356018
+        },
+        {
+            "text": "Tornadoes?",
+            "act": 0.28265851736068726
+        },
+        {
+            "text": "Division MVP?",
+            "act": 0.28056085109710693
+        },
+        {
+            "text": "Bundesliga S\u00fcd.",
+            "act": 0.26085034012794495
+        },
+        {
+            "text": "Investing In a Mining Adventure?",
+            "act": 0.2582600712776184
+        },
+        {
+            "text": "Second metro bomber?",
+            "act": 0.24637316167354584
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.23965312540531158
+        },
+        {
+            "text": "Liability?",
+            "act": 0.22087718546390533
+        },
+        {
+            "text": "Unemployment?",
+            "act": 0.19897028803825378
+        },
+        {
+            "text": "Hosting an evening star party this summer?",
+            "act": 0.19159455597400665
+        },
+        {
+            "text": "Brace yourself for stunning new Units, dungeons, and rewards -- including 5 Gems and 1 Summon Ticket!",
+            "act": 0.18926085531711578
+        },
+        {
+            "text": "Biggest?",
+            "act": 0.1857273131608963
+        },
+        {
+            "text": "Invest in a great pair of boots.",
+            "act": 0.17911413311958313
+        },
+        {
+            "text": "Basketball tournament?",
+            "act": 0.1790773868560791
+        },
+        {
+            "text": "Two!",
+            "act": 0.17776618897914886
+        },
+        {
+            "text": "Double taxation!",
+            "act": 0.17704638838768005
+        },
+        {
+            "text": "Miami\u2019s biggest catch was former Louisville Cardinals wide receiver DeVante Parker with the 14th pick.",
+            "act": 0.17594902217388153
+        },
+        {
+            "text": "Flintlocks are also unreliable, being inclined to misfire.",
+            "act": 0.17593686282634735
+        },
+        {
+            "text": "FOUR!",
+            "act": 0.17189019918441772
+        },
+        {
+            "text": "Alert email sent!",
+            "act": 0.17053000628948212
+        },
+        {
+            "text": "Disabilities?",
+            "act": 0.16923776268959045
+        },
+        {
+            "text": "Francisco Churruca\n\nFrancisco Maria Churruca Iriondo Azpiazu Alcorta (born ), also known as Patxi, is a Basque former jai alai player.",
+            "act": 0.16910861432552338
+        },
+        {
+            "text": "Yahoo!",
+            "act": 0.16841264069080353
+        },
+        {
+            "text": "Redirect to the East Coast.",
+            "act": 0.16622085869312286
+        },
+        {
+            "text": "Follow Tenders & Trails!",
+            "act": 0.16406990587711334
+        },
+        {
+            "text": "The XFL football joining and a guarantee of \u201csmashmouth\u201d competition.",
+            "act": 0.16394028067588806
+        },
+        {
+            "text": "With the introduction of the Regionalligas in 1994 and the 3.",
+            "act": 0.16361103951931
+        },
+        {
+            "text": "Strong core muscles protect the back and prevent back pain.",
+            "act": 0.16349110007286072
+        },
+        {
+            "text": "Schweizer Cup: Knocked out in the quarter-finals by Zurich.",
+            "act": 0.163487508893013
+        },
+        {
+            "text": "Keep up!",
+            "act": 0.16343781352043152
+        },
+        {
+            "text": "1 draft pick?",
+            "act": 0.16267164051532745
+        },
+        {
+            "text": "Champions League?",
+            "act": 0.16262494027614594
+        },
+        {
+            "text": "Stepped double gable garden block.",
+            "act": 0.16213704645633698
+        },
+        {
+            "text": "Both huge football traditional powerhouses with large fan and alumni bases.",
+            "act": 0.16045428812503815
+        },
+        {
+            "text": "Triple taxation!",
+            "act": 0.15823104977607727
+        },
+        {
+            "text": "Keep loose?",
+            "act": 0.15658923983573914
+        },
+        {
+            "text": "Poaching?",
+            "act": 0.15312881767749786
+        },
+        {
+            "text": "Quadruple taxation!",
+            "act": 0.1518833190202713
+        },
+        {
+            "text": "Heat?",
+            "act": 0.1490056961774826
+        },
+        {
+            "text": "The building was gutted by the blaze.",
+            "act": 0.1482456475496292
+        },
+        {
+            "text": "Fitting in?",
+            "act": 0.14821644127368927
+        },
+        {
+            "text": "Mind sharing?",
+            "act": 0.14698806405067444
+        },
+        {
+            "text": "parsed unexpectedly.",
+            "act": 0.14521050453186035
+        },
+        {
+            "text": "Sch.",
+            "act": 0.14466030895709991
+        },
+        {
+            "text": "Redirect to the Gulf Coast.",
+            "act": 0.14362733066082
+        },
+        {
+            "text": "Quintuple taxation!",
+            "act": 0.1434544175863266
+        },
+        {
+            "text": "Forward!",
+            "act": 0.14095832407474518
+        },
+        {
+            "text": "\"Shoulder arms!",
+            "act": 0.1402633637189865
+        },
+        {
+            "text": "Blotchy spots are a no no.",
+            "act": 0.13980494439601898
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

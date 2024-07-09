@@ -1,0 +1,412 @@
+{
+    "index": 10,
+    "label": "Historical and factual content",
+    "attributes": "contain historical or detailed factual information, reference specific dates, names, events, and locations",
+    "reasoning": "The samples all contain historical or detailed factual information. These pieces often reference specific dates, names, events, and locations. They are markedly different from the other samples, which are more conversational, opinion-based, or speculative in nature.",
+    "density": 0.002652545067167756,
+    "confidence": 1.0,
+    "high_act_samples": [
+        {
+            "text": "Frederick and Gertrude's son, Frederick II, then divided the patrimony for his sons.",
+            "act": 0.22464101016521454
+        },
+        {
+            "text": "The headquarters of the Field Ambulance always formed part of \u2018A\u2019 Section.",
+            "act": 0.18018469214439392
+        },
+        {
+            "text": "scents?",
+            "act": 0.1619277149438858
+        },
+        {
+            "text": "His German lands and the Holy Roman Empire were passed to his brother Ferdinand, who had been given increasing control over them as Charles had fought in Italy and against the Ottomans.",
+            "act": 0.1574225276708603
+        },
+        {
+            "text": "The difference is that is was smaller and because cavalry regiments were much more mobile than infantry regiments, their Field Ambulances had to be much more mobile.",
+            "act": 0.15603943169116974
+        },
+        {
+            "text": "There were four Field Ambulances per Cavalry Division, each sub-divided into two sections; \u2018A\u2019 Section and \u2018B\u2019 Section.",
+            "act": 0.14622513949871063
+        },
+        {
+            "text": "Adaptations vary.",
+            "act": 0.14491307735443115
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.13168345391750336
+        },
+        {
+            "text": "Any thoughts?",
+            "act": 0.12812629342079163
+        },
+        {
+            "text": "However, in early September his forces suffered heavy defeats in Oropesa and Talavera de la Reina that caused processing.",
+            "act": 0.12659932672977448
+        },
+        {
+            "text": "Only after all of these does an amendment mentioning to state power appear.",
+            "act": 0.12062837928533554
+        },
+        {
+            "text": "Parents are anguished.",
+            "act": 0.11316873133182526
+        },
+        {
+            "text": "Amateurliga Oberfranken-West title that year and then dominated its promotion round.",
+            "act": 0.10611051321029663
+        },
+        {
+            "text": "During her career in Colliers International Natalia was responsible for retail property facility management and she established business processes in 11 Shopping Centers in Moscow and in Regions.",
+            "act": 0.10054580867290497
+        },
+        {
+            "text": "Compulsions are very different.",
+            "act": 0.10051598399877548
+        },
+        {
+            "text": "Esophageal Thacher uses, his relapses in a very murderous manner.",
+            "act": 0.09936780482530594
+        },
+        {
+            "text": "The social hierarchy was linear with age in adult males and nearly linear in adult females.",
+            "act": 0.09766054898500443
+        },
+        {
+            "text": "In the phylogenetic analysis, each species separated according to their class.",
+            "act": 0.09694644808769226
+        },
+        {
+            "text": "Traits\n\nTraits are treated as classes.",
+            "act": 0.09520073980093002
+        },
+        {
+            "text": "Dardan: Kalem, little brother.",
+            "act": 0.09435461461544037
+        },
+        {
+            "text": "Finding time for strength and conditioning can be tricky.",
+            "act": 0.09288281202316284
+        },
+        {
+            "text": "in weight and up to 6\u20195\u201d height.",
+            "act": 0.09168963134288788
+        },
+        {
+            "text": "Getting close to a powerful target is easy for her.",
+            "act": 0.08904926478862762
+        },
+        {
+            "text": "After the Battle of Annual, he was involved in a confrontation with General Sanjurjo over the Expediente Picasso.",
+            "act": 0.08813069760799408
+        },
+        {
+            "text": "Used to have 50 defenses, said now 20-25 with all the young players in the league.",
+            "act": 0.08749205619096756
+        },
+        {
+            "text": "In contrast to among-plant variation, only a handful of studies explored the link between the FA of individual leaves of the same plant individual and their preference by insects and/or performance of insects fed with these leaves.",
+            "act": 0.08680392801761627
+        },
+        {
+            "text": "In September 1916, every CCS was divided into a heavy and a light section.",
+            "act": 0.08605378121137619
+        },
+        {
+            "text": "Increasing the eligibility age is a key demand by Republicans seeking cost curbs in popular benefit programs in exchange for higher tax revenues.",
+            "act": 0.08525022864341736
+        },
+        {
+            "text": "Competitions\n\nChallenge League:\n\nSchweizer Cup: Knocked out in the quarter-finals by Zurich.",
+            "act": 0.0838567242026329
+        },
+        {
+            "text": "Two people are talking about food.",
+            "act": 0.08367138355970383
+        },
+        {
+            "text": "They occur less frequently in the head and neck than in other regions.",
+            "act": 0.08333246409893036
+        },
+        {
+            "text": "\u2018A Surgeon in Khaki\u2019]\n\nMain Dressing Stations [MDS]:\n\nLocation and Construction:\n\nThere was normally one MDS to every Division.",
+            "act": 0.08297063410282135
+        },
+        {
+            "text": "Competitions\n\nSuper League:\n\nSchweizer Cup: Next up are FC Wabern.",
+            "act": 0.08272940665483475
+        },
+        {
+            "text": "Competitions\n\nChallenge League:\n\nSchweizer Cup: Knocked out in the quarter-finals by Zurich.",
+            "act": 0.08202727138996124
+        },
+        {
+            "text": "Competitions\n\nChallenge League:\n\nSchweizer Cup: Knocked out in the quarter-finals by Zurich.",
+            "act": 0.08202727138996124
+        },
+        {
+            "text": "They are evergreen trees, growing to 10\u201320 m tall.",
+            "act": 0.08200475573539734
+        },
+        {
+            "text": "Obama is taking his \u201cvictory\u201d lap, making his \u201cfarewell\u201d speeches.",
+            "act": 0.07992497086524963
+        },
+        {
+            "text": "Here the employees gave their notes for the stock which was issued to them and then assigned the stock as collateral to secure their notes.",
+            "act": 0.07988794147968292
+        },
+        {
+            "text": "Love of movies brings them together.",
+            "act": 0.07974663376808167
+        },
+        {
+            "text": "increasing order.",
+            "act": 0.07777789235115051
+        },
+        {
+            "text": "Just that keeping a person in a protective bubble does more damage than good.",
+            "act": 0.07674627006053925
+        },
+        {
+            "text": "Moving to something like Organic has the opposite effect.",
+            "act": 0.07544579356908798
+        },
+        {
+            "text": "Act 10 prevailed and other conservative state governments soon followed with their own anti-union legislation.",
+            "act": 0.07468940317630768
+        },
+        {
+            "text": "She has a gun and a sword and appears to be behind several locked security doors\u2026 which fortuitiously have electronic locks.",
+            "act": 0.07392231374979019
+        },
+        {
+            "text": "Francis and Charles would spend years in conflict over the sovereign rule of Burgundy (held by Francis), as well as territories in Italy.",
+            "act": 0.07372735440731049
+        },
+        {
+            "text": "They loved each other fondly.",
+            "act": 0.07364417612552643
+        },
+        {
+            "text": "A promise of, if not love, than a passion deeper than any.",
+            "act": 0.07161389291286469
+        },
+        {
+            "text": "In the House, 40 Democrats would have to back a historic Republican majority to override a veto.",
+            "act": 0.07146195322275162
+        },
+        {
+            "text": "is brightened with a fuschia-hued hibiscus flower.",
+            "act": 0.0713094025850296
+        },
+        {
+            "text": "He has a great combination of power and speed.",
+            "act": 0.07125981897115707
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

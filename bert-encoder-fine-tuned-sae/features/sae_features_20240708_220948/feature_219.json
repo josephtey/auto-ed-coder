@@ -1,0 +1,412 @@
+{
+    "index": 219,
+    "label": "Diverse structured text with symbols",
+    "attributes": "includes emojis, includes technical sequences, structured writing with references, mixture of diverse source types",
+    "reasoning": "Upon analyzing the samples, it is evident that the texts within the <positive-samples> tag contain a mixture of diverse sources including snippets from articles, personal stories, technical documents, and biological sequences. They also include various symbols, emojis, and structured lists or references to documents. Alternatively, the texts within the <negative-samples> tag comprise conversational dialogue, opinionated statements, discussions, or comments typically found in forum or chat settings. This makes the presence of structured lists, sequences, and non-standard symbols/emojis a distinctive attribute of the samples.",
+    "density": 0.0002372580560972948,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.20984412729740143
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.20984412729740143
+        },
+        {
+            "text": "Nilg\u00fcn-Ya\u011fnur Workers, Nezahat-R\u00fcmeysa Ayd\u0131n, Banquet-Elif Yeni and Reyhan \u2013 Ezgi Y\u0131ld\u0131r\u0131m competed with if the biscuit recipe said.",
+            "act": 0.151713028550148
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.14208266139030457
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.11100523173809052
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.10856134444475174
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.07749795913696289
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.06224473565816879
+        },
+        {
+            "text": "Williamson - dropped by Sarfraz Ahmed on 26 - scored at nearly a run a ball, but resisted the temptation to cut loose and felt that paid off.",
+            "act": 0.060987018048763275
+        },
+        {
+            "text": "Schmidt hit .244 in 1907.",
+            "act": 0.05137712508440018
+        },
+        {
+            "text": "\"All right, Michael.",
+            "act": 0.04625026136636734
+        },
+        {
+            "text": "Thus, R\u00fcmeysa and her mother-in-law Nezahat Han\u0131m were eliminated from the competition at their own request.",
+            "act": 0.04463741183280945
+        },
+        {
+            "text": "He said, \"Let me make it clear.",
+            "act": 0.04302705079317093
+        },
+        {
+            "text": "26 Mathers says of her upbringing, \"I'm from a big Jewish-Italian family.",
+            "act": 0.0412994846701622
+        },
+        {
+            "text": "Catcher Jose Molina went out to the mound after the pitch and signaled to the Rays staff.",
+            "act": 0.03846792131662369
+        },
+        {
+            "text": "Giants manager Bruce Bochy sent up Blanco to hit for Francisco Peguero, and Blanco delivered a three-run double to right-center that extended the Giants' lead to 6-1.",
+            "act": 0.03797251731157303
+        },
+        {
+            "text": "\"Be a man and get in there.\"",
+            "act": 0.03691632300615311
+        },
+        {
+            "text": "Both figures are accused of playing leading roles in Ergenekon and spearheaded prosecution of Christians Hakan Tastan and Turan Topal for speaking to people about their faith.",
+            "act": 0.030368493869900703
+        },
+        {
+            "text": "15",
+            "act": 0.028784433379769325
+        },
+        {
+            "text": "Japanese Patent No.",
+            "act": 0.028333181515336037
+        },
+        {
+            "text": "He joined the British Army, and became a second lieutenant in the 5th Battalion of the Royal Scots Fusiliers in May 1912.",
+            "act": 0.028293734416365623
+        },
+        {
+            "text": "Haley to be U.S.",
+            "act": 0.026612261310219765
+        },
+        {
+            "text": "Haley to be U.S.",
+            "act": 0.025900254026055336
+        },
+        {
+            "text": "Haley to be U.S.",
+            "act": 0.024324515834450722
+        },
+        {
+            "text": "Quiz\u00e1s hay algo de lo que no me estoy dando cuenta.",
+            "act": 0.0242993775755167
+        },
+        {
+            "text": "Ed Killian led the team (and was 2nd in the AL) with a 1.78 ERA and compiled a 25\u201313 record.",
+            "act": 0.022101709619164467
+        },
+        {
+            "text": "13.6 lb.",
+            "act": 0.021492483094334602
+        },
+        {
+            "text": "The left hand worked with the Endoclinch in a 5 mm port, which was located below the right ribcage 5 cm from the linea alba.",
+            "act": 0.02034306712448597
+        },
+        {
+            "text": "16\nSuppose 79",
+            "act": 0.020249808207154274
+        },
+        {
+            "text": "\"But I took Ben aside and said, 'Listen, Ben, you don't treat a priest that way.",
+            "act": 0.019956836476922035
+        },
+        {
+            "text": "After Joe Tinker sacrificed, pitcher Orval Overall drove both runners home on a single to right field.",
+            "act": 0.01826455630362034
+        },
+        {
+            "text": "The women all rebelled at me driving so I surrendered the keys, the tall gal got behind the wheel and I got in beside her.",
+            "act": 0.01638566143810749
+        },
+        {
+            "text": "From December 1915 to May 1916, he had served as commander of the 6th Battalion of the Royal Scots Fusiliers on the Western Front.",
+            "act": 0.015766160562634468
+        },
+        {
+            "text": "\"OK.\" \"Paul.",
+            "act": 0.014857688918709755
+        },
+        {
+            "text": "Cap of sleeve to end of rolled up cuff.",
+            "act": 0.013773279264569283
+        },
+        {
+            "text": "Then the VDI guys said, \"We can fix that.",
+            "act": 0.012980321422219276
+        },
+        {
+            "text": "</description>\n\n  <properties>\n      <tiles.osgi.symbolicName>org.apache.tiles.core</tiles.osgi.symbolicName>\n  </properties>\n\n  <build>\n    <resources>\n      <resource>\n        <directory>src/main/resources</directory>\n        <excludes>\n          <exclude>LICENSE.txt</exclude>\n          <exclude>NOTICE.txt</exclude>\n        </excludes>\n      </resource>\n      <resource>\n        <directory>src/main/resources</directory>\n        <includes>\n          <include>LICENSE.txt</include>\n          <include>NOTICE.txt</include>\n        </includes>\n        <targetPath>META-INF</targetPath>\n      </resource>\n    </resources>\n    <plugins>\n          <plugin>\n            <groupId>org.apache.maven.plugins</groupId>\n            <artifactId>maven-surefire-plugin</artifactId>\n            <configuration>\n              <skipTests>true</skipTests>\n            </configuration>\n          </plugin>\n      </plugins>\n  </build>\n\n  <reporting>\n    <plugins>\n      <plugin>\n        <groupId>net.sf.dtddoc</groupId>\n        <artifactId>dtddoc-maven-plugin</artifactId>\n        <version>1.1</version>\n        <configuration>\n          <docTitle>Tiles Definition File</docTitle>\n        </configuration>\n      </plugin>\n    </plugins>\n  </reporting>\n\n  <dependencies>\n    <dependency>\n      <groupId>org.apache.tiles</groupId>\n      <artifactId>tiles-api</artifactId>\n    </dependency>\n\n    <dependency>\n      <groupId>commons-digester</groupId>\n      <artifactId>commons-digester</artifactId>\n    </dependency>\n\n    <dependency>\n      <groupId>org.slf4j</groupId>\n      <artifactId>jcl-over-slf4j</artifactId>\n    </dependency>\n\n    <dependency>\n      <groupId>org.slf4j</groupId>\n      <artifactId>slf4j-api</artifactId>\n    </dependency>\n\n    <dependency>\n      <groupId>junit</groupId>\n      <artifactId>junit</artifactId>\n      <scope>test</scope>\n    </dependency>\n\n    <dependency>\n      <groupId>org.easymock</groupId>\n      <artifactId>easymock</artifactId>\n      <scope>test</scope>\n    </dependency>\n\n    <dependency>\n      <groupId>org.easymock</groupId>\n      <artifactId>easymockclassextension</artifactId>\n      <scope>test</scope>\n    </dependency>\n\n    <dependency>\n      <groupId>org.apache.shale</groupId>\n      <artifactId>shale-test</artifactId>\n      <scope>test</scope>\n    </dependency>\n\n    <dependency>\n      <groupId>javax.servlet</groupId>\n      <artifactId>servlet-api</artifactId>\n      <scope>test</scope>\n    </dependency>\n  </dependencies>\n\n</project>\n\nA:\n\nThe enforcer plugin reference is contained in the tiles-master pom which is the parent pom of your tiles-parent pom and derived from there.",
+            "act": 0.012968400493264198
+        },
+        {
+            "text": "Trunk pulled Cal to his feet and brought him back into the cargo hold.",
+            "act": 0.01171831227838993
+        },
+        {
+            "text": "After Pablo Sandoval was hit by a pitch, Buster Posey drove an RBI double deep to right that Upton made an awkward attempt on as it bounced up against the wall.",
+            "act": 0.010248953476548195
+        },
+        {
+            "text": "I think they should appoint Shearer as manager.",
+            "act": 0.009640755131840706
+        },
+        {
+            "text": "'I was robbed when I was young and playing for Vitoria, it was my first professional team.",
+            "act": 0.009421775117516518
+        },
+        {
+            "text": "No lo hago como una decisi\u00f3n pol\u00edtica o personal; de hecho, no es algo en lo que piense mucho.",
+            "act": 0.004784861579537392
+        },
+        {
+            "text": "Panelled door flanked by broad stucco pilasters.",
+            "act": 0.004652025178074837
+        },
+        {
+            "text": "\"Honey, pay this woman.\"",
+            "act": 0.004561031237244606
+        },
+        {
+            "text": "See Lampard free, he gave the ball to him.",
+            "act": 0.00431315042078495
+        },
+        {
+            "text": "\"Get your ass up!",
+            "act": 0.003711366793140769
+        },
+        {
+            "text": "You don\u2019t do that.\u201d",
+            "act": 0.0032853351440280676
+        },
+        {
+            "text": "14",
+            "act": 0.003283830126747489
+        },
+        {
+            "text": "Kick the ball towards the middle of Chelsea goalkeeper Peter Cech and failed driven.",
+            "act": 0.002495148917660117
+        },
+        {
+            "text": "The free radial forearm flap is a type C fasciocutaneous flap based on the radial artery along with its vena commitans and superficial forearm vein.",
+            "act": 0.001779557904228568
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

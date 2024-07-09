@@ -1,0 +1,412 @@
+{
+    "index": 568,
+    "label": "Contains detailed numerical metrics",
+    "attributes": "presence of detailed numerical data, inclusion of specific measurements, inclusion of statistical figures, descriptions with quantifiable metrics",
+    "reasoning": "The samples contain detailed numerical data such as heights, weights, times, scores, and other quantifiable metrics. This attribute is very specific and consistently present in the samples, while is absent in the other samples, which consist mainly of conversational dialogue and opinion pieces without quantifiable statistical or descriptive numerical information.",
+    "density": 0.0027711740952164033,
+    "confidence": 31.0,
+    "high_act_samples": [
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.2009314000606537
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.2009314000606537
+        },
+        {
+            "text": "According to Nielsen data, the 2010-11 season ended with a 1.33 national primetime average, up 4 percent over 2009-10.",
+            "act": 0.18683315813541412
+        },
+        {
+            "text": "Fourth round draft pick Jamil Douglas has an outside chance at starting at one of the two vacant guard positions.",
+            "act": 0.1828959435224533
+        },
+        {
+            "text": "Midwest Sec.",
+            "act": 0.1783885657787323
+        },
+        {
+            "text": "Gy\u00f6tr\u0151dnek a n\u00e9gy fal k\u00f6z\u00f6tt az olaszok\n\nA kij\u00e1r\u00e1si tilalmat megszeg\u0151k tov\u00e1bbra is nagy probl\u00e9m\u00e1t jelentenek Olaszorsz\u00e1gban.",
+            "act": 0.17358967661857605
+        },
+        {
+            "text": "A r\u00e9szben lez\u00e1rt r\u00f3mai Leonardo da Vinci rep\u00fcl\u0151t\u00e9ren k\u00e9sz\u00fclt felv\u00e9telek is egym\u00e1s hegy\u00e9n-h\u00e1t\u00e1n szorong\u00f3 utasokat mutattak az elrendelt legal\u00e1bb egym\u00e9teres biztons\u00e1gi t\u00e1vols\u00e1g helyett.",
+            "act": 0.16815640032291412
+        },
+        {
+            "text": "A telefont\u00e1rsas\u00e1gok adatai szerint Mil\u00e1n\u00f3 lakosainak 43 sz\u00e1zal\u00e9ka m\u00e9g mindig \u201et\u00fal nagy t\u00e1vols\u00e1got\u201d tesz meg, vagyis nem a sarki boltba megy.",
+            "act": 0.15935489535331726
+        },
+        {
+            "text": "He\u2019s capable of turning any throw, accurate or wild, into a long gain by using his 6-foot-4 frame and an impressive vertical jump.",
+            "act": 0.15861034393310547
+        },
+        {
+            "text": "Az \u00e9szaki Torton\u00e1ban egy f\u00e9rfi azt mondta, az\u00e9rt megy a v\u00e1ros m\u00e1sik fel\u00e9be v\u00e1s\u00e1rolni, mert egy ottani szupermarketben gy\u0171jti a v\u00e1s\u00e1rl\u00f3i pontokat.",
+            "act": 0.1538483053445816
+        },
+        {
+            "text": "program and internship in mid-May.",
+            "act": 0.14866839349269867
+        },
+        {
+            "text": "New York's preseason credentials were built on two stirring road wins in last year's conference playoffs that sent Gang Green to a surprising appearance in the AFC Championship Game.",
+            "act": 0.14792968332767487
+        },
+        {
+            "text": "A hat\u00e1lyos rendelkez\u00e9sek szerint a kiszabhat\u00f3 b\u00edrs\u00e1g meghaladja a 200 eur\u00f3t, de komolyabb szab\u00e1lys\u00e9rt\u00e9s eset\u00e9n t\u00f6bb h\u00f3nap b\u00f6rt\u00f6nt kock\u00e1ztat a feleslegesen utc\u00e1n tart\u00f3zkod\u00f3.",
+            "act": 0.14699521660804749
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash on Sunday with an impressive 10-yard split of 1.59 seconds.",
+            "act": 0.14120523631572723
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash on Sunday with an impressive 10-yard split of 1.59 seconds.",
+            "act": 0.14120523631572723
+        },
+        {
+            "text": "Hunter - who underwent successful surgery Wednesday on the torn ACL in his left knee - had the advantage of playing in spots and learning behind veteran receivers as a freshman in 2010.",
+            "act": 0.1363459825515747
+        },
+        {
+            "text": "17 F.3d 965 (7th Cir.",
+            "act": 0.12998150289058685
+        },
+        {
+            "text": "Egy \u00e9jjel h\u00e1romkor igazoltatott f\u00e9rfi azt mondta, elromlott a mobiltelefonja, \u00e9s jav\u00edtani viszi \u2013 \u00e1ll az MTI \u00f6sszefoglal\u00f3j\u00e1ban.",
+            "act": 0.1294003129005432
+        },
+        {
+            "text": "; Over-the-knee cut.",
+            "act": 0.1292911320924759
+        },
+        {
+            "text": "A Genovai Egyetem j\u00e1rv\u00e1nyszak\u00e9rt\u0151i szerint ennek ellen\u00e9re az olasz fert\u0151z\u00f6ttek sz\u00e1m\u00e1nak tet\u0151z\u00e9se m\u00e1rcius 23-25-re v\u00e1rhat\u00f3, ez azonban nagyban f\u00fcgg szerint\u00fck az olaszok magatart\u00e1s\u00e1t\u00f3l is, \u00edgy biztosat nem tudni.",
+            "act": 0.127195805311203
+        },
+        {
+            "text": "As a result, more than fifty\npercent of the extra combat power provided by the surge ended up being deployed\noutside Baghdad in al-Anbar Province and the Baghdad Belts.",
+            "act": 0.12667986750602722
+        },
+        {
+            "text": "Playing in his first game since March of 2018 after missing all of last season at Stephen F. Austin with a shoulder injury, the Albuquerque, New Mexico native Holyfield made 7-8 shots from the field and knocked down his only 3-point attempt.",
+            "act": 0.1260463297367096
+        },
+        {
+            "text": "The southpaw became the third Bulldog in three years to be selected on the first day of the draft.",
+            "act": 0.1258935183286667
+        },
+        {
+            "text": "License and registration tax and fee exemption\n\nReserve and active members of the United States armed services who are currently stationed in another state yet who entered active duty in Montana may receive reduced registration fees.",
+            "act": 0.12382474541664124
+        },
+        {
+            "text": "ET), having watched the Houston Rockets' playoff win over the Golden State Warriors.",
+            "act": 0.12376019358634949
+        },
+        {
+            "text": "Himself a top-100 high school recruit, the Chicago native showed to be a legitimate 6-foot-7 and he already has the frame of a player who looks like he\u2019s been in a college strength program for multiple years.",
+            "act": 0.12174658477306366
+        },
+        {
+            "text": "Last summer it struck me.",
+            "act": 0.1198396384716034
+        },
+        {
+            "text": "A szint\u00e9n d\u00e9li Bariban a lakosok kilom\u00e9tereket tesznek meg, hogy olcs\u00f3bb \u00fczletbe menjenek bev\u00e1s\u00e1rolni.",
+            "act": 0.11518160998821259
+        },
+        {
+            "text": "425 U.S. at 91, 96 S.Ct.",
+            "act": 0.11415001004934311
+        },
+        {
+            "text": "Goaltender Jonas Hiller made a full recovery from the vertigo-like symptoms that short-circuited the second half of his 2010-11 season to start a League-high 73 games.",
+            "act": 0.11334586888551712
+        },
+        {
+            "text": "public ReturnType getSource(){\n           // some code\n     }\n}\n);",
+            "act": 0.11315936595201492
+        },
+        {
+            "text": "Eaves will need to be placed on waivers again to be sent down because he has been on the NHL roster for more than 30 days and played more than 10 games since being recalled from Grand Rapids.",
+            "act": 0.10976888239383698
+        },
+        {
+            "text": "A szic\u00edliai Palermo v\u00e1ros\u00e1ban h\u00e1rom f\u00e9rfit b\u00edrs\u00e1goltak meg, mivel azt mondt\u00e1k, kocogni indultak aut\u00f3val, de egyik \u00f6lt\u00f6nyben \u00e9s nyakkend\u0151ben volt, a m\u00e1sik mellett id\u0151s \u00e9desanyja \u00fclt, a harmadik pedig gyerekeit vitte valahova.",
+            "act": 0.10718825459480286
+        },
+        {
+            "text": "He has used his size to bludgeon offensive linemen in practice and blew up a helpless Chicago Bears blocker on a play during the first preseason game.",
+            "act": 0.10654154419898987
+        },
+        {
+            "text": "Adding a top-end talent with the sixth pick in the draft only could accelerate that turnaround.",
+            "act": 0.10527627915143967
+        },
+        {
+            "text": "\u2014 Rami Khalife\n\nCisco training has given me ample exposure to the field.",
+            "act": 0.10278197377920151
+        },
+        {
+            "text": "When the first two seasons of Designated Survivor landed on Netflix, there was a significant increase in the global viewership of the show.",
+            "act": 0.10258553922176361
+        },
+        {
+            "text": "It was during that span in Sunday night's 2-1 overtime victory over the Red Wings that Blackhawks penalty killers muffled four consecutive Red Wings power plays \u2014 including 43 seconds of a two-man advantage for Detroit \u2014 in what was just the latest example of how times have changed for the Hawks while short-handed.",
+            "act": 0.10158061981201172
+        },
+        {
+            "text": "519 U.S. at 331, 117 S.Ct.",
+            "act": 0.10022595524787903
+        },
+        {
+            "text": "VB: Huskers hit past Mavericks to cap Omaha trip with sweep\n\nHusker Annika Albrecht had a match-high 15 kills and a .375 hitting percentage.",
+            "act": 0.09995872527360916
+        },
+        {
+            "text": "As part of the exercise, troops performed urban and tunnel warfare tasks, drilled helicopter landings behind enemy lines and simulated extractions under fire.",
+            "act": 0.099920853972435
+        },
+        {
+            "text": "I created the background for the butterfly in the same way: glued old book\u2019s page on the cardstock and covered with a thin layer of white gesso.",
+            "act": 0.09940909594297409
+        },
+        {
+            "text": "Pullman, 312 U.S. at 501, 61 S.Ct.",
+            "act": 0.09866311401128769
+        },
+        {
+            "text": "Patina is a new technique for me & my colors didn't quite turn out as vivid as I wanted.",
+            "act": 0.09783342480659485
+        },
+        {
+            "text": "399 U.S. at 82, 90 S.Ct.",
+            "act": 0.09739113599061966
+        },
+        {
+            "text": "Its headquarters and headquarters company (HHC) was redesignated from the headquarters and headquarters troop of the 304th Cavalry Group, which had been constituted on 7 October 1946 in the Organized Reserve and activated on 1 November of that year in Boston.",
+            "act": 0.09452038258314133
+        },
+        {
+            "text": "Mko\nMko is Mkrtich Arzumanyan (, born 10 August 1976, Gyumri.",
+            "act": 0.09431104362010956
+        },
+        {
+            "text": "After six games \u2014 all victories \u2014 to start 2013, the Hawks have yielded one power-play goal in 23 times short-handed.",
+            "act": 0.0906929150223732
+        },
+        {
+            "text": "2d 475 (Miss.",
+            "act": 0.08954958617687225
+        },
+        {
+            "text": "/*error*/, true /*isHisto*/);\n    const auto &y = workspace->y(0);\n\n    // WHEN\n    auto backgroundStrategy = AbsoluteBackgroundStrategy(2.",
+            "act": 0.08811546862125397
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

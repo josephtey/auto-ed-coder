@@ -1,0 +1,412 @@
+{
+    "index": 323,
+    "label": "Technical programming discussions",
+    "attributes": "contains technical instructions, includes programming languages, involves problem-solving, features code snippets, structured and segmented text, references to variables and loops",
+    "reasoning": "The positive samples contain a mixture of technical instructions, programming issues, and dialogs involving problem-solving. They include specific technical terms and programming languages like JavaScript, as well as references to variables, loops, and user prompts. The language is often interrupted or segmented by code snippets, making the text more technical and structured. Negative samples, on the other hand, primarily feature general discussions, opinions, and conversational language without technical jargon or code.",
+    "density": 0.0027996450619480785,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.226213738322258
+        },
+        {
+            "text": "\u041f\u044b\u0442\u0430\u043b\u0441\u044f \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0442\u044c \u0438 \u0432 catch \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c continue, \u043d\u043e \u0431\u0435\u0437\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043d\u043e.",
+            "act": 0.17150592803955078
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.17035900056362152
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.16746105253696442
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.16294094920158386
+        },
+        {
+            "text": "Much like safe-sex.",
+            "act": 0.16143523156642914
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.16069729626178741
+        },
+        {
+            "text": "Something hard.",
+            "act": 0.1580926924943924
+        },
+        {
+            "text": "When I turned around to tell her to stop, she claimed I grabbed her breast.",
+            "act": 0.15699921548366547
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043c\u043e\u0436\u043d\u043e \u043b\u044e\u0431\u043e\u0435 \u0447\u0438\u0441\u043b\u043e, \u0442\u043e \u043f\u043e\u043c\u0435\u043d\u044f\u0439\u0442\u0435 \u043f\u0435\u0440\u0435\u043c\u0435\u043d\u043d\u0443\u044e \u043d\u0430 Integer \u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u044f\u0439\u0442\u0435 \u0432 \u0443\u0441\u043b\u043e\u0432\u0438\u0438 \u0446\u0438\u043a\u043b\u0430 \u0442\u043e \u0447\u0442\u043e \u043e\u043d\u0430 null.",
+            "act": 0.15624825656414032
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.1502702683210373
+        },
+        {
+            "text": "Nixon said.",
+            "act": 0.14342127740383148
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043c\u043d\u0435 \u044d\u0442\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c?",
+            "act": 0.1396118849515915
+        },
+        {
+            "text": "Correct again.",
+            "act": 0.135604128241539
+        },
+        {
+            "text": "Occasionally, passive aggressive even\u2026sometimes to a fault.",
+            "act": 0.13534961640834808
+        },
+        {
+            "text": "Now, I added in additional buttons, \"Again?\"",
+            "act": 0.13372017443180084
+        },
+        {
+            "text": "Supernatant containing the RNA was then ethanol precipitated with the aid of 1 \u00b5g glycogen.",
+            "act": 0.12345126271247864
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.114188551902771
+        },
+        {
+            "text": "Q:\n\n\u041f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438 \u0432 JavaScript\n\n\u0423 \u043c\u0435\u043d\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u043e\u043b\u0436\u043d\u0430 \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0435 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b.",
+            "act": 0.1125870794057846
+        },
+        {
+            "text": "The absence of an express \u201cquid pro quo\u201d bargain does not, however,\npreclude a finding of coercion.",
+            "act": 0.11120137572288513
+        },
+        {
+            "text": "\u0421\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e, \u043d\u0443\u0436\u043d\u043e \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0443 \u043d\u0430 \u0440\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e undefined: word[i-1] == undefined\n\u041f\u0440\u0438\u043c\u0435\u0440:\n\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.10743297636508942
+        },
+        {
+            "text": "280 \u00b5L of cold 100% ethanol was then added to precipitate the RNA (ice for\u00a0\u226530 min).",
+            "act": 0.10488149523735046
+        },
+        {
+            "text": "opposite.\"",
+            "act": 0.10374267399311066
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.10295023769140244
+        },
+        {
+            "text": "By separating \"well\" from \"regulated,\" the PLE put the cart before the horse in the following.",
+            "act": 0.10183435678482056
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.10135886073112488
+        },
+        {
+            "text": "This credibility determination also is accorded deference.",
+            "act": 0.1012427881360054
+        },
+        {
+            "text": "\u041f\u0438\u043d\u0433\u043e\u0432\u0430\u043b \u0438 \u0442\u0440\u0430\u0441\u0441\u0435\u0440\u043e\u0432\u0430\u043b - \u043e\u0448\u0438\u0431\u043e\u043a \u0438\u043b\u0438 \u043f\u043e\u0442\u0435\u0440\u044c \u043d\u0435\u0442.",
+            "act": 0.1011221706867218
+        },
+        {
+            "text": "I grabbed the first bag of cash, said \u201ccoming up\u201d and slowly brought the bag to the surface and set it on the ground.",
+            "act": 0.0996401309967041
+        },
+        {
+            "text": "Deep, calming.",
+            "act": 0.09921694546937943
+        },
+        {
+            "text": "to the effect that Off.",
+            "act": 0.09901686757802963
+        },
+        {
+            "text": "When he hauled in the metaphorical table, I rolled my eyes.",
+            "act": 0.09769333153963089
+        },
+        {
+            "text": "\u041a\u0430\u043a \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0438\u043b\u0438 \u0443\u0437\u043d\u0430\u0442\u044c \u0432 \u0447\u0451\u043c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0430?",
+            "act": 0.09600582718849182
+        },
+        {
+            "text": "\u0412\u044b\u0432\u043e\u0434\u044f \u043b\u043e\u0433\u0438 \u043d\u0430 \u044d\u043a\u0440\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0430 (journalctl -f) \u043e\u0448\u0438\u0431\u043e\u043a \u043d\u0435\u0442.",
+            "act": 0.09428636729717255
+        },
+        {
+            "text": "\u201cWrong.",
+            "act": 0.09143982082605362
+        },
+        {
+            "text": "In such a situation, the ice sheet or ice layer prevents these persons from getting to above the ice sheet.",
+            "act": 0.09015317261219025
+        },
+        {
+            "text": "Q:\n\n\u0413\u0434\u0435 \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043b\u043e\u0433\u0438 \u0440\u0430\u0431\u043e\u0442\u044b NodeJS-PushServer?",
+            "act": 0.08948686718940735
+        },
+        {
+            "text": "Comments\n\ncomments",
+            "act": 0.08884574472904205
+        },
+        {
+            "text": "\"Can anyone here offer a grammatical case that the prefatory comment here limits the operative command ...\"?",
+            "act": 0.08884330838918686
+        },
+        {
+            "text": "\u201cWe\u2019d look forward to playing Xavier,\u201d Sullivan said.",
+            "act": 0.08812595158815384
+        },
+        {
+            "text": "GULP!",
+            "act": 0.08495143055915833
+        },
+        {
+            "text": "QUESTION: Right.",
+            "act": 0.08477309346199036
+        },
+        {
+            "text": "Traits\n\nTraits are treated as classes.",
+            "act": 0.08445568382740021
+        },
+        {
+            "text": "Luke chuckled.",
+            "act": 0.08367785811424255
+        },
+        {
+            "text": "A fair comment.",
+            "act": 0.0821639746427536
+        },
+        {
+            "text": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0435\u0442\u044c.",
+            "act": 0.08109970390796661
+        },
+        {
+            "text": "\u041d\u0430\u0434\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0442\u0430\u043a, \u0447\u0442\u043e\u0431\u044b \u0435\u0449\u0435 \u043f\u0435\u0440\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e \u0431\u044b\u043b\u043e \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 :\nvar word = prompt('\u041a\u0430\u043a\u0438\u0435 \u0441\u043b\u043e\u0432\u0430 \u0432\u0430\u043c \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0431\u0443\u043a\u0432\u044b?",
+            "act": 0.08079349994659424
+        },
+        {
+            "text": "\u201cAt Christmas time at the Valley Mall, it was incredible,\u201d Myers said of the number and aggressiveness of the panhandlers.",
+            "act": 0.07928740233182907
+        },
+        {
+            "text": "word[i].toUpperCase() : word[i];\n}\nalert(wordEnd);\n\n\u041d\u0430\u0434\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442 \u0443\u0441\u043b\u043e\u0432\u0438\u0435, \u0435\u0441\u0442\u044c \u043b\u0438 \u0447\u0442\u043e-\u0442\u043e \u0432\u043e\u043e\u0431\u0449\u0435 \u0434\u043e \u0431\u0443\u043a\u0432\u044b, \u0432\u043e\u0442 \u044f \u0438 \u0434\u0443\u043c\u0430\u044e \u043a\u0430\u043a \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442\u0441\u044f \u043f\u0443\u0441\u0442\u043e\u0442\u0430 \u0434\u043e \u0441\u0442\u0440\u043e\u043a\u0438.",
+            "act": 0.07909369468688965
+        },
+        {
+            "text": "2 Contextually get to the \u201cCustomize\u201d choice.",
+            "act": 0.07890446484088898
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 272,
+    "label": "Informative and factual descriptions",
+    "attributes": "Factual or descriptive content, specific topics or entities, geographical locations, historical facts, company details, product descriptions, statistical information",
+    "reasoning": "I analyzed the text within the samples and observed that the samples in the first set often included factual, descriptive, or informative content related to specific topics, entities, or events. These included geographical locations, historical facts, company specifics, product descriptions, and statistical information. On the other hand, the samples in the second set primarily contained anecdotal or opinion-based statements, informal language, questions, and conversations, with less focus on providing factual or informative content.",
+    "density": 0.0019028096099003042,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "It is the main geographical feature of Manitoba's Clearwater Lake Provincial Park, located northeast of The Pas in western Manitoba.",
+            "act": 0.2321266382932663
+        },
+        {
+            "text": "\"I don't know how I got there.",
+            "act": 0.16430726647377014
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.14205537736415863
+        },
+        {
+            "text": "The building's primary fa\u00e7ade is the southwest corner, which is angled at 45 degrees.",
+            "act": 0.13165892660617828
+        },
+        {
+            "text": "The town is at the northwest corner of the county and contains the village of Sidney.",
+            "act": 0.12672270834445953
+        },
+        {
+            "text": "\u201cHonestly, I didn\u2019t know what to expect,\u201d N.C. State forward Richard Howell said.",
+            "act": 0.12515154480934143
+        },
+        {
+            "text": "SPONSORED\n\nEurope accounted for around $4.4 billion of Humira\u2019s global sales in the 12 months to June 30, 2018, according healthcare data consultancy IQVIA.",
+            "act": 0.12486162036657333
+        },
+        {
+            "text": "The chain of islands stretching across some 600,000 sq km (232,000 sq miles) of ocean is a strategic gateway to the South Pacific and was the scene of some of the fiercest fighting in World War II.",
+            "act": 0.12233734875917435
+        },
+        {
+            "text": "His regular position was as a forward.",
+            "act": 0.11946585029363632
+        },
+        {
+            "text": "The chain of islands stretching across some 600,000 sq km (232,000 sq miles) of ocean is a strategic gateway to the South Pacific and was the scene of some of the fiercest fighting in World War II.",
+            "act": 0.11654495447874069
+        },
+        {
+            "text": "According to the United States Census Bureau, the city has a total area of , of which  is land and  is water.",
+            "act": 0.11634816974401474
+        },
+        {
+            "text": "What is s?",
+            "act": 0.11476213485002518
+        },
+        {
+            "text": "It would be earning over $21,500 in annual dividend income.",
+            "act": 0.11461032927036285
+        },
+        {
+            "text": "His Regal Entertainment is the nation\u0092s largest movie-theater chain, with about 18 percent of all U.S. indoor screens.",
+            "act": 0.1129312813282013
+        },
+        {
+            "text": "The present inventive concept relates to a voltage dropping apparatus, a voltage switching apparatus, and an internal voltage supply apparatus using the same.",
+            "act": 0.10620298981666565
+        },
+        {
+            "text": "According to the United States Census Bureau, the city has a total area of , over 97% of it land.",
+            "act": 0.10016622394323349
+        },
+        {
+            "text": "The Intel Xeon 5160, will simply be the most powerful server CPU this year.",
+            "act": 0.09736435860395432
+        },
+        {
+            "text": "Exactly what is the message being sent to these so-called state representatives.",
+            "act": 0.09701704233884811
+        },
+        {
+            "text": "According to the United States Census Bureau, the town has a total area of , of which  is land and , or 1.33%, is water.",
+            "act": 0.09695006906986237
+        },
+        {
+            "text": "They gained $US140.5 billion, exceeding the $US103 billion inflow in 1986, it said.",
+            "act": 0.09579192847013474
+        },
+        {
+            "text": "Tiban\u00e1\n\nTiban\u00e1 is a town and municipality in the Colombian Department of Boyac\u00e1, part of the subregion of M\u00e1rquez Province.",
+            "act": 0.0955490842461586
+        },
+        {
+            "text": "A Xeon based on the Core architecture: Woodcrest.",
+            "act": 0.09504754096269608
+        },
+        {
+            "text": "Geographically, Asia-Pacific is expected to lead the market during the next five years.",
+            "act": 0.09269963204860687
+        },
+        {
+            "text": "It straddles the Excelsior, Portola, and Visitacion Valley.",
+            "act": 0.08895683288574219
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.0878315269947052
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.0878315269947052
+        },
+        {
+            "text": "The Sharks took a 1-0 lead when defenseman Alexei Semenov came out of the penalty box, carried the puck deep into the Dallas zone and threw a cross-ice pass that forward Curtis Brown fired at Dallas goalie Marty Turco.",
+            "act": 0.08751680701971054
+        },
+        {
+            "text": "Numerous peaks are within a short distance of Bishop, including Mount Humphreys (13,986\u00a0ft.), to the west, White Mountain Peak (14,242\u00a0ft.) in the northeast, and pyramidal Mount Tom (13,658\u00a0ft.) northwest of town.",
+            "act": 0.08428080379962921
+        },
+        {
+            "text": "The tonlet covers the upper part of the fully-enclosing, articulated breaches that now lacks its codpiece.",
+            "act": 0.08393092453479767
+        },
+        {
+            "text": "As VP of one large media operation, his employment revenue alone approached $2.5 million.",
+            "act": 0.08392072468996048
+        },
+        {
+            "text": "An amazing insight into the entrepreneurial approach to business was outlined by Sculley in his book, \u201cOdyssey: Pepsi to Apple\u201d.",
+            "act": 0.08143312484025955
+        },
+        {
+            "text": "The new massive outer wall sat in a deep foundation trench 2.7m wide penetrating the sandstone bedrock to a depth of over 1.3m.",
+            "act": 0.08122653514146805
+        },
+        {
+            "text": "Beyond the foyer, where the building's three wings come together, is the school's 500-seat auditorium.",
+            "act": 0.08088155835866928
+        },
+        {
+            "text": "Along with the railway crossing immediately to the south, and another on the northern shore of Lake Nipigon, this forms the narrowest bottleneck in Canada between the Atlantic and Pacific oceans.",
+            "act": 0.08011956512928009
+        },
+        {
+            "text": "First United has recently grown from having combined assets of over $6 billion to having almost $8 billion in combined assetsand is the 7th largest bank in its home state of Oklahoma.",
+            "act": 0.07927259057760239
+        },
+        {
+            "text": "The cores comprise the central processing logic of a computing system.",
+            "act": 0.07521317899227142
+        },
+        {
+            "text": "However, he was also\nengaged in a fraudulent scheme to charge some customers more than the amount\nauthorized by state law for document and title fees.",
+            "act": 0.07475810497999191
+        },
+        {
+            "text": "All told, the scam cost customers between $400,000 and $1 million, according to the written agreement.",
+            "act": 0.07436277717351913
+        },
+        {
+            "text": "The Ducks' biggest scorer outside the top line and Selanne was Andrew Cogliano's 13 goals.",
+            "act": 0.07400587946176529
+        },
+        {
+            "text": "The stem wall foundation was 6' in height with 245' of perimeter distance.",
+            "act": 0.07398591190576553
+        },
+        {
+            "text": "Antoine and freshman Eyin Cole have stood out early and will have a chance at earning first-team snaps in Saturday\u2019s scrimmage at FAU Stadium.",
+            "act": 0.07368896156549454
+        },
+        {
+            "text": "ORGANIZATION AND PHYSICAL APPEARANCE: The major portion of the guide, which develops the unit, is laid out in three columns, one each for topics, activities, and materials.",
+            "act": 0.07348459213972092
+        },
+        {
+            "text": "In goal will be Allan McGregor, an excellent keeper.",
+            "act": 0.07281050831079483
+        },
+        {
+            "text": "McCoy was the second player under Dyer\u2019s tutelage to reach and pass 1,000 career points.",
+            "act": 0.07278069108724594
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.07203947007656097
+        },
+        {
+            "text": "He is the picture of consistency, and as the top returning target for Jameis Winston, should reach 1,000 yards again.",
+            "act": 0.07135230302810669
+        },
+        {
+            "text": "1,000 systems: 12.5 million interactions.",
+            "act": 0.07076826691627502
+        },
+        {
+            "text": "During his 10-year tenure, Capital One\u2019s sales grew revenue to $11 billion annually and a market cap of $18 billion.",
+            "act": 0.0697312131524086
+        },
+        {
+            "text": "Yet its capital consisted of only $5,000.",
+            "act": 0.06967424601316452
+        },
+        {
+            "text": "Eight of these companies are dividend champions whose annual dividend growth rate exceeded 6%/year over the past 1, 3, 5, and 10 years, yield as above 2.50% and selling for less than 20 times earnings.",
+            "act": 0.06883808225393295
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

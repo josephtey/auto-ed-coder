@@ -1,0 +1,412 @@
+{
+    "index": 329,
+    "label": "Structured informative texts with context",
+    "attributes": "structured content, contextually complete information, news excerpts, procedural instructions, historical accounts",
+    "reasoning": "Upon examining both sets of samples, the samples contain many complete, standalone sentences that vary greatly in topic and context. They consist of news excerpts, detailed procedural instructions, historical accounts, and other specific contexts. In contrast, the other samples are mostly opinionated statements, conversational dialogues, and fragmentary sentences with a different tone, often informal or personal. The most specific attribute identified is that the samples contain structured, contextually complete information in the form of news, instructions, historical accounts, or procedural text.",
+    "density": 0.0002325128949753489,
+    "confidence": 38.0,
+    "high_act_samples": [
+        {
+            "text": "remand denied May 10, 1984).",
+            "act": 0.06314095854759216
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.05543183907866478
+        },
+        {
+            "text": "Now wake up, process is almost done.",
+            "act": 0.054147906601428986
+        },
+        {
+            "text": "Many thanks!",
+            "act": 0.05116026848554611
+        },
+        {
+            "text": "Obama was just 30-odd delegates short of the nomination as the day began, and aides scrambled to bring superdelegates on board to meet the quota so he could celebrate his remarkable breakthrough.",
+            "act": 0.04992111399769783
+        },
+        {
+            "text": "You are experienced with a modern frontend stack including React, Redux, Webpack, ES6, CSS/HTML.",
+            "act": 0.04886113852262497
+        },
+        {
+            "text": "Cuba began withdrawing the first of its troops on Jan. 10 amid official fanfare.",
+            "act": 0.04736333340406418
+        },
+        {
+            "text": "EXIT DATE APPROACHING FAST\n\nThe chamber has already twice voted it down heavily, with some saying May\u2019s deal would leave Britain too closely aligned with the EU, others arguing that it would not be close enough.",
+            "act": 0.04546263813972473
+        },
+        {
+            "text": "\u201cWe could consider a short extension conditional on a positive vote on the Withdrawal Agreement in the House of Commons,\u201d summit chairman Donald Tusk said in a letter inviting all 28 EU national leaders to Brussels talks.",
+            "act": 0.04465891793370247
+        },
+        {
+            "text": "James Clinton (soldier)\n\nJames Clinton ( \u2013 24 January 1718) was an Irish soldier and politician who sired the American branch of the prominent Clinton family including 4th Vice President of the United States George Clinton and Revolutionary War Major General James Clinton.",
+            "act": 0.04240007698535919
+        },
+        {
+            "text": "Father, we cast our staffs down before you.",
+            "act": 0.042166270315647125
+        },
+        {
+            "text": "Allow to return to a boil or simmer.",
+            "act": 0.0409839004278183
+        },
+        {
+            "text": "Never would.",
+            "act": 0.03980585187673569
+        },
+        {
+            "text": "Haiti was asked to provide security and freedom of movement to United Nations personnel, urging the conclusion of a Status of Mission agreement.",
+            "act": 0.03251870721578598
+        },
+        {
+            "text": "19 Quench not the\nSpirit.",
+            "act": 0.03237491846084595
+        },
+        {
+            "text": "Home of President John Tyler, Sherwood Forest is the longest frame dwelling in America and is still owned by Tyler's descendants.",
+            "act": 0.031691744923591614
+        },
+        {
+            "text": "(Knock it off.",
+            "act": 0.030476929619908333
+        },
+        {
+            "text": "Candidates will have completed a 2-4 year residency in Pediatrics.",
+            "act": 0.02508946694433689
+        },
+        {
+            "text": "*'; // will list ALL files\n?> \n\n<ul> <?php foreach (glob($dir .",
+            "act": 0.0249414574354887
+        },
+        {
+            "text": "1995, pet denied,\nuntimely filed).",
+            "act": 0.01811038888990879
+        },
+        {
+            "text": "Round q to 3 dps.",
+            "act": 0.016405882313847542
+        },
+        {
+            "text": "\u201cThe test demonstrated the United States\u2019 commitment for the protection of Israel as well as the interoperability between the United States and Israeli integrated defense system architecture,\u201d the Defense Ministry stated after the drill.",
+            "act": 0.016230838373303413
+        },
+        {
+            "text": "17 Pray without\nceasing.",
+            "act": 0.01616312749683857
+        },
+        {
+            "text": "20\n\f                                    DISPOSITION\n      The judgment is affirmed.",
+            "act": 0.015847476199269295
+        },
+        {
+            "text": "$file ?>\"><?php echo basename($file); ?></a></li>\n\n<?php } ?> </ul>",
+            "act": 0.014161774888634682
+        },
+        {
+            "text": "Must have a 3.0 or higher and enrolled in an accredited community college or undergraduate degree program.",
+            "act": 0.014057068154215813
+        },
+        {
+            "text": "Over 50 people have been rescued so far, as ambulances and helicopters arrived to continue the search for survivors and bodies of the victims.",
+            "act": 0.013411488384008408
+        },
+        {
+            "text": "Reporters were let into H-157 to confirm that the bill was not being held there.",
+            "act": 0.012103931978344917
+        },
+        {
+            "text": "\"You mustn't return to the city.\"",
+            "act": 0.011727223172783852
+        },
+        {
+            "text": "The State Department said the five-minute call included discussions of both Ukraine and Gaza.",
+            "act": 0.011073002591729164
+        },
+        {
+            "text": "You will join me as so many have done to date.",
+            "act": 0.010881448164582253
+        },
+        {
+            "text": "Posts 228 may extend and contact lid 214 to support lid 214 and to prevent lid 214 from contacting circuit board 216.",
+            "act": 0.009618416428565979
+        },
+        {
+            "text": "On 1 December, Hollande became the first incumbent French president ever to announce that he would not run for a second term, leaving Valls free to announce his bid.",
+            "act": 0.006404259707778692
+        },
+        {
+            "text": "While announcing the withdrawal, US Secretary of State Pompeo stated that Russia\u2019s violations put millions of Europeans and Americans at greater risk, and speaks of the unity among the US\u2019 allies in support for US withdrawal.",
+            "act": 0.005797532852739096
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.005565823521465063
+        },
+        {
+            "text": "EU supporters hope a longer delay could pave the way for a new vote in Britain or a reversal of May\u2019s strategy to leave the EU\u2019s single market and customs union, a policy that has exposed intractable differences over how to handle the Irish border.",
+            "act": 0.004880351480096579
+        },
+        {
+            "text": "Last season with the Rockies, De La Rosa was 8-7 with a 4.22 ERA in 121.2 IP (20 starts), along with a K:BB of 113:55.",
+            "act": 0.004744098987430334
+        },
+        {
+            "text": "This meant one would be closed and treating casualties for evacuation by train or ambulance to the Base Area, whilst the other would be empty and readying itself to receive new casualties.",
+            "act": 0.004649353679269552
+        },
+        {
+            "text": "*]{} [**2006**]{}, [*132*]{}, 117\u2013123.",
+            "act": 0.004529034253209829
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.004423887934535742
+        },
+        {
+            "text": "Obama is taking his \u201cvictory\u201d lap, making his \u201cfarewell\u201d speeches.",
+            "act": 0.004301988985389471
+        },
+        {
+            "text": "At VIP House The Garden guests will find a 24-hour front desk, a garden and a terrace.",
+            "act": 0.004281552042812109
+        },
+        {
+            "text": "(Ibid.",
+            "act": 0.003817157354205847
+        },
+        {
+            "text": "21 Prove all\nthings; hold fast that which is good.",
+            "act": 0.0037892027758061886
+        },
+        {
+            "text": "\u201cWe have confirmed it.",
+            "act": 0.0009755506180226803
+        },
+        {
+            "text": "But an explanation, along with an apology is most likely all it will take to clear up a false positive.",
+            "act": 0.0007562837563455105
+        },
+        {
+            "text": "Always has.",
+            "act": 0.0006990893743932247
+        },
+        {
+            "text": "At stake would then be a \u201cno-deal\u201d Brexit or a much longer extension to give the British parliament time to find a notional consensus approach.",
+            "act": 0.00021629175171256065
+        },
+        {
+            "text": "Raising the stakes, France threatened to reject May\u2019s request and the EU\u2019s executive said Britain had to be out by May 23 to avoid having to take part in European Parliament elections.",
+            "act": 3.2701995223760605e-05
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

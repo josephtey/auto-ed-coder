@@ -1,0 +1,412 @@
+{
+    "index": 22,
+    "label": "Detailed and specific content",
+    "attributes": "detailed references, specific subjects, domain-specific terminology, technical terminology, proper nouns, comprehensive information",
+    "reasoning": "Upon examining the texts within both sets of samples, I observed that the samples exhibit detailed and specific references to various subjects ranging from historical anecdotes, colorful storytelling, explicit technical descriptions, to providing advice or opinions on diverse topics. These samples often contain domain-specific jargon, proper nouns, technical terminology, and comprehensive information snippets. On the other hand, the other set of samples generally lack these detailed references and include general discussions, reflections, or brief and incomplete thoughts.",
+    "density": 0.0015374322035104702,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "\"Wait a bit till the second Billy Goat Gruff comes.",
+            "act": 0.1700497418642044
+        },
+        {
+            "text": "Give me a Springfield xDM with either Buffalo Bore or Corbon +P 115g hollowpoints and I'll go up against the Jack O'Connor theory anyday of the week.",
+            "act": 0.1261506974697113
+        },
+        {
+            "text": "They are also locked in lockfiles.",
+            "act": 0.12139085680246353
+        },
+        {
+            "text": "They are also locked in lockfiles.",
+            "act": 0.12139085680246353
+        },
+        {
+            "text": "As you've noted, the pesky Spartans have given the Irish fits.",
+            "act": 0.11783622950315475
+        },
+        {
+            "text": "You know as well as I do they were\nscamps, and got their ears pulled more than once.",
+            "act": 0.11597330123186111
+        },
+        {
+            "text": "The site is for information and entertainment purposes only.",
+            "act": 0.10972385853528976
+        },
+        {
+            "text": "The IC 100 comprises input terminals 101, output terminals 102 and an internal logic 111, as a basic constitution.",
+            "act": 0.10609238594770432
+        },
+        {
+            "text": "The driving TFT \u201cDTr\u201d is electrically connected to the switching TFT \u201cSTr\u201d.",
+            "act": 0.10215941071510315
+        },
+        {
+            "text": "The new Facebook\n\n______________________End_______________________",
+            "act": 0.10173138231039047
+        },
+        {
+            "text": "Flintlocks are also unreliable, being inclined to misfire.",
+            "act": 0.09835328906774521
+        },
+        {
+            "text": "TRYING TO SHUT ME UPSome of you may recall the attempts by Mensinger and his pal, Mayor Pro Tem Jim Righeimer, to intimidate me a few years ago.",
+            "act": 0.09644296765327454
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.09344897419214249
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.09344897419214249
+        },
+        {
+            "text": "dating bone fractures Assaulted and rude, Orin brandished his tweezers or maximized his fine.",
+            "act": 0.09328669309616089
+        },
+        {
+            "text": "P6 and P7 primers were utilized to amplify the vector for Gibson assembly.",
+            "act": 0.08678078651428223
+        },
+        {
+            "text": "finallyhappy\n\nThey will continue- those with any intelligence sucker the morons.",
+            "act": 0.08549164980649948
+        },
+        {
+            "text": "I reside in Pittsburgh, Pennsylvania with my husband, our two sons, and Golden Retriever.",
+            "act": 0.08526203036308289
+        },
+        {
+            "text": "The natural beauty of the forest and the wetlands is enhanced by two creeks that wander throughout, as well as numerous ponds and Ohio Valley sand-filled bunkers that await any errant strokes.",
+            "act": 0.08164288103580475
+        },
+        {
+            "text": "I've got two spears,\nAnd I'll poke your eyeballs out at your ears;\nI've got besides two curling-stones,\nAnd I'll crush you to bits, body and bones.",
+            "act": 0.08143419772386551
+        },
+        {
+            "text": "[@CR105]) are prevalent in Malaysia.",
+            "act": 0.08117600530385971
+        },
+        {
+            "text": "I hope folks saw that.",
+            "act": 0.07845240086317062
+        },
+        {
+            "text": "\u201cYou really see their entire visage change.",
+            "act": 0.07778752595186234
+        },
+        {
+            "text": "Ladies, the bathrooms are minimal at best.",
+            "act": 0.07350827008485794
+        },
+        {
+            "text": "The Sisters of the Valley did, and these nuns are pretty cool in my book.",
+            "act": 0.07097335904836655
+        },
+        {
+            "text": "And if you thought Trump stiffed the poor suckers who signed up for his \u201cuniversity,\u201d wait till you see how he treats some of our oldest allies.",
+            "act": 0.0691857561469078
+        },
+        {
+            "text": "\"She let me find her, I'm gonna cut her titty off.\"",
+            "act": 0.06821326166391373
+        },
+        {
+            "text": "_______________________.",
+            "act": 0.06805030256509781
+        },
+        {
+            "text": "The Brazilian now owns 24 tour-level titles in total, including seven at the Masters 1000 level.",
+            "act": 0.06783091276884079
+        },
+        {
+            "text": "The \u201cnational car\u201d dream is nothing new to Malaysians.",
+            "act": 0.06515375524759293
+        },
+        {
+            "text": "Measuring 92mm across at the top, the Monster 90 is paired up with a 92mm fan\nwhich is not exactly standard fare.",
+            "act": 0.06508376449346542
+        },
+        {
+            "text": "CapeClod\n\nFucking bastards.",
+            "act": 0.06505945324897766
+        },
+        {
+            "text": "Receive access to ALL of our EXCLUSIVE bonus audio content \u2013 including \u201cConspiracy Corner\u201d, \u201cDegenerate Gamblers\u201d and the \u201cLeague of Liberty Podcast\u201d by joining the Lions of Liberty Pride and supporting us on Patreon!",
+            "act": 0.0637899860739708
+        },
+        {
+            "text": "In addition, TDLs with memory for HSA were retained in the BM of F1 hybrids.",
+            "act": 0.062456585466861725
+        },
+        {
+            "text": "I would hope people key into that.",
+            "act": 0.061560072004795074
+        },
+        {
+            "text": "Still wanted by middle aged hippies, they survive the daily grind by having a bit of laugh as retro game bloggers.",
+            "act": 0.06133683770895004
+        },
+        {
+            "text": "The main thing is these three are off the street\u201d.",
+            "act": 0.0598827600479126
+        },
+        {
+            "text": "Services \n\nEuskotren operates several public transportation services; including commuter rail, inter-city rail, urban rail transit and public bus services as well as freight rail transport.",
+            "act": 0.059472449123859406
+        },
+        {
+            "text": "Certainly, the Tin Man and Lion hated to see the demise of their friend, but hey, it\u2019s good to bealive.",
+            "act": 0.059430502355098724
+        },
+        {
+            "text": "Oakton benefits from the incredible public park system run by the Fairfax County Park Authority, with Difficult Run Stream Valley Park as well as Oak Marr Park, Golf and Rec Center.",
+            "act": 0.058961234986782074
+        },
+        {
+            "text": "Nobody understands Lewandowski more than I do, so I think he'll do really excellent kicking for them.",
+            "act": 0.05763684958219528
+        },
+        {
+            "text": "However, \u201cthey\u2019re functional, but not stiff\u201d,\njust like us!",
+            "act": 0.056660450994968414
+        },
+        {
+            "text": "Sometimes our LO say they have pain - and they might.",
+            "act": 0.05647910758852959
+        },
+        {
+            "text": "Bell said she recognized Warren and the rifle he was cradling.",
+            "act": 0.056222207844257355
+        },
+        {
+            "text": "The spring bellows is bent in a circular arc, in order to act in conjunction with a swivel bracket with the cylindrical chamber acting as a shock-absorbing element.",
+            "act": 0.055389635264873505
+        },
+        {
+            "text": "_______\n\n* If you find the ancient technology references here puzzling, I hope you can find a parent and ask them.",
+            "act": 0.055320583283901215
+        },
+        {
+            "text": "GIANT OTTER(Pteronura brasiliensis)\u2013 A group of these majestic creatures seen at Ja\u00fa National Park.",
+            "act": 0.055059172213077545
+        },
+        {
+            "text": "Liberal bullies are as nasty as Trumpists.",
+            "act": 0.05426175892353058
+        },
+        {
+            "text": "Talk to our neighbors in South America, for instance, and you will hear about the nasty \u201cgringo,\u201d more than you will want to take in.",
+            "act": 0.05312251299619675
+        },
+        {
+            "text": "This is more than double AMD\u2019s 2x1MB L2 offered on their Opteron 285 and also are non-unified, in that each CPU core has its own L2 cache.",
+            "act": 0.0530145987868309
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

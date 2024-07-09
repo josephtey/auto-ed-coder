@@ -1,0 +1,412 @@
+{
+    "index": 278,
+    "label": "Formal descriptive text with details",
+    "attributes": "formal and structured style, detailed and specific information, technical jargon, architectural and historical references, specific measurements and descriptions",
+    "reasoning": "The texts within the samples exhibit a formal, structured style and are often descriptive in nature, providing detailed, specific information about objects, events, or characteristics. They contain technical jargon, architectural terms, historical references, and specific measurements. Furthermore, they often describe elements related to construction, historical facts, technical specifications, or detailed observations. In contrast, the other samples tend to be conversational, opinionated, and less structured. They often include informal language, personal opinions, conversational interruptions, and subjective commentary.",
+    "density": 0.006956406204772683,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "Under small gable casement window and panelled door with semi-circular fanlight.",
+            "act": 0.4747922122478485
+        },
+        {
+            "text": "Design and development\nThe P.148 was an all-metal low-wing cantilever monoplane with fixed tailwheel landing gear.",
+            "act": 0.34378722310066223
+        },
+        {
+            "text": "Low pitch gable end slate roof.",
+            "act": 0.32302233576774597
+        },
+        {
+            "text": "Under larger gable casement in architrave surround on first floor.",
+            "act": 0.2971492111682892
+        },
+        {
+            "text": "Ground floor has recessed sash to east and casement to north.",
+            "act": 0.2955133318901062
+        },
+        {
+            "text": "Small keyhole feature detail at centre front.",
+            "act": 0.2703903615474701
+        },
+        {
+            "text": "First floor has two sash windows with keystones, ground floor has tripartite window with rusticated dividing piers.",
+            "act": 0.2393541932106018
+        },
+        {
+            "text": "The footrest 4 is mounted on the lower frame section.",
+            "act": 0.23411206901073456
+        },
+        {
+            "text": "History\nA church at the site is documented since 1455.",
+            "act": 0.23106037080287933
+        },
+        {
+            "text": "Large windows on the second floor are topped by a series of stone lancet arches supported by stone corbels.",
+            "act": 0.2267814725637436
+        },
+        {
+            "text": "The tail was composed of a median part and a terminal part.",
+            "act": 0.22491364181041718
+        },
+        {
+            "text": "Porch to centre with balustraded parapet.",
+            "act": 0.22248110175132751
+        },
+        {
+            "text": "Skirt has a kick pleat at the centre back hem.",
+            "act": 0.211031973361969
+        },
+        {
+            "text": "Anchal Pandey\n\nThe services is very good.",
+            "act": 0.2090347558259964
+        },
+        {
+            "text": "Entrance to right in two storey extension, with later lattice casement on first floor and two small ground floor windows.",
+            "act": 0.20312190055847168
+        },
+        {
+            "text": "First off, this song is in rag Yaman Kalayan.",
+            "act": 0.1983102411031723
+        },
+        {
+            "text": "Precision design hollowed-out in center for a lighter weight.",
+            "act": 0.19725166261196136
+        },
+        {
+            "text": "Two storeys stuccoed low pitched gable end slate roof.",
+            "act": 0.19533197581768036
+        },
+        {
+            "text": "The mate-panels are missing.",
+            "act": 0.19316492974758148
+        },
+        {
+            "text": "No evidence was presented on behalf of appellant.",
+            "act": 0.1871642768383026
+        },
+        {
+            "text": "The slam latch is of one-piece construction and is installed in a single opening in the door panel and is self retained therein.",
+            "act": 0.18065012991428375
+        },
+        {
+            "text": "Above the front door is the last local marriage lintel of 1737.",
+            "act": 0.17853331565856934
+        },
+        {
+            "text": "A recessed bay on the west fa\u00e7ade with another entry door defines the start of the 1962 addition.",
+            "act": 0.17850245535373688
+        },
+        {
+            "text": "Projecting porch to the north with panelled door and rectangular fanlight.",
+            "act": 0.17789721488952637
+        },
+        {
+            "text": "PTI",
+            "act": 0.17730461061000824
+        },
+        {
+            "text": "A transport platform is situated above the axle of the front wheels.",
+            "act": 0.1764701008796692
+        },
+        {
+            "text": "Secured with a hugging hoop (hidden into its other side) backing.",
+            "act": 0.1762523204088211
+        },
+        {
+            "text": "The injury bug also bit further into the offense.",
+            "act": 0.17618902027606964
+        },
+        {
+            "text": "The interior retains some of its late-baroque decorations, including a wooden statue of the Madonna and child, but also a 16th-century crucifix and a 15th-century icon of the Madonna Odigitria.",
+            "act": 0.1747700273990631
+        },
+        {
+            "text": "The expelled BJP legislator represents Bangarmau in the Uttar Pradesh assembly.",
+            "act": 0.1705225110054016
+        },
+        {
+            "text": "Boxing INNER EDGE (to be glued to the left edge) already includes un-notched portion.",
+            "act": 0.16956031322479248
+        },
+        {
+            "text": "There is\na small trattoria and bar.",
+            "act": 0.16913197934627533
+        },
+        {
+            "text": "plastic bodies wmetal chassis.",
+            "act": 0.16821686923503876
+        },
+        {
+            "text": "Three storeys, stucco faced.",
+            "act": 0.1672288030385971
+        },
+        {
+            "text": "Both fourth molars are in the maxillary tuberosity.",
+            "act": 0.1659405380487442
+        },
+        {
+            "text": "A pair of mirrors are also provided.",
+            "act": 0.16068555414676666
+        },
+        {
+            "text": "high round neckline with small stand up colllar.",
+            "act": 0.15940111875534058
+        },
+        {
+            "text": "Its Medusa head appear to be slightly more complex.",
+            "act": 0.1572577953338623
+        },
+        {
+            "text": "CP at 41 (\u201cDefendants\nappear to be correct in that \u2018civil theft\u2019 appears to be a subspecies of conversion.\u201d).",
+            "act": 0.15711495280265808
+        },
+        {
+            "text": "Three recessed sash windows to first floor.",
+            "act": 0.152152419090271
+        },
+        {
+            "text": "There is also a fourth molar associated with a suspected odontoma in the region of the maxillary right third molar.",
+            "act": 0.15090058743953705
+        },
+        {
+            "text": "Garden block has low slate roof.",
+            "act": 0.15081481635570526
+        },
+        {
+            "text": "The place is also famous for shopping as well.",
+            "act": 0.15061399340629578
+        },
+        {
+            "text": "EPR wing no: 7 (commanded by Nazmul Huq \u2013 Bengali) with 5 companies was also attached to the Rajshshi sector.",
+            "act": 0.1500423103570938
+        },
+        {
+            "text": "Mariusz Muszalik\n\nMariusz Muszalik (born September 23, 1979 in Katowice) is a Polish footballer who currently plays for CKS Czelad\u017a.",
+            "act": 0.14597830176353455
+        },
+        {
+            "text": "EPR 4 wing (commanded by Major Abu Osman Chowdhury \u2013 Bengali) with 5 companies headquarter near at Kusthia.",
+            "act": 0.14540380239486694
+        },
+        {
+            "text": "Goals from Harry Kane and two from Lucas Moura gave Tottenham a superb 3-0 win away to United this evening in a stunning result to pile the pressure onto Jose Mourinho.",
+            "act": 0.14497509598731995
+        },
+        {
+            "text": "Three first floor recessed sash windows in gabled bays with Venetian shutters.",
+            "act": 0.14492127299308777
+        },
+        {
+            "text": "Appellant did not object to the answer.",
+            "act": 0.14352571964263916
+        },
+        {
+            "text": "EPR wing no: 6 with 4 companies were attached to the Rajshshi sector.",
+            "act": 0.14261792600154877
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

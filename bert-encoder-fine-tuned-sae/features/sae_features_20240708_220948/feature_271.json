@@ -1,0 +1,412 @@
+{
+    "index": 271,
+    "label": "Contains non-Latin scripts",
+    "attributes": "non-Latin scripts present, includes Japanese characters, includes Chinese characters",
+    "reasoning": "The most specific attribute that all the samples share, which is not shared by the other samples, is that they contain non-Latin scripts, such as Japanese or Chinese characters. None of the other samples contain non-Latin scripts and are primarily in English.",
+    "density": 0.00025149353946313246,
+    "confidence": 9.0,
+    "high_act_samples": [
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.22991764545440674
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.1724688559770584
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.14952173829078674
+        },
+        {
+            "text": "at \u00b6\u00b6 17-18, 21.",
+            "act": 0.13687512278556824
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.13281676173210144
+        },
+        {
+            "text": "Jason Kubler 4\u20136, 7\u20135, 7\u20136(7\u20133)\n\nWomen's Singles\n\n Misaki Doi def.",
+            "act": 0.12236271798610687
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.11248891800642014
+        },
+        {
+            "text": "After Pablo Sandoval was hit by a pitch, Buster Posey drove an RBI double deep to right that Upton made an awkward attempt on as it bounced up against the wall.",
+            "act": 0.10208247601985931
+        },
+        {
+            "text": "Also ${\\mathrm{d}}{\\mathbb{Q}}_{k,\\tau}/{\\mathrm{d}}{\\mathbb{P}}$ is almost surely strictly positive and by definition ${\\mathbb{E}}[{\\mathrm{d}}{\\mathbb{Q}}_{k,\\tau}/{\\mathrm{d}}{\\mathbb{P}}]=1$.",
+            "act": 0.06432472914457321
+        },
+        {
+            "text": "Transition planning is mandated for students who receive special education services; however, it is not required for students with chronic conditions.",
+            "act": 0.06244353577494621
+        },
+        {
+            "text": "at \u00b6\u00b6 33-34, 47-50.",
+            "act": 0.06061125919222832
+        },
+        {
+            "text": "By using the applications programming interface (API) of the operating system, the applications program can be written in a portable fashion, so that it can execute on different computers with different hardware resources.",
+            "act": 0.05562802776694298
+        },
+        {
+            "text": "\u300b True\n\nprint(hanzidentifier.is_simplified('John\u8bf4\uff1a\u4f60\u597d\uff01'))\n\u300b True\n\nprint(hanzidentifier.is_traditional('John\u8aaa\uff1a\u4f60\u597d\uff01'))\n\u300b True",
+            "act": 0.05554613843560219
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.05549948289990425
+        },
+        {
+            "text": "at 702t.",
+            "act": 0.04920912906527519
+        },
+        {
+            "text": "By using the applications programming interface (API) of the operating system, the applications program can be written in a portable fashion, so that it can execute on different computers with different hardware resources.",
+            "act": 0.04572363197803497
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.04262261465191841
+        },
+        {
+            "text": "Yoshimura et al.",
+            "act": 0.04201929271221161
+        },
+        {
+            "text": "The Divine Liturgy of the Annunciation is the only celebration of the Eucharistic liturgy of Saint John Chrysostom allowed on a weekday of Great Lent.",
+            "act": 0.04067600890994072
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.040260497480630875
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.040260497480630875
+        },
+        {
+            "text": "It is possible to implement all of \u2019s instrumentation using simple branching instructions available on all platforms, but we rely on x64\u2019s MPX support or x64\u2019s segment registers to optimize runtime performance.",
+            "act": 0.03437419980764389
+        },
+        {
+            "text": "Marc Polmans /  Max Purcell 4\u20136, 6\u20133, [10\u20136].",
+            "act": 0.03317556157708168
+        },
+        {
+            "text": "However when we tried to achieve it programmatically iterating over each field resetting it and using javascript focus method, that did not do the trick.",
+            "act": 0.03205602988600731
+        },
+        {
+            "text": "It is also desired that the pre-processing solution can be built into existing encoder solutions or with minimal hardware modification such that the system cost is not significantly increased.",
+            "act": 0.029871342703700066
+        },
+        {
+            "text": "Picture taken March 11, 2019.",
+            "act": 0.025928465649485588
+        },
+        {
+            "text": "In order to open the door/window secured with such a latch, a finger or pawl is provided for the manual exertion of force against the spring bias which disengages the catch from the striker plate.",
+            "act": 0.024621380493044853
+        },
+        {
+            "text": "[Prey identification success with different extraction methods or genetic markers.",
+            "act": 0.02266707457602024
+        },
+        {
+            "text": "Preloading\n\nPreloading is the action of putting and keeping target files into the RAM.",
+            "act": 0.022623522207140923
+        },
+        {
+            "text": "Picture taken March 11, 2019.",
+            "act": 0.022444380447268486
+        },
+        {
+            "text": "at 9, 11 (unnumbered).",
+            "act": 0.02017919160425663
+        },
+        {
+            "text": "When hydraulic clamping is used, it is possible to produce the clamping release movement selectively also hydraulically or through spring force.",
+            "act": 0.019983386620879173
+        },
+        {
+            "text": "Please note that meaningful alternate activities should be provided at the schools for those families who do not wish their children to participate in any Remembrance Day ceremonies.\"",
+            "act": 0.017702220007777214
+        },
+        {
+            "text": "Application may fail to deploy.",
+            "act": 0.017545735463500023
+        },
+        {
+            "text": "Other entrants \nThe following players received a wildcard into the singles main draw:\n  Fran\u00e7oise Abanda\n  Gabriela Dabrowski\n  Rebecca Marino\n  Katherine Sebov\n\nThe following players received entry from the qualifying draw:\n  Misaki Doi\n  Julia Glushko\n  Giuliana Olmos\n  Martina Trevisan\n\nThe following player received entry as a lucky loser:\n  Maryna Zanevska\n\nChampions\n\nMen's Singles\n\n Dan Evans def.",
+            "act": 0.015173343941569328
+        },
+        {
+            "text": "Brandon Crawford doubled in a run in the fourth to make it 2-0, one of two hits the left-handed hitting Crawford had off Maholm.",
+            "act": 0.014861570671200752
+        },
+        {
+            "text": "I was unable to leave, trapped in the dark with no way out.",
+            "act": 0.012369686737656593
+        },
+        {
+            "text": "at 7-8.",
+            "act": 0.012162482365965843
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.011772384867072105
+        },
+        {
+            "text": "On February 1, 1915  the name of the former Yoshimizu station was changed to Horigome station (\u5800\u7c73\u99c5).",
+            "act": 0.011604050174355507
+        },
+        {
+            "text": "In addition, M10\u2640 also deleted C339 and C340.",
+            "act": 0.010626068338751793
+        },
+        {
+            "text": "\u00a7 158(d).",
+            "act": 0.00933828018605709
+        },
+        {
+            "text": "MusicRadar verdict\n\n\"We can't fault the Thinline.",
+            "act": 0.00720779737457633
+        },
+        {
+            "text": "Evidence that consciousness is solely information\n====================================================\n\n4.1.",
+            "act": 0.006354474928230047
+        },
+        {
+            "text": "\"They're still jamming all channels.\"",
+            "act": 0.0063447109423577785
+        },
+        {
+            "text": "indicates \"not significant.\"",
+            "act": 0.006075610872358084
+        },
+        {
+            "text": "\ud83d\udce3 The Indian Express is now on Telegram.",
+            "act": 0.005561751779168844
+        },
+        {
+            "text": "If we use number of bones more than that are supported by OS, WebGL renderer outputs \"too many uniforms\" error.",
+            "act": 0.005521246697753668
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.005177450831979513
+        },
+        {
+            "text": "This was emphasised when Pastore\u2019s wonderful defensive-splitting pass picked out Gameiro, who slotted through the legs of the exposed Simon Pouplin.",
+            "act": 0.004038443323224783
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

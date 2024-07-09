@@ -1,0 +1,412 @@
+{
+    "index": 627,
+    "label": "Information-dense and formal",
+    "attributes": "technical or scientific terms, citations, detailed information, formal tone, historical or literary context, complex sentences, specific events or studies",
+    "reasoning": "The most specific attribute shared by all texts within the samples is that they all contain a substantial amount of technical, scientific, historical, or literary information. This attribute differentiates them from the other samples, which are more informal and conversational. The content in the samples tends to have higher complexity, use of technical jargon, and presence of citations or specific references that indicate detailed, researched content.",
+    "density": 0.003933738570093147,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "The Spencer air-ships are of the non-rigid type.",
+            "act": 0.16704636812210083
+        },
+        {
+            "text": "Additionally, we also considered lactose-negative colonies (Hardy Diagnostics).",
+            "act": 0.16107630729675293
+        },
+        {
+            "text": "In fact, our sequence are almost conformal.",
+            "act": 0.15035228431224823
+        },
+        {
+            "text": "Mais le rat, qui \u00e9tait jaloux, ne transmit pas l'invitation au chat.",
+            "act": 0.14809590578079224
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.14296291768550873
+        },
+        {
+            "text": "Supine exercises on an unstable base challenge core stability.",
+            "act": 0.14174847304821014
+        },
+        {
+            "text": "La otra noche estuve en un bar y una porci\u00f3n de la velada tuvo un show con drag queens.",
+            "act": 0.1347590982913971
+        },
+        {
+            "text": "L'empereur, hautement impressionn\u00e9 par cet exploit, lui donna la premi\u00e8re place.",
+            "act": 0.1303969919681549
+        },
+        {
+            "text": "Early subcultured cells (from passage 2--5) were used in the experiments.",
+            "act": 0.12684126198291779
+        },
+        {
+            "text": "(Normalized to unity.",
+            "act": 0.12604469060897827
+        },
+        {
+            "text": "N\u00e9anmoins, la l\u00e9gende raconte qu'un jour, l'empereur de jade s'ennuyait, n'ayant rien \u00e0 faire au paradis.",
+            "act": 0.11657919734716415
+        },
+        {
+            "text": "(Sur-reply at p.",
+            "act": 0.11642918735742569
+        },
+        {
+            "text": "We find Bailey distinguishable.",
+            "act": 0.11111459136009216
+        },
+        {
+            "text": "Le rat, \u00e9tant plus petit que les autres sauta sur le dos du b\u0153uf et commen\u00e7a \u00e0 jouer de la flute.",
+            "act": 0.10829897969961166
+        },
+        {
+            "text": "Il y a un bois Yin et un bois Yang, un m\u00e9tal Yin et un m\u00e9tal Yang, etc.",
+            "act": 0.10803424566984177
+        },
+        {
+            "text": "America\u2019s two closest friends in the region\u2014Israel and Saudi Arabia\u2014are both disgusted.",
+            "act": 0.10490624606609344
+        },
+        {
+            "text": "Annotations are derived from HOMER.",
+            "act": 0.10372290015220642
+        },
+        {
+            "text": "(For the record, I'm not a fan of the hunger strike of indefinite length.",
+            "act": 0.1025111973285675
+        },
+        {
+            "text": "(DF, deltoid fascia, SS, supraspinatus.",
+            "act": 0.10205626487731934
+        },
+        {
+            "text": "Windshuttle then states that the lower figure is correct, and that anyone arguing for a higher figure (or even splitting the difference) is clearly ideological and black armband.",
+            "act": 0.1008913442492485
+        },
+        {
+            "text": "Cords of normal-appearing hepatocytes are separated by zones of loose poorly cellular mesenchyme.",
+            "act": 0.09923520684242249
+        },
+        {
+            "text": "speltoides.",
+            "act": 0.09836024791002274
+        },
+        {
+            "text": "A phagocyte pseudopod coils around the bacterium as the organism is internalized.",
+            "act": 0.09781821072101593
+        },
+        {
+            "text": "Affirmant mimer ainsi les gestes appris sur une vid\u00e9o zoophile qu'il a regard\u00e9e auparavant.",
+            "act": 0.09747696667909622
+        },
+        {
+            "text": "Each cell is a sea of ribosomes halves.",
+            "act": 0.09716048836708069
+        },
+        {
+            "text": "For example, 'Noctivagations' includes the sequence \u2018Songings\u2019 (the subject of Monk\u2019s collaboration with Martin Archer).",
+            "act": 0.09693028777837753
+        },
+        {
+            "text": "After PCR identification and sequence analysis of positive clones, plasmids were extracted.",
+            "act": 0.09578222036361694
+        },
+        {
+            "text": "The suture anchor sutures have been passed, but not yet tied, in a locking-loop pattern (\\*).",
+            "act": 0.09306061267852783
+        },
+        {
+            "text": "Serial 10-fold dilutions were inoculated onto selective or nonselective HB plates.",
+            "act": 0.09137821197509766
+        },
+        {
+            "text": "These vesicles contain tetraspanin-enriched microdomains in their membranes.",
+            "act": 0.09086858481168747
+        },
+        {
+            "text": "En ce qui concerne le Zodiaque Chinois, les ann\u00e9es impaires sont des ann\u00e9es Yin tandis ce que les ann\u00e9es paires sont des ann\u00e9es Yang.",
+            "act": 0.0907866358757019
+        },
+        {
+            "text": "The noodles are served drained without a broth.",
+            "act": 0.09075433015823364
+        },
+        {
+            "text": "However, \u201cthey\u2019re functional, but not stiff\u201d,\njust like us!",
+            "act": 0.09063460677862167
+        },
+        {
+            "text": "Despite the presence of these two provisions, the agreement before us is distinguishable from the cases on which Franke relies.",
+            "act": 0.0904586985707283
+        },
+        {
+            "text": "SK-mel2 cells were cultured in RPMI media supplemented with 10\u00a0% heat-inactivated FBS.",
+            "act": 0.09035533666610718
+        },
+        {
+            "text": "Excuse?",
+            "act": 0.08975322544574738
+        },
+        {
+            "text": "In June 1915, a further increase of equipment was authorized and CCSs were supplied with the \u2018Bowlby Outfit No 2\u2019.",
+            "act": 0.08829101920127869
+        },
+        {
+            "text": "Immunodiffusion test for ovine progressive pneumonia.",
+            "act": 0.08766646683216095
+        },
+        {
+            "text": "These characteristics are identical to those of pineal tumor cases.",
+            "act": 0.08759593963623047
+        },
+        {
+            "text": "(DF, deltoid fascia; SS, supraspinatus.",
+            "act": 0.0874411091208458
+        },
+        {
+            "text": "Cells were then nucleofected with a Cas9 RNP complex directed to the A Repeat region.",
+            "act": 0.08682778477668762
+        },
+        {
+            "text": "Highway 17 continues east along the northern shore of Lake Superior.",
+            "act": 0.08575104922056198
+        },
+        {
+            "text": "The specimens were placed on Ni/Formvar grids and colored with PTA (phosphotungstic acid).",
+            "act": 0.08270581811666489
+        },
+        {
+            "text": "V\u00e9rifier les objets \u00e9ventuels auxquels il est associ\u00e9, puis r\u00e9-essayer\\!",
+            "act": 0.08154760301113129
+        },
+        {
+            "text": "spoIIIE mutants cannot sporulate as they are unable to partition the prespore chromosome into the polar prespore compartment.",
+            "act": 0.08140288293361664
+        },
+        {
+            "text": "at 15 (citing Wisc.",
+            "act": 0.07964864373207092
+        },
+        {
+            "text": "at 370 (emphasis added).",
+            "act": 0.079276442527771
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07768796384334564
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07747479528188705
+        },
+        {
+            "text": "The core is secured such that the parting line of the core is\nroughly parallel to the top of the holder.",
+            "act": 0.07734444737434387
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

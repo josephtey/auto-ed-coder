@@ -1,0 +1,412 @@
+{
+    "index": 614,
+    "label": "Specialized and structured content",
+    "attributes": "includes complex or specialized information, contains legal references, mathematical expressions, scientific notations, literary citations, multilingual text, structured data such as lists or formulas",
+    "reasoning": "The key difference between the samples can be identified from the content and structure of the texts themselves. In examining the samples, I notice that all the texts in the first set contain complex or specialized information. This includes legal references, mathematical expressions, scientific notations, literary citations, or multilingual text. Additionally, these texts include a higher prevalence of structured data such as lists, formatted sections, equations, or product details. In contrast, the other set contains more colloquial language, conversational tone, and general commentary or opinions without specialized or technical content.",
+    "density": 0.0004460451454629142,
+    "confidence": 71.0,
+    "high_act_samples": [
+        {
+            "text": "Retaliation (42 U.S.C.",
+            "act": 0.13207906484603882
+        },
+        {
+            "text": "$d(\\partial\\mathcal{C}_{r_{1}.",
+            "act": 0.0886489525437355
+        },
+        {
+            "text": "0 : ((x) > 0 ?",
+            "act": 0.07800014317035675
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.07538067549467087
+        },
+        {
+            "text": "(Fig.",
+            "act": 0.07408184558153152
+        },
+        {
+            "text": "The second injury (W.C. No.",
+            "act": 0.07377742230892181
+        },
+        {
+            "text": "(Fig.",
+            "act": 0.0712406188249588
+        },
+        {
+            "text": "Staffing at Pelican Island is made up of U.S.",
+            "act": 0.06630495190620422
+        },
+        {
+            "text": "His goals came against Sunderland (A), Bolton (A), Everton (H), Everton (A), Wolves (H), Newcastle (A), Liverpool (H), Wigan (A) and Tottenham (A).",
+            "act": 0.06507538259029388
+        },
+        {
+            "text": "\" BRING HER ABOUT HANDSOMELY TO PORT, MR.",
+            "act": 0.0625627338886261
+        },
+        {
+            "text": "Does 37 divide a?",
+            "act": 0.06181785464286804
+        },
+        {
+            "text": "6 (Juror No.",
+            "act": 0.05938912555575371
+        },
+        {
+            "text": "PET Syrup Bottles\n\nDetails\n\nThese are THE Plastic alternative to Glass Liquid Medical Bottles.",
+            "act": 0.056898780167102814
+        },
+        {
+            "text": "Got Dinner?",
+            "act": 0.05538906157016754
+        },
+        {
+            "text": "Ha!\"",
+            "act": 0.054994381964206696
+        },
+        {
+            "text": "\u201cHamels is Philly\u2019s most tradeable commodity.",
+            "act": 0.05408724024891853
+        },
+        {
+            "text": "Season short ribs generously with salt and pepper.",
+            "act": 0.053634561598300934
+        },
+        {
+            "text": ";\n                    pat = Pat::Assign(AssignPat {\n                        span: span!",
+            "act": 0.052319109439849854
+        },
+        {
+            "text": "A pork chop, a shepherd\u2019s pie, and an herb crusted chicken breast filled the entree menu.",
+            "act": 0.05058903992176056
+        },
+        {
+            "text": "APNA\u2019s vision is a healthy Australia through best practice primary health care nursing.",
+            "act": 0.050092361867427826
+        },
+        {
+            "text": "(VISIT: Find a U.S.",
+            "act": 0.048066940158605576
+        },
+        {
+            "text": "{\n            let spread = Some(span!",
+            "act": 0.04799927771091461
+        },
+        {
+            "text": "Aged Cream\n\nFeatures & Specification\n\nProduct Features\n\nA light cream to grey limestone which is sourced from Tunisia.",
+            "act": 0.04587811976671219
+        },
+        {
+            "text": "}\", i.span),\n                }\n\n                if eat!",
+            "act": 0.04452182352542877
+        },
+        {
+            "text": "(if they've ever been free?",
+            "act": 0.04362078383564949
+        },
+        {
+            "text": "}\\\\\n\\mathrm{C1.}",
+            "act": 0.04308421164751053
+        },
+        {
+            "text": "IRIS Beads & Charms are compatible with other major international bead and charm brands.",
+            "act": 0.042395204305648804
+        },
+        {
+            "text": "(Sec.",
+            "act": 0.04059041664004326
+        },
+        {
+            "text": "She was also ordered to pay\n\f4                                                   No.",
+            "act": 0.040530890226364136
+        },
+        {
+            "text": "Docs here\n\nin .",
+            "act": 0.03553275018930435
+        },
+        {
+            "text": "4) Dressing Station where dressing were applied, and any urgent surgical treatment, administration of A.T.S.",
+            "act": 0.03531841188669205
+        },
+        {
+            "text": "This marine product is the surface coating that makes fiberglass waterproof.",
+            "act": 0.033651676028966904
+        },
+        {
+            "text": "[^21]: Throughout this proof, whenever I say \u201cfor all $x^{*}$ that are sufficiently large for some acts\u201d, it means that for each one of those acts, say $f$, $x^{*} \\succsim \\max\\{\\bar{x}_{E,f}, x, \\hat{x}_{E,f}\\}$ holds.",
+            "act": 0.029929589480161667
+        },
+        {
+            "text": "Workers, Local No.",
+            "act": 0.026924271136522293
+        },
+        {
+            "text": "Conflict of interest {#sec6}\n====================\n\nNone.",
+            "act": 0.026862338185310364
+        },
+        {
+            "text": "When $t<\\delta_{n}$, and $x\\in A_{n}-A_{n+1}$, $$P\\{\\tau^{A_{n-1}}(x)<t\\}\\leq ct^2$$ Here $\\tau^{A_n}(x)$ denotes the first exit time of $F_t(x)$ from the set $A_n$.",
+            "act": 0.02600778266787529
+        },
+        {
+            "text": "(Wait!",
+            "act": 0.025529347360134125
+        },
+        {
+            "text": "A match is indicated.",
+            "act": 0.02534450590610504
+        },
+        {
+            "text": "$bar : \"#foo\";\nul li#{$bar} a span.label { foo: bar; }",
+            "act": 0.025315657258033752
+        },
+        {
+            "text": "(What year is this?",
+            "act": 0.02485353872179985
+        },
+        {
+            "text": "Blanco was at it again in the eighth, when the Giants batted around and tacked on four more.",
+            "act": 0.023074891418218613
+        },
+        {
+            "text": "See Bryant v. State (No.",
+            "act": 0.02292739972472191
+        },
+        {
+            "text": "For any $l \\in {\\mathbb{R}}_{++}$, let $f_{l}$ denote an act such that $u(f_{l}(\\omega)) = l \\cdot u(f(\\omega))$ for all $\\omega \\in E$.",
+            "act": 0.022658346220850945
+        },
+        {
+            "text": "A fitted N95 respirator is the preferred type of medical mask for health care workers; however, supplies in the US are very limited.",
+            "act": 0.022019971162080765
+        },
+        {
+            "text": "Where are the doctors and nurses around here\nwhen you need them anyway?\"",
+            "act": 0.021025236696004868
+        },
+        {
+            "text": "is given by $$\\label{C4}\n\\frac{M_D}{M} \\approx \\frac{2}{\\alpha} + a e^{a\\alpha} {\\rm Ei}(-a\\alpha)\\,,$$ which is, for $0<a\\alpha \\ll 1$, nearly the same as in Eq.\u00a0.",
+            "act": 0.020491166040301323
+        },
+        {
+            "text": "However.",
+            "act": 0.02029542624950409
+        },
+        {
+            "text": "In the example of FIG.",
+            "act": 0.019895978271961212
+        },
+        {
+            "text": "Francis Fontaine\n\nFrancis Fontaine (1845-1901) was an American Confederate soldier, plantation owner, newspaper editor, poet and novelist from the state of Georgia.",
+            "act": 0.019807126373052597
+        },
+        {
+            "text": "Each\n\u201cLifestyle Center\u201d also offers healthy retail product\nsolutions in sport beverages, energy bars, healthy snacks, vitamin\nsupplements, herbs, minerals, and sports nutrition products...more",
+            "act": 0.019161440432071686
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

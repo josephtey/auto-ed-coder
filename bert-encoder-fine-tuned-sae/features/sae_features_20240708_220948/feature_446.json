@@ -1,0 +1,412 @@
+{
+    "index": 446,
+    "label": "Structured formal content with data",
+    "attributes": "structured information, formal tone, factual descriptions, statistical data, code snippets, references",
+    "reasoning": "Upon reviewing the samples, I noticed that the samples contain structured information such as legal texts, statistical data, historical information, programming code, and references. They format their content in a structured, often formal manner, indicating documentation, code snippets, or detailed factual descriptions. In contrast, the other samples are conversational and informal, reflecting opinions, dialogues, and narratives.",
+    "density": 0.0006073806236090747,
+    "confidence": 80.0,
+    "high_act_samples": [
+        {
+            "text": "******************************************************************",
+            "act": 0.19984877109527588
+        },
+        {
+            "text": "\"Ailnoth  (fl.",
+            "act": 0.19339798390865326
+        },
+        {
+            "text": "\"Gesta Swenomagni regis et filiorum eius et passio gloriosissimi Canuti regis et martyris\".",
+            "act": 0.1485723853111267
+        },
+        {
+            "text": "\"\u00c6lnoth\".",
+            "act": 0.12060082703828812
+        },
+        {
+            "text": "//******************************************************************************\n//\n// Copyright (c) 2016 Intel Corporation.",
+            "act": 0.12005387246608734
+        },
+        {
+            "text": "The per capita income for the town was $16,335.",
+            "act": 0.1177809089422226
+        },
+        {
+            "text": "/*****************************************************************************/\n/* <%= name %>: Event Handlers */\n/*****************************************************************************/\nTemplate.<%= name %>.events({\n});\n\n/*****************************************************************************/\n/* <%= name %>: Helpers */\n/*****************************************************************************/\nTemplate.<%= name %>.helpers({\n});\n\n/*****************************************************************************/\n/* <%= name %>: Lifecycle Hooks */\n/*****************************************************************************/\nTemplate.<%= name %>.onCreated(function () {\n});\n\nTemplate.<%= name %>.onRendered(function () {\n});\n\nTemplate.<%= name %>.onDestroyed(function () {\n});",
+            "act": 0.10772708058357239
+        },
+        {
+            "text": "Hispanic or Latino of any race were 0.37% of the population.",
+            "act": 0.1065833643078804
+        },
+        {
+            "text": "**C**.",
+            "act": 0.10226592421531677
+        },
+        {
+            "text": "This is who the Democrats elected as their Senate leader.",
+            "act": 0.09388282895088196
+        },
+        {
+            "text": "Macks Creek, Missouri\n\nMacks Creek is an unincorporated community and census-designated place in southwest Camden County, Missouri, United States.",
+            "act": 0.0865892693400383
+        },
+        {
+            "text": "U. Wolff [*Phys.",
+            "act": 0.08140423893928528
+        },
+        {
+            "text": "Acquired Lynch via trade in 2011.",
+            "act": 0.08021292090415955
+        },
+        {
+            "text": "Source: Ol\u00e9",
+            "act": 0.07721525430679321
+        },
+        {
+            "text": "/*\n ***************************************************************************************\n *  Copyright (C) 2006 EsperTech, Inc. All rights reserved.",
+            "act": 0.07538525760173798
+        },
+        {
+            "text": "The per capita income for the city was $17,660.",
+            "act": 0.07203865051269531
+        },
+        {
+            "text": "References\n\nCategory:Unincorporated communities in Ozark County, Missouri\nCategory:Unincorporated communities in Missouri",
+            "act": 0.07178185880184174
+        },
+        {
+            "text": "A. Cuesta [*Phys.",
+            "act": 0.06810158491134644
+        },
+        {
+            "text": "\"\u00c6lnoth\".",
+            "act": 0.06585293263196945
+        },
+        {
+            "text": "From August to October Argentina six matches in the Rugby Championship.",
+            "act": 0.06135036051273346
+        },
+        {
+            "text": "GTA San Andreas\n\nMoney in GTA San Andreas.",
+            "act": 0.061260394752025604
+        },
+        {
+            "text": "Gurevi\u010d.",
+            "act": 0.06107015907764435
+        },
+        {
+            "text": "Buchanan, Mark.",
+            "act": 0.05937179550528526
+        },
+        {
+            "text": "Gurevi\u010d.",
+            "act": 0.05858749896287918
+        },
+        {
+            "text": "In Sicilia.",
+            "act": 0.05802267789840698
+        },
+        {
+            "text": "The per capita income for the city was $9,053.",
+            "act": 0.05717896670103073
+        },
+        {
+            "text": "Hispanic or Latino of any race were 1.44% of the population.",
+            "act": 0.05631759762763977
+        },
+        {
+            "text": "Calciomercato Milan, Paredes \u00e8 l'obiettivo a centrocampo\n\nIl Milan vuole rinforzare il proprio centrocampo: uno dei primi obiettivi di Leonardo \u00e8 Paredes, anche se i costi potrebbero essere eccessivi.",
+            "act": 0.05371391773223877
+        },
+        {
+            "text": "Life\n\n\u00c6lnoth may have been prior in the Benedictine community founded in Odense as a daughter house of the Abbey at Evesham.",
+            "act": 0.05079859495162964
+        },
+        {
+            "text": "Acquired Graham via trade in 2012, same owner.",
+            "act": 0.050051383674144745
+        },
+        {
+            "text": "Central Alabama Electric Co-op.",
+            "act": 0.04839587211608887
+        },
+        {
+            "text": "CP at 155.",
+            "act": 0.047628454864025116
+        },
+        {
+            "text": "Prestonia, Missouri\n\nPrestonia is an unincorporated community in Ozark County, Missouri, United States.",
+            "act": 0.04518139734864235
+        },
+        {
+            "text": "History\nThe Bishop Creek post office operated from 1870 to 1889 and from 1935 to 1938.",
+            "act": 0.04504547640681267
+        },
+        {
+            "text": "Daughter Mary Graham 1819 married 1840 Archibald MacDougall.",
+            "act": 0.04347916692495346
+        },
+        {
+            "text": "Fifty-two percent of loans came from banks and credit unions, while 27 percent originated with financial companies controlled by car manufacturers.",
+            "act": 0.043306268751621246
+        },
+        {
+            "text": "Gronk cleared to play following concussion\n\nPatriots tight end Rob Gronkowski, left, stretches during a practice Thursday in Minneapolis.",
+            "act": 0.04112987965345383
+        },
+        {
+            "text": "[*]\n\nOPINION\nWRIGHT, Judge.",
+            "act": 0.03781113028526306
+        },
+        {
+            "text": "Hispanic or Latino of any race were 2.5% of the population.",
+            "act": 0.03764623776078224
+        },
+        {
+            "text": "Regional Walmart and Sam\u2019s Club stores may also have open positions, she added.",
+            "act": 0.037256382405757904
+        },
+        {
+            "text": "History\n\nThe town was formed in 1801 from the town of Franklin.",
+            "act": 0.03694876283407211
+        },
+        {
+            "text": "Opinion filed February 23, 1981.",
+            "act": 0.03650443255901337
+        },
+        {
+            "text": "\ufeff// ***************************************************************************\n// *\n// * Copyright (C) 2010 International Business Machines\n// * Corporation and others.",
+            "act": 0.034810200333595276
+        },
+        {
+            "text": "O Coment\u00e1rio \u00e0 Metaf\u00edsica, de acordo com Jos\u00e9 de C. Sola, \u00e9, com respeito \u00e0s obras filos\u00f3ficas e teol\u00f3gicas de Tom\u00e1s de Aquino, do per\u00edodo de maturidade, ao contr\u00e1rio dos demais Coment\u00e1rios sup\u00f5e e que foi proposta pela primeira vez por ele pode, at\u00e9 certa medida, explicar interpreta\u00e7\u00f5es do seu pensamento que sejam distintas e discordantes umas das outras.",
+            "act": 0.03245570510625839
+        },
+        {
+            "text": "/*********************************************************************\n* Software License Agreement (BSD License)\n*\n*  Copyright (c) 2010, Rice University\n*  All rights reserved.",
+            "act": 0.030490025877952576
+        },
+        {
+            "text": "}}\\sum\\limits_{k = 0}^{N-1} {\\frac{1}{{{\\beta_{k,i}}{\\gamma_{k+1,i}}}}} \\\\\n{A_{2,i}} = \\frac{1}{{2!",
+            "act": 0.02896270900964737
+        },
+        {
+            "text": "Ravn Air Group formed in 2015 as a Delaware corporation when private investor groups bought a majority interest in an Alaska-based group of operators.",
+            "act": 0.0284782275557518
+        },
+        {
+            "text": "About 14.0% of families and 16.3% of the population were below the poverty line, including 23.0% of those under age 18 and 6.0% of those age 65 or over.",
+            "act": 0.02821100503206253
+        },
+        {
+            "text": "About 13.6% of families and 22.3% of the population were below the poverty line, including 20.2% of those under the age of eighteen and 24.1% of those sixty five or over.",
+            "act": 0.02781243994832039
+        },
+        {
+            "text": "Japanese Patent No.",
+            "act": 0.027806296944618225
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

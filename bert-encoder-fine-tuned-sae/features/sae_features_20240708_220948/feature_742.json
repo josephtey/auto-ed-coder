@@ -1,0 +1,412 @@
+{
+    "index": 742,
+    "label": "Structured punctuation and annotations",
+    "attributes": "Presence of structured punctuation, Dates, Cited sources, Typesetting annotations, Programming code segments",
+    "reasoning": "The most specific attribute that distinguishes the samples is the presence of structured punctuation such as commas, periods, quotation marks, question marks, parentheses, and special characters in text. These elements include dates, cited sources, typesetting annotations, programming code segments, etc. This kind of punctuation and structure is present in all the samples but none of the samples without it.",
+    "density": 0.0007497354572674515,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "William\nTyndale (b.",
+            "act": 0.15234404802322388
+        },
+        {
+            "text": "(C.",
+            "act": 0.13168133795261383
+        },
+        {
+            "text": "(C.",
+            "act": 0.12927483022212982
+        },
+        {
+            "text": "The second injury (W.C. No.",
+            "act": 0.10286543518304825
+        },
+        {
+            "text": "(additional\nO.K.",
+            "act": 0.09840337932109833
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.09836570173501968
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.0946275070309639
+        },
+        {
+            "text": "Meanwhile, TCU\u2019s No.",
+            "act": 0.08616094291210175
+        },
+        {
+            "text": "Racing through the tri-oval for the GTD lead, the unthinkable happened between Lamborghini drivers Justin Marks (No.",
+            "act": 0.0849645584821701
+        },
+        {
+            "text": "The students were divided into three groups according to their relationship status: an 'in-love' group, comprised of those who were in love at the time; an 'ended-love' group, who had recently ended loving relationships; and a 'single' group, who had never been in love.",
+            "act": 0.07732629030942917
+        },
+        {
+            "text": "(Supp.",
+            "act": 0.07662749290466309
+        },
+        {
+            "text": "In addition, the lens must firstly be handled in order to be put into place in the accommodation receptacles of the gripper, in order to be bent.",
+            "act": 0.07604458183050156
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.07326442748308182
+        },
+        {
+            "text": "All esds (except the esd in the dihedral angle between two l.s.",
+            "act": 0.07034557312726974
+        },
+        {
+            "text": "gg@q\n\n(N.B.",
+            "act": 0.06977688521146774
+        },
+        {
+            "text": "Hold until glue cools.Take care not to apply too much glue causing it to show to the front of the letter in an unsightly manner.",
+            "act": 0.06620798259973526
+        },
+        {
+            "text": "Had you known prior to that time it was encumbered?",
+            "act": 0.0654568299651146
+        },
+        {
+            "text": "This can be done with the addition of adhesive or thermally attached crystals, smaller pieces of costume jewelry and maybe even a cherished heirloom.",
+            "act": 0.0650787428021431
+        },
+        {
+            "text": "The Post would have been sited behind the usual range of artillery fire but protection from splinters was accounted for it when a location was being formed - usually in a building or farm house but marquees were also used.",
+            "act": 0.06351178139448166
+        },
+        {
+            "text": "\u05ea\u05de\u05d9\u05db\u05d4 \u05d1 AR \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05e2\u05dc \u05e4\u05d9 DBMS.",
+            "act": 0.06310806423425674
+        },
+        {
+            "text": "A:\n\nctime is the time the file's inode was last changed.",
+            "act": 0.06292753666639328
+        },
+        {
+            "text": "The equipment currently in the possession of each party\n       shall remain in the possession of each party.",
+            "act": 0.062211986631155014
+        },
+        {
+            "text": "Evidence that consciousness is solely information\n====================================================\n\n4.1.",
+            "act": 0.062074992805719376
+        },
+        {
+            "text": "The equipment currently in possession of each party\n        shall remain in the possession of each party.",
+            "act": 0.059909965842962265
+        },
+        {
+            "text": "The tabs may permanently adhere to the surface of the tube in a non-reusable manner or, as in one embodiment, a pair of opposing tabs are provided which removably adhere to each other and slidably retain the tube or tubes therebeneath.",
+            "act": 0.059849757701158524
+        },
+        {
+            "text": "The weapon should be of a type which can be conveniently carried by an individual, and at the same time be available for immediate operation should an emergency situation arise.",
+            "act": 0.05950350686907768
+        },
+        {
+            "text": "\"In the evening I left it in place and now it looks like it was bombed.\"",
+            "act": 0.05912074074149132
+        },
+        {
+            "text": "Shipping included.Merchant is solely responsible to purchasers for the care and quality of the advertised goods and services.",
+            "act": 0.057519640773534775
+        },
+        {
+            "text": "It was at the time intact with a full inventory, including such items as a complete storage of unused tickets.",
+            "act": 0.05716555193066597
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.055281322449445724
+        },
+        {
+            "text": "exchange dogecoin for raiblocks\n\nNot only are cryptocurrencies other than its value which is a Bitcoin exchange.",
+            "act": 0.054871272295713425
+        },
+        {
+            "text": "\"I'm infallible.\"",
+            "act": 0.05446218326687813
+        },
+        {
+            "text": "\u201cNever count Alberta out.",
+            "act": 0.052303459495306015
+        },
+        {
+            "text": "Latches for windows, doors and the like are well known and are generally comprised of a catch fixed to the door or window and movably engageable with the panel or frame of the portal in question.",
+            "act": 0.05215338617563248
+        },
+        {
+            "text": "Comments containing selected keywords or outbound links will be put into moderation to help prevent spam.",
+            "act": 0.051642779260873795
+        },
+        {
+            "text": "I've had th from day one as my mother collected them as part of a fuel promotion in the 80's.",
+            "act": 0.051251646131277084
+        },
+        {
+            "text": "(Eek!",
+            "act": 0.05006514862179756
+        },
+        {
+            "text": "I completely disagree.",
+            "act": 0.04769819602370262
+        },
+        {
+            "text": "Ray Usher\n\nRay Usher (16 October 1904 \u2013 15 April 1964) was a former Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).",
+            "act": 0.04723786935210228
+        },
+        {
+            "text": "Cooler's Revenge - After Frieza Saga if the Spirit Bomb killed Frieza(due to no SSJ until the last fight).",
+            "act": 0.046861063688993454
+        },
+        {
+            "text": "\u05d6\u05db\u05d5\u05e8 \u05e9\u05d4\u05de\u05ea\u05d5\u05d3\u05d4 \u05d4\u05e1\u05d8\u05d8\u05d9\u05ea `()model` \u05d4\u05d9\u05e0\u05d4 \u05d4\u05db\u05e8\u05d7\u05d9\u05ea \u05dc\u05db\u05dc \u05de\u05d7\u05dc\u05e7\u05ea AR.",
+            "act": 0.045804914087057114
+        },
+        {
+            "text": "\u25aa The 49ers filled Borland\u2019s roster spot by promoting Chase Thomas from the practice squad, the eighth player the 49ers have called up from their developmental squad.",
+            "act": 0.04339925944805145
+        },
+        {
+            "text": "#import <Foundation/Foundation.h>\n\ntypedef enum {\n    TGNetworkTypeUnknown,\n    TGNetworkTypeNone,\n    TGNetworkTypeGPRS,\n    TGNetworkTypeEdge,\n    TGNetworkType3G,\n    TGNetworkTypeLTE,\n    TGNetworkTypeWiFi,\n} TGNetworkType;\n\ntypedef enum {\n    TGAutoDownloadModeNone = 0,\n    \n    TGAutoDownloadModeCellularContacts = 1 << 0,\n    TGAutoDownloadModeWifiContacts = 1 << 1,\n    \n    TGAutoDownloadModeCellularPrivateChats = 1 << 2,\n    TGAutoDownloadModeWifiPrivateChats = 1 << 3,\n    \n    TGAutoDownloadModeCellularGroups = 1 << 4,\n    TGAutoDownloadModeWifiGroups = 1 << 5,\n    \n    TGAutoDownloadModeCellularChannels = 1 << 6,\n    TGAutoDownloadModeWifiChannels = 1 << 7,\n    \n    TGAutoDownloadModeAutosavePhotosAll = TGAutoDownloadModeCellularContacts | TGAutoDownloadModeCellularPrivateChats | TGAutoDownloadModeCellularGroups | TGAutoDownloadModeCellularChannels,\n    \n    TGAutoDownloadModeAllPrivateChats = TGAutoDownloadModeCellularContacts | TGAutoDownloadModeWifiContacts | TGAutoDownloadModeCellularPrivateChats | TGAutoDownloadModeWifiPrivateChats,\n    TGAutoDownloadModeAllGroups = TGAutoDownloadModeCellularGroups | TGAutoDownloadModeWifiGroups | TGAutoDownloadModeCellularChannels | TGAutoDownloadModeWifiChannels,\n    TGAutoDownloadModeAll = TGAutoDownloadModeCellularContacts | TGAutoDownloadModeWifiContacts | TGAutoDownloadModeCellularPrivateChats | TGAutoDownloadModeWifiPrivateChats | TGAutoDownloadModeCellularGroups | TGAutoDownloadModeWifiGroups | TGAutoDownloadModeCellularChannels | TGAutoDownloadModeWifiChannels\n} TGAutoDownloadMode;\n\ntypedef enum {\n    TGAutoDownloadChatContact,\n    TGAutoDownloadChatOtherPrivateChat,\n    TGAutoDownloadChatGroup,\n    TGAutoDownloadChatChannel\n} TGAutoDownloadChat;\n\n@interface TGAutoDownloadPreferences : NSObject <NSCoding>\n\n@property (nonatomic, readonly) bool disabled;\n\n@property (nonatomic, readonly) TGAutoDownloadMode photos;\n@property (nonatomic, readonly) TGAutoDownloadMode videos;\n@property (nonatomic, readonly) int32_t maximumVideoSize;\n@property (nonatomic, readonly) TGAutoDownloadMode documents;\n@property (nonatomic, readonly) int32_t maximumDocumentSize;\n@property (nonatomic, readonly) TGAutoDownloadMode gifs;\n@property (nonatomic, readonly) TGAutoDownloadMode voiceMessages;\n@property (nonatomic, readonly) TGAutoDownloadMode videoMessages;\n\n- (instancetype)updateDisabled:(bool)disabled;\n- (instancetype)updatePhotosMode:(TGAutoDownloadMode)mode;\n- (instancetype)updateVideosMode:(TGAutoDownloadMode)mode maximumSize:(int32_t)maximumSize;\n- (instancetype)updateDocumentsMode:(TGAutoDownloadMode)mode maximumSize:(int32_t)maximumSize;\n- (instancetype)updateGifsMode:(TGAutoDownloadMode)mode;\n- (instancetype)updateVoiceMessagesMode:(TGAutoDownloadMode)mode;\n- (instancetype)updateVideoMessagesMode:(TGAutoDownloadMode)mode;\n\n+ (bool)shouldDownload:(TGAutoDownloadMode)mode inChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n- (bool)shouldDownloadPhotoInChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n- (bool)shouldDownloadVideoInChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n- (bool)shouldDownloadDocumentInChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n- (bool)shouldDownloadGifInChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n- (bool)shouldDownloadVoiceMessageInChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n- (bool)shouldDownloadVideoMessageInChat:(TGAutoDownloadChat)chat networkType:(TGNetworkType)networkType;\n\n- (bool)isDefaultPreferences;\n\n+ (instancetype)defaultPreferences;\n+ (instancetype)preferencesWithLegacyDownloadPrivatePhotos:(bool)privatePhotos groupPhotos:(bool)groupPhotos privateVoiceMessages:(bool)privateVoiceMessages groupVoiceMessages:(bool)groupVoiceMessages privateVideoMessages:(bool)privateVideoMessages groupVideoMessages:(bool)groupVideoMessages;\n\n@end",
+            "act": 0.043309908360242844
+        },
+        {
+            "text": "A temperature desensitized result after applying temperature correction (Eq.",
+            "act": 0.042621031403541565
+        },
+        {
+            "text": "(Sec.",
+            "act": 0.04214215651154518
+        },
+        {
+            "text": "Scrapped data is information of the environment when transactions or pour events are made.",
+            "act": 0.041622139513492584
+        },
+        {
+            "text": "Transport involves what type of equipment can be used and/or is readily available to transport the casualty away from danger and to an appropriate medical facility.",
+            "act": 0.041314732283353806
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.04126570746302605
+        },
+        {
+            "text": "All the purchases of either rifles or pistols I have made through GunBroker required that a party holding a FFL completed the transaction.",
+            "act": 0.040967993438243866
+        },
+        {
+            "text": "I totally agree.",
+            "act": 0.038897108286619186
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

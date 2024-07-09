@@ -1,0 +1,412 @@
+{
+    "index": 467,
+    "label": "Structured technical and product information",
+    "attributes": "product descriptions, technical specifications, instructional content, structured format, usage of lists and tables",
+    "reasoning": "The texts in the 'positive' samples revolve around detailed product descriptions, technical data, and instructional or informational content that is structured and often includes lists, tables, and specific terminology related to products, materials, or processes. The 'negative' samples, on the other hand, are informal conversations or commentary, lacking the structured, detailed, and technical nature of the positive samples.",
+    "density": 0.00030369031180453734,
+    "confidence": 80.0,
+    "high_act_samples": [
+        {
+            "text": "Aged Cream\n\nFeatures & Specification\n\nProduct Features\n\nA light cream to grey limestone which is sourced from Tunisia.",
+            "act": 0.13875655829906464
+        },
+        {
+            "text": "dolman style fitted bodice with long sleeves.",
+            "act": 0.12169124186038971
+        },
+        {
+            "text": "fitted through the bodice to a fitted small waist.",
+            "act": 0.11458030343055725
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.0843764990568161
+        },
+        {
+            "text": "It is highly polished and rich in features.",
+            "act": 0.07974427938461304
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.0777064859867096
+        },
+        {
+            "text": "\ufeff// ============================================================================\n// FileName: SIPEvent.cs\n//\n// Description: \n//\n// Author(s):\n// Aaron Clauson\n//\n// History:\n// ?",
+            "act": 0.07717718929052353
+        },
+        {
+            "text": "Good but not elite.",
+            "act": 0.06890545040369034
+        },
+        {
+            "text": "Traits\n\nTraits are treated as classes.",
+            "act": 0.06722100079059601
+        },
+        {
+            "text": "This is a luxurious mascara with a whipped formulation that allows for buildable results.",
+            "act": 0.06649354100227356
+        },
+        {
+            "text": "In Fox v.",
+            "act": 0.06473130732774734
+        },
+        {
+            "text": "The E.U.",
+            "act": 0.057228777557611465
+        },
+        {
+            "text": "Satin finish\n.",
+            "act": 0.05595242977142334
+        },
+        {
+            "text": "Many of the exotic birds were killed for their feathers, used in the fashion industry.",
+            "act": 0.05283753573894501
+        },
+        {
+            "text": "Black nylon, silver hardware and very soft leather accents with feminine ruffled detail.",
+            "act": 0.050489895045757294
+        },
+        {
+            "text": "straight neckline.",
+            "act": 0.04943401366472244
+        },
+        {
+            "text": "This tumbled stone has a lightly textured surface and soft aged edges.",
+            "act": 0.04754810780286789
+        },
+        {
+            "text": "fitted inky black velvet bodice with bead & 'pearl' feature.",
+            "act": 0.0470881313085556
+        },
+        {
+            "text": "Heavy, plastic, textured.",
+            "act": 0.04579813405871391
+        },
+        {
+            "text": "It covers an area of  and had a population of 287 in 123 households as of the 2001 census, increasing to 400 at the 2011 Census.",
+            "act": 0.042505960911512375
+        },
+        {
+            "text": "Evidence that consciousness is solely information\n====================================================\n\n4.1.",
+            "act": 0.0392172746360302
+        },
+        {
+            "text": "See R.C.",
+            "act": 0.03574414551258087
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.03256761282682419
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.03256761282682419
+        },
+        {
+            "text": "Both feature roping, raised circles, and etched decorations.",
+            "act": 0.031627461314201355
+        },
+        {
+            "text": "## Tables\n\n| Name | Columns | Comment | Type |\n| ---- | ------- | ------- | ---- |\n| [public.users](public.users.md) | 6 | Users table | BASE TABLE |\n| [public.user_options](public.user_options.md) | 4 | User options table | BASE TABLE |\n| [public.posts](public.posts.md) | 8 | Posts table | BASE TABLE |\n| [public.comments](public.comments.md) | 6 | Comments<br>Multi-line<br>table<br>comment | BASE TABLE |\n| [public.comment_stars](public.comment_stars.md) | 6 |  | BASE TABLE |\n| [public.logs](public.logs.md) | 7 | audit log table | BASE TABLE |\n| [public.post_comments](public.post_comments.md) | 7 | post and comments View table | VIEW |\n| [public.post_comment_stars](public.post_comment_stars.md) | 5 |  | MATERIALIZED VIEW |\n| [public.CamelizeTable](public.CamelizeTable.md) | 2 |  | BASE TABLE |\n| [public.hyphen-table](public.hyphen-table.md) | 4 |  | BASE TABLE |\n| [administrator.blogs](administrator.blogs.md) | 6 | admin blogs | BASE TABLE |\n| [backup.blogs](backup.blogs.md) | 5 |  | BASE TABLE |\n| [backup.blog_options](backup.blog_options.md) | 4 |  | BASE TABLE |\n| [time.bar](time.bar.md) | 1 |  | BASE TABLE |\n| [time.hyphenated-table](time.hyphenated-table.md) | 1 |  | BASE TABLE |\n| [time.referencing](time.referencing.md) | 3 |  | BASE TABLE |\n\n## Relations\n\n!",
+            "act": 0.03146786242723465
+        },
+        {
+            "text": "Late Victorian clothing was becoming simpler with more muted colors.",
+            "act": 0.029051288962364197
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.028327517211437225
+        },
+        {
+            "text": "And, in a trend that would last until the middle of the next century, men sported the single lens monocle associated with an English dude.",
+            "act": 0.02780192345380783
+        },
+        {
+            "text": "to Def.",
+            "act": 0.02774440310895443
+        },
+        {
+            "text": "A pitch is a section of a cliff that is climbed between two belay points.",
+            "act": 0.02233259379863739
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.021990805864334106
+        },
+        {
+            "text": "Small competitors in the E.U.",
+            "act": 0.020641550421714783
+        },
+        {
+            "text": "The dining room seats 22 around one table with the lobby area in the kitchen having seating for up to 5.",
+            "act": 0.020469486713409424
+        },
+        {
+            "text": "Blend until smooth.",
+            "act": 0.019938014447689056
+        },
+        {
+            "text": "||  and && operator with ==  and != and strings\"\n    when\n        $person : Person( age > 30 && < 40 || > 10 && < 20, hair == \"red\" || == \"blue\" )\n    then\n        list4.add( $person );\nend",
+            "act": 0.018864139914512634
+        },
+        {
+            "text": "This style is quick and easy, and is great for long or medium hair.",
+            "act": 0.018593721091747284
+        },
+        {
+            "text": "The work of F.S.",
+            "act": 0.01710723154246807
+        },
+        {
+            "text": "Points 1.",
+            "act": 0.016087014228105545
+        },
+        {
+            "text": "Software often is developed in one environment, then run in another.",
+            "act": 0.014785468578338623
+        },
+        {
+            "text": "The \u201cH.R.\u201d in \u201cH.R.",
+            "act": 0.014138003811240196
+        },
+        {
+            "text": "In general all styling should be class based.",
+            "act": 0.013248495757579803
+        },
+        {
+            "text": "Statistics\nSource:\n\nReferences\n\nCategory:1882 births\nCategory:1949 deaths\nCategory:People from Nantwich\nCategory:Sportspeople from Cheshire\nCategory:English footballers\nCategory:Association football midfielders\nCategory:Nantwich Town F.C.",
+            "act": 0.012473136186599731
+        },
+        {
+            "text": "STROBE-Punkte                                                                                                                                                                                                                                                                                                                                    RECORD-Punkte\n  ------------------------------------------------------------------- ----- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Titel und Abstract**                                                                                                                                                                                                                                                                                                                                                                                                     \n\n                                                                      1     \\(a\\) Machen Sie das Studiendesign im Titel oder Abstract kenntlich, indem Sie daf\u00fcr einen allgemein gebr\u00e4uchlichen Begriff verwenden\\                                                                                                                                                                                                           RECORD 1.1: Der verwendete Datentyp sollte im Titel oder Abstract angegeben werden.",
+            "act": 0.011511094868183136
+        },
+        {
+            "text": "Lined with tweed, suede and leather-like materials.",
+            "act": 0.01035366952419281
+        },
+        {
+            "text": "His goals came against Sunderland (A), Bolton (A), Everton (H), Everton (A), Wolves (H), Newcastle (A), Liverpool (H), Wigan (A) and Tottenham (A).",
+            "act": 0.010312438011169434
+        },
+        {
+            "text": "###### \n\nData quality assessment (DQA) activities implementation schedule, 2017\n\n  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Phase 1: preparation                  January 2-March 14, 2017\n  ------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                        Identifying resources, partners, and staff, scheduling activities, venues, and transport, finalizing protocol and data collection tools (printed or electronic).",
+            "act": 0.009795382618904114
+        },
+        {
+            "text": "You can read more at https://hbase.apache.org/book.html#datamodel",
+            "act": 0.006347679067403078
+        },
+        {
+            "text": "###### \n\nCharacteristics of the visual\u00a0impairment population (VI)\u00a0and the general population\u00a0(GP), according to gender\n\n  Characteristics         Female VI    Female GP    Male VI      Male GP\n  ----------------------- ------------ ------------ ------------ ------------\n  Age\u00a0(years)                                                    \n  \u200318--35                 88 (21.8)    189 (20.1)   69 (20.7)    105 (12.7)\n  \u200336--50                 101 (25.1)   273 (28.9)   85 (25.5)    184 (22.2)\n  \u200351--65                 106 (26.3)   267 (28.4)   94 (28.2)    286 (34.5)\n  \u2003\u226566                    108 (26.8)   212 (22.5)   85 (25.5)    253 (30.6)\n  Urbanicity                                                     \n  \u2003\\<20\u2009000 inhabitants   227 (56.3)   444 (47.3)   172 (51.7)   399 (48.9)\n  \u2003\u226520\u2009000 inhabitants    176 (43.7)   494 (52.7)   161 (48.4)   426 (51.1)\n  Education\u00a0(years)                                              \n  \u2003\\<11                   69 (17.1)    79 (8.4)     46 (13.8)    62 (7.5)\n  \u200311--13                 162 (40.2)   346 (36.7)   124 (37.2)   336 (40.5)\n  \u2003\u226514                    172 (42.7)   517 (54.9)   163 (49.0)   432 (52.0)\n  Work status                                                    \n  \u2003Employed/studying      154 (38.2)   641 (68.3)   160 (48.1)   526 (63.1)\n  \u2003Unemployed             152 (37.7)   82 (8.7)     73 (21.9)    60 (7.2)\n  \u2003Retired                97 (24.1)    216 (23.0)   100 (30.0)   224 (29.3)\n  Marital status                                                 \n  \u2003Single                 131 (32.5)   133 (14.2)   129 (38.7)   96 (11.6)\n  \u2003Married/partnership    181 (44.9)   698 (74.3)   166 (49.9)   672 (80.9)\n  \u2003Divorced               46 (11.4)    59 (6.2)     25 (7.5)     38 (4.6)\n  \u2003Widowed                45 (11.2)    49 (5.2)     13 (3.9)     25 (3.0)\n\nA total of 78 (10.6%, 95%\u2009CI 8.5 to 13.1) of adults with VI and 109 (6.1%, 95%\u2009CI 5.1 to 7.3) of adults from the general population reported having at some time experienced sexual assaults.",
+            "act": 0.006279707420617342
+        },
+        {
+            "text": "Materials and methods {#s4}\n=====================\n\n  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  Reagent type\\             Designation                          Source or reference   Identifiers                                                                                                                                   Additional information\n  (species) or resource                                                                                                                                                                                                              \n  ------------------------- ------------------------------------ --------------------- --------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------\n  Gene (mouse)              Spen                                 RefSeq                [NM_019763.2](https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=Nucleotide&term=NM_019763&doptcmdl=GenBank&tool=genome.ucsc.edu)   \n\n  Cell line (mouse)         TXY WT and TXY deltaA                Dr. Edith Heard       Xist-WT and Xist-deltaA                                                                                                                       Cell lines have a doxycycline inducible Xist gene + / - the A repeat region\n\n  Cell line (mouse)         HATX WT and HATX Spen KO             Dr. Anton Wutz        WT, *Spen* KO                                                                                                                                 KO cells have a deletion\\\n                                                                                                                                                                                                                                     of the majority of the Spen gene.",
+            "act": 0.005720720160752535
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

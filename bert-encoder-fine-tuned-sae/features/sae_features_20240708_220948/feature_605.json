@@ -1,0 +1,412 @@
+{
+    "index": 605,
+    "label": "Technical and domain-specific content",
+    "attributes": "specific domain knowledge, scientific terms, proper nouns, multilingual examples, emojis, references to specific dates, names, reviews, equations, highly structured content",
+    "reasoning": "I analyzed the given texts in both sets of samples. The result reveals that the texts from one set often feature specific domain knowledge, scientific terms, proper nouns, multilingual examples, emojis, references to specific dates, names, reviews, equations, and highly structured content. On the other hand, the opposing set contains conversational language, includes informal discussion, disagreements, personal opinions, colloquial phrases, and a lack of scientific or technical detail.",
+    "density": 0.0007165193294138303,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.31789371371269226
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.28909409046173096
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.28909409046173096
+        },
+        {
+            "text": "\u65c5\u884c\u8005\u306e\u5199\u771f\n\n\u30ec\u30d3\u30e5\u30fc\n\nViator\u306e\u65c5\u884c\u8005\u306b\u3088\u308b\u53e3\u30b3\u30df\n\n5.0\n\n37 \u4ef6\u306e\u30ec\u30d3\u30e5\u30fc\n\n5 \u30dd\u30a4\u30f3\u30c8\n\n4 \u30dd\u30a4\u30f3\u30c8\n\n3 \u30dd\u30a4\u30f3\u30c8\n\n2 \u30dd\u30a4\u30f3\u30c8\n\n1 \u30dd\u30a4\u30f3\u30c8\n\nW\n\nWendy K\n\n, 8 2018\n\nThis excursion was AMAZING!",
+            "act": 0.2242233008146286
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.22385524213314056
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.2170877754688263
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.21590277552604675
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.20711638033390045
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.18934617936611176
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.18486924469470978
+        },
+        {
+            "text": "\"Mrs.",
+            "act": 0.16444911062717438
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.14144960045814514
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.13114424049854279
+        },
+        {
+            "text": "Infield: Rossman, Downs, O'Leary, Coughlin, and Schaefer\nFirst baseman Claude Rossman played for the Tigers from 1907 to 1909.",
+            "act": 0.12932543456554413
+        },
+        {
+            "text": "I\u2019ve given it the title, \u201cThe Ocean Journey Requires Cutting Away\u201d (\u5927\u6d77\u822a\u884c\u9760\u5207\u5272).",
+            "act": 0.11840229481458664
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.11170676350593567
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.11167606711387634
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.10487739741802216
+        },
+        {
+            "text": "They had five children between 1907 and 1922: Eric, Doris, Leonard, James and Olive.",
+            "act": 0.09743337333202362
+        },
+        {
+            "text": "Married three times, he was the first husband of Enid Blyton, and then Ida Pollock, both writers.",
+            "act": 0.09540729224681854
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.094244584441185
+        },
+        {
+            "text": "He played for Strathclyde, Leith Athletic, Lincoln City and Newton Heath.",
+            "act": 0.09256763011217117
+        },
+        {
+            "text": "Microbiological studies of inhibition of bacterial growth.",
+            "act": 0.09054102748632431
+        },
+        {
+            "text": "Arthur Mosse\n\nArthur St. Leger \"Texas\" Mosse (March 29, 1872 \u2013 January 8, 1956) was an American football player and coach and the 9th head football coach of the Pittsburgh Panthers and the 13th head football coach\nfor the University of Kansas Jayhawks.",
+            "act": 0.08022576570510864
+        },
+        {
+            "text": "\"Reliant, come in, Reliant.\"",
+            "act": 0.07933803647756577
+        },
+        {
+            "text": "A number of western films were shot in Bishop, including movies starring John Wayne, Charlton Heston and Joel McCrea.",
+            "act": 0.07922127842903137
+        },
+        {
+            "text": "Five rabbits (M1\u2640, M2\u2642, M3\u2640, M5\u2640, and M7\u2640) deleted C272, C281, C282, C339, and C340.",
+            "act": 0.0753360167145729
+        },
+        {
+            "text": "It meets the northern terminus of Highway 71, then makes a gradual eastward journey through the lake-dotted Kenora District to the town of Dryden.",
+            "act": 0.07471087574958801
+        },
+        {
+            "text": "\"This is my mum, Barbara.\"",
+            "act": 0.07440582662820816
+        },
+        {
+            "text": "\"IT'S ALL RIGHT, HYACINTH, HONESTLY.\"",
+            "act": 0.0708375945687294
+        },
+        {
+            "text": "He pursued further studies in the United States, attending Yale University, Harvard University and Georgetown University in Washington DC where he took Diplomacy and International Relations.",
+            "act": 0.06955233216285706
+        },
+        {
+            "text": "Many of their traditional football programs have left the conference, and Notre Dame has been left to schedule a number of weak teams instead.",
+            "act": 0.06676778197288513
+        },
+        {
+            "text": "\"Mr Russell.",
+            "act": 0.06349874287843704
+        },
+        {
+            "text": "~When you see lightning, think of fireworks!",
+            "act": 0.06248452886939049
+        },
+        {
+            "text": "\u201cAnd just be careful what you do.",
+            "act": 0.05725749209523201
+        },
+        {
+            "text": "\"Shut up.",
+            "act": 0.05696723610162735
+        },
+        {
+            "text": "He and his younger brother Fred worked in his father's business.",
+            "act": 0.05560539290308952
+        },
+        {
+            "text": "Benjamin Wittes\n\nRobert Chesney\n\nMatthew Waxman\n\nDavid Rivkin\n\nLee Casey\n\nPhilip Bobbitt\n\nPeter Keisler\n\nBradford Berenson\n\nKenneth Anderson\n\nJohn Bellinger III\n\nPhilip Zelikow\n\nKenneth W. Starr\n\nLarry Thompson\n\nCharles \"Cully\" D. Stimson\n\nChuck Rosenberg\n\nHarvey Rishikoff\n\nOrin Kerr\n\nDaniel Dell\u2019Orto",
+            "act": 0.05297427251935005
+        },
+        {
+            "text": "\"Forget it.",
+            "act": 0.05057984218001366
+        },
+        {
+            "text": "After graduating from the Department of Science and Technology at Keio University, he entered the foreign business consulting firm A.T. Kearney.",
+            "act": 0.04997007176280022
+        },
+        {
+            "text": "Shortly thereafter, it turns to the east and travels along the North Channel of Lake Huron towards Sudbury, passing through numerous small towns, including Thessalon, Blind River, Massey and McKerrow.",
+            "act": 0.04849085584282875
+        },
+        {
+            "text": "\"Mr.",
+            "act": 0.047491200268268585
+        },
+        {
+            "text": "</strong>A full-angle is defined as an ordered pair of two lines u and v denoted by \u2220[u, v].<br />\n  <strong>R2.</strong> \u2220[u, v] = \u2212\u2220[v, u].<br />\n  <strong>R3.</strong> Constant full-angle \u2220[u, u] is denoted by \u2220[0].",
+            "act": 0.04740026965737343
+        },
+        {
+            "text": "\"Mr.",
+            "act": 0.04710017889738083
+        },
+        {
+            "text": "\u300b True\n\nprint(hanzidentifier.is_simplified('John\u8bf4\uff1a\u4f60\u597d\uff01'))\n\u300b True\n\nprint(hanzidentifier.is_traditional('John\u8aaa\uff1a\u4f60\u597d\uff01'))\n\u300b True",
+            "act": 0.04699048027396202
+        },
+        {
+            "text": "\"Mr.",
+            "act": 0.04657987132668495
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.04525674879550934
+        },
+        {
+            "text": "\"GOOD MORNING, MRS.",
+            "act": 0.0447709746658802
+        },
+        {
+            "text": "\"Come on.",
+            "act": 0.044694118201732635
+        },
+        {
+            "text": "Voting method equations.",
+            "act": 0.044009000062942505
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

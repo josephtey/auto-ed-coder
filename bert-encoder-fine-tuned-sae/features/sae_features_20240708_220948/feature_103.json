@@ -1,0 +1,412 @@
+{
+    "index": 103,
+    "label": "Complete and grammatically correct sentences",
+    "attributes": "complete sentences, grammatically correct, coherent ideas, individual statements, proper syntax",
+    "reasoning": "The samples in the set share the attribute of being sentences or phrases that are generally complete and grammatically correct. Each sample conveys an idea, statement, instruction, or information comprehensibly. On the other hand, the other samples consist of fragments, sentences with internet slang or shorthand, or conversations that are not always complete or coherent.",
+    "density": 0.0017889257429736026,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "Just keep going.",
+            "act": 0.1526324301958084
+        },
+        {
+            "text": "Always have.",
+            "act": 0.12794937193393707
+        },
+        {
+            "text": "The fact that the perception of self-related information has evolved so as to be experienced as grouped together, and to have the special quality of personally relating to oneself, is evidence that consciousness has biological value.",
+            "act": 0.12541215121746063
+        },
+        {
+            "text": "Bacon believed Rembrandt\u2019s self-portraits to be \u201cformally the most extraordinary paintings.",
+            "act": 0.12240928411483765
+        },
+        {
+            "text": "One of the winning combinations has the combination {24, Blue}.",
+            "act": 0.12193110585212708
+        },
+        {
+            "text": "Children of color are typically raised to regard white dolls as the norm and the standard.",
+            "act": 0.12125957012176514
+        },
+        {
+            "text": "However, to freely choose what make them happy, women should be informed, understand the information received, and the consequences of their choices.",
+            "act": 0.1120728999376297
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.11017200350761414
+        },
+        {
+            "text": "Moreover, Secretary Tillerson appears to have significantly more access to and influence with Trump than Haley.",
+            "act": 0.10373012721538544
+        },
+        {
+            "text": "Let that sink in.",
+            "act": 0.10054560005664825
+        },
+        {
+            "text": "Both of the fighters gain control over all the pieces of one colour and are able to manipulate one each turn.",
+            "act": 0.09577934443950653
+        },
+        {
+            "text": "Primary goals for feeding and swallowing are safe, adequate, and enjoyable mealtimes.",
+            "act": 0.092542365193367
+        },
+        {
+            "text": "Throughout the ordeal, Nixon raged at perceived enemies in Congress, in the media, and in the federal government.",
+            "act": 0.09217141568660736
+        },
+        {
+            "text": "Features considered include phonological characteristics, lexical items, politeness strategies, and voice quality.",
+            "act": 0.09070901572704315
+        },
+        {
+            "text": "Hence the French\u2019s fascination for universalism: the Enlightenment, the Louvre, both Rousseau and Voltaire, Madame de Sta\u00ebl and Louise Michel, Sainte-Beuve and Proust, Sade and Bataille, Sartre and L\u00e9vi-Strauss.",
+            "act": 0.08827565610408783
+        },
+        {
+            "text": "Could be good.",
+            "act": 0.08781921863555908
+        },
+        {
+            "text": "Jim Aubrey, president of MGM, was oblivious of the project as was Leo's owner, Kirk Kerkorian.",
+            "act": 0.08514206111431122
+        },
+        {
+            "text": "Reynolds's Oklahoma counsel, Jack Tracy (Tracy), also signed the form.",
+            "act": 0.08460845053195953
+        },
+        {
+            "text": "Further, secondary prizes of one hundred dollars, ten dollars, and two dollars can be available for partial matches.",
+            "act": 0.08195078372955322
+        },
+        {
+            "text": "Each of them take off suit and tie, covertly looking at one another as they do so.",
+            "act": 0.08090224862098694
+        },
+        {
+            "text": "If you have any ideas, though, by all means.",
+            "act": 0.08006568253040314
+        },
+        {
+            "text": "MERS-CoV residue numbers are labelled above the sequence.",
+            "act": 0.07839882373809814
+        },
+        {
+            "text": "The value of the second eighth (attacking on the \u201cand\u201d of count one) is unaffected.",
+            "act": 0.07664623856544495
+        },
+        {
+            "text": "Note: Despite three '0s' in 1000, 0 is not most occurred digit as they don't have tens and hundreds like other digits.",
+            "act": 0.07639476656913757
+        },
+        {
+            "text": "His notable students include John Burke, Roger Briggs, John S. Hilliard, and Robert Morris.",
+            "act": 0.07622615993022919
+        },
+        {
+            "text": "Moreover, detainees are unable to receive and send faxes, or photocopy documents.",
+            "act": 0.07512824237346649
+        },
+        {
+            "text": "First, they assist in understanding other cultures, offering insights into their values, traditions, philosophies, and ways of being.",
+            "act": 0.07507272064685822
+        },
+        {
+            "text": "In the associative agnosias, certain information associated with items being experienced, such as the meanings of words or the identities of objects or faces, are not consciously accessible, though there is evidence they are nonconsciously known.",
+            "act": 0.07499155402183533
+        },
+        {
+            "text": "Both used the trust of many people in their networks of friends, family, and acquaintances to commit frauds.",
+            "act": 0.07457217574119568
+        },
+        {
+            "text": "Anyone who recognises the man pictured should contact Ds Pete McCormack at Braintree CID on 101 or Crimestoppers on 0800 555 111.",
+            "act": 0.07441407442092896
+        },
+        {
+            "text": "Two nodes are *connected* if they both belong to the same hyperedge.",
+            "act": 0.07034102082252502
+        },
+        {
+            "text": "If we work together, maybe some of us might make it out in one piece.",
+            "act": 0.0692308098077774
+        },
+        {
+            "text": "\u2014 to call our own, the value of their houses starts to tremble, crumble, and then fall.",
+            "act": 0.06909219920635223
+        },
+        {
+            "text": "The 1006 characters for grades 1 through 6 together are known as the Kyoiku Kanji.",
+            "act": 0.06805478036403656
+        },
+        {
+            "text": "Since those of us with normal perceptual systems are able to consciously remember and tell others about the identities of objects or people, these facts are normally associated with consciousness when necessary.",
+            "act": 0.06767286360263824
+        },
+        {
+            "text": "View our plans here.",
+            "act": 0.06678926944732666
+        },
+        {
+            "text": "Those will be known in time.",
+            "act": 0.06618639826774597
+        },
+        {
+            "text": "Favre emerged from a plane in Minnesota on Tuesday, with the expectation that he will rejoin the Vikings.",
+            "act": 0.06572853028774261
+        },
+        {
+            "text": "Butlin and Joll dated the work to c. 1835-1840 and suggest that it is a fragment of a larger canvas 'which has certainly been worked on by a hand other than Turner's'.",
+            "act": 0.0644579529762268
+        },
+        {
+            "text": "Come to me.",
+            "act": 0.0640813410282135
+        },
+        {
+            "text": "Households that keep to traditional gender roles report more sexual encounters.",
+            "act": 0.06241981312632561
+        },
+        {
+            "text": "Q:\n\nGroup which \"resembles\" the free product of a cyclic group of order two and a cyclic group of order three, but isn't.",
+            "act": 0.06128091737627983
+        },
+        {
+            "text": "After landing Ellsbury with the Yankees for $153 million, Boras is seeking another huge payday for Choo.",
+            "act": 0.06116804853081703
+        },
+        {
+            "text": "Always has.",
+            "act": 0.061025116592645645
+        },
+        {
+            "text": "Brothers walked away, but Anthony trailed behind and kept talking.",
+            "act": 0.060010623186826706
+        },
+        {
+            "text": "The king, portrayed by state interests as a figure, then became\u2014through a rigid cultural implementation\u2014an object of worship.",
+            "act": 0.05940784141421318
+        },
+        {
+            "text": "Just take it home and open it up.",
+            "act": 0.059098806232213974
+        },
+        {
+            "text": "Calculate the highest common divisor of h and 64.",
+            "act": 0.05875208601355553
+        },
+        {
+            "text": "Prince Vasili wished to obtain this post for his son, but others were trying through the Dowager Empress Marya Fedorovna to secure it for the baron.",
+            "act": 0.05822966247797012
+        },
+        {
+            "text": "Then lock in and pull her over.",
+            "act": 0.05809074267745018
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

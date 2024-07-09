@@ -1,0 +1,412 @@
+{
+    "index": 161,
+    "label": "Structured question format",
+    "attributes": "structured question format, fill-in-the-blank lines, multiple-choice questions, options with checkboxes, numbering or bullet points",
+    "reasoning": "After analyzing the texts in each set, it is evident that the samples contain structured question formats, often with marks like underscores for fill-in-the-blanks, and multiple-choice questions with options indicated by checkboxes. None of these formatting or structural characteristics exist in the other samples. The structure includes fill-in-the-blank lines, multiple-choice questions, and numbering or bullet points to delineate questions or sections.",
+    "density": 0.0004223193398531847,
+    "confidence": 80.0,
+    "high_act_samples": [
+        {
+            "text": "(If the patient still works, he/she is asked about the present profession)**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**3.",
+            "act": 0.19555695354938507
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Significantly changed *3 points*\n\n\u25a1 Same as before *2 points*\n\n\u25a1 Does not know/remember *1 point*\n\n**4.",
+            "act": 0.18774063885211945
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Relevant diagnosis *3 points*\n\n\u25a1 Irrelevant diagnosis *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**5.",
+            "act": 0.17942512035369873
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Good understanding *3 points*\n\n\u25a1 Partial understanding *2 points*\n\n\u25a1 Does not know what it means *1 point*\n\n**6.",
+            "act": 0.1782861202955246
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Yes, very problematic *3 points*\n\n\u25a1 Yes, to some extent *2 points*\n\n\u25a1 No problems at all *1 point*\n\n**8.",
+            "act": 0.17820554971694946
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Protocol**\n\nDate of the investigation\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSubject code:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Introduction**\n\nDuring this investigation I am going to ask you questions, and to ask you to perform tasks.",
+            "act": 0.17548465728759766
+        },
+        {
+            "text": "This was a cool girl.",
+            "act": 0.15581201016902924
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Worried (specified) *3 points*\n\n\u25a1 Generally but vaguely worried *2 points*\n\n\u25a1 Not worried *1 point*\n\n**10.",
+            "act": 0.1397174894809723
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct -- one year\\'s error *2 points*\n\n\u25a1 Not correct -- several years\\' errors *1 point*\n\n**2.",
+            "act": 0.1396736055612564
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nYes, considerably *3 points*\n\nYes, to some extent *2 points*\n\nNo adaptation at all *1 point*\n\nThank you.",
+            "act": 0.13488070666790009
+        },
+        {
+            "text": "boy you sure are brave.",
+            "act": 0.1112838089466095
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Prominent cognitive symptoms *3 points*\n\n\u25a1 Some cognitive symptoms *2 points*\n\n\u25a1 No cognitive symptoms *1 point*\n\n**7.",
+            "act": 0.10817195475101471
+        },
+        {
+            "text": "\" Bam?\"",
+            "act": 0.09598416090011597
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Association with relevant diagnosis and illness *4 points*\n\n\u25a1 Association with a relevant diagnostic name, but without knowing the implications of the diagnosis *3 points*\n\n\u25a1 Association with illness, but no diagnosis *2 points*\n\n\u25a1 Does not know *1 point*\n\n**9.",
+            "act": 0.09512151777744293
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.08441159129142761
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n###### \n\nDemography of MCI and AD patients\n\n  Group   n    Gender(F/M)   Age (F/M), years   p value   Age group (F + M), years   p value   Education(F/M),years   p value   Education group (F + M), years   p value\n  ------- ---- ------------- ------------------ --------- -------------------------- --------- ---------------------- --------- -------------------------------- ---------\n  MCI     12   5/7           72.8/74.1          n.s.",
+            "act": 0.08011072874069214
+        },
+        {
+            "text": "in libc).",
+            "act": 0.07016146183013916
+        },
+        {
+            "text": "(Source: YouTube)",
+            "act": 0.06961315870285034
+        },
+        {
+            "text": "J Neurol.",
+            "act": 0.06951852142810822
+        },
+        {
+            "text": "J Ecol.",
+            "act": 0.06659375131130219
+        },
+        {
+            "text": "I started up again today.",
+            "act": 0.06415531039237976
+        },
+        {
+            "text": "He fought at the Battle of Peachtree Creek.",
+            "act": 0.051330048590898514
+        },
+        {
+            "text": "GREAT IDEA NRA MORONS.",
+            "act": 0.05122973397374153
+        },
+        {
+            "text": "Thanks and sorry about my english.",
+            "act": 0.051058944314718246
+        },
+        {
+            "text": "Hey Michael!",
+            "act": 0.04881246015429497
+        },
+        {
+            "text": "A: Math.",
+            "act": 0.042239364236593246
+        },
+        {
+            "text": "A: Math.",
+            "act": 0.04055913910269737
+        },
+        {
+            "text": "Fantastic job Baena!",
+            "act": 0.039271239191293716
+        },
+        {
+            "text": "A: Math.",
+            "act": 0.038440462201833725
+        },
+        {
+            "text": "A: Math.",
+            "act": 0.037405457347631454
+        },
+        {
+            "text": "I'm happy LeBron won a championship.",
+            "act": 0.03727816790342331
+        },
+        {
+            "text": "Solving the system $$\\begin{aligned}\n&\\ds\nx\\;=\\;i\\,\\w_\\alpha^{}\\,J\\,-\\,i\\,\\w_\\beta^{\\,-1}\\Phi\\;,\\;\\;\\;\nx'\\;=\\;i\\,w_\\gamma^{}\\,J'\\,-\\,i\\,w_\\delta^{-1}\\,\\Phi'\\;,\n&\\nonumber\\\\\n&\\ds\ny\\;=\\;i\\,u_\\delta^{-1}\\,\\Phi'\\,-\\,i\\,u_\\alpha^{}\\,J\\;,\\;\\;\\;\ny'\\;=\\;i\\,\\u_\\beta^{\\,-1}\\,\\Phi\\,-\\,i\\,\\u_\\gamma^{}\\,J'\\;,\n&\\nonumber\\\\\n&\\ds\nw_\\alpha^{-1}u_\\alpha^{}\\,J+w_\\beta^{}\\u_\\beta^{\\,-1}\\,\\Phi+\nu_\\gamma^{-1}w_\\gamma^{}\\,J'+\\u_\\delta^{}w_\\delta^{-1}\\,\\Phi'\\;=\\;0\\;,\n&\\end{aligned}$$ we obtain $$\\begin{aligned}\n&\\ds\nJ'\\;=\\;-w_\\gamma^{-1}u_\\gamma^{}\\,(\\chi\\,J\n\\,+\\,i\\,u_\\beta^{}\\,x\\,-\\,i\\,\\w_\\delta^{}\\,y)\\;,\n&\\nonumber\\\\\n&\\ds\n\\Phi\\;=\\;\\w_\\beta^{}\\,\\w_\\alpha^{}\\,J\\,+\\,i\\,\\w_\\beta^{}\\,x\\;,\\;\\;\\;\n\\Phi'\\;=\\;u_\\delta^{}\\,u_\\alpha^{}\\,J\\,-\\,i\\,u_\\delta^{}\\,y\\;,\n&\\nonumber\\\\\n&\\ds\nx'\\;=\\;-\\,i\\,(w_\\delta^{-1}u_\\delta^{}u_\\alpha^{}\\,+\\,u_\\gamma^{}\\,\\chi)\\,J\n\\,+\\,u_\\gamma^{}\\,u_\\beta^{}\\,x\n\\,-\\,(u_\\gamma\\,+\\,\\u_\\delta^{\\,-1})\\,\\w_\\delta^{}\\,y\\;,\n&\\nonumber\\\\\n&\\ds\ny'\\;=\\;i\\,(\\u_\\beta^{\\,-1}\\w_\\beta^{}\\w_\\alpha^{}\\,+\\,\\w_\\gamma^{}\\,\\chi)\\,J\n\\,-\\,(w_\\beta^{-1}\\,+\\,\\w_\\gamma^{})\\,u_\\beta^{}\\,x\\,+\\,\n\\w_\\gamma^{}\\w_\\delta^{}\\,y\\;,\n&\\end{aligned}$$ where $$\\chi\\;=\\;w_\\alpha^{-1}u_\\alpha^{}\\,+\\,\nu_\\beta^{}\\w_\\alpha^{}\\,+\\,\n\\w_\\delta^{}u_\\alpha^{}\\;.$$ Consider the intertwining of three copies of $V_{<\\alpha,\\beta,\\gamma,\\delta>}$: $$\\begin{aligned}\n&\\ds\n\\Re_{1,2,3}\\;:\\;\nV_{<\\alpha_1,\\beta_1,\\gamma_1,\\delta_1>}\\,,\\,\nV_{<\\alpha_2,\\beta_2,\\gamma_2,\\delta_2>}\\,,\\,\nV_{<\\alpha_3,\\beta_3,\\gamma_3,\\delta_3>}\n&\\nonumber\\\\\n&\\ds\n\\;\\rightarrow\\;\n\\ac V_{<\\alpha_1,\\beta_1,\\gamma_1,\\delta_1>}\\,,\\,\n\\ac V_{<\\alpha_2,\\beta_2,\\gamma_2,\\delta_2>}\\,,\\,\n\\ac V_{<\\alpha_3,\\beta_3,\\gamma_3,\\delta_3>}\\;,&\\end{aligned}$$ so that $$\\begin{aligned}\n&\\ds\n\\Re_{1,2,3}\\;=\\;\nR_{\\alpha_1,\\beta_2,\\gamma_3}\\c\nR_{\\delta_1,\\gamma_2,\\gamma_3}\\c\nR_{\\beta_1,\\beta_2,\\beta_3}\\c\nR_{\\gamma_1,\\gamma_2,\\beta_3}\\c\n&\\nonumber\\\\\n&\\ds\nR_{\\alpha_1,\\alpha_2,\\delta_3}\\c\nR_{\\delta_1,\\delta_2,\\delta_3}\\c\nR_{\\beta_1,\\alpha_2,\\alpha_3}\\c\nR_{\\gamma_1,\\delta_2,\\alpha_3}\\;.",
+            "act": 0.036391016095876694
+        },
+        {
+            "text": "A: Math.",
+            "act": 0.03374972566962242
+        },
+        {
+            "text": "A: Math.",
+            "act": 0.03210197016596794
+        },
+        {
+            "text": "Yes my friend, I am a space farmer.",
+            "act": 0.029889490455389023
+        },
+        {
+            "text": "Unfortunately, the show was cancelled after 1st season.",
+            "act": 0.029531773179769516
+        },
+        {
+            "text": "He was then hit with the second technical.",
+            "act": 0.027011852711439133
+        },
+        {
+            "text": "Marissa most likely was suffering from post partum depression, traumatic brain injury, and or post traumatic stress disorder.",
+            "act": 0.02662927657365799
+        },
+        {
+            "text": "Yahoo!",
+            "act": 0.02460634335875511
+        },
+        {
+            "text": "Hey everyone!",
+            "act": 0.02405771240592003
+        },
+        {
+            "text": "Yu.",
+            "act": 0.0230691097676754
+        },
+        {
+            "text": "Yu.",
+            "act": 0.0230691097676754
+        },
+        {
+            "text": "Yu.",
+            "act": 0.022615280002355576
+        },
+        {
+            "text": "Yu.",
+            "act": 0.022615280002355576
+        },
+        {
+            "text": "Yu.",
+            "act": 0.022517483681440353
+        },
+        {
+            "text": "Yu.",
+            "act": 0.022432278841733932
+        },
+        {
+            "text": "diabetes                                \u00a0            \u00a0            \u00a0            No.",
+            "act": 0.021919142454862595
+        },
+        {
+            "text": "I love life, motorcycles, photography and all things technical.",
+            "act": 0.021640773862600327
+        },
+        {
+            "text": "Yu.",
+            "act": 0.02155783399939537
+        },
+        {
+            "text": "Yu.",
+            "act": 0.020936500281095505
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

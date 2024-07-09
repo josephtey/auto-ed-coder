@@ -1,0 +1,412 @@
+{
+    "index": 599,
+    "label": "Detailed formal and technical content",
+    "attributes": "technical terms, citations, dates, professional titles, detailed descriptions, academic context, legal context, professional context",
+    "reasoning": "The samples in the <positive-samples> contain complex, specific content, often involving technical terms, citations, dates, professional titles, and detailed descriptions. These texts are often associated with academic, legal, professional, or technical contexts. In contrast, the samples in the <negative-samples> are more informal, conversational, and lack the detailed, technical, or formal characteristics observed in the other samples.",
+    "density": 0.0047451611219458956,
+    "confidence": 48.0,
+    "high_act_samples": [
+        {
+            "text": "denied).",
+            "act": 0.23194092512130737
+        },
+        {
+            "text": "Acquired Lynch via trade in 2011.",
+            "act": 0.1954912543296814
+        },
+        {
+            "text": "filed).",
+            "act": 0.1890101581811905
+        },
+        {
+            "text": "only read/pull access).",
+            "act": 0.1717619150876999
+        },
+        {
+            "text": "Digest: Extra\u2010pair mating and inbreeding avoidance in a socially monogamous fairy\u2010wren.",
+            "act": 0.15494143962860107
+        },
+        {
+            "text": "Leverage?",
+            "act": 0.15392416715621948
+        },
+        {
+            "text": "(Wait!",
+            "act": 0.1503162384033203
+        },
+        {
+            "text": "\"what?",
+            "act": 0.14975106716156006
+        },
+        {
+            "text": "DumbBell Domination is a technique penned by Jen Comas that comes with brief, workouts which have been intensive into twenty minutes each and every day or less.",
+            "act": 0.14916540682315826
+        },
+        {
+            "text": "are a cross between E cores and pot cores.",
+            "act": 0.14145606756210327
+        },
+        {
+            "text": "LP Shape Cores\n\nLP cores are similar to EQ cores but with larger wireways for easier winding and assembly.",
+            "act": 0.14041751623153687
+        },
+        {
+            "text": "remand denied May 10, 1984).",
+            "act": 0.13448292016983032
+        },
+        {
+            "text": "(Sec.",
+            "act": 0.13405556976795197
+        },
+        {
+            "text": "Jan. 14, 2014), aff\u2019d, 119 A.3d 663 (Del.",
+            "act": 0.1329430490732193
+        },
+        {
+            "text": "fitted inky black velvet bodice with bead & 'pearl' feature.",
+            "act": 0.13269716501235962
+        },
+        {
+            "text": "2d 475 (Miss.",
+            "act": 0.13117554783821106
+        },
+        {
+            "text": "(See Federal Def.",
+            "act": 0.12953993678092957
+        },
+        {
+            "text": "364 (D.La.",
+            "act": 0.1293603777885437
+        },
+        {
+            "text": "In this status, then even if the required N.P.S.H.",
+            "act": 0.12682613730430603
+        },
+        {
+            "text": "Wei, and D. Brooks, \u201cThread motion: fine-grained power management for multi-core systems,\u201d in Proc.",
+            "act": 0.12572155892848969
+        },
+        {
+            "text": "Entergy purchased Vermont Yankee,\na 540-megawatt reactor, for US$180 million in 2002.",
+            "act": 0.12519019842147827
+        },
+        {
+            "text": "These devices can take up virtual CPU cycles from the system for maintenance.",
+            "act": 0.12223901599645615
+        },
+        {
+            "text": "friction) take over.",
+            "act": 0.12196413427591324
+        },
+        {
+            "text": "\u201cLt.",
+            "act": 0.11979017406702042
+        },
+        {
+            "text": "else:\n        return False\n\nprint('Oto jest gra, w kt\u00f3rej musisz odgadn\u0105\u0107 kod!",
+            "act": 0.11826802045106888
+        },
+        {
+            "text": "lightweight polyester shell will repel snow and rain.",
+            "act": 0.11781897395849228
+        },
+        {
+            "text": "Recognition\nScheinberg became Wagner Professor at Lehigh in 2014.",
+            "act": 0.11706763505935669
+        },
+        {
+            "text": "Eckhouse produces American Proscuitto from all-natural hogs and approached Biensen with the idea of acorn finishing true Berkshire hogs.",
+            "act": 0.11581164598464966
+        },
+        {
+            "text": "A cloth underneath the plant collected seeds falling during the harvesting process.",
+            "act": 0.11493673175573349
+        },
+        {
+            "text": "RETENTION: Record (master) copy: Retain permanently in office.",
+            "act": 0.11337826400995255
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.11234185099601746
+        },
+        {
+            "text": "When Brillhart makes a VR film, she focuses on capturing a series of dynamic 360\u00b0 shots or \u201cworlds,\u201d rather than a sequence of static film frames.",
+            "act": 0.11170830577611923
+        },
+        {
+            "text": "RETENTION: Retain in office 3 years after termination of contract, then destroy by shredding then recycling.",
+            "act": 0.11009038239717484
+        },
+        {
+            "text": "Filed August 20, 2007.",
+            "act": 0.10685639828443527
+        },
+        {
+            "text": "(See Federal Def.",
+            "act": 0.10648424178361893
+        },
+        {
+            "text": "2d 821, 823 (Miss.",
+            "act": 0.10513734072446823
+        },
+        {
+            "text": "Supine exercises on an unstable base challenge core stability.",
+            "act": 0.10474467277526855
+        },
+        {
+            "text": "Monsanto has muscle based on its ownership of the foundation seed companies that develop the new inbreds for hybrid corn etc.",
+            "act": 0.10386136174201965
+        },
+        {
+            "text": "Williams began her career on \u201cDawson\u2019s Creek,\u201d the kind of potboiler that leaves many actors wanting for work upon cancellation.",
+            "act": 0.10352148860692978
+        },
+        {
+            "text": "LOAD (but DO NOT run) the \u201cCHAR SET TEST\u201d program.",
+            "act": 0.1034778505563736
+        },
+        {
+            "text": "Filed September 21, 1984.",
+            "act": 0.10336845368146896
+        },
+        {
+            "text": "Combined mechanical process recycling technology for recovering copper and aluminium components of spent lithium-iron phosphate batteries.",
+            "act": 0.10241299867630005
+        },
+        {
+            "text": "Acquired Graham via trade in 2012, same owner.",
+            "act": 0.10155408829450607
+        },
+        {
+            "text": "V\u00fdm\u011bna disku nem\u016f\u017ee b\u00fdt provedena bez:\n\n-\tPotvrzen\u00ed o proveden\u00ed z\u00e1lohy dat.",
+            "act": 0.10007499903440475
+        },
+        {
+            "text": "Swede referee loses finger in bizarre accident during game!",
+            "act": 0.09978920966386795
+        },
+        {
+            "text": "2d 431, 432 (Miss.",
+            "act": 0.09856414794921875
+        },
+        {
+            "text": "id: Unable to open Cell codec.",
+            "act": 0.09723881632089615
+        },
+        {
+            "text": "id: Unable to open Cell codec.",
+            "act": 0.09723881632089615
+        },
+        {
+            "text": "They held her down.",
+            "act": 0.09682250767946243
+        },
+        {
+            "text": "Renews and restores plastic\n.",
+            "act": 0.09608045220375061
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

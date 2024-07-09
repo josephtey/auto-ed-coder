@@ -1,0 +1,412 @@
+{
+    "index": 68,
+    "label": "Multilingual and structured content",
+    "attributes": "contains multiple languages, includes code snippets, includes legal text, structured formatting",
+    "reasoning": "All samples contain a mix of different languages such as Hebrew and Nepali while the other samples are entirely in English. Additionally, some of the samples contain code snippets, legal text, and structured formatting such as lists or sections which are not present in other samples.",
+    "density": 0.0005551838512676697,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "The new Facebook\n\n______________________End_______________________",
+            "act": 0.2575830817222595
+        },
+        {
+            "text": "___________________________________\n                                                       DAVID G. HAYES, JUDGE\n\n\n\n\n                                                 -8-",
+            "act": 0.13272030651569366
+        },
+        {
+            "text": "\"How am I, how I'm doing.\"",
+            "act": 0.1274099051952362
+        },
+        {
+            "text": "Best wishes,\n\nAlex Guang Yu\n\n\n__________________________________________________\nDo You Yahoo!?",
+            "act": 0.12639619410037994
+        },
+        {
+            "text": "I have developed a  java 1.4 web application.Application is deployed on jboss(tomcat).",
+            "act": 0.12291460484266281
+        },
+        {
+            "text": "83.6% of people spoke only English at home; the next most common languages were 1.3% Samoan, 0.8% Urdu, 0.8% Hindi, 0.7% German, 0.5% Mandarin.",
+            "act": 0.11286523193120956
+        },
+        {
+            "text": "\"You know what you gotta do.\"",
+            "act": 0.11091326922178268
+        },
+        {
+            "text": "___________________\nAnd there you have chapter 1!",
+            "act": 0.09975676983594894
+        },
+        {
+            "text": "\u05d4\u05de\u05ea\u05d5\u05d3\u05d4 \u05de\u05d7\u05d6\u05d9\u05e8\u05d4 \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR \u05d0\u05e9\u05e8 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d5 \u05dc\u05d2\u05e9\u05ea \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d1\u05e2\u05dc\u05d9 \u05d4\u05e8\u05e9\u05d0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d4 \u05de\u05d7\u05dc\u05e7\u05d4 \u05d1\u05dc\u05d1\u05d3 (\u05de\u05e9\u05d4\u05d5 \u05d3\u05d5\u05de\u05d4 \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05e1\u05d8\u05d8\u05d9\u05d5\u05ea \u05d1\u05de\u05d7\u05dc\u05e7\u05d4) \u05d1\u05d0\u05d5\u05e4\u05df \u05de\u05d5\u05e0\u05d7\u05d4 \u05e2\u05e6\u05de\u05d9\u05dd.",
+            "act": 0.09690240770578384
+        },
+        {
+            "text": "She\u2019s on Twitter, Facebook & Gab.",
+            "act": 0.09588509052991867
+        },
+        {
+            "text": "The garden block is followed by a slightly projecting low gabled entrance bay, the gable supported by heavy shaped brackets.",
+            "act": 0.09347282350063324
+        },
+        {
+            "text": "\u05d0\u05dd \u05d4\u05de\u05ea\u05d5\u05d3\u05d4 `find` \u05de\u05d5\u05e6\u05d0\u05ea \u05e8\u05e9\u05d5\u05de\u05d4 \u05d4\u05de\u05e9\u05d1\u05d9\u05e2 \u05d0\u05ea \u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05d4\u05d5\u05e2\u05d1\u05e8\u05d5, \u05d4\u05d9\u05d0 \u05ea\u05d7\u05d6\u05d9\u05e8 \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05e9\u05dc `Post` \u05db\u05e9\u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc\u05d4 \u05de\u05db\u05d9\u05dc\u05d9\u05dd \u05d0\u05ea \u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05e9\u05dc \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e9\u05dc \u05d0\u05d5\u05ea\u05d4 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.09178956598043442
+        },
+        {
+            "text": "\ufeffActive Record\n=============\n\n\u05dc\u05de\u05e8\u05d5\u05ea \u05e9\u05d4 DAO \u05e9\u05dc Yii \u05d9\u05db\u05d5\u05dc \u05dc\u05d8\u05e4\u05dc \u05d1\u05db\u05de\u05e2\u05d8 \u05db\u05dc \u05e4\u05e2\u05d5\u05dc\u05d4 \u05d4\u05e7\u05e9\u05d5\u05e8\u05d4 \u05dc\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd, \u05e8\u05d5\u05d1 \u05d4\u05e1\u05d9\u05db\u05d5\u05d9\u05d9\u05dd \u05e9\u05d0\u05e0\u05d5 \u05e0\u05d1\u05d6\u05d1\u05d6 90% \u05de\u05d4\u05d6\u05de\u05df \u05e9\u05dc\u05e0\u05d5 \u05d1\u05db\u05ea\u05d9\u05d1\u05ea \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05d0\u05e9\u05e8 \u05de\u05d1\u05e6\u05e2\u05d5\u05ea \u05d0\u05ea \u05d4\u05e4\u05e2\u05d5\u05dc\u05d5\u05ea \u05d4\u05e0\u05e4\u05d5\u05e6\u05d5\u05ea \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd CRUD (\u05d9\u05e6\u05d9\u05e8\u05d4, \u05e7\u05e8\u05d9\u05d0\u05d4, \u05e2\u05d3\u05db\u05d5\u05df \u05d5\u05de\u05d7\u05d9\u05e7\u05d4).",
+            "act": 0.08636801689863205
+        },
+        {
+            "text": "\u05d9\u05e9 \u05dc\u05e7\u05e8\u05d5\u05d0 \u05dc\u05de\u05ea\u05d5\u05d3\u05d4 \u05d4 getErrors() \u05dc\u05e7\u05d1\u05dc\u05ea \u05d4\u05e9\u05d2\u05d9\u05d0\u05d5\u05ea \u05e9\u05d7\u05d6\u05e8\u05d5\n}\n~~~\n\n\u05db\u05e9\u05d4\u05de\u05d9\u05d3\u05e2 \u05dc\u05e2\u05d3\u05db\u05d5\u05df \u05d0\u05d5 \u05d4\u05d5\u05e1\u05e4\u05d4 \u05e9\u05dc \u05e8\u05e9\u05d5\u05de\u05d4 \u05de\u05ea\u05e7\u05d1\u05dc \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4 \u05d1\u05e2\u05d6\u05e8\u05ea \u05d8\u05d5\u05e4\u05e1 HTML , \u05d0\u05e0\u05d5 \u05e6\u05e8\u05d9\u05db\u05d9\u05dd \u05dc\u05d4\u05e6\u05d9\u05d1 \u05d0\u05d5\u05ea\u05dd \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05de\u05d9\u05dd \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.08172077685594559
+        },
+        {
+            "text": "The basis for Appellant\u2019s initial petition and amended,\n\ncounseled petition arises from the testimony Mr. Johnson provided at Mr.\n\n____________________________________________\n\n\n1\n    18 Pa.C.S.A.",
+            "act": 0.08085262030363083
+        },
+        {
+            "text": "Then, in April, a sharp drop off in the middle of the month, with only three engagements after Easter Sunday.",
+            "act": 0.07643570005893707
+        },
+        {
+            "text": "MeYowza.",
+            "act": 0.07552357017993927
+        },
+        {
+            "text": "Mat.",
+            "act": 0.07317475974559784
+        },
+        {
+            "text": "rights and she didn\u2019t want to talk about them.",
+            "act": 0.07136709988117218
+        },
+        {
+            "text": "They now reside on four Reservations.",
+            "act": 0.06639458984136581
+        },
+        {
+            "text": "computer\nskills\nin\nExcel,\nWord,\nand\nTo:______________________________\nFrom:__________________________\nTEACHER \u2013 will pick up your child\nin Bellaire.",
+            "act": 0.06409851461648941
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.06271499395370483
+        },
+        {
+            "text": "______________________________.",
+            "act": 0.06271499395370483
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e7\u05d5\u05d3 \u05d4\u05d1\u05d0 \u05db\u05d3\u05d9 \u05dc\u05d4\u05db\u05e0\u05d9\u05e1 \u05e9\u05d5\u05e8\u05d4 \u05d7\u05d3\u05e9\u05d4 \u05d1\u05d8\u05d1\u05dc\u05d4 `tbl_post`:\n\n~~~\n[php]\n$post=new Post;\n$post-\u00bbtitle='\u05db\u05d5\u05ea\u05e8\u05ea \u05dc\u05d3\u05d5\u05d2\u05de\u05d0';\n$post-\u00bbcontent='\u05ea\u05d5\u05db\u05df \u05d4\u05d5\u05d3\u05e2\u05d4 \u05dc\u05d3\u05d5\u05d2\u05de\u05d0';\n$post-\u00bbsave();\n~~~\n\n\u05d1\u05de\u05e1\u05de\u05da \u05d6\u05d4 \u05d0\u05e0\u05d5 \u05e0\u05ea\u05d0\u05e8 \u05db\u05d9\u05e6\u05d3 \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05de\u05d7\u05dc\u05e7\u05ea AR \u05d5\u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d4 \u05db\u05d3\u05d9 \u05dc\u05d1\u05e6\u05e2 \u05e4\u05e2\u05d5\u05dc\u05d5\u05ea CRUD.",
+            "act": 0.06128814071416855
+        },
+        {
+            "text": "copy\nTo:______________________________\nFrom:__________________________\nKeeping, Transportation\nService.charge)\nadministrative duties for event planning.",
+            "act": 0.060435451567173004
+        },
+        {
+            "text": "\u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d8\u05d1\u05dc\u05d4 \u05dc\u05d0 \u05de\u05db\u05d9\u05dc\u05d4 \u05de\u05e4\u05ea\u05d7 \u05e8\u05d0\u05e9\u05d9, \u05d9\u05e9 \u05e6\u05d5\u05e8\u05da \u05d1\u05d4\u05d2\u05d3\u05e8\u05ea \u05d4\u05de\u05e4\u05ea\u05d7 \u05d4\u05e8\u05d0\u05e9\u05d9 \u05d1\u05de\u05d7\u05dc\u05e7\u05d4 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d3\u05e8\u05d9\u05e1\u05d4 \u05e9\u05dc \u05d4\u05de\u05ea\u05d5\u05d3\u05d4 `primaryKey` \u05db\u05e4\u05d9 \u05e9\u05de\u05d5\u05e6\u05d2 \u05d1\u05d3\u05d5\u05d2\u05de\u05d0 \u05d4\u05d1\u05d0\u05d4,\n\n~~~\n[php]\npublic function primaryKey()\n{\n    return 'id';\n    // \u05d1\u05e2\u05d1\u05d5\u05e8 \u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05de\u05d5\u05e8\u05db\u05d1\u05d9\u05dd, \u05d9\u05e9 \u05dc\u05d4\u05d7\u05d6\u05d9\u05e8 \u05de\u05e2\u05e8\u05da \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d4\u05d1\u05d0\u05d4\n    // return array('pk1', 'pk2');\n}\n~~~\n\n\n\u05d9\u05e6\u05d9\u05e8\u05ea \u05e8\u05e9\u05d5\u05de\u05d4\n---------------\n\n\u05d1\u05db\u05d3\u05d9 \u05dc\u05d4\u05db\u05e0\u05d9\u05e1 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d7\u05d3\u05e9\u05d4 \u05dc\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd, \u05d0\u05e0\u05d5 \u05d9\u05d5\u05e6\u05e8\u05d9\u05dd \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d7\u05d3\u05e9 \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR, \u05de\u05d2\u05d3\u05d9\u05e8\u05d9\u05dd \u05d0\u05ea \u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc\u05d4 \u05d1\u05d4\u05ea\u05d0\u05dd \u05dc\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4, \u05d5\u05e7\u05d5\u05e8\u05d0\u05d9\u05dd \u05dc\u05de\u05ea\u05d5\u05d3\u05d4 [save|CActiveRecord::save] \u05db\u05d3\u05d9 \u05dc\u05d4\u05e9\u05dc\u05d9\u05dd \u05d0\u05ea \u05ea\u05d4\u05dc\u05d9\u05da \u05d4\u05d4\u05d5\u05e1\u05e4\u05d4.",
+            "act": 0.06030844897031784
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d0\u05e0\u05d7\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1 PostgreSQL, \u05d0\u05e0\u05d5 \u05e0\u05e6\u05d8\u05e8\u05da \u05dc\u05db\u05ea\u05d5\u05d1 \u05d0\u05ea \u05d4\u05ea\u05e0\u05d0\u05d9 \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d4\u05d1\u05d0\u05d4 `postID\"=:postID\"`, \u05de\u05d0\u05d7\u05e8 \u05d5 PostgreSQL \u05db\u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05d9\u05ea\u05d9\u05d9\u05d7\u05e1 \u05dc\u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05dc\u05dc\u05d0 \u05e8\u05d2\u05d9\u05e9\u05d5\u05ea \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.05413711816072464
+        },
+        {
+            "text": "At present, only supports the C language.",
+            "act": 0.05396346002817154
+        },
+        {
+            "text": "In addition to her husband, Paxton is survived by her children, Kimberley and Michael.",
+            "act": 0.051073767244815826
+        },
+        {
+            "text": "Dramatised short story\n\nBased on a short story by Jai Nandan, it is dramatised by the director himself.",
+            "act": 0.050128184258937836
+        },
+        {
+            "text": "________________________________________________________________\n\n       Appeal from the Iowa District Court for Polk County, Christopher L.\n\nMcDonald, Judge.",
+            "act": 0.048790253698825836
+        },
+        {
+            "text": "\u00bb Info|\u05de\u05d9\u05d3\u05e2: \u05db\u05d3\u05d9 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea [\u05e7\u05d9\u05d3\u05d5\u05de\u05ea \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea](/doc/guide/database.dao#using-table-prefix) \u05d4\u05e7\u05d9\u05d9\u05de\u05ea \u05de\u05d2\u05e8\u05e1\u05d0\u05d5\u05ea 1.1.0, \u05d4\u05de\u05ea\u05d5\u05d3\u05d4 [tableName|CActiveRecord::tableName] \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea AR \u05e6\u05e8\u05d9\u05db\u05d4 \u05dc\u05d4\u05d3\u05e8\u05e1 \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d4\u05d1\u05d0\u05d4,\n\u00bb ~~~\n\u00bb [php]\n\u00bb public function tableName()\n\u00bb {\n\u00bb     return '{{post}}';\n\u00bb }\n\u00bb ~~~\n\u05d6\u05d0\u05ea, \u05d1\u05de\u05e7\u05d5\u05dd \u05dc\u05d4\u05d7\u05d6\u05d9\u05e8 \u05d0\u05ea \u05e9\u05de\u05d4 \u05d4\u05de\u05dc\u05d0 \u05e9\u05dc \u05d4\u05d8\u05d1\u05dc\u05d4, \u05d0\u05e0\u05d5 \u05de\u05d7\u05d6\u05d9\u05e8\u05d9\u05dd \u05d0\u05ea \u05e9\u05dd \u05d4\u05d8\u05d1\u05dc\u05d4 \u05dc\u05dc\u05d0 \u05d4\u05e7\u05d9\u05d3\u05d5\u05de\u05ea \u05d5\u05e2\u05d5\u05d8\u05e4\u05d9\u05dd \u05d0\u05d5\u05ea\u05d4 \u05d1\u05e1\u05d5\u05d2\u05e8\u05d9\u05d9\u05dd \u05de\u05e1\u05d5\u05dc\u05e1\u05dc\u05d5\u05ea \u05db\u05e4\u05d5\u05dc\u05d5\u05ea.",
+            "act": 0.048689864575862885
+        },
+        {
+            "text": "website, here.",
+            "act": 0.04842168837785721
+        },
+        {
+            "text": "_______________ .",
+            "act": 0.048010826110839844
+        },
+        {
+            "text": "Fifteen federally listed threatened and endangered species live in Pelican Island NWR and around Indian River Lagoon.",
+            "act": 0.04777920991182327
+        },
+        {
+            "text": "at 4th location (if defined ) will be called ?",
+            "act": 0.04332321137189865
+        },
+        {
+            "text": "have been elevated and C4 reduced.",
+            "act": 0.04277839511632919
+        },
+        {
+            "text": "_______________________.",
+            "act": 0.03799847513437271
+        },
+        {
+            "text": "They are evergreen trees, growing to 10\u201320 m tall.",
+            "act": 0.037263330072164536
+        },
+        {
+            "text": "Java SE 8 and SE 9 and later\n\nBuilt-in.",
+            "act": 0.03693700581789017
+        },
+        {
+            "text": "~~~\n[php]\n// \u05e0\u05e0\u05d9\u05d7 \u05e9 $_POST['Post'] \u05d4\u05d9\u05e0\u05d5 \u05de\u05e2\u05e8\u05da \u05e9\u05e9\u05de\u05d5\u05ea \u05d4\u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05d4\u05d9\u05e0\u05dd \u05e9\u05de\u05d5\u05ea \u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05e9\u05dc\u05d4\u05dd \u05d1\u05d4\u05ea\u05d0\u05dd\n$post-\u00bbattributes=$_POST['Post'];\n$post-\u00bbsave();\n~~~\n\n\n\u05d4\u05e9\u05d5\u05d5\u05d0\u05ea \u05e8\u05e9\u05d5\u05de\u05d5\u05ea\n-----------------\n\n\u05d1\u05d3\u05d5\u05de\u05d4 \u05dc\u05e9\u05d5\u05e8\u05d5\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4, \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8\u05d9\u05dd \u05e9\u05dc AR \u05de\u05d6\u05d5\u05d4\u05d9\u05dd \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d9\u05d7\u05d5\u05d3\u05d9\u05ea \u05e2\u05dc \u05d9\u05d3\u05d9 \u05d4\u05e2\u05e8\u05da \u05d1\u05de\u05e4\u05ea\u05d7 \u05d4\u05e8\u05d0\u05e9\u05d9 \u05e9\u05dc\u05d4\u05dd.",
+            "act": 0.03662664443254471
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d1\u05db\u05d3\u05d9 \u05dc\u05de\u05e6\u05d5\u05d0 \u05d0\u05ea \u05d4\u05d4\u05d5\u05d3\u05e2\u05d5\u05ea \u05e9\u05e4\u05d5\u05e8\u05e1\u05de\u05d5 \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05e7\u05d5\u05d3 \u05d4\u05d1\u05d0:\n\n~~~\n[php]\n$posts=Post::model()-\u00bbpublished()-\u00bbrecently()-\u00bbfindAll();\n~~~\n\n\u05d1\u05d3\u05e8\u05da \u05db\u05dc\u05dc, \u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8 \u05e6\u05e8\u05d9\u05da \u05dc\u05d4\u05d9\u05d5\u05ea \u05de\u05d5\u05d2\u05d3\u05e8 \u05de\u05e6\u05d3 \u05e9\u05de\u05d0\u05dc (\u05dc\u05d1\u05d5\u05d0 \u05dc\u05e4\u05e0\u05d9) \u05e9\u05dc \u05d4\u05de\u05ea\u05d5\u05d3\u05d4 `find`.",
+            "act": 0.03644118458032608
+        },
+        {
+            "text": "Orthopedics \nMany individuals with A\u2013T develop deformities of the feet that compound the difficulty they have with walking due to impaired coordination.",
+            "act": 0.03566332161426544
+        },
+        {
+            "text": "I am trying to do the following, can you please guide/help me do it:\nI have a video chat application that is done on Adobe Flash CS5.5.",
+            "act": 0.03563525527715683
+        },
+        {
+            "text": "Anchal Pandey\n\nThe services is very good.",
+            "act": 0.03488950431346893
+        },
+        {
+            "text": "Jak bylo \u0159e\u010deno ji\u017e v\u00fd\u0161e, informace o s\u00e9riov\u00fdch \u010d\u00edslech v\u0161ech disk\u016f jsou velice d\u016fle\u017eit\u00e9.",
+            "act": 0.03260963037610054
+        },
+        {
+            "text": "Davies.",
+            "act": 0.03243172913789749
+        },
+        {
+            "text": "package com.huawei.g11n.tmr.datetime.data;\n\nimport java.util.HashMap;\n\npublic class LocaleParamGet_ne {\n    public HashMap<String, String> date = new HashMap<String, String>() {\n        /* class com.huawei.g11n.tmr.datetime.data.LocaleParamGet_ne.AnonymousClass1 */\n\n        {\n            put(\"param_tmark\", \":\");\n            put(\"param_am\", \"\u092c\u093f\u0939\u093e\u0928|\u092a\u0942\u0930\u094d\u0935\u093e\u0939\u094d\u0928\");\n            put(\"param_pm\", \"\u0930\u093e\u0924\u093f|\u092c\u091c\u0947\u0938\u092e\u094d\u092e|\u0926\u093f\u0909\u0901\u0938\u094b|\u0930\u093e\u0924\u093f\u0915\u094b|\u092e\u0927\u094d\u092f\u093e\u0939\u094d\u0928|\u092c\u0947\u0932\u0941\u0915\u093e|\u0905\u092a\u0930\u093e\u0939\u094d\u0928\");\n            put(\"param_MMM\", \"\u091c\u0928\u0935\u0930\u0940|\u092b\u0947\u092c\u094d\u0930\u0941\u0905\u0930\u0940|\u092e\u093e\u0930\u094d\u091a|\u0905\u092a\u094d\u0930\u093f\u0932|\u092e\u0947|\u091c\u0941\u0928|\u091c\u0941\u0932\u093e\u0908|\u0905\u0917\u0938\u094d\u091f|\u0938\u0947\u092a\u094d\u091f\u0947\u092e\u094d\u092c\u0930|\u0905\u0915\u094d\u091f\u0941\u092c\u0930|\u0928\u094b\u092d\u0947\u092e\u094d\u092c\u0930|\u0921\u093f\u0938\u0947\u092e\u094d\u092c\u0930\");\n            put(\"param_MMMM\", \"\u091c\u0928\u0935\u0930\u0940|\u092b\u0947\u092c\u094d\u0930\u0941\u0905\u0930\u0940|\u092e\u093e\u0930\u094d\u091a|\u0905\u092a\u094d\u0930\u093f\u0932|\u092e\u0908|\u091c\u0941\u0928|\u091c\u0941\u0932\u093e\u0908|\u0905\u0917\u0938\u094d\u091f|\u0938\u0947\u092a\u094d\u091f\u0947\u092e\u094d\u092c\u0930|\u0905\u0915\u094d\u091f\u094b\u092c\u0930|\u0928\u094b\u092d\u0947\u092e\u094d\u092c\u0930|\u0921\u093f\u0938\u0947\u092e\u094d\u092c\u0930\");\n            put(\"param_E\", \"\u0906\u0907\u0924|\u0938\u094b\u092e|\u092e\u0919\u094d\u0917\u0932|\u092c\u0941\u0927|\u092c\u093f\u0939\u0940|\u0936\u0941\u0915\u094d\u0930|\u0936\u0928\u093f\");\n            put(\"param_E2\", \"\u0906\u0907\u0924|\u0938\u094b\u092e|\u092e\u0919\u094d\u0917\u0932|\u092c\u0941\u0927|\u092c\u093f\u0939\u0940|\u0936\u0941\u0915\u094d\u0930|\u0936\u0928\u093f\");\n            put(\"param_EEEE\", \"\u0906\u0907\u0924\u092c\u093e\u0930|\u0938\u094b\u092e\u092c\u093e\u0930|\u092e\u0919\u094d\u0917\u0932\u092c\u093e\u0930|\u092c\u0941\u0927\u092c\u093e\u0930|\u092c\u093f\u0939\u0940\u092c\u093e\u0930|\u0936\u0941\u0915\u094d\u0930\u092c\u093e\u0930|\u0936\u0928\u093f\u092c\u093e\u0930\");\n            put(\"param_days\", \"\u0906\u091c|\u092d\u094b\u0932\u093f|\u092a\u0930\u094d\u0938\u093f\");\n            put(\"param_thisweek\", \"\u092f\u094b\\\\s+\u0906\u0907\u0924\u092c\u093e\u0930|\u092f\u094b\\\\s+\u0938\u094b\u092e\u092c\u093e\u0930|\u092f\u094b\\\\s+\u092e\u0902\u0917\u0932\u092c\u093e\u0930|\u092f\u094b\\\\s+\u092c\u0941\u0927\u092c\u093e\u0930|\u092f\u094b\\\\s+\u092c\u093f\u0939\u093f\u092c\u093e\u0930|\u092f\u094b\\\\s+\u0936\u0941\u0915\u094d\u0930\u092c\u093e\u0930|\u092f\u094b\\\\s+\u0936\u0928\u093f\u092c\u093e\u0930\");\n            put(\"param_nextweek\", \"\u0905\u0930\u094d\u0915\u094b\\\\s+\u0906\u0907\u0924\u092c\u093e\u0930|\u0905\u0930\u094d\u0915\u094b\\\\s+\u0938\u094b\u092e\u092c\u093e\u0930|\u0905\u0930\u094d\u0915\u094b\\\\s+\u092e\u0902\u0917\u0932\u092c\u093e\u0930|\u0905\u0930\u094d\u0915\u094b\\\\s+\u092c\u0941\u0927\u092c\u093e\u0930|\u0905\u0930\u094d\u0915\u094b\\\\s+\u092c\u093f\u0939\u093f\u092c\u093e\u0930|\u0905\u0930\u094d\u0915\u094b\\\\s+\u0936\u0941\u0915\u094d\u0930\u092c\u093e\u0930|\u0905\u0930\u094d\u0915\u094b\\\\s+\u0936\u0928\u093f\u092c\u093e\u0930\");\n            put(\"mark_ShortDateLevel\", \"mdy\");\n        }\n    };\n}",
+            "act": 0.03091270662844181
+        },
+        {
+            "text": "The site is managed by English Heritage; it is designated as a Grade\u00a0I listed building, and a scheduled monument.",
+            "act": 0.02830825187265873
+        },
+        {
+            "text": "They are left on the stem after the petals have fallen off.",
+            "act": 0.027776652947068214
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 265,
+    "label": "Technical and instructional language",
+    "attributes": "technical or instructional content, formal tone, structured explanation, proper grammar, detailed information",
+    "reasoning": "Upon examining the texts, it is evident that the samples share a formal tone and are mostly instructional, explanatory, or technical in nature. They often pertain to complex subjects such as database management, AR (Active Record) methods, conditional statements, and computational protocols. These texts are structured with proper grammar and provide informative, detailed content on technical or specialized topics, often involving explanations, definitions, and procedural instructions. In contrast, the other samples contain casual language, are conversational and discuss a variety of informal subjects, including opinions, arguments, and personal anecdotes. Therefore, the distinguishing feature is that the samples consistently present structured, technical, or procedural information.",
+    "density": 0.0036632643861422313,
+    "confidence": 84.0,
+    "high_act_samples": [
+        {
+            "text": "\u05de\u05e4\u05ea\u05d7 \u05e8\u05d0\u05e9\u05d9 \u05de\u05d5\u05e8\u05db\u05d1 \u05de\u05db\u05d9\u05dc \u05e9\u05e0\u05d9 \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8.",
+            "act": 0.26982641220092773
+        },
+        {
+            "text": "\u05de\u05e4\u05ea\u05d7 \u05e8\u05d0\u05e9\u05d9 \u05de\u05d5\u05e8\u05db\u05d1 \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e2\u05e8\u05da \u05d1 Yii, \u05d1\u05d4\u05ea\u05d0\u05de\u05d4.",
+            "act": 0.2526039183139801
+        },
+        {
+            "text": "\u05de\u05d5\u05de\u05dc\u05e5 \u05dc\u05d0 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d5 \u05d1\u05e2\u05ea \u05d1\u05d9\u05e6\u05d5\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05de\u05d5\u05e8\u05db\u05d1\u05d5\u05ea.",
+            "act": 0.21425552666187286
+        },
+        {
+            "text": "This important problem is taken up in this section.",
+            "act": 0.20553120970726013
+        },
+        {
+            "text": "\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05d1\u05dc\u05d1\u05d3 \u05d1\u05e9\u05de\u05d5\u05ea \u05e4\u05d5\u05ea\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.18575811386108398
+        },
+        {
+            "text": "\u05d2\u05dd \u05e7\u05e9\u05d4 \u05dc\u05e0\u05d4\u05dc \u05d0\u05ea \u05d4\u05e7\u05d5\u05d3 \u05e9\u05d0\u05e0\u05d5 \u05db\u05d5\u05ea\u05d1\u05d9\u05dd \u05db\u05e9\u05d4\u05d5\u05d0 \u05de\u05e2\u05d5\u05e8\u05d1\u05d1 \u05e2\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05e9\u05d5\u05e0\u05d5\u05ea.",
+            "act": 0.1662694364786148
+        },
+        {
+            "text": "\u05d1\u05d3\u05e8\u05da \u05db\u05dc\u05dc, \u05d0\u05e0\u05d5 \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05e1\u05de\u05d5\u05da \u05e2\u05dc \u05e9\u05d5\u05dd \u05d3\u05d1\u05e8 \u05d4\u05de\u05d2\u05d9\u05e2 \u05de\u05e6\u05d3 \u05d4\u05dc\u05e7\u05d5\u05d7.",
+            "act": 0.15930400788784027
+        },
+        {
+            "text": "\u05db\u05ea\u05d5\u05e6\u05d0\u05d4 \u05de\u05db\u05da, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d2\u05e9\u05ea \u05dc\u05de\u05d9\u05d3\u05e2 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d1\u05e6\u05d5\u05e8\u05d4 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d5\u05e0\u05d7\u05d9\u05ea-\u05e2\u05e6\u05de\u05d9\u05dd.",
+            "act": 0.15676522254943848
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.15315774083137512
+        },
+        {
+            "text": "\u05db\u05de\u05d5 \u05db\u05df \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 `condition$` \u05db\u05d3\u05d9 \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05ea\u05e0\u05d0\u05d9\u05dd \u05de\u05d5\u05e8\u05db\u05d1\u05d9\u05dd \u05d9\u05d5\u05ea\u05e8.",
+            "act": 0.1517784297466278
+        },
+        {
+            "text": "\u05e4\u05e2\u05d5\u05dc\u05d5\u05ea CRUD \u05e0\u05e4\u05d5\u05e6\u05d5\u05ea \u05de\u05d9\u05d5\u05e9\u05de\u05d5\u05ea \u05d1\u05ea\u05d5\u05e8 \u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.14867760241031647
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05e8\u05db\u05d9\u05dd \u05d1\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e9\u05dc \u05d8\u05d1\u05dc\u05d4 \u05db\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.14863954484462738
+        },
+        {
+            "text": "\u05d4\u05ea\u05d5\u05e6\u05d0\u05d4 \u05d4\u05e1\u05d5\u05e4\u05d9\u05ea \u05d3\u05d5\u05de\u05d4 \u05dc\u05d4\u05d5\u05e1\u05e4\u05ea \u05e8\u05e9\u05d9\u05de\u05d4 \u05e9\u05dc \u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4.",
+            "act": 0.14853151142597198
+        },
+        {
+            "text": "Indra, the King of heaven, was conscious of his offense before K\u1e5b\u1e63\u1e47a; therefore he stealthily appeared before Him from a secluded place.",
+            "act": 0.1457858830690384
+        },
+        {
+            "text": "\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05d6\u05d5 \u05e7\u05d9\u05d9\u05de\u05ea \u05de\u05d2\u05e8\u05e1\u05d0\u05d5\u05ea 1.0.9 \u05d5\u05de\u05e2\u05dc\u05d4.",
+            "act": 0.14540956914424896
+        },
+        {
+            "text": "\u05e9\u05de\u05d5\u05ea \u05d4\u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05de\u05ea\u05d9\u05d9\u05d7\u05e1\u05d5\u05ea \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05d5\u05e2\u05e8\u05db\u05d9\u05d4\u05dd, \u05d1\u05d4\u05ea\u05d0\u05dd.",
+            "act": 0.14537817239761353
+        },
+        {
+            "text": "The possible mechanism of this phenomenon is discussed.",
+            "act": 0.14427649974822998
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e2\u05d3\u05db\u05df \u05e8\u05e9\u05d5\u05de\u05d4 \u05d0\u05d7\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05dc\u05dc\u05d0 \u05e6\u05d5\u05e8\u05da \u05d1\u05d8\u05e2\u05d9\u05e0\u05ea\u05dd \u05de\u05e8\u05d0\u05e9.",
+            "act": 0.14361830055713654
+        },
+        {
+            "text": "The estimates and the SDs were combined using Rubin rules.",
+            "act": 0.14259041845798492
+        },
+        {
+            "text": "\u05db\u05de\u05d5 \u05db\u05df, \u05d1\u05de\u05e7\u05d5\u05dd \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1 [CDbCriteria] \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e2\u05d1\u05d9\u05e8 \u05de\u05e2\u05e8\u05da \u05dc\u05de\u05ea\u05d5\u05d3\u05ea \u05d4-`find`.",
+            "act": 0.13991113007068634
+        },
+        {
+            "text": "This relation is displayed in Fig.",
+            "act": 0.13905560970306396
+        },
+        {
+            "text": "\u05ea\u05d6\u05e8\u05e7 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d9\u05d4\u05d9\u05d4 \u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05de\u05d5\u05d3\u05d4 \u05d0\u05e9\u05e8 \u05dc\u05d0 \u05e7\u05d9\u05d9\u05de\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.13613708317279816
+        },
+        {
+            "text": "\u05ea\u05de\u05d9\u05db\u05d4 \u05d1 AR \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05e2\u05dc \u05e4\u05d9 DBMS.",
+            "act": 0.13310249149799347
+        },
+        {
+            "text": "\u05dc\u05de\u05d8\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d5\u05de\u05dc\u05e5 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 DAO.",
+            "act": 0.1313350945711136
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e9\u05e8\u05e9\u05e8 \u05db\u05de\u05d4 \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d5\u05db\u05ea\u05d5\u05e6\u05d0\u05d4 \u05de\u05db\u05da \u05dc\u05d1\u05e6\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05d4\u05e8\u05d1\u05d4 \u05d9\u05d5\u05ea\u05e8 \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05d4\u05db\u05d5\u05dc\u05dc\u05ea \u05d9\u05d5\u05ea\u05e8 \u05ea\u05e0\u05d0\u05d9\u05dd.",
+            "act": 0.12788642942905426
+        },
+        {
+            "text": "The computational protocols are detailed in Methods.",
+            "act": 0.12443296611309052
+        },
+        {
+            "text": "\u05d4\u05e9\u05d9\u05de\u05d5\u05e9 \u05d4\u05d8\u05d5\u05d1 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d1\u05d5 \u05e0\u05d5\u05e2\u05d3 \u05e2\u05dc \u05de\u05e0\u05ea \u05dc\u05d1\u05e6\u05e2 \u05e9\u05d0\u05d9\u05dc\u05d5\u05ea SQL \u05e4\u05e9\u05d5\u05d8\u05d5\u05ea (CRUD) \u05d5\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05ea\u05d5\u05e8 \u05de\u05d5\u05d3\u05dc \u05d1\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4.",
+            "act": 0.1234925240278244
+        },
+        {
+            "text": "\u05dc\u05e0\u05d5\u05d7\u05d5\u05ea, \u05d0\u05e0\u05d5 \u05e0\u05e9\u05ea\u05de\u05e9 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d4\u05d1\u05d0\u05d4 \u05dc\u05de\u05d8\u05e8\u05ea \u05d4\u05e6\u05d2\u05ea \u05d4\u05d3\u05d5\u05d2\u05de\u05d0\u05d5\u05ea \u05d1\u05d7\u05dc\u05e7 \u05d6\u05d4.",
+            "act": 0.11814695596694946
+        },
+        {
+            "text": "This will be further analyzed in the next subsections.",
+            "act": 0.11788932234048843
+        },
+        {
+            "text": "The results of our modelling are shown in Fig.",
+            "act": 0.11670256406068802
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05ea\u05e8 \u05d4\u05ea\u05d5\u05de\u05da \u05d1\u05db\u05de\u05d4 \u05e9\u05e4\u05d5\u05ea \u05d9\u05e8\u05e6\u05d4 \u05dc\u05d4\u05e6\u05d9\u05d2 \u05ea\u05d5\u05db\u05df \u05d1\u05d0\u05d5\u05ea\u05d4 \u05e9\u05e4\u05d4 \u05e9\u05d4\u05de\u05e9\u05ea\u05de\u05e9 \u05db\u05e8\u05d2\u05e2 \u05e6\u05d5\u05e4\u05d4 \u05d1\u05d4.",
+            "act": 0.11648430675268173
+        },
+        {
+            "text": "\u05de\u05ea\u05d5\u05d3\u05ea \u05d4 `find` \u05ea\u05d7\u05d6\u05d9\u05e8 null \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0 \u05e9\u05d5\u05dd \u05d3\u05d1\u05e8 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05d4\u05ea\u05d5\u05d0\u05dd \u05dc\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05d4\u05d5\u05e2\u05d1\u05e8\u05d5.",
+            "act": 0.11603467911481857
+        },
+        {
+            "text": "Here, we have re-examined this trafficking pathway.",
+            "act": 0.1147533506155014
+        },
+        {
+            "text": "\u05d6\u05d4 \u05d1\u05d4\u05d7\u05dc\u05d8 \u05d4\u05db\u05e8\u05d7\u05d9 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05e9\u05de\u05d5\u05e6\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e9\u05ea\u05de\u05e9\u05d9 \u05e7\u05e6\u05d4.",
+            "act": 0.11394256353378296
+        },
+        {
+            "text": "\u05d5\u05d4\u05ea\u05de\u05d9\u05db\u05d4 \u05e9\u05dc Oracle \u05e7\u05d9\u05d9\u05de\u05ea \u05de\u05d2\u05e8\u05e1\u05d0\u05d5\u05ea 1.0.5 \u05d5\u05de\u05e2\u05dc\u05d4.",
+            "act": 0.1127716675400734
+        },
+        {
+            "text": "That would be a hefty reduction.",
+            "act": 0.11030520498752594
+        },
+        {
+            "text": "See finite-size analysis.",
+            "act": 0.10943834483623505
+        },
+        {
+            "text": "\u05d1\u05d7\u05dc\u05e7 \u05d4\u05d1\u05d0 \u05d0\u05e0\u05d5 \u05e0\u05e6\u05d9\u05d2 \u05db\u05d9\u05e6\u05d3 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 AR \u05db\u05d3\u05d9 \u05dc\u05d8\u05e4\u05dc \u05d1\u05e7\u05e9\u05e8\u05d9\u05dd \u05d1\u05d9\u05df \u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+            "act": 0.10612261295318604
+        },
+        {
+            "text": "\u05d6\u05d4 \u05e9\u05d5\u05e0\u05d4 \u05de\u05d4\u05e2\u05e8\u05da \u05e9\u05d9\u05d5\u05d7\u05d6\u05d5\u05e8 \u05de\u05de\u05ea\u05d5\u05d3\u05d5\u05ea `find` \u05d4\u05de\u05d7\u05d6\u05d9\u05e8\u05d5\u05ea null \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05dc\u05d0 \u05e0\u05de\u05e6\u05d0\u05d5 \u05e8\u05e9\u05d5\u05de\u05d5\u05ea.",
+            "act": 0.10584855824708939
+        },
+        {
+            "text": "\u05db\u05dc \u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05d9\u05d9\u05e6\u05d2\u05ea \u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd, \u05d5\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05e9\u05dc \u05d4\u05de\u05d7\u05dc\u05e7\u05d4 \u05de\u05d9\u05d9\u05e6\u05d2 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d1\u05d0\u05d5\u05ea\u05d4 \u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.10488930344581604
+        },
+        {
+            "text": "\u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05e1\u05ea\u05de\u05db\u05ea \u05e2\u05dc \u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05e8\u05d0\u05e9\u05d9\u05d9\u05dd \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea.",
+            "act": 0.10373534262180328
+        },
+        {
+            "text": "\u05db\u05dc \u05d0\u05d7\u05d3 \u05de\u05d4\u05dd \u05de\u05e1\u05e4\u05e7 \u05ea\u05e0\u05d0\u05d9 \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4, \u05d0\u05e9\u05e8 \u05d1\u05e1\u05d5\u05e4\u05d5 \u05e9\u05dc \u05d3\u05d1\u05e8 \u05de\u05ea\u05d0\u05d7\u05d3 \u05e2\u05dd \u05ea\u05e0\u05d0\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd, \u05db\u05d5\u05dc\u05dc \u05d0\u05ea \u05d4\u05ea\u05e0\u05d0\u05d9 \u05e9\u05d4\u05d5\u05e2\u05d1\u05e8 \u05dc\u05de\u05ea\u05d5\u05d3\u05ea `find`, \u05d5\u05d9\u05d5\u05e6\u05e8 \u05ea\u05e0\u05d0\u05d9 \u05d0\u05d7\u05d3 \u05d2\u05d3\u05d5\u05dc.",
+            "act": 0.10264159739017487
+        },
+        {
+            "text": "This concept must be further investigated.",
+            "act": 0.10159485042095184
+        },
+        {
+            "text": "One might envision a possible combinatorial and stratified application of these drugs, based on the molecular subtypes presented here.",
+            "act": 0.10017576068639755
+        },
+        {
+            "text": "\u05de\u05d0\u05d7\u05e8 \u05d5\u05d9\u05e9\u05e0\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05d1\u05e0\u05d5\u05d2\u05e2 \u05dc\u05ea\u05d5\u05db\u05df \u05d4\u05d0\u05ea\u05e8, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8 \u05d1\u05e8\u05d9\u05e8\u05ea \u05de\u05d7\u05d3\u05dc \u05d1\u05db\u05d3\u05d9 \u05dc\u05e4\u05ea\u05d5\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.09897825866937637
+        },
+        {
+            "text": "A three-step scheme emerged from the data.",
+            "act": 0.09889603406190872
+        },
+        {
+            "text": "\u05e9\u05d9\u05de\u05d5\u05e9\u05dd \u05d4\u05e2\u05d9\u05e7\u05e8\u05d9 \u05e9\u05dc \u05d4\u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d4\u05d9\u05e0\u05d5 *\u05e9\u05d9\u05e0\u05d5\u05d9 \u05d5\u05d4\u05d2\u05d3\u05e8\u05d4* \u05e9\u05dc \u05e7\u05e8\u05d9\u05d0\u05d4 \u05dc\u05de\u05ea\u05d5\u05d3\u05d5\u05ea `find` \u05e9\u05d5\u05e0\u05d5\u05ea.",
+            "act": 0.09803937375545502
+        },
+        {
+            "text": "\u05dc\u05de\u05e8\u05d5\u05ea, \u05e9\u05d9\u05d4\u05d9\u05d4 \u05d9\u05d5\u05ea\u05e8 \u05e7\u05dc \u05dc\u05e7\u05e8\u05d5\u05d0 \u05e4\u05e9\u05d5\u05d8 \u05dc\u05de\u05ea\u05d5\u05d3\u05d4 [()CActiveRecord::equals].",
+            "act": 0.0974576473236084
+        },
+        {
+            "text": "The\ndefendant obtained certain materials and labor free of charge through an unrelated\nfederal reimbursement program.",
+            "act": 0.09539492428302765
+        },
+        {
+            "text": "\u05d1\u05e2\u05ea \u05d4\u05e7\u05e8\u05d9\u05d0\u05d4 \u05dc `find`, \u05d0\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1 `condition$` \u05d5  `params$` \u05db\u05d3\u05d9 \u05dc\u05d4\u05d2\u05d3\u05d9\u05e8 \u05d0\u05ea \u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05e9\u05dc \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4.",
+            "act": 0.09523361921310425
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

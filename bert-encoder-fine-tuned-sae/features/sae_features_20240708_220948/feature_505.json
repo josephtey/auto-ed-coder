@@ -1,0 +1,412 @@
+{
+    "index": 505,
+    "label": "Contains abbreviations",
+    "attributes": "Presence of abbreviations",
+    "reasoning": "The given texts are analyzed to determine the specific attribute that is shared only by texts within <positive-samples> and not by texts within <negative-samples>. Upon careful examination, it was noticed that the shared attribute among all <positive-samples> is the presence of abbreviations, which do not appear in the <negative-samples>. This includes abbreviations enclosed in parentheses such as 'J&K Chemical Ltd.' and 'P.R.', and stand-alone abbreviations such as 'Thm.', 'UK', 'FDA', etc.",
+    "density": 0.0013903322087301475,
+    "confidence": 20.0,
+    "high_act_samples": [
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.2615782916545868
+        },
+        {
+            "text": "The only diseases the M.O.",
+            "act": 0.21841710805892944
+        },
+        {
+            "text": "euros (21.8 mil.",
+            "act": 0.15005752444267273
+        },
+        {
+            "text": "By Heron\u2019s theorem (Thm.",
+            "act": 0.14477190375328064
+        },
+        {
+            "text": "(Health & Saf.",
+            "act": 0.12444255501031876
+        },
+        {
+            "text": "All chemicals were obtained from a commercial source (J&K Chemical Ltd., Beijing, P.R.",
+            "act": 0.11768627911806107
+        },
+        {
+            "text": "Further, \"threatened rather than actual injury can satisfy Article III standing requirements.",
+            "act": 0.11465367674827576
+        },
+        {
+            "text": "\"He don't think I can jail?\"",
+            "act": 0.11018102616071701
+        },
+        {
+            "text": "The study was approved by West Midlands National Health Service Research Ethics Committee (No.",
+            "act": 0.10966172069311142
+        },
+        {
+            "text": "If the agency determines that the person has no other basis for Medicaid eligibility, then the person must be sent a termination notice.",
+            "act": 0.1075684204697609
+        },
+        {
+            "text": "(In some circumstances, conscious information may become input data to automatic programs.",
+            "act": 0.09976581484079361
+        },
+        {
+            "text": "Specification is JSR 310.",
+            "act": 0.099203921854496
+        },
+        {
+            "text": "Scheme is a small part.",
+            "act": 0.098370760679245
+        },
+        {
+            "text": "The policy requires State Fund to assume only the \"liability of the insured to his employees under the Workers' Compensation and Occupational Disease Acts of Montana.",
+            "act": 0.09767072647809982
+        },
+        {
+            "text": "Widely virulent races of the stem rust pathogen (Puccinia graminis f. sp.",
+            "act": 0.09495602548122406
+        },
+        {
+            "text": "Seventy-eight % of organic rejecters state price and 21% state unawareness of the benefits as reasons for not buying organic.",
+            "act": 0.0934072732925415
+        },
+        {
+            "text": "\u00a7 1956(a)(1)(A)(i).",
+            "act": 0.09228779375553131
+        },
+        {
+            "text": "There is lack of information regarding specific costs, benefits, risks, or precautions pertinent to the older adult.",
+            "act": 0.08830227702856064
+        },
+        {
+            "text": "(Hemitriccus sp.",
+            "act": 0.08522959798574448
+        },
+        {
+            "text": "(An explanation immediately leapt to my mind.",
+            "act": 0.08497966080904007
+        },
+        {
+            "text": "\"What's the plant?\"",
+            "act": 0.08475366979837418
+        },
+        {
+            "text": "Disabilities?",
+            "act": 0.08461209386587143
+        },
+        {
+            "text": "Participants must meet all U.S.",
+            "act": 0.08388697355985641
+        },
+        {
+            "text": "como as coisas que voce faz diariamente podem afectar o seu score.",
+            "act": 0.0824822187423706
+        },
+        {
+            "text": "(Id.",
+            "act": 0.08130461722612381
+        },
+        {
+            "text": "(Id.",
+            "act": 0.08119233697652817
+        },
+        {
+            "text": "(Id.",
+            "act": 0.08058293908834457
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07849375158548355
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07833398133516312
+        },
+        {
+            "text": "Article 128: \"Bonuses to employees.",
+            "act": 0.07786282151937485
+        },
+        {
+            "text": "(eds.",
+            "act": 0.07722602039575577
+        },
+        {
+            "text": "Zhang, A. V. Shurgaia, S. P. Kou and D. K. Park, Phys.",
+            "act": 0.07716064900159836
+        },
+        {
+            "text": "FDA's Opp'n to Pl.",
+            "act": 0.07707706838846207
+        },
+        {
+            "text": "General recommendations\n All children with A\u2013T need special attention to the barriers they experience in school.",
+            "act": 0.07666204869747162
+        },
+        {
+            "text": "\"You're gonna be safe on the road there Morris?\"",
+            "act": 0.07647925615310669
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07644055038690567
+        },
+        {
+            "text": "He's not all that young, no free agent that isn't a non tender is.",
+            "act": 0.07465768605470657
+        },
+        {
+            "text": "Falls du uns dennoch mit einem kleinen Betrag unterst\u00fctzen willst, dann tu das doch hier.",
+            "act": 0.07320545613765717
+        },
+        {
+            "text": "have also been proposed.",
+            "act": 0.07221316546201706
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07108461111783981
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07067260891199112
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07067260891199112
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07024956494569778
+        },
+        {
+            "text": "(Id.",
+            "act": 0.07021211832761765
+        },
+        {
+            "text": "(Id.",
+            "act": 0.06994924694299698
+        },
+        {
+            "text": "(Id.",
+            "act": 0.06994924694299698
+        },
+        {
+            "text": "(Id.",
+            "act": 0.06933482736349106
+        },
+        {
+            "text": "Mourinho said United signed Lukaku because he is a ready-made Premier League player, having had lots of experience in England, which hopefully would allow him to fit in immediately.",
+            "act": 0.06928908079862595
+        },
+        {
+            "text": "Description\n\nCROSS-REFERENCE TO RELATED APPLICATIONS\n\nThis application claims priority to U.S.",
+            "act": 0.06839103251695633
+        },
+        {
+            "text": "8 (App.",
+            "act": 0.068222276866436
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

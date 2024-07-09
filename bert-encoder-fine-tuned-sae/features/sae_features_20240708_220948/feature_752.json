@@ -1,0 +1,412 @@
+{
+    "index": 752,
+    "label": "Mixed content with multilingual and news elements",
+    "attributes": "Multiple languages, Detailed descriptions, News or event reporting, Mix of formal and informal content, Technical details, Informational content",
+    "reasoning": "After comparing the text structures and content within the two categories, I noticed that the samples within the first group often contain diverse linguistic elements such as multiple languages, detailed descriptions, news or event reporting. These texts also include a mix of formal informational content mixed with informal personal comments or quotes. The second category is largely composed of conversational comments and forum-style discussions with a personal or opinionated tone, typically in English and without technical or formal information presentation.",
+    "density": 0.004137780498336821,
+    "confidence": 8.0,
+    "high_act_samples": [
+        {
+            "text": "Worn out?",
+            "act": 0.2899283766746521
+        },
+        {
+            "text": "The bridge's board voted in 2008 to install a stainless steel net, rejecting other options, including raising the 4-foot-high railings and leaving the iconic span unchanged.",
+            "act": 0.1973031461238861
+        },
+        {
+            "text": "Ang hindi boboto sa kanya, manigas ka sa gutom!",
+            "act": 0.19626355171203613
+        },
+        {
+            "text": "Shootings occurred at Occupy encampments in California and Vermont on Thursday.",
+            "act": 0.17119789123535156
+        },
+        {
+            "text": "Unemployment?",
+            "act": 0.17026489973068237
+        },
+        {
+            "text": "V\u00e9rifier les objets \u00e9ventuels auxquels il est associ\u00e9, puis r\u00e9-essayer\\!",
+            "act": 0.16925907135009766
+        },
+        {
+            "text": "But preoccupied?",
+            "act": 0.1538529247045517
+        },
+        {
+            "text": "Pinoy, Tapat Ka Ba?",
+            "act": 0.15359154343605042
+        },
+        {
+            "text": "Astrologie chinoise\n\nL'histoire de l'astrologie chinoise\n\nL'ann\u00e9e de votre naissance ne r\u00e9v\u00e8le pas seulement votre \u00e2ge!",
+            "act": 0.15327143669128418
+        },
+        {
+            "text": "First, Armscor 1911-A1 XT22 pistol with rail.",
+            "act": 0.15052087604999542
+        },
+        {
+            "text": "By showcasing the game\u2019s unique ability to \u201chack\u201d into the virtual city\u2019s infrastructure, as well as other players\u2019 sessions, \u201cWatch Dogs\u201d cemented itself as the most talked-about game of E3 when Ubisoft unveiled it two years ago.",
+            "act": 0.1497739851474762
+        },
+        {
+            "text": "In addition, annual mass shooting casualties are on the rise.",
+            "act": 0.14867962896823883
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.14724905788898468
+        },
+        {
+            "text": "~3,000sf on 2 levels - public spaces downstairs, private spaces upstairs.",
+            "act": 0.14627735316753387
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.13955210149288177
+        },
+        {
+            "text": "The move reportedly followed a court case in the Beijing No.",
+            "act": 0.13939636945724487
+        },
+        {
+            "text": "Lu!!",
+            "act": 0.13690201938152313
+        },
+        {
+            "text": "Protesters in Carson City, Nev.\n\n\u201cOverpasses\nto Impeach Obama\u201d has gone\nfrom local protests to nationwide events.",
+            "act": 0.13330231606960297
+        },
+        {
+            "text": "Terribly sad about the shooting at the Holocaust Museum.",
+            "act": 0.13316549360752106
+        },
+        {
+            "text": "FIXME!",
+            "act": 0.13247773051261902
+        },
+        {
+            "text": "Q\u00f9est-ce que la m\u00e9taphysique?",
+            "act": 0.129411518573761
+        },
+        {
+            "text": "Feeling guilty much?",
+            "act": 0.12593689560890198
+        },
+        {
+            "text": ");\n    doRunStrongestPeakTest(backgroundStrategy.get());\n  }\n\n  void testThatFindsAllPeaksWhenAbsoluteBackgroundStrategyIsUsed() {\n    // GIVEN\n    auto backgroundStrategy = std::make_unique<AbsoluteBackgroundStrategy>(3.",
+            "act": 0.12366484105587006
+        },
+        {
+            "text": "Inequality within countries is also spiking.",
+            "act": 0.12052880227565765
+        },
+        {
+            "text": "Yahoo!",
+            "act": 0.12045606970787048
+        },
+        {
+            "text": "Dozens of protesters were injured at the overnight standoff when police attempted to disassemble protesters\u2019 campsites and forcibly remove road blockades.",
+            "act": 0.11820276826620102
+        },
+        {
+            "text": "R\u00e9fl\u00e9chissez!",
+            "act": 0.11517995595932007
+        },
+        {
+            "text": "Ils \u00e9taient convoqu\u00e9s au palais le lendemain.",
+            "act": 0.11487173289060593
+        },
+        {
+            "text": "\u2026\n\nDor sho gha!",
+            "act": 0.1148587018251419
+        },
+        {
+            "text": "This year?",
+            "act": 0.11468389630317688
+        },
+        {
+            "text": "Shopping.",
+            "act": 0.11235839128494263
+        },
+        {
+            "text": "The sci-fi shooter \u201cDestiny,\u201d alternate history adventure \u201cThe Order: 1886,\u201d cartoony shoot-\u2019em-up \u201cSunset Overdrive\u201d and man-versus-monster match-up \u201cEvolve\u201d could steal attention away from the latest crop of \u201cCall of Duty,\u201d \u201dHalo\u201d and \u201cAssassin\u2019s Creed\u201d games, the same way that then unheard-of \u201cWatch Dogs\u201d and \u201cTitanfall\u201d did the past two years at E3.",
+            "act": 0.11144345998764038
+        },
+        {
+            "text": "Mehr Wettkampfpraxis erhofft er sich in Dortmund.",
+            "act": 0.10841070115566254
+        },
+        {
+            "text": "146 mins.",
+            "act": 0.10815116763114929
+        },
+        {
+            "text": "Media also shifted to reach the target.",
+            "act": 0.1079457700252533
+        },
+        {
+            "text": "Indiana Univ.",
+            "act": 0.10642959177494049
+        },
+        {
+            "text": "Thus the current interest, and anxiety, among Republicans and conservatives about 2012.",
+            "act": 0.1060621589422226
+        },
+        {
+            "text": "It\u2019s quickly going to get complicated \u2013 she can do without all the frenzymadness, desperation, hysteria, mania, insanity, delirium, derangement of doubling the webmaster work.",
+            "act": 0.10598357766866684
+        },
+        {
+            "text": "Il d\u00e9cida qu'il voulait voir les animaux qui peuplaient la terre ; il envoya donc un mot \u00e0 ses conseillers afin qu'ils lui am\u00e8nent douze animaux (il consid\u00e9rait que c'\u00e9tait un bon \u00e9chantillon).",
+            "act": 0.10540565103292465
+        },
+        {
+            "text": "Tea party threatened ballets or bullets.",
+            "act": 0.1043688952922821
+        },
+        {
+            "text": ");\n    doRunStrongestPeakTest(backgroundStrategy.get());\n  }\n\n  void testThatFindsStrongestPeakWhenAbsoluteBackgroundStrategyIsUsed() {\n    auto backgroundStrategy = std::make_unique<AbsoluteBackgroundStrategy>(3.",
+            "act": 0.10348482429981232
+        },
+        {
+            "text": "Absolutely useless.",
+            "act": 0.10268260538578033
+        },
+        {
+            "text": "Bungie, the studio responsible for the original \u201cHalo\u201d games, hopes for similar buzz for \u201cDestiny.\u201d\n\n\u201cWe have a new IP,\u201d said Eric Osborne, community and marketing relations manager at \u201cDestiny\u201d developer Bungie.",
+            "act": 0.09941299259662628
+        },
+        {
+            "text": "Kattints ide!",
+            "act": 0.0976404994726181
+        },
+        {
+            "text": "SPANGLED COTINGA(Cotinga cayana)\n\nSCREAMING PIHA(Lipaugus vociferans)\u2013 The voice of the Amazon!",
+            "act": 0.09693969786167145
+        },
+        {
+            "text": "Never been done before.",
+            "act": 0.0968821793794632
+        },
+        {
+            "text": "Also tried to change PNG to png.",
+            "act": 0.0968257486820221
+        },
+        {
+            "text": "Looking for something more casual?",
+            "act": 0.09628252685070038
+        },
+        {
+            "text": "\u201cI\u2019m not going to put up with this, with guns.",
+            "act": 0.09575237333774567
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.09560707211494446
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

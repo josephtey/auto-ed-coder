@@ -1,0 +1,412 @@
+{
+    "index": 663,
+    "label": "Formal academic or professional texts",
+    "attributes": "formal tone, academic or scientific content, use of technical or specialized terminology, presence of proper names and dates, structured sentences",
+    "reasoning": "Upon examining the samples, it is evident that all the samples share a tone and style of formal writing, which can be classified into academic, scientific, informative, or professional contexts. They frequently contain technical or specialized information, proper names, dates, and clear sentence structures. In contrast, the other samples contain conversational, informal, or colloquial language, often addressing opinions, personal anecdotes, or discussions.",
+    "density": 0.007810535206722944,
+    "confidence": 10.0,
+    "high_act_samples": [
+        {
+            "text": "Leverage?",
+            "act": 0.20861686766147614
+        },
+        {
+            "text": "Marie Doumic and Miguel Escobedo.",
+            "act": 0.1990775167942047
+        },
+        {
+            "text": "Spoiled!",
+            "act": 0.18943598866462708
+        },
+        {
+            "text": "The data provided represent mean\u2009+\u2009SD from 3 animals in each group.",
+            "act": 0.17188486456871033
+        },
+        {
+            "text": "Children of color are typically raised to regard white dolls as the norm and the standard.",
+            "act": 0.1715315282344818
+        },
+        {
+            "text": "Ignorant fuckin' bastards.",
+            "act": 0.16779501736164093
+        },
+        {
+            "text": "The outline of the paper is as follows.",
+            "act": 0.1677253544330597
+        },
+        {
+            "text": "Adaptations vary.",
+            "act": 0.16640664637088776
+        },
+        {
+            "text": "Processing will then continue with step 5020 in FIGS.",
+            "act": 0.1659562885761261
+        },
+        {
+            "text": "They are evergreen trees, growing to 10\u201320 m tall.",
+            "act": 0.16275781393051147
+        },
+        {
+            "text": "It stars Rachida Brakni, Cyril Descours, Cl\u00e9mentine C\u00e9lari\u00e9, and Seydina Balde.",
+            "act": 0.1600690484046936
+        },
+        {
+            "text": "Ignorant bastards.",
+            "act": 0.15836144983768463
+        },
+        {
+            "text": "June 1, 1956.",
+            "act": 0.15714998543262482
+        },
+        {
+            "text": "Video by Carolina A. Castro\nNarration by Nicole D'Entr...",
+            "act": 0.14911842346191406
+        },
+        {
+            "text": "11\nCalculate the remainder whe",
+            "act": 0.1462283432483673
+        },
+        {
+            "text": "This paper is organized as follows.",
+            "act": 0.14465032517910004
+        },
+        {
+            "text": "Care is therefore needed when extracting third molars associated with fourth molars.",
+            "act": 0.13861528038978577
+        },
+        {
+            "text": "Processing then continues with step 5020 on FIGS.",
+            "act": 0.13747107982635498
+        },
+        {
+            "text": "Sabi nga \u201cDon\u2019t let your left hand know what your right hand is doing\u201d.",
+            "act": 0.1369270533323288
+        },
+        {
+            "text": "They are the foreign children of Islamic State.",
+            "act": 0.13590261340141296
+        },
+        {
+            "text": "map (oneAttr .",
+            "act": 0.1351926177740097
+        },
+        {
+            "text": "As part of the exercise, troops performed urban and tunnel warfare tasks, drilled helicopter landings behind enemy lines and simulated extractions under fire.",
+            "act": 0.1350555717945099
+        },
+        {
+            "text": "April 11, 1938.",
+            "act": 0.1345737725496292
+        },
+        {
+            "text": "This can be easily understood as follows.",
+            "act": 0.13323405385017395
+        },
+        {
+            "text": "*Mycoplasma ovis*Goats, sheep, deer, reindeer, humanNeimark et al.",
+            "act": 0.13264252245426178
+        },
+        {
+            "text": "Area size characteristics of the sample classified into subgroups according to developmental stage.",
+            "act": 0.1320936530828476
+        },
+        {
+            "text": "Area size characteristics of the sample classified into subgroups according to developmental stage.",
+            "act": 0.1320936530828476
+        },
+        {
+            "text": "Area size characteristics of the sample classified into subgroups according to developmental stage.",
+            "act": 0.1320936530828476
+        },
+        {
+            "text": "Area size characteristics of the sample classified into subgroups according to developmental stage.",
+            "act": 0.1320936530828476
+        },
+        {
+            "text": "They are attracted to and thrive in areas cut by the BrushMaster.",
+            "act": 0.13041765987873077
+        },
+        {
+            "text": "This plant is now used for the subsequent breeding work.",
+            "act": 0.12928397953510284
+        },
+        {
+            "text": "Kinetoplast DNA minicircles are inherited from both parents in genetic hybrids of Trypanosoma brucei.",
+            "act": 0.12902288138866425
+        },
+        {
+            "text": "Chris Christie.",
+            "act": 0.12861508131027222
+        },
+        {
+            "text": "Soria Segarra is a speaker for Merck and 3M.",
+            "act": 0.12819328904151917
+        },
+        {
+            "text": "This paper is organized as follows.",
+            "act": 0.12643888592720032
+        },
+        {
+            "text": "The basic layout is shown in Fig.",
+            "act": 0.12613290548324585
+        },
+        {
+            "text": "For both miRNAs, the 20 most differential edges are shown.",
+            "act": 0.1253412812948227
+        },
+        {
+            "text": "Processing then continues with step 5020 in FIGS.",
+            "act": 0.12488687038421631
+        },
+        {
+            "text": "The following example demonstrate it:  \n\nFirst, click the button on the left.",
+            "act": 0.12465974688529968
+        },
+        {
+            "text": "How this can be incorporated into conservation is unclear.",
+            "act": 0.12400104105472565
+        },
+        {
+            "text": "Antonio Valencia.",
+            "act": 0.1230442225933075
+        },
+        {
+            "text": "*Lestes* species hunt commonly near or inside dense vegetation.",
+            "act": 0.12288287281990051
+        },
+        {
+            "text": "April 4, 1938.",
+            "act": 0.1224757730960846
+        },
+        {
+            "text": "It also occurs in parts of Ireland and Northern Ireland.",
+            "act": 0.12208674848079681
+        },
+        {
+            "text": "DO NOT EDIT!",
+            "act": 0.11995962262153625
+        },
+        {
+            "text": "The general processing works as follows.",
+            "act": 0.11985865235328674
+        },
+        {
+            "text": "This experiment is performed as follows.",
+            "act": 0.1171179786324501
+        },
+        {
+            "text": "These are not apparent in infancy and may first appear at age 5\u20138 years.",
+            "act": 0.11593100428581238
+        },
+        {
+            "text": "Video by guide Bret Whitney.",
+            "act": 0.11567335575819016
+        },
+        {
+            "text": "Rene is the General.",
+            "act": 0.11562135815620422
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

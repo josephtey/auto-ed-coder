@@ -1,0 +1,412 @@
+{
+    "index": 630,
+    "label": "Technical and academic content",
+    "attributes": "technical or niche-specific content, academic or formal language, scientific terminology, special characters, professional titles, mathematical notation",
+    "reasoning": "The samples contain technical or niche-specific content, academic or formal language, scientific terminology, and often reference mathematical notation, biological terms, professional titles, or precise informational content. They sometimes include symbols such as mathematical operators and special characters. This kind of content is more structured and detailed compared to the conversational or informal style, opinion-based remarks, or general discussions found in the other samples.",
+    "density": 0.00408083856487347,
+    "confidence": 55.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.40758663415908813
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.40758663415908813
+        },
+        {
+            "text": "The fruit is a dry five-valved capsule, with 1-4 seeds in each section.",
+            "act": 0.2729717493057251
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.25809234380722046
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.25416409969329834
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.2434665411710739
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.23825587332248688
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.23088696599006653
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.22221730649471283
+        },
+        {
+            "text": "Ray Usher\n\nRay Usher (16 October 1904 \u2013 15 April 1964) was a former Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).",
+            "act": 0.21627581119537354
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.19912900030612946
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.1965523660182953
+        },
+        {
+            "text": "is brightened with a fuschia-hued hibiscus flower.",
+            "act": 0.18814802169799805
+        },
+        {
+            "text": "Also \u2220[u, v] = \u2220[0] iff //  v.<br />\n  <strong>R4.</strong> If u \u22a5 v, then we define \u2220[u, v] to be a constant full-angle \u2220[1].",
+            "act": 0.156496062874794
+        },
+        {
+            "text": "Linley E. Pearson, Atty.",
+            "act": 0.15242785215377808
+        },
+        {
+            "text": "Wainwright joined Burslem Port Vale in November 1900 and made his debut at the Athletic Ground in a 3\u20132 win over Barnsley on 1 December.",
+            "act": 0.14894764125347137
+        },
+        {
+            "text": "They are evergreen trees, growing to 10\u201320 m tall.",
+            "act": 0.14775697886943817
+        },
+        {
+            "text": "nov.?",
+            "act": 0.14067648351192474
+        },
+        {
+            "text": "The leaves are alternately arranged, simple, serrated, thick, leathery, glossy, and 6\u201318\u00a0cm long.",
+            "act": 0.13819080591201782
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.1356474608182907
+        },
+        {
+            "text": "Vachellia bolei \u2014 A rare legume tree possibly driven extinct by sand mining and other habitat destruction.",
+            "act": 0.13068975508213043
+        },
+        {
+            "text": "Fair criticism?",
+            "act": 0.1259370893239975
+        },
+        {
+            "text": "Robert Mueller.",
+            "act": 0.12542109191417694
+        },
+        {
+            "text": "Kahn Aff.",
+            "act": 0.1249166950583458
+        },
+        {
+            "text": "RT-WHO 979, 997-98; Schindler Dep.",
+            "act": 0.12022673338651657
+        },
+        {
+            "text": "Assn.",
+            "act": 0.1172107607126236
+        },
+        {
+            "text": "\u2220[u, v] + \u2220[u, v] = \u2220[0], or\n  \u2220[1] + \u2220[1] = \u2220[0].<br />\n  <strong>R5.</strong> For any line l, the operation \u201daddition\u201d between two full angles is defined as\u2220[u, v] =\n  \u2220[u, l]+\u2220[l, v].",
+            "act": 0.11614305526018143
+        },
+        {
+            "text": "Elder Butler moans.",
+            "act": 0.11507853120565414
+        },
+        {
+            "text": "Cancer cells need more sugar than average mammalian cells so that they can replicate rapidly to form tumors.",
+            "act": 0.11457771807909012
+        },
+        {
+            "text": "ALTENBERND, Judge.",
+            "act": 0.11341667920351028
+        },
+        {
+            "text": "Assn.",
+            "act": 0.10600603371858597
+        },
+        {
+            "text": "William T. Council, Asst.",
+            "act": 0.10405337065458298
+        },
+        {
+            "text": "H.\u00a0Grabert, Phys.",
+            "act": 0.10240278393030167
+        },
+        {
+            "text": "Draugr.",
+            "act": 0.10212323814630508
+        },
+        {
+            "text": "Current chemotherapy protocols for gastric cancer present high toxicity.",
+            "act": 0.10012172907590866
+        },
+        {
+            "text": "She\nhisses and her face warps into a malformed spotted thing.",
+            "act": 0.10006877034902573
+        },
+        {
+            "text": "Evidence was found that L. pneumophila can persist in garden soil.",
+            "act": 0.10002083331346512
+        },
+        {
+            "text": "Henry Wade, Dist.",
+            "act": 0.09882005304098129
+        },
+        {
+            "text": "SLA indicates the ratio of photosynthetic tissues surface to the weight of photosynthetic tissues.",
+            "act": 0.09583853930234909
+        },
+        {
+            "text": "Much thanks.",
+            "act": 0.09415291994810104
+        },
+        {
+            "text": "Archibald McCoig\n\nArchibald Blake McCoig (April 8, 1873 \u2013 November 21, 1927) was a Canadian politician.",
+            "act": 0.09396582096815109
+        },
+        {
+            "text": "H.\u00a0B\u00fchler.",
+            "act": 0.09301220625638962
+        },
+        {
+            "text": "The bark is thick and deeply fissured.",
+            "act": 0.09243952482938766
+        },
+        {
+            "text": "</strong>A full-angle is defined as an ordered pair of two lines u and v denoted by \u2220[u, v].<br />\n  <strong>R2.</strong> \u2220[u, v] = \u2212\u2220[v, u].<br />\n  <strong>R3.</strong> Constant full-angle \u2220[u, u] is denoted by \u2220[0].",
+            "act": 0.09206926077604294
+        },
+        {
+            "text": "{snip}\n\nItalian coast guard Capt.",
+            "act": 0.09159640967845917
+        },
+        {
+            "text": "Saucony\u2019s official site\n\nEastbay\n\nOverkill\n\nKicks USA\n\nEND.",
+            "act": 0.09025963395833969
+        },
+        {
+            "text": "Thus, damage by insects contributes to within-plant variation in leaf asymmetry, and may influence the distribution of herbivory in the following year.",
+            "act": 0.08965310454368591
+        },
+        {
+            "text": "\u261eTons of tutorials, guides and solutions\n\u261eThe very finest of our voluntary Support Staff\n\u261eMuch, much more FREE!",
+            "act": 0.08964074403047562
+        },
+        {
+            "text": "In contrast, a proportion of the nicotine alkaloids was secreted into the medium.",
+            "act": 0.08949293941259384
+        },
+        {
+            "text": "Contains trace amounts of THC.",
+            "act": 0.08494330197572708
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

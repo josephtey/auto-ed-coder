@@ -1,0 +1,412 @@
+{
+    "index": 362,
+    "label": "Informative and factual content",
+    "attributes": "direct quotes, citation of sources, factual statements, specific dates, proper names, precise locations",
+    "reasoning": "After analyzing both sets of samples, it is noticeable that all the samples contain either direct quotes, citation of sources, factual statements, specific dates, proper names, or precise locations. These elements imply a form of content that is either reporting, narration of factual events or statements, or providing information. In contrast, the other samples include more conversational, speculative, and subjective content which lacks these specific attributes.",
+    "density": 0.0091913770932092,
+    "confidence": 25.0,
+    "high_act_samples": [
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.28044670820236206
+        },
+        {
+            "text": "\u2013 Reuters",
+            "act": 0.2745633125305176
+        },
+        {
+            "text": "msgstr \"\u0627\u0631\u0632 \u0627\u0635\u0644\u06cc \u0634\u0631\u06a9\u062a\"\n\n#.",
+            "act": 0.2596950829029083
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.22877570986747742
+        },
+        {
+            "text": "Such booms typically bust.",
+            "act": 0.2103606015443802
+        },
+        {
+            "text": "MAVEN's top 10 discoveries at Mars\n\nMAVEN spacecraft and the limb of Mars.",
+            "act": 0.20961087942123413
+        },
+        {
+            "text": "Since its launch in November 2013 and its orbit insertion in September 2014, MAVEN has been exploring the upper atmosphere of Mars.",
+            "act": 0.20848867297172546
+        },
+        {
+            "text": "Y no puedo dejar de preguntarme lo mismo.",
+            "act": 0.20735323429107666
+        },
+        {
+            "text": "Send tips to luke@dailycallernewsfoundation.org.",
+            "act": 0.20587845146656036
+        },
+        {
+            "text": "thailawforum.com.",
+            "act": 0.1947203278541565
+        },
+        {
+            "text": "Yahoo!",
+            "act": 0.19195222854614258
+        },
+        {
+            "text": "$10 adults, children 15 and under free.",
+            "act": 0.18928587436676025
+        },
+        {
+            "text": "$10 adults, children 15 and under free.",
+            "act": 0.18928587436676025
+        },
+        {
+            "text": "Jason Kubler 4\u20136, 7\u20135, 7\u20136(7\u20133)\n\nWomen's Singles\n\n Misaki Doi def.",
+            "act": 0.18737590312957764
+        },
+        {
+            "text": "A total of 42 TE were also identified in 25 of the 130 TaSDGs.",
+            "act": 0.18264007568359375
+        },
+        {
+            "text": "(818) 955-8101, falcontheatre.com.",
+            "act": 0.17924878001213074
+        },
+        {
+            "text": "bigcitylittlekitty@yahoo.com",
+            "act": 0.17584432661533356
+        },
+        {
+            "text": "MAVEN began its primary science mission on November 2014, and is the first spacecraft dedicated to understanding Mars' upper atmosphere.",
+            "act": 0.17374344170093536
+        },
+        {
+            "text": "Joe Amon, The Denver Post The R-Line train at Peoria Station Feb. 17, 2017 in Aurora.",
+            "act": 0.17172694206237793
+        },
+        {
+            "text": "If you want to know something more about it: www.viejosroqueros.blogspot.com.",
+            "act": 0.17118191719055176
+        },
+        {
+            "text": "As reported by NewsBTC earlier today, an apparent survey from Coinbase has polled users on the appeal of a subscription model, which would reduce \u201cmaker\u201d and \u201ctaker\u201d fees for Pro traders, while offering perks for premium members.",
+            "act": 0.17070434987545013
+        },
+        {
+            "text": "Awesome post.",
+            "act": 0.1703488528728485
+        },
+        {
+            "text": "CasinoNewsDaily.com uses cookies to know you better and to provide you with the best experience possible.",
+            "act": 0.16872934997081757
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es lindo o entretenido cuando son hombres los que se mofan de las mujeres a trav\u00e9s del drag?",
+            "act": 0.16645684838294983
+        },
+        {
+            "text": "For 2019 departures, book with Early Booking Discount and save up to AU$3000 per person.",
+            "act": 0.16636452078819275
+        },
+        {
+            "text": "The route was named Los Viejos Roqueros Nunca Mueren (Old Rockclimbers never die).",
+            "act": 0.16198508441448212
+        },
+        {
+            "text": "To do so, visit disqus.com/account.",
+            "act": 0.15986859798431396
+        },
+        {
+            "text": "The Citi/AAdvantage Bronze card will no longer offer Lost Baggage Protection.",
+            "act": 0.15911038219928741
+        },
+        {
+            "text": "Apr.",
+            "act": 0.15822333097457886
+        },
+        {
+            "text": "The context of the verse \n\u064a\u064e\u0627 \u0623\u064e\u064a\u064f\u0651\u0647\u064e\u0627 \u0627\u0644\u064e\u0651\u0630\u0650\u064a\u0646\u064e \u0622\u0645\u064e\u0646\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u062f\u064e\u0627\u064a\u064e\u0646\u062a\u064f\u0645 \u0628\u0650\u062f\u064e\u064a\u0652\u0646\u064d \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u064d \u0645\u064f\u0651\u0633\u064e\u0645\u064b\u0651\u0649 \u0641\u064e\u0627\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u06da\u0648\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628 \u0628\u064e\u0651\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0623\u064e\u0646 \u064a\u064e\u0643\u0652\u062a\u064f\u0628\u064e \u0643\u064e\u0645\u064e\u0627 \u0639\u064e\u0644\u064e\u0651\u0645\u064e\u0647\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06da \u0641\u064e\u0644\u0652\u064a\u064e\u0643\u0652\u062a\u064f\u0628\u0652 \u0648\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0650 \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0648\u064e\u0644\u0652\u064a\u064e\u062a\u064e\u0651\u0642\u0650 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u0631\u064e\u0628\u064e\u0651\u0647\u064f \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0628\u0652\u062e\u064e\u0633\u0652 \u0645\u0650\u0646\u0652\u0647\u064f \u0634\u064e\u064a\u0652\u0626\u064b\u0627 \u06da \u0641\u064e\u0625\u0650\u0646 \u0643\u064e\u0627\u0646\u064e \u0627\u0644\u064e\u0651\u0630\u0650\u064a \u0639\u064e\u0644\u064e\u064a\u0652\u0647\u0650 \u0627\u0644\u0652\u062d\u064e\u0642\u064f\u0651 \u0633\u064e\u0641\u0650\u064a\u0647\u064b\u0627 \u0623\u064e\u0648\u0652 \u0636\u064e\u0639\u0650\u064a\u0641\u064b\u0627 \u0623\u064e\u0648\u0652 \u0644\u064e\u0627 \u064a\u064e\u0633\u0652\u062a\u064e\u0637\u0650\u064a\u0639\u064f \u0623\u064e\u0646 \u064a\u064f\u0645\u0650\u0644\u064e\u0651 \u0647\u064f\u0648\u064e \u0641\u064e\u0644\u0652\u064a\u064f\u0645\u0652\u0644\u0650\u0644\u0652 \u0648\u064e\u0644\u0650\u064a\u064f\u0651\u0647\u064f \u0628\u0650\u0627\u0644\u0652\u0639\u064e\u062f\u0652\u0644\u0650 \u06da \u0648\u064e\u0627\u0633\u0652\u062a\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064e\u064a\u0652\u0646\u0650 \u0645\u0650\u0646 \u0631\u0650\u0651\u062c\u064e\u0627\u0644\u0650\u0643\u064f\u0645\u0652 \u06d6 \u0641\u064e\u0625\u0650\u0646 \u0644\u064e\u0651\u0645\u0652 \u064a\u064e\u0643\u064f\u0648\u0646\u064e\u0627 \u0631\u064e\u062c\u064f\u0644\u064e\u064a\u0652\u0646\u0650 \u0641\u064e\u0631\u064e\u062c\u064f\u0644\u064c \u0648\u064e\u0627\u0645\u0652\u0631\u064e\u0623\u064e\u062a\u064e\u0627\u0646\u0650 \u0645\u0650\u0645\u064e\u0651\u0646 \u062a\u064e\u0631\u0652\u0636\u064e\u0648\u0652\u0646\u064e \u0645\u0650\u0646\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u0650 \u0623\u064e\u0646 \u062a\u064e\u0636\u0650\u0644\u064e\u0651 \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0641\u064e\u062a\u064f\u0630\u064e\u0643\u0650\u0651\u0631\u064e \u0625\u0650\u062d\u0652\u062f\u064e\u0627\u0647\u064f\u0645\u064e\u0627 \u0627\u0644\u0652\u0623\u064f\u062e\u0652\u0631\u064e\u0649\u0670 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064e\u0623\u0652\u0628\u064e \u0627\u0644\u0634\u064f\u0651\u0647\u064e\u062f\u064e\u0627\u0621\u064f \u0625\u0650\u0630\u064e\u0627 \u0645\u064e\u0627 \u062f\u064f\u0639\u064f\u0648\u0627 \u06da \u0648\u064e\u0644\u064e\u0627 \u062a\u064e\u0633\u0652\u0623\u064e\u0645\u064f\u0648\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064f \u0635\u064e\u063a\u0650\u064a\u0631\u064b\u0627 \u0623\u064e\u0648\u0652 \u0643\u064e\u0628\u0650\u064a\u0631\u064b\u0627 \u0625\u0650\u0644\u064e\u0649\u0670 \u0623\u064e\u062c\u064e\u0644\u0650\u0647\u0650 \u06da \u0630\u064e\u0670\u0644\u0650\u0643\u064f\u0645\u0652 \u0623\u064e\u0642\u0652\u0633\u064e\u0637\u064f \u0639\u0650\u0646\u062f\u064e \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u0650 \u0648\u064e\u0623\u064e\u0642\u0652\u0648\u064e\u0645\u064f \u0644\u0650\u0644\u0634\u064e\u0651\u0647\u064e\u0627\u062f\u064e\u0629\u0650 \u0648\u064e\u0623\u064e\u062f\u0652\u0646\u064e\u0649\u0670 \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0631\u0652\u062a\u064e\u0627\u0628\u064f\u0648\u0627 \u06d6 \u0625\u0650\u0644\u064e\u0651\u0627 \u0623\u064e\u0646 \u062a\u064e\u0643\u064f\u0648\u0646\u064e \u062a\u0650\u062c\u064e\u0627\u0631\u064e\u0629\u064b \u062d\u064e\u0627\u0636\u0650\u0631\u064e\u0629\u064b \u062a\u064f\u062f\u0650\u064a\u0631\u064f\u0648\u0646\u064e\u0647\u064e\u0627 \u0628\u064e\u064a\u0652\u0646\u064e\u0643\u064f\u0645\u0652 \u0641\u064e\u0644\u064e\u064a\u0652\u0633\u064e \u0639\u064e\u0644\u064e\u064a\u0652\u0643\u064f\u0645\u0652 \u062c\u064f\u0646\u064e\u0627\u062d\u064c \u0623\u064e\u0644\u064e\u0651\u0627 \u062a\u064e\u0643\u0652\u062a\u064f\u0628\u064f\u0648\u0647\u064e\u0627 \u06d7 \u0648\u064e\u0623\u064e\u0634\u0652\u0647\u0650\u062f\u064f\u0648\u0627 \u0625\u0650\u0630\u064e\u0627 \u062a\u064e\u0628\u064e\u0627\u064a\u064e\u0639\u0652\u062a\u064f\u0645\u0652 \u06da \u0648\u064e\u0644\u064e\u0627 \u064a\u064f\u0636\u064e\u0627\u0631\u064e\u0651 \u0643\u064e\u0627\u062a\u0650\u0628\u064c \u0648\u064e\u0644\u064e\u0627 \u0634\u064e\u0647\u0650\u064a\u062f\u064c \u06da \u0648\u064e\u0625\u0650\u0646 \u062a\u064e\u0641\u0652\u0639\u064e\u0644\u064f\u0648\u0627 \u0641\u064e\u0625\u0650\u0646\u064e\u0651\u0647\u064f \u0641\u064f\u0633\u064f\u0648\u0642\u064c \u0628\u0650\u0643\u064f\u0645\u0652 \u06d7 \u0648\u064e\u0627\u062a\u064e\u0651\u0642\u064f\u0648\u0627 \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064e \u06d6 \u0648\u064e\u064a\u064f\u0639\u064e\u0644\u0650\u0651\u0645\u064f\u0643\u064f\u0645\u064f \u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u06d7 \u0648\u064e\u0627\u0644\u0644\u064e\u0651\u0640\u0647\u064f \u0628\u0650\u0643\u064f\u0644\u0650\u0651 \u0634\u064e\u064a\u0652\u0621\u064d \u0639\u064e\u0644\u0650\u064a\u0645\u064c \n\nO ye who believe!",
+            "act": 0.1567709743976593
+        },
+        {
+            "text": "You can contact me at dividendgrowthinvestor at gmail dot com.",
+            "act": 0.1543395072221756
+        },
+        {
+            "text": "Life can be hard, shit happens.",
+            "act": 0.15053501725196838
+        },
+        {
+            "text": "$10 adults, children 15 and under free.",
+            "act": 0.14926794171333313
+        },
+        {
+            "text": "You can find information about the upcoming Master Class at www.thehappinessadvantage.com.",
+            "act": 0.1490456461906433
+        },
+        {
+            "text": "This layer is always present, but was enhanced dramatically by the close passage to Mars of Comet Siding Spring in October 2014.",
+            "act": 0.14707443118095398
+        },
+        {
+            "text": "tiene el valor de \" .",
+            "act": 0.14700165390968323
+        },
+        {
+            "text": "The company \u2013 formally known as Statoil \u2013 confirmed that 55,000 barrels of oil spilled at the South Riding Point facility in East Grand Bahama during the passage of Hurricane Dorian.",
+            "act": 0.14642333984375
+        },
+        {
+            "text": "He can be contacted at bradrogerscarson@gmail.com.",
+            "act": 0.14441338181495667
+        },
+        {
+            "text": "About 11.1% of families and 14.3% of the population were below the poverty line, including 19.9% of those under age 18 and 10.3% of those age 65 or over.",
+            "act": 0.14203251898288727
+        },
+        {
+            "text": "^a^ El c\u00e1lculo del promedio utiliza 72 observaciones.",
+            "act": 0.1420232057571411
+        },
+        {
+            "text": "Not really.",
+            "act": 0.14193092286586761
+        },
+        {
+            "text": "Thank you for reading this Techdirt post.",
+            "act": 0.14048588275909424
+        },
+        {
+            "text": "Nonetheless, the Old City contributes to Saudi cultural identity, preserving traditional buildings\n\nThe city has many popular resorts, including Durrat Al-Arus, Al-Nawras M\u00f6venpick resort at the Red Sea Corniche, Crystal Resort, Radisson Blu, The Signature Al Murjan Beach Resort, Al Nakheel Village, Sands, and Sheraton Abhur.",
+            "act": 0.14047706127166748
+        },
+        {
+            "text": "sherwoodforest.org\n\n\u2022Westover.",
+            "act": 0.1398550570011139
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es gracioso que los hombres se vistan como mujeres y no que las mujeres se vistan cho hombres?",
+            "act": 0.13914817571640015
+        },
+        {
+            "text": "So fucking sad, so very fucking sad.",
+            "act": 0.1380113661289215
+        },
+        {
+            "text": "Collectors are those you owe cash to.",
+            "act": 0.1375710666179657
+        },
+        {
+            "text": "And when everyone\u0092s Super .",
+            "act": 0.1373983770608902
+        },
+        {
+            "text": "Como mujeres, nos esforzamos mucho para ser \u201cparte del chiste\u201d.",
+            "act": 0.13709460198879242
+        },
+        {
+            "text": "In Idlib, regime forces captured 84 villages and towns: Telmans, Ma\u2019ar Shmasha, Deir Sharqi, Deir Al-Gharbi, Ma\u2019ar Shmarin, Ma\u2019rata, Al-Ghadfa, Ma\u2019ar Shourin Al-Za\u2019alana, Al-Dana, Tal Sheikh, Sawami\u2019e, Khirbet Mezyan, Masaran, Bsida, Taqana, Babolin, Kafr Bassin, Marhatat, Hamidia, Dar Al-Salaam, Salhia, Kafruma, Maarrat Al-Nu\u2019man city, Wadi Al-Daif, Hantutin, Al-Jarrada, Al-Ruwayha and Al-Qahiryah, Khan al-Sobol town, Mardebseh, Al-Hartamiyah, Qamhana, Abu Juraif, Tal Khatrah, Tal Musaytif, Al-Kana\u2019es, Karsyan, Hish, Kafr Mazdah, Jabbalah, Muqah, Al-Amudiyah, Armanya, Kafr Batikh, Dadikh, Luf, Anqarati, Jubas, Sannan, Zakkar, Tarnabeh and Al-Nayrab, Mardikh, Tal Mardikh, Kaddur, Al-Ruwayha, the Abandoned Battalion, Al-Balisah, Al-Wasitah, Kuwayris, Tal Al-Agher, Al-Mushayrafah, Tawil Al-Halib, Al-Raqim, Jadidat Al-Khatrah, Sheikh Idrees, Baj\u2019as, Al-Rayyan, Tal Al-Rumman, Parisa, al-Hammamat, Tal al-Sultan, Om Sharshuh, al-Khashakhish, Tal Ibrahim, Jabal al-Taweel, Mas\u2019adah, Ras Al-Ain, Shuha, Kafr Amim and Tal Rihan).",
+            "act": 0.13486868143081665
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

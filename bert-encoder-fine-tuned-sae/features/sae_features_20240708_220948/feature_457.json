@@ -1,0 +1,412 @@
+{
+    "index": 457,
+    "label": "Complex and diverse text formatting",
+    "attributes": "significant presence of special characters, numerical equations, code snippets, diverse formatting, multilingual text, mixture of formal and informal content, complex structure",
+    "reasoning": "Upon examining the samples, the most specific attribute that distinguishes them is the significant presence of special characters, numerical equations, code snippets, and diverse formatting elements. These elements are consistent in all of the samples but noticeably absent in the other samples. The attributes also include multilingual text and mixture of formal and informal content which creates a distinctive complexity.",
+    "density": 0.0016655515538030095,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "\"Please, get out, get out, please get out!\"",
+            "act": 0.22114597260951996
+        },
+        {
+            "text": "My comment was: \u00e2\u20ac\u0153This, along with his disgusting misrepresentations\u00e2\u20ac\u00a6\u00e2\u20ac?",
+            "act": 0.1840854436159134
+        },
+        {
+            "text": "\"AWWWWWWWWWW!\"",
+            "act": 0.16798293590545654
+        },
+        {
+            "text": "DIEEEEEEEEGGGGGOOOOOOOOOOOOOOOO!!!",
+            "act": 0.153289332985878
+        },
+        {
+            "text": "Storia della filosofia medievale.",
+            "act": 0.1445375233888626
+        },
+        {
+            "text": "*/\n\tpublic ReactiveMongoQueryMethod(Method method, RepositoryMetadata metadata, ProjectionFactory projectionFactory,\n\t\t\tMappingContext<?",
+            "act": 0.12547513842582703
+        },
+        {
+            "text": "(Knock it off.",
+            "act": 0.12358126789331436
+        },
+        {
+            "text": "He lacks speed (four stolen bases in nine attempts).",
+            "act": 0.11441747099161148
+        },
+        {
+            "text": "$FirstRockBand->battle($SecondRockBand, \"blew the crowd away!",
+            "act": 0.1120988205075264
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.1112382635474205
+        },
+        {
+            "text": "Hellum admits his own show is boring.",
+            "act": 0.11059419065713882
+        },
+        {
+            "text": "Kaunisto KM, Roslin T, S\u00e4\u00e4ksj\u00e4rvi IE, Vesterinen EJ.",
+            "act": 0.11056612432003021
+        },
+        {
+            "text": "map (oneAttr .",
+            "act": 0.09859415888786316
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.09835129976272583
+        },
+        {
+            "text": "Rather than giving you a general list of famous Italian dishes: pizza margherita, lasagna, spaghetti, etc.",
+            "act": 0.09828764945268631
+        },
+        {
+            "text": "Paredes ha un costo elevato, e lo Zenit non vorrebbe perderlo dopo l\u2019acquisizione a luglio 2017 per circa 25 milioni di euro.",
+            "act": 0.09684334695339203
+        },
+        {
+            "text": "Wouldn\u00e2\u20ac\u2122t \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.09447387605905533
+        },
+        {
+            "text": "http://youtu.be/FTGPmCXzoJg?list=UU6QWhGQqf0YDYdRb0n6ojWw\nTime for another updo hairstyle!",
+            "act": 0.0890425369143486
+        },
+        {
+            "text": "Let $R$ be a ring with involution $R \\to R \\hspace{2mm}:\\, r \\mapsto \\overline{r}$.",
+            "act": 0.08890475332736969
+        },
+        {
+            "text": "Delimitata dalla laguna e dal mare, 232; la Venezia pi249; popolare colorata da aneddoti, ricordi e curiosit224.",
+            "act": 0.0854405090212822
+        },
+        {
+            "text": "*/\n        private boolean alreadyScanned;\n\n        private ServletContainerInitializerAnnotationProcessor(AnnotationHandler handler,\n                                                               final Map<Class<?",
+            "act": 0.08412021398544312
+        },
+        {
+            "text": "Ehhhhhcellent!",
+            "act": 0.08395926654338837
+        },
+        {
+            "text": "(BT, biceps tendon; RC, rotator cuff.",
+            "act": 0.0831739753484726
+        },
+        {
+            "text": "A connected oriented graph is called [*strongly positive recurrent*]{} if $R<L_{uu}$ for all vertices $u$.",
+            "act": 0.0803740918636322
+        },
+        {
+            "text": "In \u00e2\u20ac\u0153Whitewash\u00e2\u20ac?",
+            "act": 0.07794676721096039
+        },
+        {
+            "text": "Tubes are *nested* if $u \\subset v$.",
+            "act": 0.0758017972111702
+        },
+        {
+            "text": "I would have liked extra tomato sauce to balance the ricotta.",
+            "act": 0.07416432350873947
+        },
+        {
+            "text": "Article Source: \u200b mai organizzato un viaggio all&#8217;ultimo minuto.",
+            "act": 0.07351558655500412
+        },
+        {
+            "text": "(Witkin, Cal.",
+            "act": 0.07055207341909409
+        },
+        {
+            "text": "\"What's that imbecile Daroy up to?\"",
+            "act": 0.07024399191141129
+        },
+        {
+            "text": "Ion channels are pores formed by proteins and responsible for carrying ion fluxes through cellular membranes.",
+            "act": 0.06877005100250244
+        },
+        {
+            "text": "But Porcello wants to stay here beyond his current contract.",
+            "act": 0.06795673817396164
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.06763201206922531
+        },
+        {
+            "text": "= Batting average; HR = Home runs; RBI = Runs batted in\n\nOther batters\nNote: G = Games played; AB = At bats; H = Hits; Avg.",
+            "act": 0.06753427535295486
+        },
+        {
+            "text": "IDEAL MEAL: Start with tuna tataki, silky ribbons of gently seared ahi drizzled with ponzu sauce, and sake.",
+            "act": 0.06672690808773041
+        },
+        {
+            "text": "She feels better (coffee to the rescue!",
+            "act": 0.06670994311571121
+        },
+        {
+            "text": "I said \u201cLook, where I live the damn things don\u2019t work anyway but I don\u2019t want pictures taken so it\u2019s gimme the damn phones or I\u2019m outta here-by myself.",
+            "act": 0.06633149832487106
+        },
+        {
+            "text": "(For the record, I'm not a fan of the hunger strike of indefinite length.",
+            "act": 0.06551489233970642
+        },
+        {
+            "text": "Or pizza, chicken, steak, pasta, vegies.",
+            "act": 0.06506256014108658
+        },
+        {
+            "text": "\"Oh, Dino is a friend of the family,\" he says.",
+            "act": 0.06504756957292557
+        },
+        {
+            "text": "(BT, biceps tendon; HH, humeral head; SS, supraspinatus.",
+            "act": 0.06455697864294052
+        },
+        {
+            "text": "Tony Ventrella.",
+            "act": 0.06409530341625214
+        },
+        {
+            "text": "POOF GAAAAAAAAAWWWWN!!",
+            "act": 0.06370053440332413
+        },
+        {
+            "text": "\u00bb Info|\u05de\u05d9\u05d3\u05e2: \u05d1\u05de\u05d3\u05e8\u05d9\u05da \u05d6\u05d4, \u05d0\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05db\u05dc \u05e9\u05de\u05d5\u05ea \u05d4\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea.",
+            "act": 0.06317303329706192
+        },
+        {
+            "text": "\"Bernard, what are you doing?\"",
+            "act": 0.06223021075129509
+        },
+        {
+            "text": "Esophageal Thacher uses, his relapses in a very murderous manner.",
+            "act": 0.06206547096371651
+        },
+        {
+            "text": "(; RT @mtv.\"",
+            "act": 0.06183074787259102
+        },
+        {
+            "text": "(See Federal Def.",
+            "act": 0.0611741729080677
+        },
+        {
+            "text": "\u201cWe\u2019d look forward to playing Xavier,\u201d Sullivan said.",
+            "act": 0.060763586312532425
+        },
+        {
+            "text": "The service sprang forth from Honey\u2019s Anime readers lamenting that there are few places to express their original anime- and manga-like stories.",
+            "act": 0.06037699058651924
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 749,
+    "label": "Bird species and taxonomy listings",
+    "attributes": "Names of bird species, Scientific names, Taxonomic details, Ornithological references",
+    "reasoning": "The texts in the samples share a very specific attribute; they almost exclusively consist of bird species names and their scientific names in a structured format. This attribute is consistent as all the titles mention birds and their taxonomic details, while none of the other samples discuss birds or scientific classification.",
+    "density": 0.010145154478720326,
+    "confidence": 90.0,
+    "high_act_samples": [
+        {
+            "text": "), as did Rufous-tailed Xenops and Ferruginous-backed Antbird.",
+            "act": 0.3323921263217926
+        },
+        {
+            "text": "Charadriidae (Plovers and Lapwings)\n\nPIED LAPWING(Vanellus cayanus)\n\nSOUTHERN LAPWING(Vanellus chilensis)\n\nJacanidae (Jacanas)\n\nWATTLED JACANA(Jacana jacana)\n\nScolopacidae (Sandpipers and Allies)\n\nHUDSONIAN GODWIT(Limosa haemastica)\n\nWHITE-RUMPED SANDPIPER(Calidris fuscicollis)\n\nSOUTH AMERICAN SNIPE(Gallinago paraguaiae)\n\nSPOTTED SANDPIPER(Actitis macularius)\n\nSOLITARY SANDPIPER(Tringa solitaria)\n\nLaridae (Gulls, Terns, and Skimmers)\n\nYELLOW-BILLED TERN(Sternula superciliaris)\n\nLARGE-BILLED TERN(Phaetusa simplex)\u2013 Common along the rivers.",
+            "act": 0.26324838399887085
+        },
+        {
+            "text": "BLACK SKIMMER(Rynchops niger)\n\nColumbidae (Pigeons and Doves)\n\nROCK PIGEON(Columba livia)\n\nPALE-VENTED PIGEON(Patagioenas cayennensis)\n\nSCALED PIGEON(Patagioenas speciosa)\u2013 Beautiful pigeon seen a few times during the tour.",
+            "act": 0.2610863447189331
+        },
+        {
+            "text": "CHESTNUT-VENTED CONEBILL(Conirostrum speciosum)\n\nORANGE-FRONTED YELLOW-FINCH(Sicalis columbiana)\n\nBLUE-BLACK GRASSQUIT(Volatinia jacarina)\n\nLINED SEEDEATER(Sporophila lineola)\n\nCHESTNUT-BELLIED SEEDEATER(Sporophila castaneiventris)\n\nWhite-naped Seedeater was a highlight of the tour!",
+            "act": 0.2600580155849457
+        },
+        {
+            "text": "BLACK-THROATED TROGON(Trogon rufus)\n\nMomotidae (Motmots)\n\nAMAZONIAN MOTMOT(Momotus momota)[*]\n\nAlcedinidae (Kingfishers)\n\nRINGED KINGFISHER(Megaceryle torquata)\n\nAMAZON KINGFISHER(Chloroceryle amazona)\n\nGREEN KINGFISHER(Chloroceryle americana)\n\nGREEN-AND-RUFOUS KINGFISHER(Chloroceryle inda)\n\nAMERICAN PYGMY KINGFISHER(Chloroceryle aenea)\n\nBucconidae (Puffbirds)\n\nWHITE-NECKED PUFFBIRD(Notharchus hyperrhynchus)\u2013 Replaces Guianan Puffbird on the west of the Negro river.",
+            "act": 0.23523011803627014
+        },
+        {
+            "text": "OLIVACEOUS WOODCREEPER(Sittasomus griseicapillus)\n\nLONG-TAILED WOODCREEPER(Deconychura longicauda)\n\nWHITE-CHINNED WOODCREEPER(Dendrocincla merula)\n\nPLAIN-BROWN WOODCREEPER(Dendrocincla fuliginosa)\n\nWEDGE-BILLED WOODCREEPER(Glyphorynchus spirurus)\n\nLONG-BILLED WOODCREEPER(Nasica longirostris)\u2013 This elegant bird may reach into some deep holes to catch insects using that long bill.",
+            "act": 0.23430374264717102
+        },
+        {
+            "text": "Grallariidae (Antpittas)\n\nVARIEGATED ANTPITTA(Grallaria varia)[*]\n\nFormicariidae (Antthrushes)\n\nRUFOUS-CAPPED ANTTHRUSH(Formicarius colma)\n\nFurnariidae (Ovenbirds and Woodcreepers)\n\nSPOT-THROATED WOODCREEPER(Certhiasomus stictolaemus)\u2013 A really hard bird to get.",
+            "act": 0.22683978080749512
+        },
+        {
+            "text": "COMMON POTOO(Nyctibius griseus)\u2013 Seen a few times during the tour.",
+            "act": 0.2233903557062149
+        },
+        {
+            "text": "The crew also found a Great White Shark caught in an illegal gillnet.",
+            "act": 0.22098535299301147
+        },
+        {
+            "text": "Wichaichan\n\u2013\nKrom Phra Ratchawang Bowon Wichaichan or Phra Ong Chao Yodyingyot was a Siamese Prince and member of the Chakri Dynasty.",
+            "act": 0.2191466987133026
+        },
+        {
+            "text": "They swim, they dive and, most importantly, they catch fish \u2013 thus earning them their common name.",
+            "act": 0.21559187769889832
+        },
+        {
+            "text": "PAINTED TODY-FLYCATCHER(Todirostrum pictum)\n\nYELLOW-BROWED TODY-FLYCATCHER(Todirostrum chrysocrotaphum)[*]\n\nBROWNISH TWISTWING(Cnipodectes subbrunneus)[*]\n\nYELLOW-OLIVE FLYCATCHER (RIVERINE)(Tolmomyias sulphurescens insignis)\n\nYELLOW-MARGINED FLYCATCHER(Tolmomyias assimilis)[*]\n\nGRAY-CROWNED FLYCATCHER(Tolmomyias poliocephalus)\n\nCINNAMON MANAKIN-TYRANT(Neopipo cinnamomea)[*]\n\nWHITE-CRESTED SPADEBILL(Platyrinchus platyrhynchos)\u2013 Great looks at Ja\u00fa National Park.",
+            "act": 0.21277715265750885
+        },
+        {
+            "text": "Victorian grasslands earless dragon (Tympanocryptis pinguicolla) \u2014 Last seen in 1969.",
+            "act": 0.21134884655475616
+        },
+        {
+            "text": "RUFOUS-TAILED FLATBILL(Ramphotrigon ruficauda)\n\nBRIGHT-RUMPED ATTILA(Attila spadiceus)[*]\n\nSIBILANT SIRYSTES(Sirystes sibilator)[*]\n\nGRAYISH MOURNER(Rhytipterna simplex)\n\nPALE-BELLIED MOURNER(Rhytipterna immunda)\n\nDUSKY-CAPPED FLYCATCHER(Myiarchus tuberculifer)\n\nSWAINSON'S FLYCATCHER(Myiarchus swainsoni phaeonotus)\n\nSHORT-CRESTED FLYCATCHER(Myiarchus ferox)\n\nBROWN-CRESTED FLYCATCHER(Myiarchus tyrannulus)\n\nLESSER KISKADEE(Pitangus lictor)\n\nGREAT KISKADEE(Pitangus sulphuratus)\n\nBOAT-BILLED FLYCATCHER(Megarynchus pitangua)\n\nRUSTY-MARGINED FLYCATCHER(Myiozetetes cayanensis)\n\nSOCIAL FLYCATCHER(Myiozetetes similis)\n\nYELLOW-THROATED FLYCATCHER(Conopias parvus)\n\nTHREE-STRIPED FLYCATCHER(Conopias trivirgatus)\n\nISLAND STREAKED FLYCATCHER(Myiodynastes [maculatus] sp.",
+            "act": 0.20950794219970703
+        },
+        {
+            "text": "REDDISH HERMIT(Phaethornis ruber)[*]\n\nBLACK-EARED FAIRY(Heliothryx auritus)\n\nGREEN-TAILED GOLDENTHROAT(Polytmus theresiae)\n\nGREEN-THROATED MANGO(Anthracothorax viridigula)\u2013 This bird is only found on the white water islands.",
+            "act": 0.20849601924419403
+        },
+        {
+            "text": "RUSTY-FRONTED TODY-FLYCATCHER(Poecilotriccus latirostris)\n\nSPOTTED TODY-FLYCATCHER(Todirostrum maculatum)\n\nThis beautiful little Yellow-billed Jacamar was foraging near to the ground at Cachoeira da On\u00e7a private reserve.",
+            "act": 0.2023269385099411
+        },
+        {
+            "text": "DUSKY ANTBIRD(Cercomacroides tyrannina)\n\nGRAY ANTBIRD(Cercomacra cinerascens)\n\nASH-BREASTED ANTBIRD(Myrmoborus lugubris)\n\nBLACK-FACED ANTBIRD(Myrmoborus myotherinus ardesiacus)\n\nBLACK-CHINNED ANTBIRD(Hypocnemoides melanopogon)\n\nBLACK-HEADED ANTBIRD (HELLMAYR'S)(Percnostola rufifrons subcristata)\n\nFERRUGINOUS-BACKED ANTBIRD(Myrmoderus ferrugineus)\u2013 One of the greatest birds of the tour, this antbird was seen very well at Cachoeira da On\u00e7a private reserve.",
+            "act": 0.20188739895820618
+        },
+        {
+            "text": "Many of the exotic birds were killed for their feathers, used in the fashion industry.",
+            "act": 0.2018531709909439
+        },
+        {
+            "text": "The sampled fish, shrimp, and crab were identified as either demersal, benthopelagic or pelagic species.",
+            "act": 0.2017088085412979
+        },
+        {
+            "text": "Polioptilidae (Gnatcatchers)\n\nCOLLARED GNATWREN(Microbates collaris)[*]\n\nLONG-BILLED GNATWREN(Ramphocaenus melanurus)\n\nTROPICAL GNATCATCHER(Polioptila plumbea)\n\nGUIANAN GNATCATCHER (RIO NEGRO)(Polioptila guianensis facilis)\n\nDonacobiidae (Donacobius)\n\nBLACK-CAPPED DONACOBIUS(Donacobius atricapilla)\n\nTurdidae (Thrushes and Allies)\n\nPALE-BREASTED THRUSH(Turdus leucomelas)\n\nCOCOA THRUSH(Turdus fumigatus)\n\nHAUXWELL'S THRUSH(Turdus hauxwelli)\n\nBLACK-BILLED THRUSH(Turdus ignobilis)\n\nWHITE-NECKED THRUSH(Turdus albicollis)\n\nParulidae (New World Warblers)\n\nMASKED YELLOWTHROAT(Geothlypis aequinoctialis)\n\nThraupidae (Tanagers and Allies)\n\nRED-CAPPED CARDINAL(Paroaria gularis)\n\nRED-BILLED PIED TANAGER(Lamprospiza melanoleuca)[*]\n\nHOODED TANAGER(Nemosia pileata)\n\nORANGE-HEADED TANAGER(Thlypopsis sordida)\u2013 A pair of birds seen at Marchantaria island.",
+            "act": 0.2012568712234497
+        },
+        {
+            "text": "SHINY COWBIRD(Molothrus bonariensis)\n\nGIANT COWBIRD(Molothrus oryzivorus)\n\nORIOLE BLACKBIRD(Gymnomystax mexicanus)\n\nFringillidae (Finches, Euphonias, and Allies)\n\nPLUMBEOUS EUPHONIA(Euphonia plumbea)\n\nGOLDEN-BELLIED EUPHONIA(Euphonia chrysopasta)\n\nGOLDEN-SIDED EUPHONIA(Euphonia cayennensis)\u2013 A male seen from the ZF-2 INPA tower.",
+            "act": 0.20086263120174408
+        },
+        {
+            "text": "GREEN HONEYCREEPER(Chlorophanes spiza)\n\nGUIRA TANAGER(Hemithraupis guira)\n\nYELLOW-BACKED TANAGER(Hemithraupis flavicollis)\n\nBICOLORED CONEBILL(Conirostrum bicolor)\n\nPEARLY-BREASTED CONEBILL(Conirostrum margaritae)\u2013 Another white water island specialist, this bird is only found in the Cecropia sp.",
+            "act": 0.19892306625843048
+        },
+        {
+            "text": "Pelican Island is home to many nesting birds including brown pelicans, great egrets, snowy egrets, reddish egrets, great blue heron, little blue heron, tricolored heron, black-crowned night heron, American white ibis, glossy ibis, double-crested cormorant, anhinga, and American oystercatcher.",
+            "act": 0.19798801839351654
+        },
+        {
+            "text": "SHORT-TAILED HAWK(Buteo brachyurus)\n\nRallidae (Rails, Gallinules, and Coots)\n\nGRAY-BREASTED CRAKE(Laterallus exilis)[*]\n\nGRAY-COWLED WOOD-RAIL(Aramides cajaneus)\n\nRUSSET-CROWNED CRAKE(Anurolimnas viridis)[*]\n\nHeliornithidae (Finfoots)\n\nSUNGREBE(Heliornis fulica)\u2013 Seen a few times in Ja\u00fa National Park.",
+            "act": 0.1946682631969452
+        },
+        {
+            "text": "CINEREOUS BECARD(Pachyramphus rufus)\n\nCHESTNUT-CROWNED BECARD(Pachyramphus castaneus)\n\nGLOSSY-BACKED BECARD(Pachyramphus surinamus)\n\nPINK-THROATED BECARD(Pachyramphus minor)\u2013 One of the first birds we saw at Ducke Reserve; a pair of birds foraging with a mixed species flock.",
+            "act": 0.19382928311824799
+        },
+        {
+            "text": "Samples included fillets containing only fleshy parts and whole fish, including bone, fleshy parts and organs.",
+            "act": 0.19379264116287231
+        },
+        {
+            "text": "SAFFRON-CRESTED TYRANT-MANAKIN(Neopelma chrysocephalum)\n\nBLACK MANAKIN(Xenopipo atronitens)\n\nBLUE-CROWNED MANAKIN(Lepidothrix coronata)\n\nWHITE-FRONTED MANAKIN(Lepidothrix serena)\n\nYELLOW-CROWNED MANAKIN(Heterocercus flavivertex)\n\nWIRE-TAILED MANAKIN(Pipra filicauda)\u2013 There's not enough words to describe how cool this bird is.",
+            "act": 0.1902102380990982
+        },
+        {
+            "text": "RED-EYED VIREO (RESIDENT CHIVI)(Vireo olivaceus solimoensis)\n\nHirundinidae (Swallows)\n\nBLACK-COLLARED SWALLOW(Pygochelidon melanoleuca)\n\nWHITE-THIGHED SWALLOW(Atticora tibialis)\n\nSOUTHERN ROUGH-WINGED SWALLOW(Stelgidopteryx ruficollis)\n\nPURPLE MARTIN(Progne subis)\n\nGRAY-BREASTED MARTIN(Progne chalybea)\n\nSOUTHERN MARTIN(Progne elegans)\n\nBROWN-CHESTED MARTIN(Progne tapera)\n\nWHITE-WINGED SWALLOW(Tachycineta albiventer)\n\nBANK SWALLOW(Riparia riparia)\n\nBARN SWALLOW(Hirundo rustica)\n\nTroglodytidae (Wrens)\n\nWING-BANDED WREN(Microcerculus bambla)\n\nHOUSE WREN(Troglodytes aedon)\n\nCORAYA WREN(Pheugopedius coraya)\n\nBUFF-BREASTED WREN(Cantorchilus leucotis)[*]\n\nFew things are as good as being in the Amazon and having the chance to see and hear the Musician Wren.",
+            "act": 0.18888087570667267
+        },
+        {
+            "text": "RED-AND-GREEN MACAW(Ara chloropterus)\n\nCHESTNUT-FRONTED MACAW(Ara severus)\n\nWHITE-EYED PARAKEET(Psittacara leucophthalmus)\n\nThamnophilidae (Typical Antbirds)\n\nASH-WINGED ANTWREN(Euchrepomis spodioptila)\u2013 During our last morning in Pres.",
+            "act": 0.18699811398983002
+        },
+        {
+            "text": "They develop slurred or distorted speech, and swallowing problems.",
+            "act": 0.18664084374904633
+        },
+        {
+            "text": "A family friend once caught him eating his \u201cnasal produce,\u201d for lack of a better term.",
+            "act": 0.18212483823299408
+        },
+        {
+            "text": "Scale-breasted and Crimson-crested woodpeckers also showed nicely.",
+            "act": 0.18201543390750885
+        },
+        {
+            "text": "WHITE-THROATED KINGBIRD(Tyrannus albogularis)\n\nTROPICAL KINGBIRD(Tyrannus melancholicus)\n\nThe group enjoying the birding at Ducke Reserve, north of Manaus.",
+            "act": 0.1785806268453598
+        },
+        {
+            "text": "Sea Shepherd catches critically endangered totoaba poacher in the act.",
+            "act": 0.17831666767597198
+        },
+        {
+            "text": "FLAME-CRESTED TANAGER(Tachyphonus cristatus)\n\nFULVOUS-CRESTED TANAGER(Tachyphonus surinamus)\n\nWHITE-LINED TANAGER(Tachyphonus rufus)\n\nRED-SHOULDERED TANAGER(Tachyphonus phoenicius)\n\nSILVER-BEAKED TANAGER(Ramphocelus carbo)\n\nBLUE-GRAY TANAGER(Thraupis episcopus)\n\nPALM TANAGER(Thraupis palmarum)\n\nDOTTED TANAGER(Ixothraupis varia)[*]\n\nSPOTTED TANAGER(Ixothraupis punctata)\n\nTURQUOISE TANAGER(Tangara mexicana)\n\nPARADISE TANAGER(Tangara chilensis)\n\nOPAL-RUMPED TANAGER(Tangara velia)\n\nBLACK-FACED DACNIS(Dacnis lineata)\n\nYELLOW-BELLIED DACNIS(Dacnis flaviventer)\n\nBLUE DACNIS(Dacnis cayana)\n\nPURPLE HONEYCREEPER(Cyanerpes caeruleus)\n\nRED-LEGGED HONEYCREEPER(Cyanerpes cyaneus)\u2013 Seen well from the ZF-2 INPA tower.",
+            "act": 0.17786569893360138
+        },
+        {
+            "text": "WHITE-CROWNED MANAKIN(Dixiphia pipra)\n\nGOLDEN-HEADED MANAKIN(Ceratopipra erythrocephala)\n\nWING-BARRED PIPRITES(Piprites chloris)\n\nTityridae (Tityras and Allies)\n\nBLACK-TAILED TITYRA(Tityra cayana)\n\nVARZEA SCHIFFORNIS(Schiffornis major)[*]\n\nBROWN-WINGED SCHIFFORNIS(Schiffornis turdina)[*]\n\nDUSKY PURPLETUFT(Iodopleura fusca)\u2013 A very rare bird to see near Manaus because the edge of its range is just to the south.",
+            "act": 0.17715641856193542
+        },
+        {
+            "text": "PLUMBEOUS PIGEON(Patagioenas plumbea)\n\nRUDDY PIGEON(Patagioenas subvinacea)\n\nCOMMON GROUND-DOVE(Columbina passerina)\n\nRUDDY GROUND-DOVE(Columbina talpacoti)\n\nWHITE-TIPPED DOVE(Leptotila verreauxi)\n\nGRAY-FRONTED DOVE(Leptotila rufaxilla)\n\nOpisthocomidae (Hoatzin)\n\nHOATZIN(Opisthocomus hoazin)\u2013 This is one of the most peculiar bird families in the world.",
+            "act": 0.17620593309402466
+        },
+        {
+            "text": "RUDDY-TAILED FLYCATCHER(Terenotriccus erythrurus)[*]\n\nWHISKERED FLYCATCHER(Myiobius barbatus)\n\nEULER'S FLYCATCHER(Lathrotriccus euleri)\n\nFUSCOUS FLYCATCHER (CAMPINA)(Cnemotriccus fuscatus duidae)\u2013 A special bird, only found in the Campina habitats over the Amazon forest.",
+            "act": 0.17591023445129395
+        },
+        {
+            "text": "GREEN-BACKED TROGON(Trogon viridis)\n\nGUIANAN TROGON(Trogon violaceus)\u2013 A male seen very well from the ZF-2 INPA tower.",
+            "act": 0.17543618381023407
+        },
+        {
+            "text": "The females were then subsequently mated with a male rabbit.",
+            "act": 0.1738947033882141
+        },
+        {
+            "text": "SPOT-WINGED ANTSHRIKE(Pygiptila stellaris)\u2013 Usually found with the flocks, an easily distinguished bird by its long bill and very short tail.",
+            "act": 0.1731908768415451
+        },
+        {
+            "text": "Vireonidae (Vireos, Shrike-Babblers, and Erpornis)\n\nRUFOUS-BROWED PEPPERSHRIKE(Cyclarhis gujanensis)\n\nASHY-HEADED GREENLET(Hylophilus pectoralis)\n\nGRAY-CHESTED GREENLET(Hylophilus semicinereus)\n\nBROWN-HEADED GREENLET(Hylophilus brunneiceps)\n\nLEMON-CHESTED GREENLET(Hylophilus thoracicus)\n\nSLATY-CAPPED SHRIKE-VIREO(Vireolanius leucotis)\n\nDUSKY-CAPPED GREENLET(Pachysylvia hypoxantha)[*]\n\nBUFF-CHEEKED GREENLET(Pachysylvia muscicapina)\u2013 Replacing Dusky-capped Greenlet on the east bank of the Negro river, this bird is usually found with the canopy flocks and the best way to get it is from the tower, as we did at the ZF-2 INPA tower.",
+            "act": 0.1723726987838745
+        },
+        {
+            "text": "Visiting during nesting season (late November through late July), one can expect to see brown pelican, wood storks, white ibises, black-crowned night herons, double-crested cormorants, reddish, snowy, and great egrets, and great blue, little blue and tricolored herons.",
+            "act": 0.17199917137622833
+        },
+        {
+            "text": "The film begins and ends with the famous quote from Euripides \u2013 \u2018whom God wishes to destroy, He first makes mad\u2019 \u2013 and Fuller seems well versed in Greek tragedy.",
+            "act": 0.17074279487133026
+        },
+        {
+            "text": "GUIANAN TYRANNULET(Zimmerius acer)\n\nAMAZONIAN TYRANNULET(Inezia subflava)\n\nSHORT-TAILED PYGMY-TYRANT(Myiornis ecaudatus)\n\nDOUBLE-BANDED PYGMY-TYRANT(Lophotriccus vitiosus)\n\nSNETHLAGE'S TODY-TYRANT(Hemitriccus minor pallens)\n\nTODY-TYRANT SP.",
+            "act": 0.1677260845899582
+        },
+        {
+            "text": "Further down the track, we hit a nice mixed-species canopy flock with a very cooperative Guianan Woodcreeper, Spot-backed Antwren, Mouse-colored Antshrike, Slaty-capped Shrike-Vireo, and a pair of Pink-throated Becards.",
+            "act": 0.1676194965839386
+        },
+        {
+            "text": "Summer visitors should watch for roseate spoonbills, magnificent frigatebirds and least terns.",
+            "act": 0.16642926633358002
+        },
+        {
+            "text": "The bushland is home to many species of Australian fauna including eastern grey kangaroos, bandicoots, goannas, possums and koalas.",
+            "act": 0.16542617976665497
+        },
+        {
+            "text": "In September 2011, Chambers sued Coyote\n\nfor negligence relating to the asbestos contamination seeking to recover the cleanup cost.",
+            "act": 0.16486020386219025
+        },
+        {
+            "text": "SPOT-BACKED ANTBIRD(Hylophylax naevius)[*]\n\nCOMMON SCALE-BACKED ANTBIRD(Willisornis poecilinotus)\n\nREDDISH-WINGED BARE-EYE(Phlegopsis erythroptera)[*]\n\nA gorgeous full moon at Ja\u00fa National Park.",
+            "act": 0.16446428000926971
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

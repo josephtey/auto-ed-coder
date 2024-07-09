@@ -1,0 +1,412 @@
+{
+    "index": 479,
+    "label": "Contains example indicators",
+    "attributes": "Samples contain explicit example indicators (e.g., Exac notes, '(e.g.')",
+    "reasoning": "Upon analyzing both sets of samples, a specific attribute that stands out is the use of specific terms to identify examples or instances, often indicated by terms like 'e.g.', 'Exac notes', and '(e.g.'. This usage is seen across all samples within the designated group and not present in any samples from the comparative group. These examples are used across multiple contexts, from legal cases to historical references.",
+    "density": 0.0004840064344384814,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "In the fine town of Burfordville sits a mill and a covered bridge.",
+            "act": 0.16038353741168976
+        },
+        {
+            "text": "Insurance Plus is not an insurer.",
+            "act": 0.11400207132101059
+        },
+        {
+            "text": "Quand ils s'align\u00e8rent devant l'empereur, celui-ci remarqua qu'ils n'\u00e9taient que onze, au lieu des douze qu'il avait convoqu\u00e9.",
+            "act": 0.09195809066295624
+        },
+        {
+            "text": "Poor Potter Archaeological Site.",
+            "act": 0.08776567876338959
+        },
+        {
+            "text": "\" You're not well.\"",
+            "act": 0.06617846339941025
+        },
+        {
+            "text": "The mean age was 29.2 \u00b1 13.9 years.",
+            "act": 0.06552626937627792
+        },
+        {
+            "text": "The person who died at the hospital was a 9-year-old girl, according to the doctor.",
+            "act": 0.06251809746026993
+        },
+        {
+            "text": "This tumbled stone has a lightly textured surface and soft aged edges.",
+            "act": 0.05886393412947655
+        },
+        {
+            "text": "Communities and locations in Sidney\nEast Sidney\nFranklin Depot'\nSidney \u2013 the Village of Sidney\nSidney Center\nSouth Unadilla\nYoungs\n\nNotable people\n Mary Jane Aldrich (1833\u20131909), temperance reformer and lecturer.",
+            "act": 0.058334384113550186
+        },
+        {
+            "text": "\"It's too late.\"",
+            "act": 0.05339431017637253
+        },
+        {
+            "text": "There's no way.'",
+            "act": 0.05118212476372719
+        },
+        {
+            "text": "Practicing coordination (e.g.",
+            "act": 0.05058114603161812
+        },
+        {
+            "text": "Obama was an Olympian.",
+            "act": 0.045842818915843964
+        },
+        {
+            "text": "Something brought by the people across the sea eons ago, and it's beginning to wake.",
+            "act": 0.04058818891644478
+        },
+        {
+            "text": "The extinction functions (Eq.",
+            "act": 0.040148038417100906
+        },
+        {
+            "text": "Project apache tiles consists of parent and modules.",
+            "act": 0.03962847590446472
+        },
+        {
+            "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n6\\.",
+            "act": 0.038623612374067307
+        },
+        {
+            "text": "I don't know; you just have to be careful.",
+            "act": 0.03826301917433739
+        },
+        {
+            "text": "Lisk is an open source platform.",
+            "act": 0.03709286078810692
+        },
+        {
+            "text": "Mason, who died Sept. 24 of unspecified causes, is survived by her husband Dan, a daughter, two sisters, a granddaughter, a great-granddaughter and a niece, producer Gale Anne Hurd.",
+            "act": 0.03651447966694832
+        },
+        {
+            "text": "It should have been that we needed to get 14 or something like that.",
+            "act": 0.033390965312719345
+        },
+        {
+            "text": "She is a doctor.",
+            "act": 0.03335937112569809
+        },
+        {
+            "text": "Psychiatrists on the other hand (e.g.",
+            "act": 0.03314891830086708
+        },
+        {
+            "text": "we've gotta go.\"",
+            "act": 0.03186986222863197
+        },
+        {
+            "text": "That\u2019s certain.",
+            "act": 0.031362634152173996
+        },
+        {
+            "text": "He served on the Chatham town council.",
+            "act": 0.031135624274611473
+        },
+        {
+            "text": "Maybe it was the way I fixed it on, i don't know.",
+            "act": 0.03051314689218998
+        },
+        {
+            "text": "Beyond the temple and close to the enceinte wall are two enormous Corinthian columns , the so-called Colonnacce.",
+            "act": 0.030381379649043083
+        },
+        {
+            "text": "Recall (see e.g.",
+            "act": 0.029820432886481285
+        },
+        {
+            "text": "after the number (e.g.",
+            "act": 0.029771139845252037
+        },
+        {
+            "text": "(e.g.",
+            "act": 0.029339907690882683
+        },
+        {
+            "text": "Campbell owns a machine parts manufacturer and has chaired the Fredericksburg chamber of commerce and school board.",
+            "act": 0.029044469818472862
+        },
+        {
+            "text": "Ordovician 450 million years old\nSpecimen is 85x75x40mm.",
+            "act": 0.028458623215556145
+        },
+        {
+            "text": "Lewis had been an active member\n\nof IPERS from 1991 to 2007.",
+            "act": 0.028441792353987694
+        },
+        {
+            "text": "Nothing at all like that.",
+            "act": 0.02827523462474346
+        },
+        {
+            "text": "This deal includes shipping.",
+            "act": 0.027689164504408836
+        },
+        {
+            "text": "Sociologists (e.g.",
+            "act": 0.027645206078886986
+        },
+        {
+            "text": "It's not like e.g.",
+            "act": 0.027555106207728386
+        },
+        {
+            "text": "In some more Leftist strands (e.g.",
+            "act": 0.027094906195998192
+        },
+        {
+            "text": "Moreover, Exac notes that a Supreme Court case more recent than Temco and Sanitary Refrigerator used the date of the patent as the relevant date for determining equivalence.",
+            "act": 0.026551393792033195
+        },
+        {
+            "text": "Ordovician 450 million years old\nSpecimen is 85x55x25mm.",
+            "act": 0.025712592527270317
+        },
+        {
+            "text": "The medieval town of Newport remains in another era.",
+            "act": 0.023666629567742348
+        },
+        {
+            "text": "promotion); equity (e.g.",
+            "act": 0.02297043241560459
+        },
+        {
+            "text": "(e.g.",
+            "act": 0.02269570343196392
+        },
+        {
+            "text": "that's all.\"",
+            "act": 0.02187339775264263
+        },
+        {
+            "text": "\n652 So.2d 211 (1994)\nVernda Kay HICKS, as administratrix of the Estate of John William Hicks, deceased\nv.\nCOMMERCIAL UNION INSURANCE COMPANY, et al.",
+            "act": 0.02182137966156006
+        },
+        {
+            "text": "It lies north of Queshque.",
+            "act": 0.02176644466817379
+        },
+        {
+            "text": "L'\u00e9l\u00e9ment bois par exemple est li\u00e9 \u00e0 l'est, \u00e0 la saison du printemps, \u00e0 la couleur bleue ou verte, au go\u00fbt acide, \u00e0 la vue et en ce qui concerne les parties du corps, \u00e0 la v\u00e9sicule biliaire, au foie et \u00e0 l'annulaire.",
+            "act": 0.021000400185585022
+        },
+        {
+            "text": "n personal; ten en cuenta que es muy estar siempre bien presentable y a la moda; otro aspecto indispensable es la seguridad, puesto que un hombre t.\n\n-\n\nDuradera maquillaje no es lo mismo que un tatuaje normal, pasando por las clases puede ayudar a asegurarse de que los que ofrecen el proceso de saber exactamente lo que est.",
+            "act": 0.020852481946349144
+        },
+        {
+            "text": "Whatever.",
+            "act": 0.0205832626670599
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

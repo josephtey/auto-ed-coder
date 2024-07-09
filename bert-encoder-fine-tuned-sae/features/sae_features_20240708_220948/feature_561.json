@@ -1,0 +1,412 @@
+{
+    "index": 561,
+    "label": "Contains named entities",
+    "attributes": "Contains named entities (persons, organizations, places, technological terms, specific events)",
+    "reasoning": "Upon analyzing the samples, it is evident that the texts within the samples contain named entities such as persons, organizations, places, technological terms, and specific events. These named entities are clearly identifiable and are present in every text segment within the samples, whereas they are absent in the other set of samples.",
+    "density": 0.006334790097797771,
+    "confidence": 8.0,
+    "high_act_samples": [
+        {
+            "text": "Mountaineer Peter Croft lives in Bishop.",
+            "act": 0.2020808756351471
+        },
+        {
+            "text": "SensioCloud supports PHP 5 and 7.",
+            "act": 0.1909146010875702
+        },
+        {
+            "text": "Early pace-setters Liverpool travel to the King Power Stadium on Saturday to take on Leicester, live on Sky Sports from 11.30am, before five 3pm kick-offs.",
+            "act": 0.17389951646327972
+        },
+        {
+            "text": "Ryan Drummond.",
+            "act": 0.163164883852005
+        },
+        {
+            "text": "Nikolai Zherdev leads the club with four goals.",
+            "act": 0.1576860547065735
+        },
+        {
+            "text": "Defenseman Oliver Ekman-Larsson also had a tremendous postseason.",
+            "act": 0.15298476815223694
+        },
+        {
+            "text": "Champions League?",
+            "act": 0.14760927855968475
+        },
+        {
+            "text": "a Java\u2122 virtual machine).",
+            "act": 0.14727801084518433
+        },
+        {
+            "text": "There are countless villages.",
+            "act": 0.14395803213119507
+        },
+        {
+            "text": "Ignorant bastards.",
+            "act": 0.14098137617111206
+        },
+        {
+            "text": "Microsoft.",
+            "act": 0.13922008872032166
+        },
+        {
+            "text": "SkySports The draw for the Champions League group stage takes place in Monaco on Thursday with four Premier League teams set to discover their fate.",
+            "act": 0.13637502491474152
+        },
+        {
+            "text": "Google is full of everyday headlines from worldwide.",
+            "act": 0.13077297806739807
+        },
+        {
+            "text": "Windows 8.",
+            "act": 0.12972846627235413
+        },
+        {
+            "text": "Daniel Yule won the men\u2019s World Cup slalom of the traditional Hahnenkamm races on Sunday for his third victory in 2020.",
+            "act": 0.12944847345352173
+        },
+        {
+            "text": "\u201cPeople have had concussions.",
+            "act": 0.12944342195987701
+        },
+        {
+            "text": "Ignorant fuckin' bastards.",
+            "act": 0.1288897842168808
+        },
+        {
+            "text": "United have 70 points from 29 games with City on 69.",
+            "act": 0.12847912311553955
+        },
+        {
+            "text": "Trevor Noah gets around two million viewers per episode.",
+            "act": 0.1279786229133606
+        },
+        {
+            "text": "\"What is this power.",
+            "act": 0.12012241780757904
+        },
+        {
+            "text": "Wimbledon at home.",
+            "act": 0.11943221837282181
+        },
+        {
+            "text": "Microsoft\u2019s Windows Phone.",
+            "act": 0.1162317618727684
+        },
+        {
+            "text": "Prolog.",
+            "act": 0.11515513807535172
+        },
+        {
+            "text": "Derek Woodman\n\nDerek Woodman was a British former Grand Prix motorcycle road racer.",
+            "act": 0.1139378547668457
+        },
+        {
+            "text": "Some apps such as mplayer or\n#.",
+            "act": 0.11383173614740372
+        },
+        {
+            "text": "Manchester United finished in second...\n\nSkySports David Jones is joined by Jamie Carragher and Gary Neville to analyse the big talking points from Monday Night Football.",
+            "act": 0.11373747885227203
+        },
+        {
+            "text": "You are experienced with a modern frontend stack including React, Redux, Webpack, ES6, CSS/HTML.",
+            "act": 0.11255715787410736
+        },
+        {
+            "text": "\"Things have changed.",
+            "act": 0.1122237890958786
+        },
+        {
+            "text": "^ abMurdoch, John B.",
+            "act": 0.11176755279302597
+        },
+        {
+            "text": "The whole league feels like a giant relegation battle \u2013 and then Basel.",
+            "act": 0.11075760424137115
+        },
+        {
+            "text": "\"Hannibal gave you three years to build a family, confident that he would find a way to take them from you.\"",
+            "act": 0.11064592748880386
+        },
+        {
+            "text": "Chrome implements the new behavior beginning with Samsung Internet 6.0.\"",
+            "act": 0.11018956452608109
+        },
+        {
+            "text": "\"Today Eden played very well.",
+            "act": 0.10915879160165787
+        },
+        {
+            "text": "The deposed champions are five points behind fourth placed Tottenham, with both teams having three games to play.",
+            "act": 0.1084943562746048
+        },
+        {
+            "text": "CAIRNS CITY WEBCAM - LIVE STREAM\n\nThe Cairns City Webcam is located on the Pacific Hotel Rooftop.",
+            "act": 0.10744557529687881
+        },
+        {
+            "text": "Februar 2014\n\nPatina compass challenge and Mojo- \"Just fly!\"",
+            "act": 0.1062178909778595
+        },
+        {
+            "text": "allows remote attackers to execute arbitrary SQL commands via the ArticleID parameter in a comment action to index.php.\"",
+            "act": 0.10453943908214569
+        },
+        {
+            "text": "SkySports Tottenham stun Manchester United at Old Trafford, Jose Mourinho storms out of his press conference and Gary Neville looks at how Wolves caused Man City plenty of problems.",
+            "act": 0.10351892560720444
+        },
+        {
+            "text": "Portugal vs. Iceland kicks off at 3:00pm ET later that day on ESPN.",
+            "act": 0.10246508568525314
+        },
+        {
+            "text": "Francisco Churruca\n\nFrancisco Maria Churruca Iriondo Azpiazu Alcorta (born ), also known as Patxi, is a Basque former jai alai player.",
+            "act": 0.10234983265399933
+        },
+        {
+            "text": "Project apache tiles consists of parent and modules.",
+            "act": 0.10146062076091766
+        },
+        {
+            "text": "Duke Richard Walter John Montagu Douglas Scott and Baron Ralph Douglas-Scott-Montagu are high level members of the Montagu clan.",
+            "act": 0.10127410292625427
+        },
+        {
+            "text": "Local 4 will follow Maverick's progress and keep viewers updated.",
+            "act": 0.10103322565555573
+        },
+        {
+            "text": "The Australians most recently topped the Oceania MSI Beat it!",
+            "act": 0.0995606780052185
+        },
+        {
+            "text": "VOA\u2019s George Putic reports.",
+            "act": 0.09949038177728653
+        },
+        {
+            "text": "VOA\u2019s George Putic reports.",
+            "act": 0.09949038177728653
+        },
+        {
+            "text": "Voting method equations.",
+            "act": 0.09886866062879562
+        },
+        {
+            "text": "Among them, Apache Jena has the worst performance.",
+            "act": 0.09799589961767197
+        },
+        {
+            "text": "Only pool operators and solo miners need to be full nodes.",
+            "act": 0.09798275679349899
+        },
+        {
+            "text": "The android hero Red Tornado is their instructor.",
+            "act": 0.09751039743423462
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

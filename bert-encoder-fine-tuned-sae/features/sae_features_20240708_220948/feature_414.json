@@ -1,0 +1,412 @@
+{
+    "index": 414,
+    "label": "Contains formal academic or technical content",
+    "attributes": "Structured references, citations, equations, mathematical expressions, technical jargon, formal statements",
+    "reasoning": "Analyzing the samples, I noticed that the texts within the first set often include structured references, citations, equations, mathematical expressions, and formal statements. These often follow academic and technical formats. Meanwhile, the texts in the second set do not exhibit such formal structure or technical jargon and instead consist of conversational English, opinions, and personal anecdotes.",
+    "density": 0.0030274127958014813,
+    "confidence": 61.0,
+    "high_act_samples": [
+        {
+            "text": "Amer.",
+            "act": 0.24928724765777588
+        },
+        {
+            "text": "Amer.",
+            "act": 0.24292755126953125
+        },
+        {
+            "text": "Amer.",
+            "act": 0.24292755126953125
+        },
+        {
+            "text": "Amer.",
+            "act": 0.2405761182308197
+        },
+        {
+            "text": "Amer.",
+            "act": 0.2405761182308197
+        },
+        {
+            "text": "Amer.",
+            "act": 0.2302924394607544
+        },
+        {
+            "text": "Amer.",
+            "act": 0.2302924394607544
+        },
+        {
+            "text": "Amer.",
+            "act": 0.22554615139961243
+        },
+        {
+            "text": "Final Decision at 2.",
+            "act": 0.1982388198375702
+        },
+        {
+            "text": "204 (1946); Hall v. Federal Communications Comm.",
+            "act": 0.1429789960384369
+        },
+        {
+            "text": "Ann., 283(3)(1989):431-464.",
+            "act": 0.14251211285591125
+        },
+        {
+            "text": "But nurse has seen her.",
+            "act": 0.12769940495491028
+        },
+        {
+            "text": "Ans.",
+            "act": 0.12747715413570404
+        },
+        {
+            "text": "Ans.",
+            "act": 0.12747715413570404
+        },
+        {
+            "text": "The hot shots continued as the tie-break wore on, with Thiem digging deep with a clutch stab volley winner at 7-all.",
+            "act": 0.11879891157150269
+        },
+        {
+            "text": "Just in time for LA Galaxy vs. Portland (Saturday at 10:30 pm ET on FS1, FOX Deportes, TSN4).",
+            "act": 0.11591731011867523
+        },
+        {
+            "text": "Let n(h) = h**3 - 4*h**2 + 4*h - 1.",
+            "act": 0.11456625908613205
+        },
+        {
+            "text": "Federal Communications Comm.",
+            "act": 0.1110750287771225
+        },
+        {
+            "text": "Federal Communications Comm.",
+            "act": 0.10922457277774811
+        },
+        {
+            "text": ", 57(2):191\u2013201, 1978.",
+            "act": 0.10771046578884125
+        },
+        {
+            "text": "Ans.",
+            "act": 0.10650962591171265
+        },
+        {
+            "text": "Ans.",
+            "act": 0.10650962591171265
+        },
+        {
+            "text": "Ans.",
+            "act": 0.10477219521999359
+        },
+        {
+            "text": "Ans.",
+            "act": 0.10477219521999359
+        },
+        {
+            "text": "Then the phone will freeze.",
+            "act": 0.10184288769960403
+        },
+        {
+            "text": "200lbs is a lot of weight and should be sufficient for the needs 90% of people who want to lift weights at home.",
+            "act": 0.10009021311998367
+        },
+        {
+            "text": "I looked straight into his eyes.",
+            "act": 0.09960059821605682
+        },
+        {
+            "text": "Ans.",
+            "act": 0.09954912960529327
+        },
+        {
+            "text": "Ans.",
+            "act": 0.09954912960529327
+        },
+        {
+            "text": "Ans.",
+            "act": 0.09946973621845245
+        },
+        {
+            "text": "Ans.",
+            "act": 0.0979168713092804
+        },
+        {
+            "text": "Ans.",
+            "act": 0.0979168713092804
+        },
+        {
+            "text": "This is due to the traffic not being spread equally on the channels for high arrival rates for G+G1.",
+            "act": 0.097411148250103
+        },
+        {
+            "text": ";\n                    pat = Pat::Assign(AssignPat {\n                        span: span!",
+            "act": 0.0969889909029007
+        },
+        {
+            "text": "-482*j**5\nExpand (-4*k - 3*k + k)*(5 - 4*k - 1 - 5) + (3 + 1 - 5)*(2*k**2 - 4 + 4).",
+            "act": 0.09352017939090729
+        },
+        {
+            "text": "Strzok back from London only 3 days before.",
+            "act": 0.0933128148317337
+        },
+        {
+            "text": "65  */ \n(pn_(65),ans:contrib_ode(eqn:'diff(y,x,2)+2*n*cot(x)*'diff(y,x,1)+(n^2-a^2)*y,y,x));\nfalse;\n\n/* Kamke 2.",
+            "act": 0.0924176573753357
+        },
+        {
+            "text": "Except the years from 1946 to 1949, he had served as member of the Lower House of Congress representing the 5th legislative district of Cebu from 1935 until 1965.",
+            "act": 0.09142738580703735
+        },
+        {
+            "text": "Might be home tomorrow, might have to stay overnight.",
+            "act": 0.08992451429367065
+        },
+        {
+            "text": "Ans.",
+            "act": 0.0898771807551384
+        },
+        {
+            "text": "Ans.",
+            "act": 0.0898771807551384
+        },
+        {
+            "text": "decyzja = input('Chcesz gra\u0107?",
+            "act": 0.0896296352148056
+        },
+        {
+            "text": "decyzja = input('Chcesz gra\u0107?",
+            "act": 0.0896296352148056
+        },
+        {
+            "text": "[*Annals of the Institute of Statistical Mathematics*]{}, 63(3), 431-479.",
+            "act": 0.08811195194721222
+        },
+        {
+            "text": "16 Am.",
+            "act": 0.08730137348175049
+        },
+        {
+            "text": "Jan. 14, 2014), aff\u2019d, 119 A.3d 663 (Del.",
+            "act": 0.08521872758865356
+        },
+        {
+            "text": "You realize that the upper 5% of wage earners pay over half half (around 60%) of all the income tax?",
+            "act": 0.08444935083389282
+        },
+        {
+            "text": "1/76\nCalculate 4/((4/26)/((-14)/546)).",
+            "act": 0.0826164186000824
+        },
+        {
+            "text": "Early pace-setters Liverpool travel to the King Power Stadium on Saturday to take on Leicester, live on Sky Sports from 11.30am, before five 3pm kick-offs.",
+            "act": 0.08190108835697174
+        },
+        {
+            "text": "They breathed again.",
+            "act": 0.08167236298322678
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

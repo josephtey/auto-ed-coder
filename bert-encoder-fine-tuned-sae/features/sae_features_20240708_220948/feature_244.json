@@ -1,0 +1,412 @@
+{
+    "index": 244,
+    "label": "Contains technical or factual details",
+    "attributes": "factual information, technical details, specific references, data measurements, geographic or scientific details",
+    "reasoning": "After comparing the content of the samples, it is apparent that the texts in the samples contain specific, factual, or technical information, including data, measurements, academic references, and specific geographic or scientific details. This level of specificity and reliance on factual details is not present in the other samples, which are more conversational or narrative in style and content.",
+    "density": 0.0007592257795113433,
+    "confidence": 44.0,
+    "high_act_samples": [
+        {
+            "text": "is 21 times more potent than carbon dioxide.",
+            "act": 0.1851314902305603
+        },
+        {
+            "text": "It is situated in the Ancash Region, Huari Province, Chav\u00edn de Huantar District, and in the Recuay Province, Catac District.",
+            "act": 0.14905238151550293
+        },
+        {
+            "text": "All that andremembering songs, lines and dances, too.",
+            "act": 0.11662924289703369
+        },
+        {
+            "text": "'s history.",
+            "act": 0.11229953169822693
+        },
+        {
+            "text": "The poetry amongst the most beautiful I had ever heard.",
+            "act": 0.11205227673053741
+        },
+        {
+            "text": "International Union of Elec., Radio, etc.",
+            "act": 0.10568342357873917
+        },
+        {
+            "text": "Analytical Data of the Prepared Compounds\n----------------------------------------------\n\n*5-Methyl-6-\\[(2-methylbenzyl)amino\\]pyrazine-2,3-dicarbonitrile* (**1**).",
+            "act": 0.09650970995426178
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.09507181495428085
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.09189249575138092
+        },
+        {
+            "text": "D\u2019oh!",
+            "act": 0.09068500995635986
+        },
+        {
+            "text": "at 1824.",
+            "act": 0.08845658600330353
+        },
+        {
+            "text": "of Math.",
+            "act": 0.0882466658949852
+        },
+        {
+            "text": "of Regents, of Univ.",
+            "act": 0.08587606251239777
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.08193361759185791
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.08193361759185791
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.08018225431442261
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07936322689056396
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07921788096427917
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07921788096427917
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07819755375385284
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07731769979000092
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07703815400600433
+        },
+        {
+            "text": "Made it?",
+            "act": 0.07566843926906586
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07527734339237213
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07270517945289612
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07270517945289612
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.07046879827976227
+        },
+        {
+            "text": "this cuts down emissions and helps the earth.",
+            "act": 0.069638192653656
+        },
+        {
+            "text": "D\u2019oh!",
+            "act": 0.06945400685071945
+        },
+        {
+            "text": "'s Mot.",
+            "act": 0.06741293519735336
+        },
+        {
+            "text": "Place on tongue and let dissolve.",
+            "act": 0.06520561873912811
+        },
+        {
+            "text": "was awarded NASI Senior Scientist Platinum Jubilee Fellowship, and INSA Senior Scientist position.",
+            "act": 0.0642041563987732
+        },
+        {
+            "text": "ESO is the foremost intergovernmental astronomy organisation in Europe and the world\u2019s most productive ground-based astronomical observatory by far.",
+            "act": 0.0637570321559906
+        },
+        {
+            "text": "Tabelle 1\n\n  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n                                                                      Nr.",
+            "act": 0.06345939636230469
+        },
+        {
+            "text": "It modifies particle\u2019s individual characteristics (its momentum and its inertial mass).",
+            "act": 0.06202733516693115
+        },
+        {
+            "text": "STROBE-Punkte                                                                                                                                                                                                                                                                                                                                    RECORD-Punkte\n  ------------------------------------------------------------------- ----- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  **Titel und Abstract**                                                                                                                                                                                                                                                                                                                                                                                                     \n\n                                                                      1     \\(a\\) Machen Sie das Studiendesign im Titel oder Abstract kenntlich, indem Sie daf\u00fcr einen allgemein gebr\u00e4uchlichen Begriff verwenden\\                                                                                                                                                                                                           RECORD 1.1: Der verwendete Datentyp sollte im Titel oder Abstract angegeben werden.",
+            "act": 0.06111547350883484
+        },
+        {
+            "text": "*\"*                          \n  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nThe active transport lesson was interactive and all elements of the lesson were made as visually appealing as possible for the older adolescents (see [Fig 2](#pone.0168594.g002){ref-type=\"fig\"}) \\[[@pone.0168594.ref034]\\].",
+            "act": 0.0609758198261261
+        },
+        {
+            "text": "ESO is the foremost intergovernmental astronomy organisation in Europe and the world\u2019s most productive ground-based astronomical observatory by far.",
+            "act": 0.05940791592001915
+        },
+        {
+            "text": "at *9, 2006 R.I.Super.",
+            "act": 0.058259621262550354
+        },
+        {
+            "text": "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\nFractional atomic coordinates and isotropic or equivalent isotropic displacement parameters (\u00c5^2^) {#tablewrapcoords}\n==================================================================================================\n\n  ------- --------------- --------------- ------------- -------------------- ------------\n          *x*             *y*             *z*           *U*~iso~\\*/*U*~eq~   Occ.",
+            "act": 0.05646371841430664
+        },
+        {
+            "text": "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n\n[^1]: Die beiden letztgenannten Autoren haben zu gleichen Teilen zu dieser Arbeit beigetragen.",
+            "act": 0.05646371841430664
+        },
+        {
+            "text": "Heat?",
+            "act": 0.05640820786356926
+        },
+        {
+            "text": "Euskotren Kargo operated only during nighttime, sharing the railtracks of Euskotren Trena.",
+            "act": 0.05544018745422363
+        },
+        {
+            "text": "Its as even as it possibly could be.",
+            "act": 0.05384309962391853
+        },
+        {
+            "text": "that the\nO.K.,\nand it willinrun\nAS\nIS.",
+            "act": 0.05164851248264313
+        },
+        {
+            "text": "Would be amazing.",
+            "act": 0.05129895731806755
+        },
+        {
+            "text": "at *9, 2006 R.I.Super.",
+            "act": 0.05053848773241043
+        },
+        {
+            "text": "Smacks of desperation.",
+            "act": 0.049867160618305206
+        },
+        {
+            "text": "at 1896.",
+            "act": 0.04975435510277748
+        },
+        {
+            "text": "This is the world's largest education technology conference.",
+            "act": 0.04914306104183197
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

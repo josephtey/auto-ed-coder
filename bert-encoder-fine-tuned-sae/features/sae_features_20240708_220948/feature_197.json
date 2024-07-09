@@ -1,0 +1,412 @@
+{
+    "index": 197,
+    "label": "Structured and informative content segments",
+    "attributes": "Contains structured lists, categories, references, bibliographic entries, detailed descriptions, informative content segments",
+    "reasoning": "The samples contain text segments which include categories and references, typically in a format that marks the end of an informative or descriptive entry. They follow a format often seen in structured data, like listings of categories, bibliographic references, historical records, or detailed descriptions of people, places, events, or objects.",
+    "density": 0.006576793315017012,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "Prince Devawongse Varopakarn (Foreign Minister), King Chulalongkorn and Prince Damrong Rajanubhab (Interior Minister).",
+            "act": 0.21704287827014923
+        },
+        {
+            "text": "References\n\nCategory:Chinese male fencers\nCategory:Living people\nCategory:Olympic fencers of China\nCategory:Fencers at the 2012 Summer Olympics\nCategory:Asian Games medalists in fencing\nCategory:Fencers at the 2010 Asian Games\nCategory:1987 births\nCategory:Asian Games gold medalists for China\nCategory:Medalists at the 2010 Asian Games\nCategory:Sportspeople from Anshan\nCategory:Universiade medalists in fencing\nCategory:Fencers from Liaoning\nCategory:Universiade gold medalists for China",
+            "act": 0.18244017660617828
+        },
+        {
+            "text": "References \n\nCategory:Waterfalls of Wyoming\nCategory:Waterfalls of Grand Teton National Park",
+            "act": 0.18074820935726166
+        },
+        {
+            "text": "Sources \nThe History of the Russian Revolution\n\nReferences \n\nCategory:Historical legislatures\nCategory:Russian Provisional Government\nCategory:1917 establishments in Russia\nCategory:1917 disestablishments in Russia",
+            "act": 0.17971593141555786
+        },
+        {
+            "text": "The event is held together with the Gold Coast Marathon.",
+            "act": 0.17405153810977936
+        },
+        {
+            "text": "The pinnacle was his victory over the great legendary rababi Bhai Moti of Darbar Sahib Amritsar in the early 1900s.",
+            "act": 0.1668916493654251
+        },
+        {
+            "text": "References\n\n4.Land grabbing case on Peela adds twist to SIT probe into mega scam\n\n5.Son shine in politics\n\nCategory:Telugu Desam Party politicians\nCategory:Andhra Pradesh MLAs 2014\u20132019",
+            "act": 0.15880350768566132
+        },
+        {
+            "text": "F. Brinley Bruton reported from London.",
+            "act": 0.15783454477787018
+        },
+        {
+            "text": "TAGS\n\nRELATED ARTICLES\n\nIn 2014 the BMC International Committee awarded a total of \u00a314,250 to 16 expeditions, and an additional three awards from the Julie Tullis Memorial fund.",
+            "act": 0.1543428748846054
+        },
+        {
+            "text": "Great article.",
+            "act": 0.1513032615184784
+        },
+        {
+            "text": "Glanmire Garden Fencing and Precast manufacture top quality quality timber fencing at worth for funds prices.",
+            "act": 0.1484760046005249
+        },
+        {
+            "text": "The River House Resort has some amazing suites with luxury accommodations with private pools and sea facing view.",
+            "act": 0.14600305259227753
+        },
+        {
+            "text": "History\n\nRolling Stock\n\nReferences\n\nNotes \n\nCategory:Shanghai Metro lines\nCategory:Railway lines opened in 2003",
+            "act": 0.14577127993106842
+        },
+        {
+            "text": "Chester Roman Amphitheatre\n\nChester Amphitheatre is a Roman amphitheatre in Chester, Cheshire.",
+            "act": 0.14439216256141663
+        },
+        {
+            "text": "References\n\nBibliography\n\n \n \n \n \n\n \n\nCategory:Liberty ships\nCategory:Ships built in Baltimore\nCategory:1942 ships\nCategory:Beaumont Reserve Fleet",
+            "act": 0.13985662162303925
+        },
+        {
+            "text": "First floor has two sash windows with keystones, ground floor has tripartite window with rusticated dividing piers.",
+            "act": 0.13861148059368134
+        },
+        {
+            "text": "Annotations are derived from HOMER.",
+            "act": 0.13829980790615082
+        },
+        {
+            "text": "The sofa is strengthened with wooden edge covered with darkish artificial leather-based.",
+            "act": 0.1355195939540863
+        },
+        {
+            "text": "Wichaichan\n\u2013\nKrom Phra Ratchawang Bowon Wichaichan or Phra Ong Chao Yodyingyot was a Siamese Prince and member of the Chakri Dynasty.",
+            "act": 0.13548871874809265
+        },
+        {
+            "text": "Advertisement\n\nBetween them they have committed 27 murders and have so far served 179 years of their life sentences.",
+            "act": 0.13296790421009064
+        },
+        {
+            "text": "Popular Cities\n\nBangalore\n\nChennai\n\nDelhi\n\nMumbai\n\nHyderabad\n\nPune\n\nKolkata\n\nAhmedabad\n\nThis city is currently not listed in Sulekha",
+            "act": 0.1328771561384201
+        },
+        {
+            "text": "He had me at 40 lakh deaths resulting from indoor pollution.",
+            "act": 0.13143543899059296
+        },
+        {
+            "text": "Bhai Santu played Jori with Bhai Moti and Bhai Harnam Singh of Thatha Tibba (a senior disciple of Ustad Bhai Harnam Singh of Jammu) played with him.",
+            "act": 0.13094979524612427
+        },
+        {
+            "text": "This deal includes shipping.",
+            "act": 0.13079388439655304
+        },
+        {
+            "text": "Somdetch Phra Paramindr Maha Chulalongkorn (Thai: \u0e1e\u0e23\u0e30\u0e1a\u0e32\u0e17\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08\u0e1e\u0e23\u0e30\u0e1b\u0e23\u0e21\u0e34\u0e19\u0e17\u0e23\u0e21\u0e2b\u0e32\u0e08\u0e38\u0e2c\u0e32\u0e25\u0e07\u0e01\u0e23\u0e13\u0e4c \u0e1e\u0e23\u0e30\u0e08\u0e38\u0e25\u0e08\u0e2d\u0e21\u0e40\u0e01\u0e25\u0e49\u0e32\u0e40\u0e08\u0e49\u0e32\u0e2d\u0e22\u0e39\u0e48\u0e2b\u0e31\u0e27), or Rama V (20 September 1853 \u2013 23 October 1910), was the fifth monarch of Siam under the House of Chakri.",
+            "act": 0.13049091398715973
+        },
+        {
+            "text": "Its education platforms teach books by Jamaat founder Syed Abul Ala Maududi, which are banned in Bangladesh for reasons of incitement.",
+            "act": 0.1283637136220932
+        },
+        {
+            "text": "Live News\n\nKolkata court summons Shashi Tharoor over 'Hindu-Pakistan' remark\n\nSaturday, 14 July 2018Kolkata-based advocate Sumeet Chowdhury, in his petition, said that Tharoor's comments had hurt religious sentiments of the countrymen, insulted the Constitution and that they were intended to create great conflict and disharmony based on the religious divide.",
+            "act": 0.12803524732589722
+        },
+        {
+            "text": "Since 1865 the Prince was also the commander of the Front Palaces naval forces, Wichaichan was a great friend of the British Consul-General to Siam, Thomas George Knox, he was originally recruited by Pinklao to modernize the Front Palaces armed forces.",
+            "act": 0.12798191606998444
+        },
+        {
+            "text": "Mongkut was the son of Prince Isarasundhorn, son of Phutthayotfa Chulalok.",
+            "act": 0.12496668845415115
+        },
+        {
+            "text": "Stories made up from whole cloth.",
+            "act": 0.12430288642644882
+        },
+        {
+            "text": "See also\n World record progression 100 metres backstroke\n World record progression 200 metres backstroke\n\nReferences\n\nCategory:1975 births\nCategory:Living people\nCategory:Chinese female swimmers\nCategory:Female backstroke swimmers\nCategory:Olympic swimmers of China\nCategory:Swimmers at the 1992 Summer Olympics\nCategory:Swimmers at the 1996 Summer Olympics\nCategory:World record setters in swimming\nCategory:World Aquatics Championships medalists in swimming\nCategory:Medalists at the FINA World Swimming Championships (25 m)\nCategory:Asian Games medalists in swimming\nCategory:Asian Games gold medalists for China\nCategory:Swimmers at the 1994 Asian Games\nCategory:Medalists at the 1994 Asian Games",
+            "act": 0.12379900366067886
+        },
+        {
+            "text": "At Bali, you must visit the famous Pura Luhur Uluwatu Temple which is located quite high and you can get the best sunset view from there.",
+            "act": 0.12361199408769608
+        },
+        {
+            "text": "Docs here\n\nFeature: Refactor Conan Upload, Download and Compress progress bars.",
+            "act": 0.12277374416589737
+        },
+        {
+            "text": "This is a partial show for nonmembers.",
+            "act": 0.12205139547586441
+        },
+        {
+            "text": "With his experiences during the travel to British colonies and the suggestion of Prince Damrong, Chulalongkorn established the hierarchical system of monthons in 1897, composed of province, city, amphoe, tambon, and muban (village) in descending order.",
+            "act": 0.12153712660074234
+        },
+        {
+            "text": "Men's Marathon\n\nMen's Half Marathon\n\nWomen's Marathon\n\nWomen's Half Marathon\n\nReferences \n\nCategory:Marathons in Australia\nCategory:Recurring sporting events established in 2008\nCategory:Sports competitions in Queensland\nMarathon",
+            "act": 0.12058012932538986
+        },
+        {
+            "text": "Among all these, the former ministry of culture Razvan Theodorescu (also a jewish ethnyk) approved the systematik destruction of the archeologykal artefacts in Rosia Montana.",
+            "act": 0.1199558675289154
+        },
+        {
+            "text": "Leopard attacks have become a major election issue in the region which falls under the Shravasti-Balrampur parliamentary constituency.",
+            "act": 0.1195392906665802
+        },
+        {
+            "text": "The original policy's non-cumulation clause also limits Sherman's recovery to $50,000.",
+            "act": 0.11952297389507294
+        },
+        {
+            "text": "HHRMA - Various Vacancies at Ibis Styles Bali Kuta Circle\n\nIbis Styles Bali Kuta Circle is Four Stars Hotel centrally located in the Business area Simpang Siur, next to Bali Galleria Shopping Mall and 15 Min form the Ngurah Rai International Airport.",
+            "act": 0.11934498697519302
+        },
+        {
+            "text": "Nikolai Avksentiev, right-wing Social Revolutionary, was elected as a chairman of the Pre-Parliament.",
+            "act": 0.11863533407449722
+        },
+        {
+            "text": "Ray Usher\n\nRay Usher (16 October 1904 \u2013 15 April 1964) was a former Australian rules footballer who played with Melbourne in the Victorian Football League (VFL).",
+            "act": 0.11836608499288559
+        },
+        {
+            "text": "The formula rates in the Cajun agreement contained a return on common equity of 14%.",
+            "act": 0.11730148643255234
+        },
+        {
+            "text": "Hampshire Treasures\n\nPage 243 - St Thomas\n\nKent Hall.",
+            "act": 0.11715646088123322
+        },
+        {
+            "text": "Hoarding.",
+            "act": 0.11709936708211899
+        },
+        {
+            "text": "Siam Heritage Trust.",
+            "act": 0.11691723018884659
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash on Sunday with an impressive 10-yard split of 1.59 seconds.",
+            "act": 0.11654622852802277
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash on Sunday with an impressive 10-yard split of 1.59 seconds.",
+            "act": 0.11654622852802277
+        },
+        {
+            "text": "30 athletes participated over a course of 12.5\u00a0km.",
+            "act": 0.1155848503112793
+        },
+        {
+            "text": "AIMIM led by Hyderabad Lok Sabha member Asaduddin Owaisi has seven members in the assembly, while the BJP has one.",
+            "act": 0.11300428956747055
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

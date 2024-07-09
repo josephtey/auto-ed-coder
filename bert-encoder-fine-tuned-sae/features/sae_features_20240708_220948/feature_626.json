@@ -1,0 +1,412 @@
+{
+    "index": 626,
+    "label": "Special character-rich texts",
+    "attributes": "Contains special characters like *, #, !, ()",
+    "reasoning": "After analyzing the texts, it becomes evident that all the samples contain a higher count of special characters, such as asterisks (*), hashtags (#), exclamation points (!), and parentheses (), among others. These special characters are pervasive throughout the samples and often do not appear as frequently or at all in the other set of texts. This distinct characteristic helps to differentiate the two sets of text.",
+    "density": 0.004930222405701785,
+    "confidence": 48.0,
+    "high_act_samples": [
+        {
+            "text": "******************************************************************",
+            "act": 0.25812047719955444
+        },
+        {
+            "text": "Mais le rat, qui \u00e9tait jaloux, ne transmit pas l'invitation au chat.",
+            "act": 0.18873342871665955
+        },
+        {
+            "text": "PTI",
+            "act": 0.18103870749473572
+        },
+        {
+            "text": "Deep Impact is a 1998 science fiction film released by Paramount Pictures and DreamWorks Pictures.",
+            "act": 0.1755187213420868
+        },
+        {
+            "text": "So vo bhi ek locha hai.",
+            "act": 0.16754193603992462
+        },
+        {
+            "text": "*Alpha\u2010gamma*versus*.",
+            "act": 0.16380827128887177
+        },
+        {
+            "text": "Email Andy Worthington",
+            "act": 0.15555468201637268
+        },
+        {
+            "text": "Wednesday, 4 June 2014\n\nBlood in dog feces?",
+            "act": 0.1547037661075592
+        },
+        {
+            "text": "Si vous vous enregistrez dans le domain public vous pourrez voir votre map.",
+            "act": 0.15465153753757477
+        },
+        {
+            "text": "Get Sky Sports F1",
+            "act": 0.15411394834518433
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.1538592427968979
+        },
+        {
+            "text": "/*!",
+            "act": 0.15078772604465485
+        },
+        {
+            "text": "While prostitution is one the oldest professions, it also one of the most difficult.",
+            "act": 0.14884203672409058
+        },
+        {
+            "text": "(What year is this?",
+            "act": 0.14659032225608826
+        },
+        {
+            "text": "\u201cJai has relocated all the way from SF to Bangalore and hit the ground running on his first day co-hosting a Mi fan meet-up with his partner in crime +Rohit Ghalsasi,\u201d he added.",
+            "act": 0.14453013241291046
+        },
+        {
+            "text": "-35*y\nEx",
+            "act": 0.14296294748783112
+        },
+        {
+            "text": "The Fast Sword\n\nThe Fast Sword () is a 1971 Hong Kong action film directed by Huang Feng.",
+            "act": 0.14280298352241516
+        },
+        {
+            "text": "Police have registered a case and are probing the matter.",
+            "act": 0.14259769022464752
+        },
+        {
+            "text": "**CLICK THE BELL**\nHello beautiful !",
+            "act": 0.14133037626743317
+        },
+        {
+            "text": "Il ne voyait pas ce qu'il se passait sur terre car tous ses serviteurs r\u00e9pondaient au moindre de ses d\u00e9sirs.",
+            "act": 0.1392884999513626
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.13564443588256836
+        },
+        {
+            "text": "Details of the attack have been spreading via social media but police are not currently investigating the incident as a hate crime.",
+            "act": 0.131053164601326
+        },
+        {
+            "text": "Priyanka Kushwaha\n\nSweet Medha Di & Lovely staff I would like to say that I got complete satisfaction and care here.",
+            "act": 0.13094840943813324
+        },
+        {
+            "text": "Several hundred people reportedly gathered outside the cathedral after the attack, AP said.",
+            "act": 0.12995149195194244
+        },
+        {
+            "text": "Their primary activities included murders, robberies, narcotic sales,\n\n\n6       \u201cNap\u201d is a derogatory term used to refer to members of the Neighborhood Crips\ngang.",
+            "act": 0.12771514058113098
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.12599340081214905
+        },
+        {
+            "text": "\u201cIt\u2019s so shocking to see the police was just standing as spectator and not stopping the violent mob.\u201d\n\nRaja, who had also visited the campus on Sunday night, said that whatever happened at JNU campus on Sunday was horrific.",
+            "act": 0.12597040832042694
+        },
+        {
+            "text": "Inverness football is fast paced and the team is very competitive.",
+            "act": 0.12552908062934875
+        },
+        {
+            "text": "The word Kappa literally translates into \u2018river child\u2019.",
+            "act": 0.12430750578641891
+        },
+        {
+            "text": "Non-commercial news needs your support\n\nindependent global news\n\nDemocracy Now!",
+            "act": 0.12410836666822433
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.12363498657941818
+        },
+        {
+            "text": "Astrologie chinoise\n\nL'histoire de l'astrologie chinoise\n\nL'ann\u00e9e de votre naissance ne r\u00e9v\u00e8le pas seulement votre \u00e2ge!",
+            "act": 0.12141571193933487
+        },
+        {
+            "text": "else {\n            unexpected!",
+            "act": 0.12132879346609116
+        },
+        {
+            "text": "re 12:57 PM?",
+            "act": 0.11955171078443527
+        },
+        {
+            "text": "At trial Rudd testified that he did not know that he was engaging in illegal\n\nactivity.",
+            "act": 0.11864293366670609
+        },
+        {
+            "text": "View\n\nAmazing!",
+            "act": 0.1181967630982399
+        },
+        {
+            "text": "N\u00e9anmoins, la l\u00e9gende raconte qu'un jour, l'empereur de jade s'ennuyait, n'ayant rien \u00e0 faire au paradis.",
+            "act": 0.11735156923532486
+        },
+        {
+            "text": "###### \n\n**Mental activities associated with consciousness**.",
+            "act": 0.11689792573451996
+        },
+        {
+            "text": "Shared Laundry (Insuite Laundry With Approval!",
+            "act": 0.11681931465864182
+        },
+        {
+            "text": "Govt Work",
+            "act": 0.11615639179944992
+        },
+        {
+            "text": "Wednesday, 15 October 2014\n\nIt is not easy to realize the possible loss of blood in the urine by the dog .",
+            "act": 0.11459891498088837
+        },
+        {
+            "text": "\u2022 Rosy singh\n\nSweet Medha di & lovely staff, I would like to say that I got complete satisfaction and care here.",
+            "act": 0.11361914128065109
+        },
+        {
+            "text": "Inverness Football Club\n\nThe Inverness Football Club is the hottest football team in the Scottish highlands.",
+            "act": 0.11295780539512634
+        },
+        {
+            "text": "The August 2019 general election got underway today and promises to be closely fought.",
+            "act": 0.11240386217832565
+        },
+        {
+            "text": "This is happening,\u201d Perino stated.",
+            "act": 0.11220888048410416
+        },
+        {
+            "text": "He stated that on the afternoon of Tuesday, November 18, 1980, two detectives requested a second interview with him in the jail.",
+            "act": 0.11176605522632599
+        },
+        {
+            "text": "Greeks also celebrate Greek Independence Day this day.",
+            "act": 0.11133746057748795
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.11021953821182251
+        },
+        {
+            "text": "*\n\n!",
+            "act": 0.11021953821182251
+        },
+        {
+            "text": "HomeAway.co.uk, the home of Holiday-Rentals\u00ae, is part of the HomeAway family.",
+            "act": 0.1084025427699089
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 435,
+    "label": "Technical documentation or explanation",
+    "attributes": "Technical language, formal tone, specific engineering or scientific details",
+    "reasoning": "Upon analyzing the samples, it's evident that the texts within the positive samples have a technical or formal tone. They frequently describe mechanical details, specifications, scientific data, or engineering contexts. Examples include detailed descriptions of mechanical components, engineering principles, scientific methodology, and other technical information. In contrast, the texts within the negative samples contain conversational language, emotional expressions, or discussions around personal opinions and anecdotes.",
+    "density": 0.0013096644696570672,
+    "confidence": 50.0,
+    "high_act_samples": [
+        {
+            "text": "The garden block is followed by a slightly projecting low gabled entrance bay, the gable supported by heavy shaped brackets.",
+            "act": 0.20123538374900818
+        },
+        {
+            "text": "Oregon is No.",
+            "act": 0.19695481657981873
+        },
+        {
+            "text": "A lever is mounted rotatably on the female housing and has a cam groove that is engageable with a cam pin on the male housing.",
+            "act": 0.18841230869293213
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.16177767515182495
+        },
+        {
+            "text": "9mm ammo has improved considerably over the years.",
+            "act": 0.15733860433101654
+        },
+        {
+            "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n6\\.",
+            "act": 0.1492706537246704
+        },
+        {
+            "text": "The thing weighs 14 pounds.",
+            "act": 0.14795085787773132
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.14441068470478058
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.14441068470478058
+        },
+        {
+            "text": "What the fuck is wrong with people.",
+            "act": 0.12888695299625397
+        },
+        {
+            "text": "Generally, these types of engines are known as horizontally-opposed engines.",
+            "act": 0.1240985170006752
+        },
+        {
+            "text": "The latch operates by a spring biased sliding action to engage the door frame or striker plate.",
+            "act": 0.10420628637075424
+        },
+        {
+            "text": "The PowerBlock set the standard for adjustable dumbbells.",
+            "act": 0.10244932025671005
+        },
+        {
+            "text": "The spring bellows is introduced into a housing with a circular cross-section.",
+            "act": 0.10152288526296616
+        },
+        {
+            "text": "The rear wheel is driven via a pedal crank together with a chain drive.",
+            "act": 0.09859658032655716
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.09811549633741379
+        },
+        {
+            "text": "\" She's done nothing wrong, Ben.\"",
+            "act": 0.09087304025888443
+        },
+        {
+            "text": "The venting valve is biassed shut by a spring of adjustable tension.",
+            "act": 0.09056047350168228
+        },
+        {
+            "text": "The alkenyl group may be monounsaturated or polyunsaturated.",
+            "act": 0.09024212509393692
+        },
+        {
+            "text": "Tyner, Kentucky\n\nTyner is an unincorporated community located in Jackson County, Kentucky, United States.",
+            "act": 0.08919430524110794
+        },
+        {
+            "text": "The racial makeup of the town was 96.35% White, 0.85% Black or African American, 0.33% Native American, 0.77% Asian, 0.03% Pacific Islander, 0.39% from other races, and 1.28% from two or more races.",
+            "act": 0.08891022950410843
+        },
+        {
+            "text": "The crankshaft then delivers rotational power to the power train.",
+            "act": 0.08747256547212601
+        },
+        {
+            "text": "Each of the above include intake and exhaust valve assemblies which are located to the side of each cylinder pair.",
+            "act": 0.08527696877717972
+        },
+        {
+            "text": "Second, what is\nimportant is not how much money you have, but if you have more or less\nthan yesterday.",
+            "act": 0.08265327662229538
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.079422228038311
+        },
+        {
+            "text": "After Pablo Sandoval was hit by a pitch, Buster Posey drove an RBI double deep to right that Upton made an awkward attempt on as it bounced up against the wall.",
+            "act": 0.0781416967511177
+        },
+        {
+            "text": "The lever initially is held at a starting position and the male housing is positioned so that the cam pin faces the entrance of the cam groove.",
+            "act": 0.07801894098520279
+        },
+        {
+            "text": "\"There must be a way through.\"",
+            "act": 0.07706499844789505
+        },
+        {
+            "text": "Starting Compound and Final Products Synthesis\n---------------------------------------------------\n\nThe starting compound 5-chloro-6-methylpyrazine-2,3-dicarbonitrile was synthesized in a two-step reaction according to the reported methodology \\[[@B30-molecules-19-00651]\\].",
+            "act": 0.07377394288778305
+        },
+        {
+            "text": "To date, no system has proven to be entirely satisfactory.",
+            "act": 0.07223758846521378
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.07160239666700363
+        },
+        {
+            "text": "The 6-foot-3 1/8, 261-pounder is a former five-star prospect who ran an impressive 4.77 40-yard dash with a 10-yard split of 1.59 seconds at the combine.",
+            "act": 0.07160239666700363
+        },
+        {
+            "text": "This property can be subject to property taxes.",
+            "act": 0.07004937529563904
+        },
+        {
+            "text": "It is found in sand and ocean bottoms.",
+            "act": 0.06977925449609756
+        },
+        {
+            "text": "Analytical Data of the Prepared Compounds\n----------------------------------------------\n\n*5-Methyl-6-\\[(2-methylbenzyl)amino\\]pyrazine-2,3-dicarbonitrile* (**1**).",
+            "act": 0.0697491243481636
+        },
+        {
+            "text": "What is i(w)?",
+            "act": 0.06842682510614395
+        },
+        {
+            "text": "In recent years, the association spent approximately $22 million annually on assistance in 14 countries.",
+            "act": 0.06831426918506622
+        },
+        {
+            "text": "This species regularly and willingly enters water.",
+            "act": 0.06808509677648544
+        },
+        {
+            "text": "msg: \u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b5\u03c0\u03b9\u03c4\u03ac\u03c7\u03c5\u03bd\u03c3\u03b7\u03c2 %s, \u03b7 \u03b2\u03b9\u03b2\u03bb\u03b9\u03bf\u03b8\u03ae\u03ba\u03b7 \u03b4\u03b5\u03bd \u03c6\u03bf\u03c1\u03c4\u03ce\u03b8\u03b7\u03ba\u03b5.",
+            "act": 0.06656705588102341
+        },
+        {
+            "text": "\" My father's in danger.\"",
+            "act": 0.06639663130044937
+        },
+        {
+            "text": "The main entrance is set into a stone entryway featuring a segmental arch topped by a parapet and flanked by a pair of tall piers each sporting a bronze lantern.",
+            "act": 0.06484965234994888
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.0641041025519371
+        },
+        {
+            "text": "How long?",
+            "act": 0.0625116154551506
+        },
+        {
+            "text": "What is o?",
+            "act": 0.060481730848550797
+        },
+        {
+            "text": "For a typical horizontally oriented engine, each piston is connected to a common crankshaft.",
+            "act": 0.06041264906525612
+        },
+        {
+            "text": "\"You're absolutely certain it's him?\"",
+            "act": 0.05781717225909233
+        },
+        {
+            "text": "Both are reloadable, Boxer-primed ammunition.",
+            "act": 0.05660368874669075
+        },
+        {
+            "text": "It is by far the largest settlement in Inyo County.",
+            "act": 0.05406680330634117
+        },
+        {
+            "text": "Non-syndromic fourth molars are more common than syndromic fourth molars.",
+            "act": 0.05372155085206032
+        },
+        {
+            "text": "Several patents have offered modifications to the typical horizontally-oriented piston and cylinder configuration.",
+            "act": 0.053021389991045
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

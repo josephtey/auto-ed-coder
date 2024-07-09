@@ -1,0 +1,412 @@
+{
+    "index": 554,
+    "label": "Technical and professional language",
+    "attributes": "contain technical or specialized terminology, structured in an educational or professional context, often instructional or descriptive in nature",
+    "reasoning": "Upon examining the samples, I noticed that the texts in the positive samples contain a mix of technical, educational, situational, and instructional content, often involving jargon, specialized terminology, or context-specific topics. These texts seem to derive from professional or academic sources. Conversely, the negative samples are more conversational, informal, or opinion-based, often dealing with social or political commentary, general discourse, or personal anecdotes.",
+    "density": 0.0012574676973156624,
+    "confidence": 50.0,
+    "high_act_samples": [
+        {
+            "text": "FIDDLE",
+            "act": 0.1833166927099228
+        },
+        {
+            "text": ":\n\"Course of performance or practical construction.",
+            "act": 0.1380607634782791
+        },
+        {
+            "text": "(BT, biceps tendon; RC, rotator cuff.",
+            "act": 0.13582272827625275
+        },
+        {
+            "text": "\u201cEnglish is encouraged but is not required.",
+            "act": 0.11763877421617508
+        },
+        {
+            "text": "Bellucci.",
+            "act": 0.11292672157287598
+        },
+        {
+            "text": "\u00b6 43.)",
+            "act": 0.1128733828663826
+        },
+        {
+            "text": "Teachers are committed professionals.",
+            "act": 0.1096215695142746
+        },
+        {
+            "text": "Social interactions with peers are important, and should be taken into consideration for class placement.",
+            "act": 0.1046125590801239
+        },
+        {
+            "text": "Ret.",
+            "act": 0.10312255471944809
+        },
+        {
+            "text": "Karla Ventura serves paella.",
+            "act": 0.1028403788805008
+        },
+        {
+            "text": "\u00b6 43.)",
+            "act": 0.10249268263578415
+        },
+        {
+            "text": "Hearing is normal throughout life.",
+            "act": 0.10089074820280075
+        },
+        {
+            "text": "Ret.",
+            "act": 0.09884127229452133
+        },
+        {
+            "text": "q: Complete the recording.",
+            "act": 0.09505151212215424
+        },
+        {
+            "text": "Tony Ventrella.",
+            "act": 0.08984518051147461
+        },
+        {
+            "text": "The items were related to the level of agreement about students' views on mathematics.",
+            "act": 0.08840227872133255
+        },
+        {
+            "text": "Q:\n\nHow to develop Android applications?",
+            "act": 0.08712177723646164
+        },
+        {
+            "text": "\"SOCIAL LIFE\" \"So, what do you do?\"",
+            "act": 0.08596541732549667
+        },
+        {
+            "text": "(And some people can be both.",
+            "act": 0.08593908697366714
+        },
+        {
+            "text": "\"I have other things to do later.\"",
+            "act": 0.08514852076768875
+        },
+        {
+            "text": "Clopidogrel is a prodrug.",
+            "act": 0.08387035131454468
+        },
+        {
+            "text": "I\u2019ve discovered that while I don\u2019t like doing crossword puzzles, I do enjoy assisting other people in doing crosswordpuzzles.",
+            "act": 0.07980658113956451
+        },
+        {
+            "text": "(Knock it off.",
+            "act": 0.07863091677427292
+        },
+        {
+            "text": "Vallee et al.",
+            "act": 0.07264220714569092
+        },
+        {
+            "text": "As for \"how do we know that our substitution is correct?",
+            "act": 0.07148408889770508
+        },
+        {
+            "text": "Thicken the resulting surface.",
+            "act": 0.07142183929681778
+        },
+        {
+            "text": "\"Study them well.\"",
+            "act": 0.06976296007633209
+        },
+        {
+            "text": "Have you been considered in the analysis?",
+            "act": 0.06911178678274155
+        },
+        {
+            "text": "ZINGANO, Marco.",
+            "act": 0.06880137324333191
+        },
+        {
+            "text": "Pilates emphasises relaxed, smooth movements and rhythmic breathing.",
+            "act": 0.0684344694018364
+        },
+        {
+            "text": "V\u00e9ron-Cetty et al.",
+            "act": 0.06816539913415909
+        },
+        {
+            "text": "\u201cExcuse me?",
+            "act": 0.06739600002765656
+        },
+        {
+            "text": "ICHA cannot assist non-members in considering aspects of the bad/poor OFSTED report.",
+            "act": 0.06687813252210617
+        },
+        {
+            "text": "Any other questions?",
+            "act": 0.0666818842291832
+        },
+        {
+            "text": "(Irwinol must be added previously melted.",
+            "act": 0.06598559767007828
+        },
+        {
+            "text": "BFP3 was the best.",
+            "act": 0.06548772007226944
+        },
+        {
+            "text": "\" Willard, have you been to Paris?\"",
+            "act": 0.06117089092731476
+        },
+        {
+            "text": "\u00b6 45.)",
+            "act": 0.05968504399061203
+        },
+        {
+            "text": "(additional\nO.K.",
+            "act": 0.05939621478319168
+        },
+        {
+            "text": "Did you do any special preparation for image-based questions?",
+            "act": 0.05733262747526169
+        },
+        {
+            "text": "\"Do as I'm doing.\"",
+            "act": 0.056474633514881134
+        },
+        {
+            "text": "To answer Research Question 3 (Overall, what CAM modalities are being used by rural older adults?",
+            "act": 0.055358968675136566
+        },
+        {
+            "text": "Methyl\np-benzoquinone and tetrachloro p-benzoquinone are more particularly\npreferred.",
+            "act": 0.05456055700778961
+        },
+        {
+            "text": "+ \"Use sorting capabilities on Pageable instead!",
+            "act": 0.05410110950469971
+        },
+        {
+            "text": "beta,beta'-Carotene-15,15'-oxygenase (betaCO) is an enzyme expressed in different tissues, and it cleaves beta-carotene into retinal.",
+            "act": 0.05399056896567345
+        },
+        {
+            "text": "Attack even the most challenging pin placements with more confidence than ever.",
+            "act": 0.05386164039373398
+        },
+        {
+            "text": "Ryane Clowe, when healthy, can be a top power forward.",
+            "act": 0.05247706547379494
+        },
+        {
+            "text": "Learning music is proven to help with math and science.",
+            "act": 0.052356477826833725
+        },
+        {
+            "text": "They offer solid preparation for SAT exams and upper-division mathematics.",
+            "act": 0.05111192166805267
+        },
+        {
+            "text": "Are students providing an answer to the specific question?",
+            "act": 0.0505707785487175
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

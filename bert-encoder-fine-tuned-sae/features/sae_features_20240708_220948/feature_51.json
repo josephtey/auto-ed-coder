@@ -1,0 +1,412 @@
+{
+    "index": 51,
+    "label": "Structured informative content",
+    "attributes": "Grammatically structured sentences, detailed facts, financial data, historical references, specific events, varied punctuation such as commas and periods",
+    "reasoning": "The texts within the samples differ in terms of their structure and punctuation. All samples in the first set are grammatically structured with proper sentences, financial or factual statements, and specific examples. These samples include various forms of punctuation such as commas, periods, and parentheses with structured and detailed information about financial data, quotes, historical references, and specific events. In contrast, the latter samples tend to be more informal, unstructured, and conversational with less focus on detailed factual information.",
+    "density": 0.001228996730583987,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "(Sec.",
+            "act": 0.2286507934331894
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.1858658343553543
+        },
+        {
+            "text": "(Health & Saf.",
+            "act": 0.15944607555866241
+        },
+        {
+            "text": "Barclays is a bank operating from the City of London Corporation and has assets at around 1.2 trillion.",
+            "act": 0.1312420815229416
+        },
+        {
+            "text": "It was not clouded, but it was under \u0097 up for collateral.",
+            "act": 0.12096365541219711
+        },
+        {
+            "text": "These are safe and secured form of investments, where money is rented out on interest comportment through savings accounts, money market accounts, mutual funds, Treasury bills, and Certificates of Deposit.",
+            "act": 0.11156493425369263
+        },
+        {
+            "text": "\u201cStopping malicious behavior like this starts with accountability.",
+            "act": 0.10083690285682678
+        },
+        {
+            "text": "He would draw level for 3-all and pushed Thiem to the brink with the 23 year old serving to stay in the set at 5-4.",
+            "act": 0.09802072495222092
+        },
+        {
+            "text": "Cloud right away.",
+            "act": 0.09607277810573578
+        },
+        {
+            "text": "After Goku gets back from King KaI.",
+            "act": 0.09282535314559937
+        },
+        {
+            "text": "Mongkut was the son of Prince Isarasundhorn, son of Phutthayotfa Chulalok.",
+            "act": 0.08896324783563614
+        },
+        {
+            "text": "Thiem clawed back from a mini-break down with a beautiful forehand into the open court and Nadal rifled a sublime backhand winner at 6-all.",
+            "act": 0.08791898190975189
+        },
+        {
+            "text": "The four banks now operate under the name Intercontinental Banks Plc with a shareholders\u2019 funds that is in excess of N51 billion.",
+            "act": 0.08589620143175125
+        },
+        {
+            "text": "#Blade\u201d .",
+            "act": 0.08368798345327377
+        },
+        {
+            "text": "(App.",
+            "act": 0.0828925147652626
+        },
+        {
+            "text": "More than 9.6 million shares of the fund worth around $577 million have traded Thursday.",
+            "act": 0.07781685143709183
+        },
+        {
+            "text": "Currently, it has debts amounting to $25 million mainly from fixed costs such as wages, rates and taxes on land.",
+            "act": 0.07657908648252487
+        },
+        {
+            "text": "SECOND SET - Nadal 6-4Nadal fired just 14 winners to Thiem's 16 in the first set, but the Austrian was victimised by 21 unforced errors.",
+            "act": 0.07656874507665634
+        },
+        {
+            "text": "An attack can not be dammed host Chelsea in the 17th minute.",
+            "act": 0.07574477791786194
+        },
+        {
+            "text": "The list is called LaRedLatinaDFW.",
+            "act": 0.07568478584289551
+        },
+        {
+            "text": "They only service and support the businesses that pay membership fees plus charge them commissions\u2013 10% of anything they book for their members.",
+            "act": 0.0745585635304451
+        },
+        {
+            "text": "Sounds like the perfect definition of waste of talent and \u201chuman capital\u201d.",
+            "act": 0.07295861840248108
+        },
+        {
+            "text": "\"A million dollars is pocket change to what's going down.\"",
+            "act": 0.07294821739196777
+        },
+        {
+            "text": "The program was presented after the collection of data.",
+            "act": 0.07222530990839005
+        },
+        {
+            "text": "Gojowczyk, who played the final in Geneva last weekend and practised at Roland Garros on Sunday, retired from his match in Paris citing hip pain as he was trailing 6-1 2-0.",
+            "act": 0.07061244547367096
+        },
+        {
+            "text": "They also received an information letter.",
+            "act": 0.06989555805921555
+        },
+        {
+            "text": "Now, at the tender age of 84, he is worth $58.50 billion.",
+            "act": 0.06917329877614975
+        },
+        {
+            "text": "Borrowers must begin repayments a month after the loan is provided.",
+            "act": 0.0676538422703743
+        },
+        {
+            "text": "\u201cThat was unprofessional.",
+            "act": 0.06629268079996109
+        },
+        {
+            "text": "This goal came from Chelsea's success took the ball from the opponent.",
+            "act": 0.06470911204814911
+        },
+        {
+            "text": "Janus Henderson is located at the City of London Corporation and has assets estimated at around 330 billion.",
+            "act": 0.05980245769023895
+        },
+        {
+            "text": "The British HSBC Bank is international and operates in Switzerland.",
+            "act": 0.057476773858070374
+        },
+        {
+            "text": "I have nothing against LeBron.",
+            "act": 0.05734585225582123
+        },
+        {
+            "text": "Deleon had been paying $40 per year for 25 GB of storage, but will start paying $12 per year on October 10.",
+            "act": 0.05650626868009567
+        },
+        {
+            "text": "They say that its to protect their coastal important rivalries.",
+            "act": 0.05559130012989044
+        },
+        {
+            "text": "KYC is one time exercise while dealing in securities markets - once KYC is done through a SEBI registered intermediary (broker, DP, Mutual Fund etc.",
+            "act": 0.05471479520201683
+        },
+        {
+            "text": "I\nnod.",
+            "act": 0.05445953086018562
+        },
+        {
+            "text": "1 million masks per lot, 14 baht (S$0.62) a piece.",
+            "act": 0.05431966483592987
+        },
+        {
+            "text": "Duniya Khan: \u201cSome reported that their family members were burnt or shot or slashed to death.",
+            "act": 0.05391606315970421
+        },
+        {
+            "text": "I\nnod.",
+            "act": 0.053819164633750916
+        },
+        {
+            "text": "In a speech on Wednesday, Powell said that the Fed had brought interest rates to \u201cjust below\u201d the range of neutral estimates.",
+            "act": 0.05337449163198471
+        },
+        {
+            "text": "I love their work & everyones care & concern for the bride.",
+            "act": 0.0533718541264534
+        },
+        {
+            "text": "With international wire transfer fees at about $45 bucks (BOA), and currency conversion on top, BTC provides a clear advantage for small international business.",
+            "act": 0.05222184956073761
+        },
+        {
+            "text": "The funds ended the year with total assets of $US1.12 trillion.",
+            "act": 0.05210511386394501
+        },
+        {
+            "text": "The worker requires a daily payment of 1/7th of the bar of gold.",
+            "act": 0.05196744203567505
+        },
+        {
+            "text": "He was released on his own recognizance.",
+            "act": 0.050948046147823334
+        },
+        {
+            "text": "-Mizu can only replenish once per battle.",
+            "act": 0.0506906732916832
+        },
+        {
+            "text": "The Fed\u2019s announcement was released last year in September.",
+            "act": 0.049179475754499435
+        },
+        {
+            "text": "They gained $US140.5 billion, exceeding the $US103 billion inflow in 1986, it said.",
+            "act": 0.04863997548818588
+        },
+        {
+            "text": "(quoting Cities Serv.",
+            "act": 0.04852328822016716
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 592,
+    "label": "Citations with 'et al.'",
+    "attributes": "Contains '[*et al.' or 'et al.'",
+    "reasoning": "Upon reviewing the provided samples, all of the positive samples contain an instance of the substring '[*et al.' or 'et al.'. This indicates citations or references to works with multiple authors, which is a distinguishing feature consistent across all positive samples and completely absent in negative samples.",
+    "density": 0.005542348190432807,
+    "confidence": 67.0,
+    "high_act_samples": [
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.21348465979099274
+        },
+        {
+            "text": "]]>Comment on Skills?",
+            "act": 0.18149235844612122
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.1742369532585144
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.1742369532585144
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.16471177339553833
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.16471177339553833
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.16471177339553833
+        },
+        {
+            "text": "<?",
+            "act": 0.15867212414741516
+        },
+        {
+            "text": "Il est int\u00e9ressant de noter que tr\u00e8s peu de personnes en dehors du monde Asiatique sont \u00e0 m\u00eame de comprendre l'importance des cinq \u00e9l\u00e9ments, et surtout leur relation avec le fonctionnement du Zodiaque Chinois.",
+            "act": 0.14870116114616394
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.14553286135196686
+        },
+        {
+            "text": "En ce qui concerne le Zodiaque Chinois, les ann\u00e9es impaires sont des ann\u00e9es Yin tandis ce que les ann\u00e9es paires sont des ann\u00e9es Yang.",
+            "act": 0.1452581286430359
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.1450955718755722
+        },
+        {
+            "text": "E [Noble Aff.",
+            "act": 0.14360907673835754
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.13980066776275635
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.13980066776275635
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.13980066776275635
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.13980066776275635
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.13980066776275635
+        },
+        {
+            "text": "\"I will capably run the mosque for you during your lengthy recovery.\"",
+            "act": 0.1393766701221466
+        },
+        {
+            "text": "In ihrem Artikel nannten Benchimol et al.",
+            "act": 0.13825462758541107
+        },
+        {
+            "text": "G. Aad [*et al.",
+            "act": 0.1330416202545166
+        },
+        {
+            "text": "Blanco was at it again in the eighth, when the Giants batted around and tacked on four more.",
+            "act": 0.12980233132839203
+        },
+        {
+            "text": "Emerson RO, [et\u00a0al.",
+            "act": 0.12935706973075867
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.1284116804599762
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.1284116804599762
+        },
+        {
+            "text": "T. Aaltonen [*et al.",
+            "act": 0.1284116804599762
+        },
+        {
+            "text": "I am Q\u2019uo, and am aware of your query, my brother.",
+            "act": 0.1273479014635086
+        },
+        {
+            "text": "Also the loans of Berat Djimsiti and Dominik Stadlbauer ended.",
+            "act": 0.1271848976612091
+        },
+        {
+            "text": "Journalist Varol Bulent Aral \u2013 one of the suspected \u201cmiddlemen\u201d who allegedly incited five young men to stab to death Turkish Christians Necati Aydin and Ugur Yuksel and German Christian Tilmann Geske at the Zirve Publishing Co. in Malatya \u2013 was re-arrested at the hearing.",
+            "act": 0.12408635765314102
+        },
+        {
+            "text": "I am Q\u2019uo, and am aware of your query, my brother.",
+            "act": 0.12366404384374619
+        },
+        {
+            "text": "Employees are caring and cooperative .",
+            "act": 0.1225067600607872
+        },
+        {
+            "text": "De m\u00eame, les 4 autres \u00e9l\u00e9ments ont leurs propres corr\u00e9lations.",
+            "act": 0.12239859253168106
+        },
+        {
+            "text": "S.\u00a0Abachi [*et al.",
+            "act": 0.12122025340795517
+        },
+        {
+            "text": "El recurs a la detallada ornamentaci243;, els piker vegetals, les l237;nies corbes i el colorisme de les fa231;anes i els interiors comencen a desenvolupar-se en les primeres obres d'Antoni.",
+            "act": 0.11813703179359436
+        },
+        {
+            "text": "That time you additionally may confront inconvenience.",
+            "act": 0.11767406761646271
+        },
+        {
+            "text": "Two people were arrested in late May.",
+            "act": 0.11715386062860489
+        },
+        {
+            "text": "Quand ils s'align\u00e8rent devant l'empereur, celui-ci remarqua qu'ils n'\u00e9taient que onze, au lieu des douze qu'il avait convoqu\u00e9.",
+            "act": 0.11610763520002365
+        },
+        {
+            "text": "Vous avez appris aux \u00e9v\u00e9nements de Syrie-Liban`.",
+            "act": 0.11546499282121658
+        },
+        {
+            "text": "L'empereur, hautement impressionn\u00e9 par cet exploit, lui donna la premi\u00e8re place.",
+            "act": 0.11419869214296341
+        },
+        {
+            "text": "[J Contin Educ Nurs.",
+            "act": 0.113335020840168
+        },
+        {
+            "text": "Alors qu'ils effectuent une patrouille \u00e0 proximit\u00e9 d'une grange, ils tombent nez \u00e0 nez sur un jeune homme en train... de prodiguer une fellation \u00e0 un cheval, rapporte un journal local.",
+            "act": 0.1125136986374855
+        },
+        {
+            "text": "\"ARE YOU MORE PHYSICIAN, DO YOU THINK, OR ASSASSIN?\"",
+            "act": 0.1111503466963768
+        },
+        {
+            "text": "It was Marianne\u2019s turn to soften.",
+            "act": 0.10983183234930038
+        },
+        {
+            "text": "I am Q\u2019uo, and am aware of your query, my brother.",
+            "act": 0.10953755676746368
+        },
+        {
+            "text": "En arrivant sur terre, le serviteur heurta un homme qui portait un cochon, il saisit le cochon \u00e0 la h\u00e2te et l'amena \u00e0 l'empereur.",
+            "act": 0.1088562086224556
+        },
+        {
+            "text": "L'homme devra d\u00e9sormais faire face \u00e0 la justice pour relations sexuelles avec un animal ainsi que possession de cannabis.",
+            "act": 0.10669448971748352
+        },
+        {
+            "text": "I am Q\u2019uo, and I am aware of your query, my sister.",
+            "act": 0.10636884719133377
+        },
+        {
+            "text": "These results emphazise the contribution of the alkyl dinitrates and hydroxy alkyl nitrates besides the alkyl mononitrates to the budget of NO(Y) compounds.",
+            "act": 0.10497170686721802
+        },
+        {
+            "text": "As I am Your eternal servant, kindly excuse me.",
+            "act": 0.10434942692518234
+        },
+        {
+            "text": "Nonetheless, Yang and co-workers (Yang et al.",
+            "act": 0.10431275516748428
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

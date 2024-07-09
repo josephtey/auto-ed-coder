@@ -1,0 +1,412 @@
+{
+    "index": 336,
+    "label": "Contains formal references or quotes",
+    "attributes": "contain direct quotes, include book titles, reference academic publications, include direct speech marked by quotation marks or special characters",
+    "reasoning": "Upon analyzing both sets of samples, it is evident that the texts within the first set frequently contain direct quotes, book titles, references to academic publications, or direct speech marked by quotation marks or specific formatting. Conversely, the texts within the second set are more casual, conversational, and lack these specific references.",
+    "density": 0.0015516676868763078,
+    "confidence": 36.0,
+    "high_act_samples": [
+        {
+            "text": "\"No, no, no!\"",
+            "act": 0.25002098083496094
+        },
+        {
+            "text": "\" No, no, no!\"",
+            "act": 0.25002098083496094
+        },
+        {
+            "text": "\" Wait, wait, wait!\"",
+            "act": 0.23605912923812866
+        },
+        {
+            "text": "\"Wait, wait, wait!\"",
+            "act": 0.23605912923812866
+        },
+        {
+            "text": "Someone needs to be fired.",
+            "act": 0.22902125120162964
+        },
+        {
+            "text": "\"No, no, no, no, no.\"",
+            "act": 0.181943878531456
+        },
+        {
+            "text": "There has to be something wrong with them!",
+            "act": 0.16570325195789337
+        },
+        {
+            "text": "\"No I need to go now!\"",
+            "act": 0.15732866525650024
+        },
+        {
+            "text": "The staff members have recently fallen from six to two which has had many negative consequences.",
+            "act": 0.15638208389282227
+        },
+        {
+            "text": "\"We have to do something.\"",
+            "act": 0.14897781610488892
+        },
+        {
+            "text": "There have also been cases in Europe of deaths resulting from illegal alcohol production.",
+            "act": 0.1373615264892578
+        },
+        {
+            "text": "This means we get 5% of your purchases if you enter the site via Books & Reviews.",
+            "act": 0.12762987613677979
+        },
+        {
+            "text": "\" Oh, shit!\"",
+            "act": 0.1195421814918518
+        },
+        {
+            "text": "\"No, no, no, no, no, no, please don't do that.\"",
+            "act": 0.11422852426767349
+        },
+        {
+            "text": "\u2018A Defence of a Charge concerning Subscriptions, in a Letter to the Author of the Confessional,\u2019 Cambridge, 1767.",
+            "act": 0.11350856721401215
+        },
+        {
+            "text": "How long?",
+            "act": 0.11050570011138916
+        },
+        {
+            "text": "Out of 13000, 8000 have already been identified as high risk who may disseminate the virus in other parts of the country.",
+            "act": 0.10841891914606094
+        },
+        {
+            "text": "\"No, I can't.\"",
+            "act": 0.10829512774944305
+        },
+        {
+            "text": "Sexual violence, including childhood sexual abuse and adult sexual assault, is a significant public health problem.",
+            "act": 0.10817384719848633
+        },
+        {
+            "text": "***PLEASE READ THIS!",
+            "act": 0.10632232576608658
+        },
+        {
+            "text": "\"You're sick, you can't!\"",
+            "act": 0.10580318421125412
+        },
+        {
+            "text": "For instance, a search on \u2018headaches\u2019 could lead to \u2018brain tumours\u2019 or \u2018meningitis\u2019.",
+            "act": 0.10115694999694824
+        },
+        {
+            "text": "Click here to go there.",
+            "act": 0.0967249944806099
+        },
+        {
+            "text": "SMBC Press \nSMBC has published a number of books as well as other resources.",
+            "act": 0.09541652351617813
+        },
+        {
+            "text": "Back in 2014 Time Incorporated announced accepting BTC through Coinbase for subscriptions to Fortune, Good Health, Travel and Leisure, and This Old House.",
+            "act": 0.0946328267455101
+        },
+        {
+            "text": "I think she thinks she's in a hospital therefore there must be something wrong with her.",
+            "act": 0.09370587766170502
+        },
+        {
+            "text": "\u2018The Credibility of Miracles defended against the Author of Philosophical Essays,\u2019 Cambridge, 1751.",
+            "act": 0.09102096408605576
+        },
+        {
+            "text": "You can download it here.",
+            "act": 0.09036335349082947
+        },
+        {
+            "text": "\"Hurry, hurry up, it's late.\"",
+            "act": 0.08851210027933121
+        },
+        {
+            "text": "You can either post as a guest or have an option to register.",
+            "act": 0.0882483497262001
+        },
+        {
+            "text": "\"No, no, four days!\"",
+            "act": 0.08674612641334534
+        },
+        {
+            "text": "Thomas Chubb attacked this in The Ground and Foundation of Morality Considered (1745).",
+            "act": 0.08667980134487152
+        },
+        {
+            "text": "Comments from users that have private profiles are blocked by Facebook.",
+            "act": 0.08192601799964905
+        },
+        {
+            "text": "Mental illness is a serious burden on a global scale.",
+            "act": 0.08174995332956314
+        },
+        {
+            "text": "It let users transfer money to bank accounts and also pay for goods and services bought offline.",
+            "act": 0.08109725266695023
+        },
+        {
+            "text": "Use this link to send this review via e-mail, Twitter, or to post to your blog.",
+            "act": 0.08092720806598663
+        },
+        {
+            "text": "Use this link to send this review via e-mail, Twitter, or to post to your blog.",
+            "act": 0.08092720806598663
+        },
+        {
+            "text": "You need to create a PayPal account in order to purchase or donate anything through our website.",
+            "act": 0.08077370375394821
+        },
+        {
+            "text": "The assessments were delivered by university Moodle to which every student has access by their individual username and password.",
+            "act": 0.08052249252796173
+        },
+        {
+            "text": "In many European countries trade unions face considerable membership problems with multiple implications for labour relations and societies in general.",
+            "act": 0.0779174417257309
+        },
+        {
+            "text": "\u2018A System of Natural Philosophy, being a Course of Lectures in Mechanics, Optics, Hydrostatics, and Astronomy,\u2019 2 vols.",
+            "act": 0.0775694027543068
+        },
+        {
+            "text": "\" No, no.\"",
+            "act": 0.07722118496894836
+        },
+        {
+            "text": "He tweets @SShahisaless.",
+            "act": 0.07695101946592331
+        },
+        {
+            "text": "Nykaa also offers free home delivery for many brands.",
+            "act": 0.07601606100797653
+        },
+        {
+            "text": "Some have an increased number of respiratory tract infections (ear infections, sinusitis, bronchitis, and pneumonia).",
+            "act": 0.07324442267417908
+        },
+        {
+            "text": "In Australia, 6,394 people have been diagnosed with the deadly respiratory infection, including 61 people who have died.",
+            "act": 0.07322634756565094
+        },
+        {
+            "text": "Also on Monday, 37 new asymptomatic cases, including two from abroad, were reported on the mainland.",
+            "act": 0.07151968777179718
+        },
+        {
+            "text": "Salmonella, Shigella, Yersinia) are causing increasingly frequent outbreaks of food-borne diarrheal disease, thus constituting enormous health burdens.",
+            "act": 0.0715111643075943
+        },
+        {
+            "text": "This is open to both members and non-members.",
+            "act": 0.07144369184970856
+        },
+        {
+            "text": "This is open to both members and non-members.",
+            "act": 0.07144369184970856
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 450,
+    "label": "Contains unique entities and events",
+    "attributes": "mentions of specific names, events, proper nouns, specialized terms",
+    "reasoning": "Examining the most specific attributes shared by all samples, I noted that the texts in the samples contain frequent references to names, events, and proper nouns that specify unique individuals, places, or specialized terms. Almost every text in the samples includes a mention of unique entities, reflecting specific facts or events, which are absent in the other samples. Examples include names like Markus Spillmann, places like Paris, and terms like Bitcoin Boom.",
+    "density": 0.001224251569462041,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "Over this administration!",
+            "act": 0.1438198685646057
+        },
+        {
+            "text": "PUNX FIVE\n\nThe nice \u2018n\u2019 steezy freestyle ski \u2013 get creative in the park with Atomic Punx 5.",
+            "act": 0.14266088604927063
+        },
+        {
+            "text": "The workers coming from Germany to \u2026\n\nFred.",
+            "act": 0.13901543617248535
+        },
+        {
+            "text": "Germany and other countries are in mourning because of lives lost.",
+            "act": 0.11427602916955948
+        },
+        {
+            "text": "\u201a\u00c4\u00faIt was a lot of fun,\u201a\u00c4\u011a Brown portentously\u00ac\u2020told the\u00ac\u2020Herald.",
+            "act": 0.10898102819919586
+        },
+        {
+            "text": "\"A female singer, acknowledged Fenris.",
+            "act": 0.10080478340387344
+        },
+        {
+            "text": "One described it as \u2018your normal orgy\u2019, adding that the boyfriend is his friend and is a \u2018good guy\u2019 while dismissing the British teen involved as a \u2018wh**e\u2019.",
+            "act": 0.10064508765935898
+        },
+        {
+            "text": "\u2013 Brendan",
+            "act": 0.09946262091398239
+        },
+        {
+            "text": "\u2014 Markus Spillmann (@SpillmannNZZ) 31.",
+            "act": 0.09675116091966629
+        },
+        {
+            "text": "\"He be all up in the women.\"",
+            "act": 0.08408645540475845
+        },
+        {
+            "text": "Draw\n\nFinal eight\n\nReferences\n\nCategory:U.S. National Championships (tennis) by year \u2013 Women's Singles\nCategory:1922 in women's tennis\nCategory:1922 in American women's sport\nCategory:1922 U.S. National Championships (tennis)",
+            "act": 0.08306808769702911
+        },
+        {
+            "text": "\u201cright?",
+            "act": 0.08211038261651993
+        },
+        {
+            "text": "When out at the pub or in a bar, they are more likely to drink beer if they are out with female friends rather than male.",
+            "act": 0.07899845391511917
+        },
+        {
+            "text": "| Support the Institute",
+            "act": 0.07798156887292862
+        },
+        {
+            "text": "Kilo is being recognized by the bar crew as \"the water guy\", funny celebrity stuff.",
+            "act": 0.07788504660129547
+        },
+        {
+            "text": "(eds.",
+            "act": 0.07226713001728058
+        },
+        {
+            "text": "\"'Have a drink on me.\"",
+            "act": 0.07111363112926483
+        },
+        {
+            "text": "Craving even more?",
+            "act": 0.06809599697589874
+        },
+        {
+            "text": "Julian the Pool attendant was great.",
+            "act": 0.06385748833417892
+        },
+        {
+            "text": "\u201cCrowds come to our dirty basement!",
+            "act": 0.06184963136911392
+        },
+        {
+            "text": "Netz, Eur.",
+            "act": 0.061818741261959076
+        },
+        {
+            "text": "{\n  \"name\": \"Eleminer\",\n  \"description\": \"An arcade game.",
+            "act": 0.060467734932899475
+        },
+        {
+            "text": "\u201cAttends.",
+            "act": 0.060305312275886536
+        },
+        {
+            "text": "U. Wolff [*Phys.",
+            "act": 0.06000500172376633
+        },
+        {
+            "text": "Get Sky Sports F1",
+            "act": 0.0599050298333168
+        },
+        {
+            "text": "Enter Bitcoin Boom\n\nThe entrepreneurs close to President Lukashenko suggested using bitcoin and bitcoin\u2019s popularity to promote Belarus\u2019 tech sector.",
+            "act": 0.058747731149196625
+        },
+        {
+            "text": "address: |\n    So\u0142tan Institute for Nuclear Studies\\\n    ul.",
+            "act": 0.05726350471377373
+        },
+        {
+            "text": "Paris tourist sites reopened Sunday, while workers cleaned up debris from protests that left widespread damage in the capital and elsewhere.",
+            "act": 0.057226330041885376
+        },
+        {
+            "text": "35 land border ports will be closed.",
+            "act": 0.056348346173763275
+        },
+        {
+            "text": "for the problem?",
+            "act": 0.05597827583551407
+        },
+        {
+            "text": "Valeria",
+            "act": 0.05554136261343956
+        },
+        {
+            "text": "Mickie stumbles into the bar late at night and runs into the local coroner.",
+            "act": 0.05500156804919243
+        },
+        {
+            "text": "Insulted by the accusation, Grodd quits.",
+            "act": 0.054196082055568695
+        },
+        {
+            "text": "Amid chants of \u201cAzaadi\u201d on Tuesday, Kanhaiya Kumar blamed the government.",
+            "act": 0.05377154424786568
+        },
+        {
+            "text": "\u201cThe football player,\u201d he announced.",
+            "act": 0.05373403802514076
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.052944354712963104
+        },
+        {
+            "text": "Ol' Barry back at it.",
+            "act": 0.05178477615118027
+        },
+        {
+            "text": "\"Ryan was horsing around, drinking a little bit.\"",
+            "act": 0.05150490254163742
+        },
+        {
+            "text": "Along with older age is more health conditions and need of social services or family assistance.",
+            "act": 0.05070793628692627
+        },
+        {
+            "text": "The MAD organizer now dubbed \u201cTubman\u201d is still there and over hour 18 in the tub!",
+            "act": 0.05059252306818962
+        },
+        {
+            "text": "In February 1964 he was made musical director, Domkapellmeister, at St. Peters Cathedral in Regensburg, thereby becoming the chorus master of the Cathedral Choir, the Regensburger Domspatzen.",
+            "act": 0.05051407963037491
+        },
+        {
+            "text": "\u201cJai has relocated all the way from SF to Bangalore and hit the ground running on his first day co-hosting a Mi fan meet-up with his partner in crime +Rohit Ghalsasi,\u201d he added.",
+            "act": 0.04956357926130295
+        },
+        {
+            "text": "Pincus, Europhys.",
+            "act": 0.04952074587345123
+        },
+        {
+            "text": "SpVgg Bayreuth\n\nSpVgg Bayreuth is a German football club based in Bayreuth, Bavaria.",
+            "act": 0.04925673082470894
+        },
+        {
+            "text": "Netz, Eur.",
+            "act": 0.0480782613158226
+        },
+        {
+            "text": "Obama is taking his \u201cvictory\u201d lap, making his \u201cfarewell\u201d speeches.",
+            "act": 0.046921439468860626
+        },
+        {
+            "text": "Netz, Eur.",
+            "act": 0.04669617861509323
+        },
+        {
+            "text": "Netz, Eur.",
+            "act": 0.04669617861509323
+        },
+        {
+            "text": "Protesters in Carson City, Nev.\n\n\u201cOverpasses\nto Impeach Obama\u201d has gone\nfrom local protests to nationwide events.",
+            "act": 0.046318378299474716
+        },
+        {
+            "text": "While trying to navigate one of the Ford GTs, BMW lost the GTLM lead as the No.",
+            "act": 0.04613909870386124
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

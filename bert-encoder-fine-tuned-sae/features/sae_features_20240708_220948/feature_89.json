@@ -1,0 +1,412 @@
+{
+    "index": 89,
+    "label": "Structured and technical text",
+    "attributes": "structured information, technical details, instructions, formal reportage",
+    "reasoning": "All samples in the set contain some element of structured information, such as technical details, instructions, or formal reportage. In contrast, the samples in the second set primarily consist of personal opinions, informal discussions, and conversational text.",
+    "density": 0.00019929676712172762,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "It was a three-way tie going into #18 and I shot the only birdie, to take first.",
+            "act": 0.1119644045829773
+        },
+        {
+            "text": "\"Everyone stay where you are.\"",
+            "act": 0.07580310106277466
+        },
+        {
+            "text": "[0027] Particularly suitable as soft and fast agents are organosulfur\ncompounds having the following general formula:\n\n##STR00001##\n\n[0028] where R1-R5 can be C1-C8 alkyl groups; halogen\ngroups; thiol groups (--SH), carboxylated groups; sulfonated groups; and\nhydrogen; in any order; and also pentafluorothiophenol;\n2-fluorothiophenol; 3-fluorothiophenol; 4-fluorothiophenol;\n2,3-fluorothiophenol; 2,4-fluorothiophenol; 3,4-fluorothiophenol;\n3,5-fluorothiophenol 2,3,4-fluorothiophenol; 3,4,5-fluorothiophenol;\n2,3,4,5-tetrafluorothiophenol; 2,3,5,6-tetrafluorothiophenol;\n4-chlorotetrafluorothiophenol; pentachlorothiophenol; 2-chlorothiophenol;\n3-chlorothiophenol; 4-chlorothiophenol; 2,3-chlorothiophenol;\n2,4-chlorothiophenol; 3,4-chlorothiophenol; 3,5-chlorothiophenol;\n2,3,4-chlorothiophenol; 3,4,5-chlorothiophenol;\n2,3,4,5-tetrachlorothiophenol; [0029] 2,3,5,6-tetrachlorothiophenol;\npentabromothiophenol; 2-bromothiophenol; 3-bromothiophenol;\n4-bromothiophenol; 2,3-bromothiophenol; 2,4-bromothiophenol;\n3,4-bromothiophenol; 3,5-bromothiophenol; 2,3,4-bromothiophenol;\n3,4,5-bromothiophenol; 2,3,4,5-tetrabromothiophenol;\n2,3,5,6-tetrabromothiophenol; pentaiodothiophenol; 2-iodothiophenol;\n3-iodothiophenol; 4-iodothiophenol; 2,3-iodothiophenol;\n2,4-iodothiophenol; 3,4-iodothiophenol; 3,5-iodothiophenol;\n2,3,4-iodothiophenol; 3,4,5-iodothiophenol; 2,3,4,5-tetraiodothiophenol;\n2,3,5,6-tetraiodothiophenoland; zinc salts thereof; non-metal salts\nthereof, for example, ammonium salt of pentachlorothiophenol; magnesium\npentachlorothiophenol; cobalt pentachlorothiophenol; and combinations\nthereof.",
+            "act": 0.06569093465805054
+        },
+        {
+            "text": "Examples of elastomers suitable for blending include\nnatural and synthetic rubbers, including, but not limited to, ethylene\npropylene rubber (\"EPR\"), ethylene propylene diene rubber (\"EPDM\"),\nstyrenic block copolymer rubbers (such as SI, SIS, SB, SBS, SIBS, and the\nlike, where \"S\" is styrene, \"I\" is isobutylene, and \"B\" is butadiene),\nbutyl rubber, halobutyl rubber, copolymers of isobutylene and\npara-alkylstyrene, halogenated copolymers of isobutylene and\npara-alkylstyrene, natural rubber, polyisoprene, copolymers of butadiene\nwith acrylonitrile, polychloroprene, alkyl acrylate rubber, chlorinated\nisoprene rubber, acrylonitrile chlorinated isoprene rubber, and\npolybutadiene rubber (cis and trans).",
+            "act": 0.06121079996228218
+        },
+        {
+            "text": "The previously announced musical episode, originally thought to be part of the sixth season, aired during the seventh as a two-hour event in December 2013.",
+            "act": 0.058573167771101
+        },
+        {
+            "text": "\"Stay on standby.\"",
+            "act": 0.0549100898206234
+        },
+        {
+            "text": "\"Take cover!\"",
+            "act": 0.05424956604838371
+        },
+        {
+            "text": "\"I tried all I can, but if the government has taken measures and won't help us, we must forget about the road!\"",
+            "act": 0.05139383301138878
+        },
+        {
+            "text": "The Dixville Notch itself is characterized by a short steep-walled gorge that separates Dixville Peak and Cave Mountain, and also forms the boundary between the Connecticut River and Androscoggin River watersheds.",
+            "act": 0.05043582245707512
+        },
+        {
+            "text": "A short synthesis of (\u00b1)-antroquinonol is accomplished in seven steps from 2,3,4-trimethoxyphenol, which is oxidized in methanol to a highly electron-rich substrate of 2,3,4,4-tetramethoxycyclohexadienone and then a Michael reaction with dimethylcuprate is performed as the key step, followed by alkylation, reduction and epimerization to incorporate the required substituents at three contiguous stereocenters.",
+            "act": 0.05011359229683876
+        },
+        {
+            "text": "Suitable rubber compositions include natural and synthetic\nrubbers including, but not limited to, polybutadiene, polyisoprene,\nethylene propylene rubber (\"EPR\"), styrene-butadiene rubber, styrenic\nblock copolymer rubbers (such as SI, SIS, SB, SBS, SIBS, and the like,\nwhere \"S\" is styrene, \"I\" is isobutylene, and \"B\" is butadiene), butyl\nrubber, halobutyl rubber, polystyrene elastomers, polyethylene\nelastomers, polyurethane elastomers, polyurea elastomers,\nmetallocene-catalyzed elastomers and plastomers, copolymers of\nisobutylene and para-alkylstyrene, halogenated copolymers of isobutylene\nand para-alkylstyrene, copolymers of butadiene with acrylonitrile,\npolychloroprene, alkyl acrylate rubber, chlorinated isoprene rubber,\nacrylonitrile chlorinated isoprene rubber, and combinations of two or\nmore thereof.",
+            "act": 0.048146169632673264
+        },
+        {
+            "text": "\"Go, go, go!\"",
+            "act": 0.0439688041806221
+        },
+        {
+            "text": "It is on U.S. Route 395, the main north-south artery through the Owens Valley, connecting the Inland Empire to Reno, Nevada.",
+            "act": 0.04328083619475365
+        },
+        {
+            "text": "The tornado, which began around 2:30 p.m. and was accompanied by hailstorms, destroyed thousands of homes and stores, as well as several manufacturing plants and rice mills, according to news reports.",
+            "act": 0.03905031457543373
+        },
+        {
+            "text": "\"Run, run!\"",
+            "act": 0.03820890560746193
+        },
+        {
+            "text": "Oxygenation of pioglitazone-N-oxide by a microorganism isolated from soil was accompanied by N-deoxygenation to produce the pioglitazone metabolites 5-[4-[2-[5-(1-hydroxyethyl)-2-pyridyl]ethoxy]benzyl]-2,4-thiazolidinedio ne and 5-[4-[2-(5-acetyl-2-pyridyl)ethoxy]benzyl]2,4-thiazolidinedione.",
+            "act": 0.03375374525785446
+        },
+        {
+            "text": "Synthetic routes to the phosphoramidite derivatives of 2'-deoxy-2'-C-alpha-methylcytidine (14%, 15 steps) and 2'-deoxy-2'-C-alpha-hydroxymethylcytidine (19%, 10 steps) from methyl 3,5-di-O-(4-chlorobenzyl)-alpha-d-ribofuranoside are developed.",
+            "act": 0.03262786194682121
+        },
+        {
+            "text": "Watch Tiger Woods pour in back-to-back birdie putts\nLast year's PGA final round drew a 3.6 overnight TV rating, the second-lowest since at least 1995 according to Sports Media Watch.",
+            "act": 0.024442827329039574
+        },
+        {
+            "text": "Safeguard this place and ensure it remains a sanctuary from darkness.",
+            "act": 0.023085875436663628
+        },
+        {
+            "text": "Medical workers reportedly face a shortage of masks, and despite the government announcing that they would ration masks to pharmacies and convenience stores, the country's pharmaceutical association issued a statement on March 8 that said they never received any masks from the government.",
+            "act": 0.020346788689494133
+        },
+        {
+            "text": "In Australia, the first two seasons of the series began airing on 9Go!",
+            "act": 0.018933018669486046
+        },
+        {
+            "text": "T\u014dbu Sano Line\n\nThe  is railway line in Japan, operated by the private railway operator  Tobu Railway, connecting Tatebayashi Station in Tatebayashi city, Gunma Prefecture, in a north-north-easterly direction to Kuz\u016b Station in Sano, Tochigi Prefecture.",
+            "act": 0.01864699088037014
+        },
+        {
+            "text": "\u201cWe are prepared on a public safety level for anything that occurs,\u201d said Michael Bates, Commander of Homeland Security.",
+            "act": 0.017950331792235374
+        },
+        {
+            "text": "Jobst of Limburg\n\nJobst of Limburg (19 April 1560, Borculo, Gelderland - 7 August 1621) was count of Limburg and Bronckhorst, Lord of Styrum, Wisch and Borculo (1616), and the son of Hermann Georg of Limburg, count of Limburg and Bronckhorst.",
+            "act": 0.016399724408984184
+        },
+        {
+            "text": "\"KEEP LOOKOUT, ALL POSTS.\"",
+            "act": 0.015658913180232048
+        },
+        {
+            "text": "\"Give the word, Admiral.\"",
+            "act": 0.014109855517745018
+        },
+        {
+            "text": "Take sauteed onion and carrot to the mixing bowl.Add chopped green onion, chopped parsley, chopped mint, sumac, lemon juice, black pepper and salt to the mixing bowl and mix.",
+            "act": 0.010582393035292625
+        },
+        {
+            "text": "\"Go slow!\"",
+            "act": 0.01043294183909893
+        },
+        {
+            "text": "\"ALL HANDS, BATTLE STATIONS!\"",
+            "act": 0.010377338156104088
+        },
+        {
+            "text": "We consider $$\\begin{aligned}\n\\int_{2}^{u-2}\\log\\left(t-1\\right)\\log\\left(u-t-1\\right)dt= & \\int_{1}^{u-3}\\log\\left(v\\right)\\log\\left(u-v-2\\right)dv\\\\\n= & \\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(\\left(u-2\\right)s\\right)\\log\\left(\\left(u-2\\right)\\left(1-s\\right)\\right)ds\\\\\n= & \\left(u-2\\right)\\log^{2}\\left(u-2\\right)\\left(1-\\frac{2}{u-2}\\right)\\\\\n+ & \\left(u-2\\right)\\log\\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(1-s\\right)ds\\\\\n+ & \\left(u-2\\right)\\log\\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(s\\right)ds\\\\\n+ & \\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(s\\right)\\log\\left(1-s\\right)ds.\\end{aligned}$$ Maybe it is useful to recall that, integrating by parts, we get $$\\begin{aligned}\n\\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(s\\right)\\log\\left(1-s\\right)ds= & \\left(u-4\\right)\\log\\left(1-\\frac{1}{u-2}\\right)\\log\\left(\\frac{1}{u-2}\\right)\\\\\n- & \\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}s\\left(\\frac{\\log\\left(1-s\\right)}{s}-\\frac{\\log\\left(s\\right)}{1-s}\\right)ds\\end{aligned}$$ and $$\\begin{aligned}\n-\\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}s\\left(\\frac{\\log\\left(1-s\\right)}{s}-\\frac{\\log\\left(s\\right)}{1-s}\\right)ds= & -\\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(1-s\\right)ds\\\\\n- & \\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\log\\left(s\\right)ds\\\\\n+ & \\left(u-2\\right)\\int_{1/\\left(u-2\\right)}^{1-1/\\left(u-2\\right)}\\frac{\\log\\left(s\\right)}{1-s}ds\\\\\n= & -2\\left(u-3\\right)\\log\\left(u-3\\right)+2\\left(u-4\\right)\\left(1+\\log\\left(u-2\\right)\\right)\\\\\n+ & \\left(u-2\\right)\\left(\\mathrm{Li}_{2}\\left(\\frac{1}{u-2}\\right)-\\mathrm{Li}_{2}\\left(1-\\frac{1}{u-2}\\right)\\right)\\end{aligned}$$ where $\\mathrm{Li}_{2}\\left(x\\right)$ is the Dilogartihm function.",
+            "act": 0.009742891415953636
+        },
+        {
+            "text": "------------------------------------------------------- ---------------------------------------- ----------------------------------------------------- ---------------------------------------- -----------------------------------------------------\n                       $m_S$ and BR                        $\\Phi_{\\rm pred} (\\rm cm^{-2} s^{-1})$   $\\Phi_{\\rm lim}^{95\\% \\rm CL} (\\rm cm^{-2} s^{-1})$   $\\Phi_{\\rm pred} (\\rm cm^{-2} s^{-1})$   $\\Phi_{\\rm lim}^{95\\% \\rm CL} (\\rm cm^{-2} s^{-1})$\n                          10 GeV                                                                                                                                                                  \n      BR($SS \\rightarrow \\tau^+\\tau^-$) $\\simeq 10\\%$              $8.5 \\times 10^{-10}$                           $7.8 \\times 10^{-10}$                           $1.6 \\times 10^{-9}$                           $1.6 \\times 10^{-9}$\n   BR($SS \\rightarrow b\\bar{b}+ c\\bar{c}$) $\\simeq 90\\%$                                                                                                                                          \n                           6 GeV                                                                                                                                                                  \n      BR($SS \\rightarrow \\tau^+\\tau^-$) $\\simeq 20\\%$               $1.5 \\times 10^{-9}$                            $1.0\\times 10^{-9}$                            $2.8 \\times 10^{-9}$                            $1.7\\times 10^{-9}$\n   BR($SS \\rightarrow b\\bar{b}+ c\\bar{c}$) $\\simeq 80\\%$                                                                                                                                          \n  ------------------------------------------------------- ---------------------------------------- ----------------------------------------------------- ---------------------------------------- -----------------------------------------------------\n\n  : Comparison between the expected gamma-ray flux from a light scalar and the $95\\%$C.L.",
+            "act": 0.009700922295451164
+        },
+        {
+            "text": "\"I give you 60 seconds, Admiral.\"",
+            "act": 0.0089802797883749
+        },
+        {
+            "text": "Operated by Sotheby\u2019s International Realty, Inc. Real estate agents affiliated with Sotheby's International Realty, Inc. are independent contractors and are not employees of Sotheby's International Realty, Inc.",
+            "act": 0.008530935272574425
+        },
+        {
+            "text": "UPDATE: The phone companies were NOT required to turn over our records - Qwest refused - but AT&T, Verizon and BellSouth gave the Mein Kampf salute.",
+            "act": 0.0076502165757119656
+        },
+        {
+            "text": "I would keep an open mind.",
+            "act": 0.0070847696624696255
+        },
+        {
+            "text": "\"Stay calm, don't move!\"",
+            "act": 0.006763895507901907
+        },
+        {
+            "text": "*, *N-*benzylpyrazine-2-carboxamides \\[[@B35-molecules-19-00651]\\], ring-substituted 3-hydroxynaphthalene-2-carboxanilides \\[[@B36-molecules-19-00651]\\] and 1-hydroxynaphthalene-2-carboxanilides \\[[@B37-molecules-19-00651]\\], 2-hydroxynaphthalene-1-carboxanilides \\[[@B38-molecules-19-00651]\\] and ring-substituted 4-arylamino-7-chloroquinolinium chlorides \\[[@B39-molecules-19-00651]\\].",
+            "act": 0.006329146679490805
+        },
+        {
+            "text": "Appellant did not object to the answer.",
+            "act": 0.004407321568578482
+        },
+        {
+            "text": "\"I want evacuation in minutes.\"",
+            "act": 0.004062180873006582
+        },
+        {
+            "text": "Jeddah (sometimes spelled Jiddah or Jedda ; Englishpronunciation:/\u02c8d\u0292\u025bd\u0259/; Arabic: \u062c\u062f\u0629\u200e Jiddah or Jaddah, IPA: [\u02c8d\u0292\u026ad\u00e6, \u02c8d\u0292\u00e6d\u00e6]) is a city in the Hijaz Tihamah region on the coast of the Red Sea and is the major urban center of western Saudi Arabia.",
+            "act": 0.0021993867121636868
+        },
+        {
+            "text": "Don't retreat, Reload.",
+            "act": 0.001806644257158041
+        },
+        {
+            "text": "---------------------------------------------------------------------------------------\n                             Training Accuracy\\   Test Accuracy\\      AUC\\\n                             Median (Range) %     Median (Range) %    Median (Range) %\n  -------------------------- -------------------- ------------------- -------------------\n  Luminal A vs. TN           74 (70--86)          68.2 (63.6--81.8)   0.8 (0.75--0.83)\n\n  Luminal A vs. all others   65.6 (62.5--78.6)    66.7 (59.3--74.1)   0.72 (0.7--0.74)\n\n  TN vs. all others          85.9 (78.1--91.3)    85.2 (85.2--90.9)   0.86 (0.77--0.92)\n\n  HR+ vs. HR\u2212                64.7 (63.2--80.9)    60 (52.2--82.6)     0.69 (0.63--0.89)\n  ---------------------------------------------------------------------------------------\n\nNote: AUC, area under the curve; HR, hormone receptor; TN, triple negative.",
+            "act": 0.00018064631149172783
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        },
+        {
+            "text": "Besides, we could use some accompaniment for our BeetBox.",
+            "act": 0.0
+        },
+        {
+            "text": "Q:\n\nNullPointerException in getview of custom adapter\n\nI'm getting image from bitmap method and trying to populate the listview.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

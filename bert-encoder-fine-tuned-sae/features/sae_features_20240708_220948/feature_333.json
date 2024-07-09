@@ -1,0 +1,412 @@
+{
+    "index": 333,
+    "label": "Technical documentation and instructions",
+    "attributes": "explanations of functionality, technical details, instructions, discussions about processes, mentions of database management, coding practices, technical documentation, elements formatted as code or parameters",
+    "reasoning": "Upon analyzing the samples, it appears that the texts in the designated samples often involve explanations, technical details, instructions, or discussions about specific processes or terminologies, often related to database management, coding practices, or technical documentation. These texts include explanations of functionality, potential issues, best practices, and specific instructions, and they sometimes involve elements formatted as code or parameters. Conversely, the other samples consist of general conversations, opinions, or anecdotal narratives that are non-technical and less structured in format.",
+    "density": 0.0033643192354596402,
+    "confidence": 65.0,
+    "high_act_samples": [
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05e8\u05db\u05d9\u05dd \u05d1\u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05e9\u05dc \u05d8\u05d1\u05dc\u05d4 \u05db\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.21702846884727478
+        },
+        {
+            "text": "\u05ea\u05de\u05d9\u05db\u05d4 \u05d1 AR \u05de\u05d5\u05d2\u05d1\u05dc\u05ea \u05e2\u05dc \u05e4\u05d9 DBMS.",
+            "act": 0.20426899194717407
+        },
+        {
+            "text": "\u05de\u05e4\u05ea\u05d7 \u05e8\u05d0\u05e9\u05d9 \u05de\u05d5\u05e8\u05db\u05d1 \u05de\u05db\u05d9\u05dc \u05e9\u05e0\u05d9 \u05e2\u05de\u05d5\u05d3\u05d5\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8.",
+            "act": 0.20332026481628418
+        },
+        {
+            "text": "\u05de\u05d7\u05dc\u05e7\u05ea AR \u05de\u05e1\u05ea\u05de\u05db\u05ea \u05e2\u05dc \u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05e8\u05d0\u05e9\u05d9\u05d9\u05dd \u05d4\u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d1\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea.",
+            "act": 0.20208238065242767
+        },
+        {
+            "text": "\u05d6\u05d0\u05ea \u05de\u05d0\u05d7\u05e8 \u05d5\u05db\u05dc DBMS \u05e8\u05d2\u05d9\u05e9 \u05d1\u05d0\u05d5\u05e4\u05df \u05e9\u05d5\u05e0\u05d4 \u05dc\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05d2\u05d3\u05d5\u05dc\u05d5\u05ea-\u05e7\u05d8\u05e0\u05d5\u05ea.",
+            "act": 0.20011095702648163
+        },
+        {
+            "text": "\u05e9\u05d9\u05de\u05d5\u05e9 \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05d1\u05dc\u05d1\u05d3 \u05d1\u05e9\u05de\u05d5\u05ea \u05e4\u05d5\u05ea\u05e8 \u05d1\u05e2\u05d9\u05d4 \u05d6\u05d5.",
+            "act": 0.19683901965618134
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05ea\u05e8 \u05d4\u05ea\u05d5\u05de\u05da \u05d1\u05db\u05de\u05d4 \u05e9\u05e4\u05d5\u05ea \u05d9\u05e8\u05e6\u05d4 \u05dc\u05d4\u05e6\u05d9\u05d2 \u05ea\u05d5\u05db\u05df \u05d1\u05d0\u05d5\u05ea\u05d4 \u05e9\u05e4\u05d4 \u05e9\u05d4\u05de\u05e9\u05ea\u05de\u05e9 \u05db\u05e8\u05d2\u05e2 \u05e6\u05d5\u05e4\u05d4 \u05d1\u05d4.",
+            "act": 0.19213128089904785
+        },
+        {
+            "text": "\u05ea\u05d6\u05e8\u05e7 \u05e9\u05d2\u05d9\u05d0\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d9\u05d4\u05d9\u05d4 \u05e0\u05d9\u05e1\u05d9\u05d5\u05df \u05dc\u05d2\u05e9\u05ea \u05dc\u05e2\u05de\u05d5\u05d3\u05d4 \u05d0\u05e9\u05e8 \u05dc\u05d0 \u05e7\u05d9\u05d9\u05de\u05ea \u05d1\u05d8\u05d1\u05dc\u05d4.",
+            "act": 0.1908048391342163
+        },
+        {
+            "text": "\u05de\u05d5\u05de\u05dc\u05e5 \u05dc\u05d0 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1\u05d5 \u05d1\u05e2\u05ea \u05d1\u05d9\u05e6\u05d5\u05e2 \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05de\u05d5\u05e8\u05db\u05d1\u05d5\u05ea.",
+            "act": 0.18156234920024872
+        },
+        {
+            "text": "\u05db\u05d3\u05d9 \u05dc\u05e4\u05ea\u05d5\u05e8 \u05d1\u05e2\u05d9\u05d5\u05ea \u05d0\u05dc\u05d5 \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 Active Record.",
+            "act": 0.18106117844581604
+        },
+        {
+            "text": "\u05d4\u05ea\u05d5\u05e6\u05d0\u05d4 \u05d4\u05e1\u05d5\u05e4\u05d9\u05ea \u05d3\u05d5\u05de\u05d4 \u05dc\u05d4\u05d5\u05e1\u05e4\u05ea \u05e8\u05e9\u05d9\u05de\u05d4 \u05e9\u05dc \u05e4\u05d9\u05dc\u05d8\u05e8\u05d9\u05dd \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4.",
+            "act": 0.17838653922080994
+        },
+        {
+            "text": "\u05e9\u05de\u05d5\u05ea \u05d4\u05de\u05e4\u05ea\u05d7\u05d5\u05ea \u05d5\u05d4\u05e2\u05e8\u05db\u05d9\u05dd \u05de\u05ea\u05d9\u05d9\u05d7\u05e1\u05d5\u05ea \u05dc\u05de\u05d0\u05e4\u05d9\u05d9\u05e0\u05d9\u05dd \u05e9\u05dc \u05d4\u05ea\u05e0\u05d0\u05d9\u05dd \u05d5\u05e2\u05e8\u05db\u05d9\u05d4\u05dd, \u05d1\u05d4\u05ea\u05d0\u05dd.",
+            "act": 0.17267654836177826
+        },
+        {
+            "text": "high round neckline with small stand up colllar.",
+            "act": 0.17256778478622437
+        },
+        {
+            "text": "Though Ryad Boudebouz\u2019s influence increased for the visiting side, he was not able to show enough imagination to worry Thiago Silva and Alex, who dominated in the heart of the home defence, while les Lionceaux were reluctant to push too many men forward and get exposed on the counter.",
+            "act": 0.17245054244995117
+        },
+        {
+            "text": "Four sets of tee blocks on every hole allow the novice golfer to appreciate the generous landing areas, while challenging the more accomplished player to execute a variety of shots using every club in the bag.",
+            "act": 0.17233316600322723
+        },
+        {
+            "text": "\u00bb Tip|\u05d8\u05d9\u05e4: \u05d9\u05e9\u05e0\u05dd \u05e9\u05e0\u05d9 \u05d3\u05e8\u05db\u05d9\u05dd \u05dc\u05e2\u05d1\u05d5\u05d3 \u05e2\u05dd \u05db\u05de\u05d4 \u05de\u05e1\u05d3\u05d9 \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05ea\u05d5\u05da \u05e9\u05d9\u05de\u05d5\u05e9 \u05d1-AR .",
+            "act": 0.17090660333633423
+        },
+        {
+            "text": "small cap sleeves.",
+            "act": 0.16701443493366241
+        },
+        {
+            "text": "*\u05de\u05e8\u05d7\u05d1 \u05de\u05d5\u05d2\u05d3\u05e8* \u05de\u05d9\u05d9\u05e6\u05d2 *\u05e9\u05dd* \u05e9\u05dc \u05ea\u05e0\u05d0\u05d9 \u05d1\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05e9\u05e0\u05d9\u05ea\u05df \u05dc\u05d0\u05d7\u05d3 \u05d0\u05d5\u05ea\u05d4 \u05d1\u05d9\u05d7\u05d3 \u05e2\u05dd \u05e2\u05d5\u05d3 \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05d5\u05dc\u05e6\u05e8\u05e3 \u05dc\u05e9\u05d0\u05d9\u05dc\u05ea\u05d4 \u05e9\u05dc AR.",
+            "act": 0.16561739146709442
+        },
+        {
+            "text": "\u05de\u05e4\u05ea\u05d7 \u05e8\u05d0\u05e9\u05d9 \u05de\u05d5\u05e8\u05db\u05d1 \u05de\u05d9\u05d5\u05e6\u05d2 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05de\u05e2\u05e8\u05da \u05d1 Yii, \u05d1\u05d4\u05ea\u05d0\u05de\u05d4.",
+            "act": 0.16219282150268555
+        },
+        {
+            "text": "\u05e4\u05e2\u05d5\u05dc\u05d5\u05ea CRUD \u05e0\u05e4\u05d5\u05e6\u05d5\u05ea \u05de\u05d9\u05d5\u05e9\u05de\u05d5\u05ea \u05d1\u05ea\u05d5\u05e8 \u05de\u05ea\u05d5\u05d3\u05d5\u05ea \u05d1\u05de\u05d7\u05dc\u05e7\u05ea \u05d4 AR.",
+            "act": 0.1508466601371765
+        },
+        {
+            "text": "\u05dc\u05de\u05d8\u05e8\u05d4 \u05d6\u05d5 \u05de\u05d5\u05de\u05dc\u05e5 \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 DAO.",
+            "act": 0.14837715029716492
+        },
+        {
+            "text": "Johnson is one of the best backs in the country, averaging 6.6 yards every time he touches the ball.",
+            "act": 0.1460273712873459
+        },
+        {
+            "text": "& S. Ry.",
+            "act": 0.14514243602752686
+        },
+        {
+            "text": "Young Andrew Robertson would have been a great signing but we\u2019re all set for left backs, ta.",
+            "act": 0.14212895929813385
+        },
+        {
+            "text": "It was first described by Daimaru et al.",
+            "act": 0.1411585956811905
+        },
+        {
+            "text": "\u05d0\u05e4\u05e9\u05e8\u05d5\u05ea \u05d6\u05d5 \u05e7\u05d9\u05d9\u05de\u05ea \u05de\u05d2\u05e8\u05e1\u05d0\u05d5\u05ea 1.0.9 \u05d5\u05de\u05e2\u05dc\u05d4.",
+            "act": 0.13783298432826996
+        },
+        {
+            "text": "\u05e0\u05d9\u05ea\u05df \u05dc\u05e2\u05d3\u05db\u05df \u05e8\u05e9\u05d5\u05de\u05d4 \u05d0\u05d7\u05ea \u05d0\u05d5 \u05d9\u05d5\u05ea\u05e8 \u05d1\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05dc\u05dc\u05d0 \u05e6\u05d5\u05e8\u05da \u05d1\u05d8\u05e2\u05d9\u05e0\u05ea\u05dd \u05de\u05e8\u05d0\u05e9.",
+            "act": 0.1376444399356842
+        },
+        {
+            "text": "fitted through the bodice to a fitted small waist.",
+            "act": 0.1375003159046173
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.13682407140731812
+        },
+        {
+            "text": "\u05d4\u05de\u05d7\u05dc\u05e7\u05d4 [CActiveRecord] \u05d4\u05d9\u05e0\u05d4 \u05de\u05d7\u05dc\u05e7\u05ea \u05d4\u05d1\u05e1\u05d9\u05e1 \u05e9\u05dc \u05db\u05dc \u05de\u05d7\u05dc\u05e7\u05d5\u05ea \u05d4 AR.",
+            "act": 0.13540005683898926
+        },
+        {
+            "text": "Catholic Encyclopedia.",
+            "act": 0.1339045912027359
+        },
+        {
+            "text": "They are cooler than long pants and cover more than the average short.",
+            "act": 0.13237783312797546
+        },
+        {
+            "text": "\u05d4\u05de\u05d0\u05e4\u05d9\u05d9\u05df [primaryKey|CActiveRecord::primaryKey] \u05de\u05e1\u05e4\u05e7 \u05d0\u05ea \u05e2\u05e8\u05da \u05d4\u05de\u05e4\u05ea\u05d7 \u05d4\u05e8\u05d0\u05e9\u05d9 \u05e9\u05dc \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 AR.",
+            "act": 0.13232606649398804
+        },
+        {
+            "text": "### \u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd \u05e2\u05dd \u05e4\u05e8\u05de\u05d8\u05e8\u05d9\u05dd\n\n\u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05d5\u05e1\u05d9\u05e3 \u05e4\u05e8\u05de\u05d8\u05e8\u05d9\u05dd (\u05e1\u05de\u05de\u05e0\u05d9\u05dd) \u05dc\u05de\u05e8\u05d7\u05d1\u05d9\u05dd \u05de\u05d5\u05d2\u05d3\u05e8\u05d9\u05dd.",
+            "act": 0.1320330947637558
+        },
+        {
+            "text": "\"Willis, what the hell's going on?\"",
+            "act": 0.12784117460250854
+        },
+        {
+            "text": "\u05d5\u05d4\u05ea\u05de\u05d9\u05db\u05d4 \u05e9\u05dc Oracle \u05e7\u05d9\u05d9\u05de\u05ea \u05de\u05d2\u05e8\u05e1\u05d0\u05d5\u05ea 1.0.5 \u05d5\u05de\u05e2\u05dc\u05d4.",
+            "act": 0.1275469958782196
+        },
+        {
+            "text": "\"Although as you haven't got a phone that's probably not much use.\"",
+            "act": 0.1273978352546692
+        },
+        {
+            "text": "It's excellent with a couple fried eggs.",
+            "act": 0.12431352585554123
+        },
+        {
+            "text": "\u05d2\u05dd \u05e7\u05e9\u05d4 \u05dc\u05e0\u05d4\u05dc \u05d0\u05ea \u05d4\u05e7\u05d5\u05d3 \u05e9\u05d0\u05e0\u05d5 \u05db\u05d5\u05ea\u05d1\u05d9\u05dd \u05db\u05e9\u05d4\u05d5\u05d0 \u05de\u05e2\u05d5\u05e8\u05d1\u05d1 \u05e2\u05dd \u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea SQL \u05e9\u05d5\u05e0\u05d5\u05ea.",
+            "act": 0.12348473817110062
+        },
+        {
+            "text": "\u00bb Info|\u05de\u05d9\u05d3\u05e2: \u05d1\u05de\u05d3\u05e8\u05d9\u05da \u05d6\u05d4, \u05d0\u05e0\u05d5 \u05de\u05e9\u05ea\u05de\u05e9\u05d9\u05dd \u05d1\u05d0\u05d5\u05ea\u05d9\u05d5\u05ea \u05e7\u05d8\u05e0\u05d5\u05ea \u05dc\u05db\u05dc \u05e9\u05de\u05d5\u05ea \u05d4\u05d8\u05d1\u05dc\u05d0\u05d5\u05ea \u05d5\u05d4\u05e2\u05de\u05d5\u05d3\u05d5\u05ea.",
+            "act": 0.12145207077264786
+        },
+        {
+            "text": "It's nothing new and those with experience know what to do.",
+            "act": 0.12094918638467789
+        },
+        {
+            "text": "\u05dc\u05d3\u05d5\u05d2\u05de\u05d0, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e4\u05e2\u05d9\u05dc \u05d0\u05ea [CWebLogRoute] \u05d1\u05d4\u05d2\u05d3\u05e8\u05d5\u05ea \u05d4\u05d0\u05e4\u05dc\u05d9\u05e7\u05e6\u05d9\u05d4, \u05d5\u05d0\u05e0\u05d5 \u05e0\u05e8\u05d0\u05d4 \u05d0\u05ea \u05d4\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea \u05e9\u05d1\u05d5\u05e6\u05e2\u05d5 \u05d1\u05e1\u05d5\u05e3 \u05db\u05dc \u05e2\u05de\u05d5\u05d3.",
+            "act": 0.12076009064912796
+        },
+        {
+            "text": "5TH MINUTE\n\nHaving started like he means business, sprinting after a Jack Wilshere long ball but drifting offside, Rooney decides not to pull rank at a free-kick from around 25 yards from goal.",
+            "act": 0.12058514356613159
+        },
+        {
+            "text": "Due to their sociability, it is not advisable to leave them alone for too long and probably not the best breed for someone who works all day.",
+            "act": 0.11894634366035461
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.11785442382097244
+        },
+        {
+            "text": "\u05de\u05d7\u05d9\u05e7\u05ea \u05e8\u05e9\u05d5\u05de\u05d4\n---------------\n\n\u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05de\u05d7\u05d5\u05e7 \u05e8\u05e9\u05d5\u05de\u05d4 \u05d1\u05de\u05d9\u05d3\u05d4 \u05d5\u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d4 AR  \u05e0\u05d5\u05e6\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 \u05e7\u05d1\u05dc\u05ea \u05d4\u05de\u05d9\u05d3\u05e2 \u05de\u05d4\u05d8\u05d1\u05dc\u05d4 \u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+            "act": 0.11755041033029556
+        },
+        {
+            "text": "Shahuanga Punta\n\nShahuanga Punta (possibly from Quechua Shawanka Punta) is a  mountain in the Cordillera Blanca in the Andes of Peru.",
+            "act": 0.11717041581869125
+        },
+        {
+            "text": "Non-commercial news needs your support\n\nindependent global news\n\nDemocracy Now!",
+            "act": 0.11687066406011581
+        },
+        {
+            "text": "\u05dc\u05de\u05e2\u05e9\u05d4, \u05d0\u05e0\u05d5 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05e9\u05ea\u05de\u05e9 \u05d1 [CActiveRecord::isNewRecord] \u05db\u05d3\u05d9 \u05dc\u05d4\u05d1\u05d7\u05d9\u05df \u05d1\u05de\u05d9\u05d3\u05d4 \u05d0\u05d5\u05d1\u05d9\u05d9\u05e7\u05d8 \u05d4 AR \u05d4\u05d9\u05e0\u05d5 \u05d7\u05d3\u05e9 \u05d0\u05d5 \u05dc\u05d0.",
+            "act": 0.11528181284666061
+        },
+        {
+            "text": "light welterweight to , i.e.",
+            "act": 0.11442151665687561
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 368,
+    "label": "Structured and informative text",
+    "attributes": "Structured content, Informative tone, Formal text, Calls to action, Questions, Instructions, Audience engagement, Orderly text",
+    "reasoning": "Upon examining the samples, it is evident that all the samples within the 'positive-samples' set exhibit a friendly, informative, or formal tone, often containing specific information, calls to action, questions, or instructions. They are well-structured and cater to an audience that is intended to be engaged constructively. In contrast, the 'negative-samples' set contains unstructured, conversational, or argumentative text that lacks the informative or formal tone found in the other samples. This indicates that the identified attribute is the presence of structured, informative, orderly, or friendly content.",
+    "density": 0.00027047418395091606,
+    "confidence": 55.0,
+    "high_act_samples": [
+        {
+            "text": "\"Shall we meet up this week?\"",
+            "act": 0.16151225566864014
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.12315724045038223
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.12315724045038223
+        },
+        {
+            "text": "First floor has two sash windows with keystones, ground floor has tripartite window with rusticated dividing piers.",
+            "act": 0.12231126427650452
+        },
+        {
+            "text": "The garden block is followed by a slightly projecting low gabled entrance bay, the gable supported by heavy shaped brackets.",
+            "act": 0.12103777378797531
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.1050872877240181
+        },
+        {
+            "text": "\"Why don't we have lunch together?\"",
+            "act": 0.09697801619768143
+        },
+        {
+            "text": "If you have any questions, simply email or\ncall us and we\u2019ll be happy to assist you.",
+            "act": 0.0961066260933876
+        },
+        {
+            "text": "As we come around a curve we spot a famous place.",
+            "act": 0.06558605283498764
+        },
+        {
+            "text": "Please contact us and check carefully returning address before you send it.",
+            "act": 0.06548168510198593
+        },
+        {
+            "text": "\" Shall we meet tomorrow?\"",
+            "act": 0.06127462908625603
+        },
+        {
+            "text": "Please refer this answer.",
+            "act": 0.060094382613897324
+        },
+        {
+            "text": "Please refer this answer.",
+            "act": 0.060094382613897324
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.05685713514685631
+        },
+        {
+            "text": "If you are interested in hearing more information about our services or would like to start a policy with Roche Insurance Agency, simply call, fax, or email us.",
+            "act": 0.05447550490498543
+        },
+        {
+            "text": "\"They got locked in orbit around Jupiter.\"",
+            "act": 0.04998474195599556
+        },
+        {
+            "text": "We derive the orbital solutions in Section\u00a0\\[sec:orbits\\].",
+            "act": 0.049731891602277756
+        },
+        {
+            "text": "\"Did the authorities come and take her away?\"",
+            "act": 0.04764561727643013
+        },
+        {
+            "text": "If you have any questions \u2013 please do not hesitate to contact us \u2013 please send us e-mails and our specialists will contact you ASAP.",
+            "act": 0.04585547000169754
+        },
+        {
+            "text": "\"We were drawn into close orbit around Jupiter.\"",
+            "act": 0.04347602650523186
+        },
+        {
+            "text": "For more information, links to sources, photos and data maps, please visit the documentary website, www.theracetoanemergency.org.",
+            "act": 0.042169321328401566
+        },
+        {
+            "text": "Consider this example.",
+            "act": 0.03913862630724907
+        },
+        {
+            "text": "When you are planning table seating, try to set guests in pairs, so you can ensure every table has an even number of those sitting at it.",
+            "act": 0.03888742998242378
+        },
+        {
+            "text": "About\n\nThis user has not entered any info yet.",
+            "act": 0.036795880645513535
+        },
+        {
+            "text": "For problem 2, both parts are measured in rows.",
+            "act": 0.036421116441488266
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.03490981087088585
+        },
+        {
+            "text": "\"We'll catch our deaths.\"",
+            "act": 0.03434189781546593
+        },
+        {
+            "text": "Any missing issues reported, we will reship your order immediately.",
+            "act": 0.03275344893336296
+        },
+        {
+            "text": "Lodging & Accommodations\n\nOf all our travel plans, the one that seems to always go the most awry for us is hotels.",
+            "act": 0.028814855962991714
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.024962197989225388
+        },
+        {
+            "text": "In this paper, we first obtain the following result.",
+            "act": 0.02495507523417473
+        },
+        {
+            "text": "The show also witnessed some downfall because of the frequent change of its showrunners in two seasons.",
+            "act": 0.022386517375707626
+        },
+        {
+            "text": "\"The rest of us will rendezvous here at 18:00 hours.\"",
+            "act": 0.021969255059957504
+        },
+        {
+            "text": "We describe two methods to obtain the uncertainty on .",
+            "act": 0.018951740115880966
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.015813838690519333
+        },
+        {
+            "text": "Projecting porch to the north with panelled door and rectangular fanlight.",
+            "act": 0.015242616645991802
+        },
+        {
+            "text": "These measurements are combined with our RV measurements and led to the orbital elements given in Table\u00a0\\[tab:VB-elements\\].",
+            "act": 0.014594960026443005
+        },
+        {
+            "text": "\" What's your situation?\"",
+            "act": 0.013621116988360882
+        },
+        {
+            "text": "Three first floor recessed sash windows in gabled bays with Venetian shutters.",
+            "act": 0.012443478219211102
+        },
+        {
+            "text": "If an additional delay occurs, we will contact you as quickly as possible.",
+            "act": 0.012184231542050838
+        },
+        {
+            "text": "Energy-momentum and angular momentum balance equations for radiating scalar pole constitute system of ten linear algebraic equations in variables $p^\\mu_{\\rm part}(\\tau)$ and their first time derivatives ${\\dot p}^\\mu_{\\rm \npart}(\\tau)$ as functions of particle\u2019s individual characteristics (velocity, acceleration, charge etc.).",
+            "act": 0.011158193461596966
+        },
+        {
+            "text": "Our pastor also recommended that we attend a marriage-themed Bible study.",
+            "act": 0.009604650549590588
+        },
+        {
+            "text": "In fact she would get agitated and not sit still during meals and I'd have to remind her to sit down and eat.",
+            "act": 0.00813260953873396
+        },
+        {
+            "text": "Orthopedics \nMany individuals with A\u2013T develop deformities of the feet that compound the difficulty they have with walking due to impaired coordination.",
+            "act": 0.007845903746783733
+        },
+        {
+            "text": "Rheumatoid arthritis (RA) is characterized by chronic inflammatory process that targets the synovial lining of diarthrodial joints.",
+            "act": 0.007353159599006176
+        },
+        {
+            "text": "\"Take Cora to the airport.\"",
+            "act": 0.00662046205252409
+        },
+        {
+            "text": "Where was the Twin Towers placed they built the Ground Zero Plaza with fountain, that received the names of The North Pool and South Pool, as you can see the photos above.",
+            "act": 0.006578306667506695
+        },
+        {
+            "text": "they just lost contact around Jupiter.\"",
+            "act": 0.006273913197219372
+        },
+        {
+            "text": "Defects in MADH4 result in pancreatic, colorectal, juvenile polyposis syndrome, juvenile intestinal polyposis and primary pulmonary hypertension \\[[@B69],[@B70]\\].",
+            "act": 0.005580048076808453
+        },
+        {
+            "text": "We discuss problem 2 from this set after work time.",
+            "act": 0.005066092126071453
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

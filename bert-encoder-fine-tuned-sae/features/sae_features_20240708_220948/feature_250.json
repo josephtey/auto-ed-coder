@@ -1,0 +1,412 @@
+{
+    "index": 250,
+    "label": "Structured and factual information",
+    "attributes": "specific structured information, referencing sources, exact times and dates, detailed descriptions, proper nouns, factual information, events, references, formal sentences",
+    "reasoning": "The positive samples contain specific structured information such as referencing sources, exact times and dates, detailed descriptions, proper nouns, and formal sentences. These are often related to factual information, events, references, or specific entities which are formatted in a formal manner. The negative samples, on the other hand, mostly consist of informal conversation or dialogue, often discussing opinions, theories, or casual observations about various topics.",
+    "density": 0.0026620353894116476,
+    "confidence": 34.0,
+    "high_act_samples": [
+        {
+            "text": "SOURCE",
+            "act": 0.24351279437541962
+        },
+        {
+            "text": "Source",
+            "act": 0.23330505192279816
+        },
+        {
+            "text": "Source: repubblica",
+            "act": 0.19896601140499115
+        },
+        {
+            "text": "Medications were highlighted with yellow and attributes were highlighted with light gray.",
+            "act": 0.19522254168987274
+        },
+        {
+            "text": "() are shown.",
+            "act": 0.1823141723871231
+        },
+        {
+            "text": "A match is indicated.",
+            "act": 0.1762721836566925
+        },
+        {
+            "text": "return 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 # # Send email to you!",
+            "act": 0.14463794231414795
+        },
+        {
+            "text": "One team was assigned to each county.",
+            "act": 0.1180947944521904
+        },
+        {
+            "text": "c) See text.",
+            "act": 0.11678352952003479
+        },
+        {
+            "text": "Each of the 32 teams will play four preliminary games, with the top eight teams seeded into a tournament to determine the champion.",
+            "act": 0.11651400476694107
+        },
+        {
+            "text": "id is already the primary key, the additional UNIQUE constraint is useless ballast.",
+            "act": 0.11343149840831757
+        },
+        {
+            "text": "The original value will be discarded.",
+            "act": 0.11300920695066452
+        },
+        {
+            "text": "Source: Ol\u00e9",
+            "act": 0.10980087518692017
+        },
+        {
+            "text": "Just in time for LA Galaxy vs. Portland (Saturday at 10:30 pm ET on FS1, FOX Deportes, TSN4).",
+            "act": 0.10955192148685455
+        },
+        {
+            "text": "(b)(1) (C)).",
+            "act": 0.10724557936191559
+        },
+        {
+            "text": "(B) The locations of the 84 selected sensors are shown as red points.",
+            "act": 0.10550286620855331
+        },
+        {
+            "text": "Hosted by Mike Enriquez, it premiered on August 2, 2000 replacing Compa\u00f1ero y Compa\u00f1era.",
+            "act": 0.10358089953660965
+        },
+        {
+            "text": "Far-right party AfD, which had railed against asylum seekers, jumped in to push its point.",
+            "act": 0.10246749967336655
+        },
+        {
+            "text": "Both teams have a golden chance.",
+            "act": 0.09980780631303787
+        },
+        {
+            "text": "Made on a dedicated stovetop with short-grain bomba rice, the dish, apportioned for two or more, comes in four flavors and stripes of aioli.",
+            "act": 0.09539777785539627
+        },
+        {
+            "text": "\u201cNow?",
+            "act": 0.09461913257837296
+        },
+        {
+            "text": "She is regarded as an innovative, or experimental, poet.",
+            "act": 0.09415341168642044
+        },
+        {
+            "text": "The question is when it\u2019s appropriate.",
+            "act": 0.08981139957904816
+        },
+        {
+            "text": "Ecol Evol.",
+            "act": 0.08797774463891983
+        },
+        {
+            "text": "Henry C\u00e1rdenas\n\nHenry C\u00e1rdenas Ordaz (born October 30, 1965 in Sogamoso, Boyac\u00e1) is a retired road cyclist from Colombia, who was a professional rider from 1986 to 1997.",
+            "act": 0.08794691413640976
+        },
+        {
+            "text": "Key residues are highlighted in stick representation.",
+            "act": 0.08565922826528549
+        },
+        {
+            "text": "GROUP F: A temporary ban on the Icelandic\n\nAustria plays Hungary at noon ET on Tuesday on ESPN.",
+            "act": 0.08540909737348557
+        },
+        {
+            "text": "center, she said.",
+            "act": 0.08527471125125885
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Protocol**\n\nDate of the investigation\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSubject code:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Introduction**\n\nDuring this investigation I am going to ask you questions, and to ask you to perform tasks.",
+            "act": 0.08526837080717087
+        },
+        {
+            "text": "Utah, which plays TCU on Saturday, is fifth.",
+            "act": 0.0830911174416542
+        },
+        {
+            "text": "Norsk Privatebane Historisk Selskap was established in 1967 with the intension of establishing a heritage railway.",
+            "act": 0.0826607197523117
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Association with relevant diagnosis and illness *4 points*\n\n\u25a1 Association with a relevant diagnostic name, but without knowing the implications of the diagnosis *3 points*\n\n\u25a1 Association with illness, but no diagnosis *2 points*\n\n\u25a1 Does not know *1 point*\n\n**9.",
+            "act": 0.08150150626897812
+        },
+        {
+            "text": "Products include plain petroleum jelly and a selection of skin creams, soaps, lotions, cleansers, and deodorants.",
+            "act": 0.08040254563093185
+        },
+        {
+            "text": "These Journals included Indian Journal of Pediatrics (IJP), Indian Pediatrics (IP), Journal of the Association of Physicians of India (JAPI), Journal of Indian Medical Association (JIMA), Indian Journal of Critical Care Medicine (IJCCM), Indian Journal of Medical and Pediatric Oncology (IJMPO), Indian Journal of Gastroenterology (IJG), Indian Journal of Ophthalmology (IJO), and Journal of Obstetrics and Gynecology of India (JOGI).",
+            "act": 0.07966548949480057
+        },
+        {
+            "text": "They are left on the stem after the petals have fallen off.",
+            "act": 0.07914059609174728
+        },
+        {
+            "text": "Her only concern?",
+            "act": 0.07757341861724854
+        },
+        {
+            "text": "Outside of those picks, the Blue Jays selected four college seniors, two that had been drafted last year.",
+            "act": 0.07707961648702621
+        },
+        {
+            "text": "Returning 0 or less signifies an error.",
+            "act": 0.07683931291103363
+        },
+        {
+            "text": "(RT)",
+            "act": 0.07672830671072006
+        },
+        {
+            "text": ", 53(2):3\u2013106, 1998.",
+            "act": 0.07579882442951202
+        },
+        {
+            "text": "All but\none are closed.",
+            "act": 0.0756494328379631
+        },
+        {
+            "text": "The box represents the upper and lower quartiles.",
+            "act": 0.07470636814832687
+        },
+        {
+            "text": "She was 74.",
+            "act": 0.07426206767559052
+        },
+        {
+            "text": ", 1:35\u201347, 1950.",
+            "act": 0.07374340295791626
+        },
+        {
+            "text": "All quotes are in local exchange time.",
+            "act": 0.07328864932060242
+        },
+        {
+            "text": "Her poetry is usually described as \u201cprimitive\u201d due to her scarce use of words, yet hers are masterful pieces full of emotions and images.",
+            "act": 0.07204773277044296
+        },
+        {
+            "text": ", 57(2):191\u2013201, 1978.",
+            "act": 0.07162096351385117
+        },
+        {
+            "text": "At issue here is what that means.",
+            "act": 0.07147246599197388
+        },
+        {
+            "text": "The series is 14-14-1 since it resumed in 1978.",
+            "act": 0.07138071209192276
+        },
+        {
+            "text": "The bill\u2019s primary proponent is State Representative Mike Ritze (R-Broken Arrow).",
+            "act": 0.07100369036197662
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

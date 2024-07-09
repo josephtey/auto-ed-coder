@@ -1,0 +1,412 @@
+{
+    "index": 421,
+    "label": "Structured, detailed informative content",
+    "attributes": "structured information, complete sentences, detailed descriptions, specific contexts, factual content",
+    "reasoning": "In examining the provided texts, I noticed that the samples contain various structured, factual information, complete sentences, detailed descriptions, and specific contexts such as historical events, sports commentaries, and dialogues. None of the negative samples exhibited all these properties together; instead, they are more informal, conversational, and lack the structured, informative content that characterizes the samples.",
+    "density": 0.0002372580560972948,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "\"No, Barb, you can't.\"",
+            "act": 0.10125408321619034
+        },
+        {
+            "text": "While trying to navigate one of the Ford GTs, BMW lost the GTLM lead as the No.",
+            "act": 0.09758824855089188
+        },
+        {
+            "text": "A trio of Corvette DPs headed the field on the ensuing restart with the Action Express duo trailing Wayne Taylor Racing.",
+            "act": 0.08729968219995499
+        },
+        {
+            "text": "At the 1994 FINA World Championships, she won the 100- and 200-meter backstroke events, setting the meet record in the women's 100 back at 1:00.16.",
+            "act": 0.08555091172456741
+        },
+        {
+            "text": "\"You're not in a position to make demands.\"",
+            "act": 0.08509590476751328
+        },
+        {
+            "text": "\"We're not in the mood.\"",
+            "act": 0.0763816386461258
+        },
+        {
+            "text": "Mens Clothing\n\nProsperity afforded more leisure time and men\u2019s clothing began to reflect a more casual lifestyle.",
+            "act": 0.057922035455703735
+        },
+        {
+            "text": "The member nations are Belize, Canada, Costa Rica, El Salvador, the United States, Guatemala, Honduras, Mexico, Nicaragua, Panama and the Dominican Republic, said the Interior Secretariat in a statement over the weekend.",
+            "act": 0.05778034031391144
+        },
+        {
+            "text": "911 Porsche of Nick Tandy overtook John Edwards into the bus stop chicane.",
+            "act": 0.05758340284228325
+        },
+        {
+            "text": "With the Lamborghini drama in GTD, the door was opened for the Frikadelli Racing Porsche to take control.",
+            "act": 0.05086261406540871
+        },
+        {
+            "text": "\"No, I can't.\"",
+            "act": 0.0471760556101799
+        },
+        {
+            "text": "\"You can't touch, that's true.\"",
+            "act": 0.04390948638319969
+        },
+        {
+            "text": "Even as the Buffs' secondary suffocated Washington's passing in the first half, the Huskies' dynamic running backs barreled forward for better than 6 yards per carry to put their team in control of the game.",
+            "act": 0.040982723236083984
+        },
+        {
+            "text": "The Nomad Unit headed by the Mobile Brigada fired as well hitting everything and anything.",
+            "act": 0.03872322663664818
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.03767896443605423
+        },
+        {
+            "text": "\"You don't have to buy me a drink, Axel.\"",
+            "act": 0.035961344838142395
+        },
+        {
+            "text": "Available military plate designs:\n\nAir Force Active Duty\n\nAir Force Reserve\n\nAir Force Veteran\n\nArmy Active Duty\n\nArmy Reserve\n\nArmy Veteran\n\nCoast Guard Active Duty\n\nCoast Guard Veteran\n\nDisabled Veteran\n\nEx-Prisoner of War\n\nGold Star Family\n\nLegion of Valor\n\nMarine Corp Active Duty\n\nMarine Corps Reserve\n\nMarine Corps Veteran\n\nNational Guard\n\nNavy Active Duty\n\nNavy Reserve\n\nNavy Veteran\n\nNext of Kin of Deceased Personnel\n\nPearl Harbor Survivor\n\nPurple Heart Disabled Veteran\n\nPurple Heart Veteran*\n\nWhile some military plates are free, others cost an additional $10 on top of normal registration fees (this fee supports veterans funds).",
+            "act": 0.034922629594802856
+        },
+        {
+            "text": "Fleet\nHighway Tours inherited a fleet composed predominantly of AECs, Bedfords and Leylands.",
+            "act": 0.03455805033445358
+        },
+        {
+            "text": "See also\n World record progression 100 metres backstroke\n World record progression 200 metres backstroke\n\nReferences\n\nCategory:1975 births\nCategory:Living people\nCategory:Chinese female swimmers\nCategory:Female backstroke swimmers\nCategory:Olympic swimmers of China\nCategory:Swimmers at the 1992 Summer Olympics\nCategory:Swimmers at the 1996 Summer Olympics\nCategory:World record setters in swimming\nCategory:World Aquatics Championships medalists in swimming\nCategory:Medalists at the FINA World Swimming Championships (25 m)\nCategory:Asian Games medalists in swimming\nCategory:Asian Games gold medalists for China\nCategory:Swimmers at the 1994 Asian Games\nCategory:Medalists at the 1994 Asian Games",
+            "act": 0.03206571564078331
+        },
+        {
+            "text": "I used the dye oxides from Christi Friesens swellegant in different blue shades and acrylic paint (Reeves) in paynes grey and white.",
+            "act": 0.030570276081562042
+        },
+        {
+            "text": "Once your credential are verified, create a passphrase just by moving your mouse around.",
+            "act": 0.027466919273138046
+        },
+        {
+            "text": "Shades of pastel blue, green and pink dominate the ladies' section while red, gray and forest green prevail in the men's.",
+            "act": 0.027393806725740433
+        },
+        {
+            "text": "When the first two seasons of Designated Survivor landed on Netflix, there was a significant increase in the global viewership of the show.",
+            "act": 0.023714028298854828
+        },
+        {
+            "text": "Miranda, 384 U.S. at 478 (emphasis added).",
+            "act": 0.019361652433872223
+        },
+        {
+            "text": "-12, -7, -5, -4, -1, 3\nPut -1.6, 0.14, -4/25, 5, -2 in descending order.",
+            "act": 0.018155477941036224
+        },
+        {
+            "text": "The mol\u00adecular structure of the title compound is similar to that of (*E*)-4-hy\u00addroxy-3-\\[*N*-(4-hy\u00addroxy\u00adphen\u00adyl)ethanimido\u00adyl\\]-6-methyl-2*H*-pyran-2-one (Djedouani *et al.",
+            "act": 0.017819326370954514
+        },
+        {
+            "text": "Strengths: Smith emerged as the team's most important player and backstopped a team that was fifth in the regular season in goals-against average while finishing 28th in shots-allowed per game.",
+            "act": 0.017242707312107086
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.01678607612848282
+        },
+        {
+            "text": "A few months after Obaida was born, Iraqi and U.S. forces began a campaign to take back Mosul.",
+            "act": 0.016082070767879486
+        },
+        {
+            "text": "The Bruins failed to win 20 games for the second time in three years and couldn't even make the big dance.",
+            "act": 0.015341512858867645
+        },
+        {
+            "text": "Before it was lifted, the Pacific centre's tsunami warning was in effect for the Solomon Islands, Vanuatu, Nauru, Papua New Guinea, Tuvalu, New Caledonia, Kosrae, Fiji, Kiribati, and Wallis and Futuna.",
+            "act": 0.015064403414726257
+        },
+        {
+            "text": "\"You mustn't return to the city.\"",
+            "act": 0.013052858412265778
+        },
+        {
+            "text": "***\n\nThe results of the face recognition search are returned and the redheads' eyes widen.",
+            "act": 0.012764077633619308
+        },
+        {
+            "text": "Send the TLD, followed by a newline.",
+            "act": 0.01257895678281784
+        },
+        {
+            "text": "\"Sensors indicate three Klingon cruisers, bearing 3-1-6 mark 4.\"",
+            "act": 0.011906255036592484
+        },
+        {
+            "text": "2003/0114565, the entire disclosure of which is hereby\nincorporated herein by reference), polyolefins, polyamides, polyesters,\npolyethers, polycarbonates, polysulfones, polyacetals, polylactones,\nacrylonitrile-butadiene-styrene resins, polyphenylene oxide,\npolyphenylene sulfide, styrene-acrylonitrile resins, styrene maleic\nanhydride, polyimides, aromatic polyketones, ionomers and ionomeric\nprecursors, acid copolymers, conventional HNPs, polyurethanes, grafted\nand non-grafted metallocene-catalyzed polymers, single-site catalyst\npolymerized polymers, high crystalline acid polymers, cationic ionomers,\nand combinations thereof.",
+            "act": 0.008163940161466599
+        },
+        {
+            "text": "Just as they were about to direct their attention to the Nomad force, bullets tore through their bodies.",
+            "act": 0.007992938160896301
+        },
+        {
+            "text": "34, Braathen had mastered a difficult course set in the opening run to build a lead of 0.33 seconds over Yule.",
+            "act": 0.007432296872138977
+        },
+        {
+            "text": "Click Accessorial assignments.",
+            "act": 0.007299885153770447
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.004747264087200165
+        },
+        {
+            "text": "She performed in plays such as Cartref, Dryd o Ddail and Awel Gref.",
+            "act": 0.004694603383541107
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.004481084644794464
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.004481084644794464
+        },
+        {
+            "text": "Drab knickers and fitted coat tails gave way to more colorful fabrics and flowing lines.",
+            "act": 0.0033382547553628683
+        },
+        {
+            "text": "\"Sulu, get those shields up.\"",
+            "act": 0.0031195615883916616
+        },
+        {
+            "text": "Both Fittipaldi - who\ndrove only 11 laps - and Kelleners* were well off the pace.",
+            "act": 0.0022069436963647604
+        },
+        {
+            "text": "Womack would close his senior year with 1,025 career points to become the first Brooker to eclipse the 1,000 point plateau.",
+            "act": 0.0015713756438344717
+        },
+        {
+            "text": "Email may deny you when you are attempting to sign in to your account as your entered password is off base.",
+            "act": 0.0014880967792123556
+        },
+        {
+            "text": "Don't make them read; provide visuals in tandem.",
+            "act": 0.0008809154387563467
+        },
+        {
+            "text": "Initiate the process by writing to us at [email protected] with the subject line \u201cProduct return [your invoice number]\u201d.",
+            "act": 0.00032384670339524746
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

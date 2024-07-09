@@ -1,0 +1,412 @@
+{
+    "index": 552,
+    "label": "Technical and complex structured text",
+    "attributes": "contain technical/formal content, include code segments, contain multilingual examples, use special characters and symbols, varied linguistic/formatting choices",
+    "reasoning": "The samples have specific characteristics that set them apart. One notable trait is the inclusion of complex structured text elements such as technical information, formal elements, code segments, and multilingual examples, which are absent in the other set. Additionally, the samples make extensive use of special characters, symbols, and formal terminologies, indicating a higher level of detail and variety in the linguistic and formatting choices.",
+    "density": 0.0008588741630722071,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.4704763889312744
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.42579543590545654
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.42273592948913574
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.39194583892822266
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.3586238920688629
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.35619014501571655
+        },
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.3314945697784424
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.3314945697784424
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.27850982546806335
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.2572774291038513
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.2570774257183075
+        },
+        {
+            "text": "\u300b False\n\nprint(hanzidentifier.has_chinese('Country in Simplified: \u56fd\u5bb6.",
+            "act": 0.24239830672740936
+        },
+        {
+            "text": "Given the Peano definition of natural numbers:\ndata \u2115 : Set where\n  zero : \u2115\n  suc  : \u2115 \u2192 \u2115\n\n_+_ : \u2115 \u2192 \u2115 \u2192 \u2115\nzero + n = n\n(suc m) + n = suc (m + n)\n\nWe can prove by different methods the property \u2200 (m : \u2115) \u2192 zero + m \u2261 m + zero.",
+            "act": 0.2087361067533493
+        },
+        {
+            "text": "Japanese Patent Publication No.",
+            "act": 0.1889439970254898
+        },
+        {
+            "text": "898-2410. nps.gov/york/historyculture/nelson-house.htm\n\n38.",
+            "act": 0.16242532432079315
+        },
+        {
+            "text": "Also \u2220[u, v] = \u2220[0] iff //  v.<br />\n  <strong>R4.</strong> If u \u22a5 v, then we define \u2220[u, v] to be a constant full-angle \u2220[1].",
+            "act": 0.16193346679210663
+        },
+        {
+            "text": "898-2410. nps.gov/york/historyculture/moore-house.htm\n\n36.",
+            "act": 0.15619832277297974
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.15531660616397858
+        },
+        {
+            "text": "898-2410. nps.gov/york/historyculture/the-poor-potter-site.htm\n\n44.",
+            "act": 0.14830522239208221
+        },
+        {
+            "text": "</strong>A full-angle is defined as an ordered pair of two lines u and v denoted by \u2220[u, v].<br />\n  <strong>R2.</strong> \u2220[u, v] = \u2212\u2220[v, u].<br />\n  <strong>R3.</strong> Constant full-angle \u2220[u, u] is denoted by \u2220[0].",
+            "act": 0.14718599617481232
+        },
+        {
+            "text": "\u2713 Maximize flavor and aroma extraction.",
+            "act": 0.1430685669183731
+        },
+        {
+            "text": "Japanese Patent No.",
+            "act": 0.137982577085495
+        },
+        {
+            "text": "[*Model.",
+            "act": 0.11401250213384628
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.11335241049528122
+        },
+        {
+            "text": "\u2220[u, v] + \u2220[u, v] = \u2220[0], or\n  \u2220[1] + \u2220[1] = \u2220[0].<br />\n  <strong>R5.</strong> For any line l, the operation \u201daddition\u201d between two full angles is defined as\u2220[u, v] =\n  \u2220[u, l]+\u2220[l, v].",
+            "act": 0.10161666572093964
+        },
+        {
+            "text": "Country in Traditional: \u570b\u5bb6.'))",
+            "act": 0.10054633021354675
+        },
+        {
+            "text": "Japanese Patent Publication (JP-B) No.",
+            "act": 0.09663437306880951
+        },
+        {
+            "text": "[Spatial data loading time.",
+            "act": 0.09561993181705475
+        },
+        {
+            "text": "(Supp.",
+            "act": 0.09239716827869415
+        },
+        {
+            "text": "[Experimental setup.",
+            "act": 0.09178458154201508
+        },
+        {
+            "text": "gov, number NCT00376883.",
+            "act": 0.08999866247177124
+        },
+        {
+            "text": "898-2410. nps.gov/yonb/index.htm",
+            "act": 0.08816894143819809
+        },
+        {
+            "text": "[madrid2004.pdf](faculty.",
+            "act": 0.0875067263841629
+        },
+        {
+            "text": "[Graph construction.",
+            "act": 0.08682123571634293
+        },
+        {
+            "text": "(Pet.",
+            "act": 0.08549419045448303
+        },
+        {
+            "text": "[@pgen.1004430-Helling1] population sample archived (\u223c350 generations) (data not shown).",
+            "act": 0.07667712867259979
+        },
+        {
+            "text": "[Scalability test.",
+            "act": 0.076549232006073
+        },
+        {
+            "text": "Watarase Station (\u6e21\u702c\u99c5) was opened.",
+            "act": 0.07585528492927551
+        },
+        {
+            "text": "[@Raghavan1].",
+            "act": 0.0749702900648117
+        },
+        {
+            "text": "2015-05961\n (Index No.",
+            "act": 0.07476048171520233
+        },
+        {
+            "text": "0000.",
+            "act": 0.0695871114730835
+        },
+        {
+            "text": "(Health & Saf.",
+            "act": 0.06365888565778732
+        },
+        {
+            "text": "KOINA/MNT-ERA.NET/0311/01).",
+            "act": 0.06150517240166664
+        },
+        {
+            "text": "[Data collection procedure.",
+            "act": 0.0603131540119648
+        },
+        {
+            "text": "In addition, M10\u2640 also deleted C339 and C340.",
+            "act": 0.05934419110417366
+        },
+        {
+            "text": "\\nonumber\\end{aligned}$$ $[A2]\\ \\ \\forall L>0,\\ \\exists c_{L}>0:{\\rm constant},\\ \\forall r>0,$ $$\\begin{aligned}\n\\sup_{\\xi_{0}\\in K}P\\Bigl[\\bigl\\{\\omega:\\ r^{-\\nu_{1}} \\vert u\\vert^{2}> \\Gamma_{0}(\\tau;\\xi_{0})/4[u,u],\\ \\forall(u,\\tau)\\in \\mathbb{R}^{p}\\times \\mathcal{T}\\bigr\\}\\Bigr]\\leq \\frac{c_{L}}{r^{L}}.",
+            "act": 0.05886724591255188
+        },
+        {
+            "text": "Five rabbits (M1\u2640, M2\u2642, M3\u2640, M5\u2640, and M7\u2640) deleted C272, C281, C282, C339, and C340.",
+            "act": 0.056789059191942215
+        },
+        {
+            "text": "1998, no pet.).",
+            "act": 0.055954430252313614
+        },
+        {
+            "text": "1992,\nno pet.).",
+            "act": 0.05426662042737007
+        },
+        {
+            "text": "2005, no pet.).",
+            "act": 0.053475622087717056
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

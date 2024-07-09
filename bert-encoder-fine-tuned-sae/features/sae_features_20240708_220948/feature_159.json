@@ -1,0 +1,412 @@
+{
+    "index": 159,
+    "label": "Narrative and formal communication",
+    "attributes": "formal tone, structured language, informational content, correct grammar",
+    "reasoning": "Analyzing the given samples, I observed that the texts in the samples all have a more formal tone, often discussing topics in a manner that appears to be narrative, informative, or report-like. These texts frequently involve reporting events, issuing recommendations or observations, and using structured and grammatically correct language. In contrast, the other samples are more casual, conversational, and fragmented, containing slang, informal expressions, opinions, or casual discussions.",
+    "density": 0.0010202096412183675,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "TV shows have been known to be cancelled and jobs have been known to be lost.",
+            "act": 0.13343417644500732
+        },
+        {
+            "text": "Pokud pou\u017e\u00edv\u00e1te softwarov\u00fd RAID, doporu\u010dujeme resynchronizaci prov\u00e9st manu\u00e1ln\u011b.",
+            "act": 0.1098334863781929
+        },
+        {
+            "text": "Obama is taking his \u201cvictory\u201d lap, making his \u201cfarewell\u201d speeches.",
+            "act": 0.10707466304302216
+        },
+        {
+            "text": "Motor registries shut down and sold off: Former Premier Barry O'Farrell.",
+            "act": 0.10005993396043777
+        },
+        {
+            "text": "DIEEEEEEEEGGGGGOOOOOOOOOOOOOOOO!!!",
+            "act": 0.09195053577423096
+        },
+        {
+            "text": "I want to see much more resources provided for elderly mental health services, disability supports and all frontline services that were drastically cut by FG/Labour.\u2019\n\n\u2018Other big concerns for people include access to childcare and educational supports like SNAs and resource hours in schools, greater disability access in public transport and the upgrading of road infrastructure to attract jobs to Donegal.",
+            "act": 0.08766274899244308
+        },
+        {
+            "text": "A few more \u201cspeeches\u201d by Rev.",
+            "act": 0.08380071073770523
+        },
+        {
+            "text": "\"o299\".",
+            "act": 0.08377715200185776
+        },
+        {
+            "text": "Obiekty Zend_Mime_Part\n        mog\u0105 by\u0107 wtedy zmienione poniewa\u017c s\u0105 one przechowywane w tablicy jako referencje.",
+            "act": 0.08137112855911255
+        },
+        {
+            "text": "Their insistence on ending the taxes became a key reason why enough House Democrats agreed to cut a deal and the GOP won a significant victory over Perdue in what\u2019s become a divided state government.",
+            "act": 0.0765460655093193
+        },
+        {
+            "text": "Enjoy now only the best friv Fireboy and Watergirl games.",
+            "act": 0.07550273090600967
+        },
+        {
+            "text": "Satin Youth Wrinkle Cream\n\nSatin Youth Wrinkle Cream.",
+            "act": 0.07544475048780441
+        },
+        {
+            "text": "There was something magical about seeing the actors\u2019 performances and stellar musical numbers, such as \u201cSkid Row\u201d and \u201cSuddenly Seymour,\u201d in the theater again after thirty years.",
+            "act": 0.07480403035879135
+        },
+        {
+            "text": "Spole\u010dnost OVH nen\u00ed administr\u00e1torsk\u00fdm subjektem t\u011bchto stroj\u016f a nedisponuje \u017e\u00e1dn\u00fdmi p\u0159\u00edstupov\u00fdmi pr\u00e1vy.",
+            "act": 0.07326389104127884
+        },
+        {
+            "text": "-\tPotvrzen\u00ed o srozum\u011bn\u00ed s rizikem potenci\u00e1ln\u00ed ztr\u00e1ty dat vypl\u00fdvaj\u00edc\u00ed z v\u00fdm\u011bny disku.",
+            "act": 0.07187395542860031
+        },
+        {
+            "text": "People get presents for Decemberween?",
+            "act": 0.07139088958501816
+        },
+        {
+            "text": "Dal\u0161\u00ed informace naleznete v posledn\u00ed sekci t\u00e9to p\u0159\u00edru\u010dky.",
+            "act": 0.06977532058954239
+        },
+        {
+            "text": "POOF GAAAAAAAAAWWWWN!!",
+            "act": 0.06912130862474442
+        },
+        {
+            "text": "And there were spirited speeches from Green MP Caroline Lucas and Lib Dem health spokesman Norman Lamb.",
+            "act": 0.0690600574016571
+        },
+        {
+            "text": "Simchuk\u2019s clubs were reborn as lounges.",
+            "act": 0.06865402311086655
+        },
+        {
+            "text": "Unhappy managers, unhappy employees, wasted money and dead gulls.",
+            "act": 0.06446457654237747
+        },
+        {
+            "text": "Kodowanie i obs\u0142uga\n      p\u00f3l rozgraniczaj\u0105cych s\u0105 obs\u0142ugiwane przez sam\u0105 klas\u0119.",
+            "act": 0.06411642581224442
+        },
+        {
+            "text": "Jean begins.",
+            "act": 0.06382329016923904
+        },
+        {
+            "text": "The party\u2019s Communications- in- Charge , Randeep Singh Surjewala tweeted\n\nA sad day in the global fight against terrorism!",
+            "act": 0.06366892904043198
+        },
+        {
+            "text": "In turn the county signs an agreement with CoreCivic.",
+            "act": 0.0634441152215004
+        },
+        {
+            "text": "Philpott served as an MP for Markham-Stouffville for four years, holding several cabinet posts before stepping down from her ministerial duties \u2014 she most recently served as president of the Treasury Board \u2014 over the prime minister\u2019s handling of the SNC-Lavalin affair.",
+            "act": 0.06212287023663521
+        },
+        {
+            "text": "Tato \u010d\u00edsla jsou odes\u00edl\u00e1na technik\u016fm v na\u0161ich datacentrech, co\u017e zajist\u00ed vyhnut\u00ed se p\u0159\u00edpadn\u00fdm chyb\u00e1m v pr\u016fb\u011bhu v\u00fdm\u011bny Va\u0161eho disku.",
+            "act": 0.06144687160849571
+        },
+        {
+            "text": "New honours.",
+            "act": 0.05945837125182152
+        },
+        {
+            "text": "Boehner had a unique opportunity on Leno to sell the conservative vision of opportunity, full employment and less government.",
+            "act": 0.05823541805148125
+        },
+        {
+            "text": "Tento krok zna\u010dn\u011b zjednodu\u0161\u00ed pr\u00e1ci na\u0161im t\u00fdm\u016fm v datacentru.",
+            "act": 0.058228496462106705
+        },
+        {
+            "text": "Jak bylo \u0159e\u010deno ji\u017e v\u00fd\u0161e, informace o s\u00e9riov\u00fdch \u010d\u00edslech v\u0161ech disk\u016f jsou velice d\u016fle\u017eit\u00e9.",
+            "act": 0.05778470262885094
+        },
+        {
+            "text": "At last count there were 23 \"major\" candidates including seven senators, four members of Congress, three mayors, two governors and a clutch of other hopefuls.",
+            "act": 0.056558623909950256
+        },
+        {
+            "text": "Intervenci je v\u0161ak mo\u017en\u00e9 napl\u00e1novat kdykoli, 24/7.",
+            "act": 0.05647887662053108
+        },
+        {
+            "text": "> \n> Tato p\u0159\u00edru\u010dka slou\u017e\u00ed jako \u00favod do nej\u010dast\u011bj\u0161\u00edch \u00fakon\u016f spojen\u00fdch se spr\u00e1vou a zabezpe\u010den\u00edm Va\u0161eho serveru.",
+            "act": 0.05422784015536308
+        },
+        {
+            "text": "OPINION\nDAY, Justice.",
+            "act": 0.05344225838780403
+        },
+        {
+            "text": "Pro nalezen\u00ed p\u0159\u00edstupov\u00e9 cesty ke sv\u00fdm disk\u016fm postupujte podle instrukc\u00ed v\u00e1\u017e\u00edc\u00edch se k V\u00e1mi vyu\u017e\u00edvan\u00e9mu typu RAID ovlada\u010de.",
+            "act": 0.05264173448085785
+        },
+        {
+            "text": "The restaurant industry had seen 80 per cent of jobs lost, and 890,000 people in the film and entertainment employees were laid off.",
+            "act": 0.05258284509181976
+        },
+        {
+            "text": "Funkce *auto-rebuild* je aktivov\u00e1na ve v\u00fdchoz\u00edm nastaven\u00ed.",
+            "act": 0.05217408761382103
+        },
+        {
+            "text": "Better public hospitals.",
+            "act": 0.05109895393252373
+        },
+        {
+            "text": "St. Mr' owczy' nski and M.H.",
+            "act": 0.05006016790866852
+        },
+        {
+            "text": "Night hours should be revalued.",
+            "act": 0.04992160201072693
+        },
+        {
+            "text": "We need to see a restoration of income supports and social welfare payments to combat fuel, food and child poverty rates which have sky-rocketed since FG/Labour made drastic cuts to state services.\u2019\n\n\u2018People are dealing with greater uncertainty over access to healthcare in Donegal.",
+            "act": 0.04941941425204277
+        },
+        {
+            "text": "Resynchroniza\u010dn\u00ed proces m\u016f\u017ee trvat n\u011bkolik minut a v jeho pr\u016fb\u011bhu m\u016f\u017ee doj\u00edt ke sn\u00ed\u017een\u00ed v\u00fdkonu Va\u0161eho RAIDu.",
+            "act": 0.04913276061415672
+        },
+        {
+            "text": "Six village elders are discussing the upcoming general elections over tea.",
+            "act": 0.04858460649847984
+        },
+        {
+            "text": "Obiekty <code>Zend_Mime_Message</code>\n      mog\u0105 by\u0107 tak\u017ce zrekonstruowane z podanych \u0142a\u0144cuch\u00f3w znak\u00f3w (eksperymentalne).",
+            "act": 0.048255555331707
+        },
+        {
+            "text": "Labour\u2019s woke London luvvies IGNORED voters\u2019 real concerns, says DEHENNA DAVISON\n\nLast December's General Election was historic.",
+            "act": 0.04793565347790718
+        },
+        {
+            "text": "When the RSP dramatically collapsed \u2013 taking the left in general with it and opening the way to Conservative dominance \u2013 this created a new power dynamic in British politics.",
+            "act": 0.04788840189576149
+        },
+        {
+            "text": "N\u00ed\u017ee naleznete seznam po\u017eadovan\u00fdch informac\u00ed:\n\n- **S\u00e9riov\u00e9 \u010d\u00edslo vadn\u00e9ho disku a s\u00e9riov\u00e1 \u010d\u00edsla v\u0161ech ostatn\u00edch disk\u016f, kter\u00e9 funguj\u00ed norm\u00e1ln\u011b.",
+            "act": 0.047735586762428284
+        },
+        {
+            "text": "Z toho d\u016fvodu spo\u010d\u00edv\u00e1 zaji\u0161t\u011bn\u00ed ka\u017edodenn\u00ed spr\u00e1vy softwaru a zabezpe\u010den\u00ed stroje pouze na V\u00e1s.",
+            "act": 0.04719815030694008
+        },
+        {
+            "text": "Other nurses to be honoured included.",
+            "act": 0.04614190384745598
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

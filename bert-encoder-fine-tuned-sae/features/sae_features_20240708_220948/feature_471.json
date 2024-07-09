@@ -1,0 +1,412 @@
+{
+    "index": 471,
+    "label": "Formal and academic language",
+    "attributes": "formal tone, academic content, scientific phenomena, technical terms, scholarly references, formal news reporting",
+    "reasoning": "All the samples have a formal or academic tone, often discussing scientific phenomena, technical terms, scholarly works, or formal news reporting. None of the other samples share this level of formality or technical specificity; they tend to be informal, conversational, or opinionated, lacking in scientific or scholarly content.",
+    "density": 0.002505445072387433,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "Toronto: In a bid to determine whether distant stars with planets orbiting them can harbour life, a global team of astronomers has discovered a new way to measure the pull of gravity at the surface of distant stars.",
+            "act": 0.20784300565719604
+        },
+        {
+            "text": "Each pearl is a cross-section of an intense, single fiber of the Sun's magnetic field - the basic building block of the solar magnetism.\"",
+            "act": 0.18903778493404388
+        },
+        {
+            "text": "\"Willis, get 'em to the airport.\"",
+            "act": 0.1833665370941162
+        },
+        {
+            "text": "Imaging in the infrared, Spitzer can see both the stars and the immense clouds of dust between them \u2013 and these components allowed McGaugh\u2019s team to calculate the mass of the visible matter in each galaxy more accurately than ever before.",
+            "act": 0.1485145092010498
+        },
+        {
+            "text": "Anodic polarization curves in these electrolytes show active\u2010passive\u2010transpassive transitions.",
+            "act": 0.13542507588863373
+        },
+        {
+            "text": "I've got her in the Willard, it's time to go!",
+            "act": 0.12828943133354187
+        },
+        {
+            "text": "Oxoboryl complexes: boron-oxygen triple bonds stabilized in the coordination sphere of platinum.",
+            "act": 0.12821900844573975
+        },
+        {
+            "text": "The precise shape of the energy spectrum, its anisotropy, and its elemental composition (H, He, Fe, \u2026) provide crucial information on the distribution of these sources and the astrophysics that drives them.",
+            "act": 0.1249365285038948
+        },
+        {
+            "text": "Inertia and gravitation are intimately linked in accordance with the principle of equivalence of inertial and gravitational masses.",
+            "act": 0.12473731487989426
+        },
+        {
+            "text": "\"Chekov, what's the matter with you?\"",
+            "act": 0.12402785569429398
+        },
+        {
+            "text": "These vesicles contain tetraspanin-enriched microdomains in their membranes.",
+            "act": 0.11731594055891037
+        },
+        {
+            "text": "These aurorae are caused by an influx of particles from the sun ejected by different types of solar storms.",
+            "act": 0.11711502075195312
+        },
+        {
+            "text": "A hydrogel is a cross-linked macromelecular network swollen with water or biological fluids.",
+            "act": 0.11020645499229431
+        },
+        {
+            "text": "The resulting variations and correlations among pulsars\u2019 timing should reveal the cacophony of long-wavelength gravitational waves, and the spectrum of longer and shorter waves would help physicists trace the rate at which galaxies formed and merged throughout cosmic history.",
+            "act": 0.10932645201683044
+        },
+        {
+            "text": "Over the weekend, his family said he has suffered from mental illness for years.",
+            "act": 0.10668429732322693
+        },
+        {
+            "text": "\"In mystic states,\" he writes, \"we both become one with the Absolute and we become aware of our oneness.\"",
+            "act": 0.10521133989095688
+        },
+        {
+            "text": "MAVEN observed the full seasonal variation of hydrogen in the upper atmosphere, confirming that it varies by a factor of 10 throughout the year.",
+            "act": 0.10331911593675613
+        },
+        {
+            "text": "MAVEN is studying the entire region from the top of the upper atmosphere all the way down to the lower atmosphere so that the connections between these regions can be understood.",
+            "act": 0.10228281468153
+        },
+        {
+            "text": "As he speaks, the\nguides\u2019 wounds close over.",
+            "act": 0.10067980736494064
+        },
+        {
+            "text": "Controlling the position of functional groups at the liquid/solid interface: impact of molecular symmetry and chirality.",
+            "act": 0.10033094882965088
+        },
+        {
+            "text": "In rural areas, PAHs adsorbed in atmospheric particles can be deposited on the surface of lakes, streams, and oceans by dry or wet deposition, where they could be dispersed by currents and eventually become integrated with sediment.",
+            "act": 0.1000586748123169
+        },
+        {
+            "text": "Cholesterol and high-freezing point lipids are segregated into gel-phase domains.",
+            "act": 0.09983468055725098
+        },
+        {
+            "text": "^answer asObject\n\n\n!",
+            "act": 0.09306246042251587
+        },
+        {
+            "text": "@Chugai94 suggested SN\u00a01986J\u2019s late-time optical emission originates from shocked dense clouds of circumstellar gas in the progenitor star\u2019s clumpy pre-SN wind.",
+            "act": 0.09297946840524673
+        },
+        {
+            "text": "Hickey is going into his third season as a starter and has developed into one of the best tackles in the league.",
+            "act": 0.09297343343496323
+        },
+        {
+            "text": "The interactions between the solar wind and the planet are unexpectedly complex.",
+            "act": 0.09191393107175827
+        },
+        {
+            "text": "Earlier in the day, the Lakers assigned Ryan Kelly, Tarik Black and Anthony Brown to the team\u2019s NBA Development League affiliate.",
+            "act": 0.08853219449520111
+        },
+        {
+            "text": "A dehydrated hydrogel is a cross-linked macro-molecular network that will swell to form a hydrogel upon contact with water or biological fluids.",
+            "act": 0.08713359385728836
+        },
+        {
+            "text": "These connected computers and the network that connects them \u2014 collectively known as \u201cthe internet of things\u201d \u2014 affect the world in a direct physical manner.",
+            "act": 0.08649487048387527
+        },
+        {
+            "text": "These Chinese were called Haw and became bandits, pillaging the villages.",
+            "act": 0.08461383730173111
+        },
+        {
+            "text": "Organohalogens consist of halogens, such as chlorine and fluorine, bonded with carbon and sometimes other elements.",
+            "act": 0.08460099250078201
+        },
+        {
+            "text": "In that situation, an osmotic (partial) pressure difference (of the small particles) builds up and pulls the big particles even closer together.",
+            "act": 0.08436593413352966
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.083839051425457
+        },
+        {
+            "text": "Trump represents the awakening of the American public to the subversive nature of the Left: the mainstream media and the \u201cDeep State\u201d structure that it works with.",
+            "act": 0.08332379162311554
+        },
+        {
+            "text": "Liu and Slutsky set out to find molecules that could help the brain suppress this background noise.",
+            "act": 0.08331557363271713
+        },
+        {
+            "text": "In an asymmetric mixture, multivalent counterions and monovalent ions are coupled differently to the macromolecular charges: multivalent ions strongly, while monovalent ions only weakly, as evidenced from their respective electrostatic coupling parameters.",
+            "act": 0.0813082680106163
+        },
+        {
+            "text": "Their triglycerides, a type of fat that travels in the blood and contributes to heart disease, dropped 33 points.",
+            "act": 0.08007382601499557
+        },
+        {
+            "text": "\u300b False\n\nprint(hanzidentifier.has_chinese('Country in Simplified: \u56fd\u5bb6.",
+            "act": 0.07985572516918182
+        },
+        {
+            "text": "Depth filters function by mechanical straining of particles as they pass through the pores in the structure.",
+            "act": 0.07933060824871063
+        },
+        {
+            "text": "'Interregnum' includes themes of landscape, the relationship between the animal and human worlds, and patriarchal domination.",
+            "act": 0.07902982085943222
+        },
+        {
+            "text": "\"Meanwhile, the children grow up, you have to feed them, clothe them, send them to school.\"",
+            "act": 0.07861286401748657
+        },
+        {
+            "text": "Hurry!",
+            "act": 0.07820651680231094
+        },
+        {
+            "text": "Diffraction experiments suitable for determining the three-dimensional structure of macromolecules typically require high-quality crystals.",
+            "act": 0.07774238288402557
+        },
+        {
+            "text": "In the vivid fields of prismatic color that swerve into one another, Bacon\u2019s faces evoke the deeply saturated chromatic intensity of Mark Rothko\u2019s abstract sectionals from the early 1950s, while their Impressionist vigor and sense of motion recall the most accomplished of Claude Monet\u2019s landscapes.",
+            "act": 0.07611989229917526
+        },
+        {
+            "text": "\"(THUNDER rumbling) lf they go in there, we'll lose them.\"",
+            "act": 0.07605251669883728
+        },
+        {
+            "text": "---\nabstract: 'We study the collective quark excitations in an extremely anisotropic system of two interpenetrating streams of the quark-gluon plasma.",
+            "act": 0.07602666318416595
+        },
+        {
+            "text": "Known to many as \u201cgod of the internet,\u201d he pioneered many research breakthroughs and was at the forefront of systems that support networking today.",
+            "act": 0.07588476687669754
+        },
+        {
+            "text": "Cambridge, UK: Cambridge University Press, February 2002.,\n\nGao, W., Li, Z., Wu, X., Zhang, Z., & Li, Y.",
+            "act": 0.07469481974840164
+        },
+        {
+            "text": "X. Liu, K. Beckwitt, and F. W. Wise, \u201cTwo-dimensional optical spatiotemporal solitons in quadratic media,\u201d Phys.",
+            "act": 0.07450702041387558
+        },
+        {
+            "text": "To start, big businesses involve large, hierarchically organized groups of people, and the organizational behavior of the employees is thus more complex than it is in small businesses.",
+            "act": 0.07399974763393402
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

@@ -1,0 +1,412 @@
+{
+    "index": 549,
+    "label": "Factual and informative content",
+    "attributes": "Contain factual information, Provide specific details, Structured content, Informative tone",
+    "reasoning": "An analysis of the text samples reveals that the texts in the samples group consistently contain factual or informative content. They include specific details about events, actions, descriptive characteristics, or summaries. Conversely, the texts in the other group tend to be opinionated, conversational, or speculative, lacking the structured and informative nature observed in the first group.",
+    "density": 0.002016693476827006,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "Wash as usual.",
+            "act": 0.18643906712532043
+        },
+        {
+            "text": "******************************************************************",
+            "act": 0.15971864759922028
+        },
+        {
+            "text": "Rooms nice but need updates along with elevator.",
+            "act": 0.15146300196647644
+        },
+        {
+            "text": "The only thing Rooney did in the game, for me, was score the penalty.",
+            "act": 0.14557886123657227
+        },
+        {
+            "text": "He also won defensive MVP honors in the BCS national championship.",
+            "act": 0.13886773586273193
+        },
+        {
+            "text": "Book and lyrics by Ellen Fitzhugh, music by Michael John LaChiusa.",
+            "act": 0.13772174715995789
+        },
+        {
+            "text": "The real news out of Kubiak's news conference was twofold: his thoughts on the Broncos offensive line and running backs.",
+            "act": 0.1312997192144394
+        },
+        {
+            "text": "The real news out of Kubiak's news conference was twofold: his thoughts on the Broncos offensive line and running backs.",
+            "act": 0.1312997192144394
+        },
+        {
+            "text": "Number of drinks, hours of drinking, and negative consequences decreased, indicating a significant decrease in alcohol consumption and negative consequences.",
+            "act": 0.12793444097042084
+        },
+        {
+            "text": "Finally, Mounts attempts to distinguish Lankford, supra, Roberts, supra, and Hall from Boswell, supra, and the instant case.",
+            "act": 0.11773574352264404
+        },
+        {
+            "text": "Turn on inside and outside lights.",
+            "act": 0.11759254336357117
+        },
+        {
+            "text": "The thing he really brings to you is that he is a sure tackler.",
+            "act": 0.11520856618881226
+        },
+        {
+            "text": "Its features are a lock out function and a strobe.",
+            "act": 0.11303889006376266
+        },
+        {
+            "text": "1945 Toronto municipal election\n\nMunicipal elections were held in Toronto, Ontario, Canada, on January 1, 1945.",
+            "act": 0.1054542064666748
+        },
+        {
+            "text": "The waiter return a full half hour later.",
+            "act": 0.10391723364591599
+        },
+        {
+            "text": "He and Antonio Brown have something special going on the field, and the Steelers start the season with Le'Veon Bell in the backfield.",
+            "act": 0.10039343684911728
+        },
+        {
+            "text": "Furthermore, although emotional prosody and word valence may have a similar influence on an emotional judgment in both sexes, ERPs indicate sex differences in the underlying processing.",
+            "act": 0.08963340520858765
+        },
+        {
+            "text": "** Esrrb expression with DY131 treatment (control vs. Esrrb\u00a0+\u00a0DY131).",
+            "act": 0.0893254205584526
+        },
+        {
+            "text": "Although Chickillo isn't a truly explosive rusher, he has long arms (33 1/2\") and big hands (10 1/8\") and will likely stand up in a designated pass rushing role.",
+            "act": 0.08851419389247894
+        },
+        {
+            "text": "It's an offense so good that a legitimate case could be made for his top receiver, Antonio Brown, and running back, Le'Veon Bell, earning division MVP honors, too.",
+            "act": 0.0858144611120224
+        },
+        {
+            "text": "ABV: 5.5%\n\nBlack Point Porter - London Style Porter\n\nRich and chocolaty in flavor, with a hint of a coffee note, the flavor in this beer comes from a combination of brown and chocolate and brown malts.",
+            "act": 0.08538749814033508
+        },
+        {
+            "text": "Kelly led all scorers with 34 points, hitting 10 of 18 shots and 13 of 17 free throws.",
+            "act": 0.08389279991388321
+        },
+        {
+            "text": "Yet he still threw 31 touchdowns and just eight interceptions.",
+            "act": 0.08326656371355057
+        },
+        {
+            "text": "Each suite features fan, mini-fridge and hot water shower.",
+            "act": 0.08159004151821136
+        },
+        {
+            "text": "XHUIA-FM\n\nXHUIA-FM is a radio station in Mexico City.",
+            "act": 0.08016785979270935
+        },
+        {
+            "text": "Harkless finished last season on a positive note and even logged in some big minutes in the post season and posted solid numbers.",
+            "act": 0.07618983834981918
+        },
+        {
+            "text": "However, a \"Notice of Proposed Rulemaking\" was never published, and, on December 15, 1990, the rule was withdrawn.",
+            "act": 0.07578453421592712
+        },
+        {
+            "text": "He had 17.5 sacks last season, eight batted passes and three forced fumbles.",
+            "act": 0.07524260878562927
+        },
+        {
+            "text": "Black reached a double-double with 19 points and 11 rebounds, but fouled out with five turnovers.",
+            "act": 0.07477012276649475
+        },
+        {
+            "text": "High-protein and high-carbohydrate breakfasts differentially change the transcriptome of human blood cells.",
+            "act": 0.07415486872196198
+        },
+        {
+            "text": "The returning Heisman Trophy winner had a rough season off-the-field but there is no questioning his credentials on the field.",
+            "act": 0.07323825359344482
+        },
+        {
+            "text": "In relation to the control of attention (just as with other choices, decisions, and control of action) some aspects of the prior information may be conscious, but the crucial decision and control processes are never observed.",
+            "act": 0.07315957546234131
+        },
+        {
+            "text": "Have a confidential news tip?",
+            "act": 0.073030985891819
+        },
+        {
+            "text": "I know that answer is boring, but Rodgers is still the best overall player in the NFC North, slightly ahead of Adrian Peterson.",
+            "act": 0.0719815343618393
+        },
+        {
+            "text": "She returned to her home on Saturday.",
+            "act": 0.0711715817451477
+        },
+        {
+            "text": "\u201cBut other things inside Delhi did not drastically change.",
+            "act": 0.07014432549476624
+        },
+        {
+            "text": "Delicious salad\n\nRegardless, the \u201cWholesome Grain Salad\u201d was wonderful.",
+            "act": 0.06984265893697739
+        },
+        {
+            "text": "He managed to escape from Kokkinotrimithia Prison, with six fellow inmates, on September 13, 1956 and rejoined the struggle as area-leader of Kyrenia.",
+            "act": 0.06940001249313354
+        },
+        {
+            "text": "Neither the economic recovery, nor the great victory, emerged.",
+            "act": 0.06915223598480225
+        },
+        {
+            "text": "But Tom did provide us with more information.",
+            "act": 0.0690389946103096
+        },
+        {
+            "text": "Of these, TNM classification, ACE27, BMI, hemoglobin, and albumin had independent significant associations with survival.",
+            "act": 0.0689862072467804
+        },
+        {
+            "text": "Alert email sent!",
+            "act": 0.06831029802560806
+        },
+        {
+            "text": "Aves players\nCategory:Boavista F.C.",
+            "act": 0.0678548589348793
+        },
+        {
+            "text": "Serve drinks.",
+            "act": 0.06683031469583511
+        },
+        {
+            "text": "Chapter 17\n\nChapter 17\n\nChapter 17\n\nChapter 17\n\nChapter 17\n\nChapter 17\n\nSummary\n\nGrief, Didion tells us, is never quite what we expect.",
+            "act": 0.06228114664554596
+        },
+        {
+            "text": "Freshmen Lauren Stivrins and Jazz Sweet were also key components to Nebraska\u2019s efficient attack, adding seven kills apiece, while each committed just one error.",
+            "act": 0.061864614486694336
+        },
+        {
+            "text": "But he never really changes his mind.",
+            "act": 0.06151041388511658
+        },
+        {
+            "text": "\"Hey, I'm irresistible to females.\"",
+            "act": 0.06117561459541321
+        },
+        {
+            "text": "Chargers quarterback Philip Rivers and Broncos running back C.J.",
+            "act": 0.06113898754119873
+        },
+        {
+            "text": "So enjoy the experience, be proud of your achievement and finish safely.",
+            "act": 0.059399738907814026
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

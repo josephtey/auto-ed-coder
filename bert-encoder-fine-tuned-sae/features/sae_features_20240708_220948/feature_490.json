@@ -1,0 +1,412 @@
+{
+    "index": 490,
+    "label": "Technical and specific terminology",
+    "attributes": "complex specific terminologies, technical academic or professional language, explicit scientific terms, detailed procedural descriptions, names of molecules or compounds, intricate biological processes, formal instructions, detailed literary descriptions",
+    "reasoning": "The samples contain complex, specific, and technical terminologies often related to academic or professional contexts. They include explicit mentions of scientific terms (e.g., cytokines, glycoconjugates), detailed procedural descriptions, names of molecules or compounds (e.g., ibuprophen, phosphonoacetic acid), intricate biological processes, formal instructions (e.g., how to calculate minutes between time points), or detailed literary descriptions and narrative elements. This characteristic of specificity and detail is absent in the other samples, which include conversational text, opinions, anecdotes, and general chat language.",
+    "density": 0.004398764360043845,
+    "confidence": 70.0,
+    "high_act_samples": [
+        {
+            "text": "680\nHow many minutes are there between 4:15 AM and 12:15 PM?",
+            "act": 0.15240029990673065
+        },
+        {
+            "text": "Some examples of mediation names are ibuprophen, phosphonoacetic acid, vancomycin, and ganciclovir.",
+            "act": 0.15176017582416534
+        },
+        {
+            "text": "Each lectin polypeptide contains many molecular domains, one of which is the non-catalytic carbohydrate recognition domain, responsible for their ability to recognize and interact with specific glycoconjugates, without altering their structure.",
+            "act": 0.14563046395778656
+        },
+        {
+            "text": "Fitting in?",
+            "act": 0.14230415225028992
+        },
+        {
+            "text": "This was emphasised when Pastore\u2019s wonderful defensive-splitting pass picked out Gameiro, who slotted through the legs of the exposed Simon Pouplin.",
+            "act": 0.14224635064601898
+        },
+        {
+            "text": "But preoccupied?",
+            "act": 0.13499844074249268
+        },
+        {
+            "text": "286\nWhat is 10 minutes before 7:34 PM?",
+            "act": 0.13285186886787415
+        },
+        {
+            "text": "Pacific Linguistics A\n\nREDIRECTPacific Linguistics",
+            "act": 0.13112673163414001
+        },
+        {
+            "text": "Joining P\u00e9rez and Contepomi at Los Jaguares will be Mart\u00edn Gait\u00e1n and Jos\u00e9 Pellicena.",
+            "act": 0.13088546693325043
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.1296624094247818
+        },
+        {
+            "text": "For best accommodation, you can book the Belmond and can also travel through the hotel\u2019s cruiser as well.",
+            "act": 0.12913410365581512
+        },
+        {
+            "text": "La inflaci\u00f3n de los alimentos es uno de los componentes m\u00e1s vol\u00e1tiles de la inflaci\u00f3n general de precios y quiz\u00e1 el m\u00e1s regresivo ([@B21]), ya que afecta de manera m\u00e1s directa a los estratos sociales de menores ingresos.",
+            "act": 0.12803466618061066
+        },
+        {
+            "text": "The segregation unit, A, contains five pods with a maximum capacity of 360.",
+            "act": 0.1271439492702484
+        },
+        {
+            "text": "The pathway involves angiopoietin-1 and angiopoietin-2 proteins and also another protein, called Tie-2.",
+            "act": 0.12650148570537567
+        },
+        {
+            "text": "Cytokines and growth factors in atherogenesis.",
+            "act": 0.1261705607175827
+        },
+        {
+            "text": "Fatty acyl CoA esters as regulators of cell metabolism.",
+            "act": 0.12463687360286713
+        },
+        {
+            "text": "The four, who defined themselves as \u201cflat earthers and citizens of the world\u201d in fact, instead of pulling out the documents, exhibited a plastic sheet called \u201cSelf-determination\u201d.",
+            "act": 0.11546976864337921
+        },
+        {
+            "text": "Cholesterol and high-freezing point lipids are segregated into gel-phase domains.",
+            "act": 0.11525480449199677
+        },
+        {
+            "text": "Looking for something more casual?",
+            "act": 0.11376511305570602
+        },
+        {
+            "text": "Position 803 in Marmoset is a negatively charged Glutamic acid while in all other mammals it is a small negatively charged Aspartic acid.",
+            "act": 0.1135222464799881
+        },
+        {
+            "text": "This suggests that the thalamic structures might serve as a connection hub.",
+            "act": 0.11144781112670898
+        },
+        {
+            "text": "claims that the money it spent should count towards its wage obligations.",
+            "act": 0.11119197309017181
+        },
+        {
+            "text": "In addition, the crystal structure provides information useful to map, the receptor binding domain which could then be mimicked by a small non-peptide molecule which may serve as an antagonist or agonist.",
+            "act": 0.11070860177278519
+        },
+        {
+            "text": "The acid is preferably selected from (meth) acrylic acid,\nethacrylic acid, maleic acid, crotonic acid, fumaric acid, and itaconic\nacid.",
+            "act": 0.10986965894699097
+        },
+        {
+            "text": "Interested in selling your home?",
+            "act": 0.10980533063411713
+        },
+        {
+            "text": "Microbial lipids and added value metabolites production by Yarrowia lipolytica from pork lard.",
+            "act": 0.10972924530506134
+        },
+        {
+            "text": "Each cell contains \"stuff\".",
+            "act": 0.1075848788022995
+        },
+        {
+            "text": "This provides more incentive to stay on the bases and try to advance.",
+            "act": 0.10504371672868729
+        },
+        {
+            "text": "George Parros, coming down hard for DOPS?",
+            "act": 0.10477560758590698
+        },
+        {
+            "text": "msgstr \"\"\n\"Una cadena de descripcion de poli\u00e7a descrivent una poli\u00e7a per las barras de \"\n\"t\u00edtol de fen\u00e8stras.",
+            "act": 0.10456061363220215
+        },
+        {
+            "text": "This was achieved by a small \u2018light section\u2019 of each unit moving forward immediately.",
+            "act": 0.1036076620221138
+        },
+        {
+            "text": "Licorice is a leguminous plant of glycyrrhiza.",
+            "act": 0.10352348536252975
+        },
+        {
+            "text": "152\nWhat is 115 minutes after 5:27 AM?",
+            "act": 0.10296425223350525
+        },
+        {
+            "text": "Fasicularin is among only two members of the cylindricine family of natural products, along with lepadiformine (2), to possess a trans A-B ring junction.",
+            "act": 0.10287608206272125
+        },
+        {
+            "text": "Haciendo uso de un m\u00e9todo de control sint\u00e9tico con series de tiempo y de un an\u00e1lisis de intervenci\u00f3n con datos mensuales por ciudad, Grogger muestra que en M\u00e9xico el traslado del impuesto al precio de los refrescos fue mayor ([@B16]).",
+            "act": 0.10267390310764313
+        },
+        {
+            "text": "Capabilities \nThe ship has an opening dock to the rear which allows it to launch up to three landing craft.",
+            "act": 0.10119521617889404
+        },
+        {
+            "text": "331\nWhat is 209 minutes after 6:15 PM?",
+            "act": 0.10034552216529846
+        },
+        {
+            "text": "Dhurrin is a bioactive natural substance belonging to the group of cyanogenic glycosides.",
+            "act": 0.09885010123252869
+        },
+        {
+            "text": "Ruminiclostridium cellulolyticum and Lachnoclostridium phytofermentans are cellulolytic clostridia either producing extracellular multienzymatic complexes termed cellulosomes or secreting free cellulases respectively.",
+            "act": 0.0982402116060257
+        },
+        {
+            "text": "It is connected with the membrane transport and other biological processes and it is also connected with solubility in the media.",
+            "act": 0.09616632759571075
+        },
+        {
+            "text": "They are able to exchange proteins and lipids with different cell types, trigger downstream signaling events, and deliver specific nucleic acids [@pone.0065364-Parolini1].",
+            "act": 0.09570987522602081
+        },
+        {
+            "text": "\u201cIn my gender class I\u2019m all, \u2018That\ndamned patriarchy,\u2019\u201d she says.",
+            "act": 0.09340883791446686
+        },
+        {
+            "text": "ICP47 forms a long helical hairpin inserting into the central cavity that is formed by two TAP subunits ([@B33]).",
+            "act": 0.09323854744434357
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 los progresistas y feministas mainstream no han hecho una cr\u00edtica de estos shows, en general?",
+            "act": 0.0905875563621521
+        },
+        {
+            "text": "Competitive much?",
+            "act": 0.08906950056552887
+        },
+        {
+            "text": "ring up, the transaction associated with the beverage dispensing.",
+            "act": 0.08790235966444016
+        },
+        {
+            "text": "Looking for more natural and organic deals?",
+            "act": 0.0877012312412262
+        },
+        {
+            "text": "This might lead to a repulsion of helix VI (broken arrow), an opening for G-protein binding (lower side of the displayed protein) and activation and instability of the receptor.",
+            "act": 0.08770103007555008
+        },
+        {
+            "text": "At position 412 there is an hydrophobic Leucine in Primates and a positively charged Histidine in the Glires.",
+            "act": 0.08759956806898117
+        },
+        {
+            "text": "At position 406 there is a large aromatic Trytophan in Primates, and a hydrophobic Leucine and Valine present in the Glires.",
+            "act": 0.0874701514840126
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

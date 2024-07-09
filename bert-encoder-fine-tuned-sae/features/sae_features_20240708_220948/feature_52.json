@@ -1,0 +1,412 @@
+{
+    "index": 52,
+    "label": "Contains detailed and factual information",
+    "attributes": "Contain factual statements, include numerical data, have technical or historical references, provide specific details about individuals, events, or objects",
+    "reasoning": "The texts in the samples contain a variety of content including factual statements, technical information, numerical data, historical references, and specific details about individuals, events, or objects. The texts in the other samples lack such specificity and are more conversational, opinionated, or narrative without providing detailed and concrete information.",
+    "density": 0.0006738128793163172,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "Lorelai said to herself as she stood on her porch.",
+            "act": 0.18378689885139465
+        },
+        {
+            "text": "13.6 lb.",
+            "act": 0.1213756576180458
+        },
+        {
+            "text": "The median income for a household in the city was $27,338, and the median income for a family was $34,423.",
+            "act": 0.11007460206747055
+        },
+        {
+            "text": "She is 40.",
+            "act": 0.10512425005435944
+        },
+        {
+            "text": "The median income for a household in the city was $21,875, and the median income for a family was $24,643.",
+            "act": 0.09841948002576828
+        },
+        {
+            "text": "Aves, Boavista F.C.",
+            "act": 0.09380293637514114
+        },
+        {
+            "text": "The median income for a household in the town was $30,078, and the median income for a family was $35,351.",
+            "act": 0.08842525631189346
+        },
+        {
+            "text": "She was 75.",
+            "act": 0.08191391825675964
+        },
+        {
+            "text": "Usually after several days of patiently approaching a horse I\u2019d manage to get a hand on its shoulder.",
+            "act": 0.0767674669623375
+        },
+        {
+            "text": "The recombinant production of a polypeptide is generally accomplished by constructing an expression cassette in which the DNA coding for the polypeptide is placed under the expression control of a promoter from a regulated gene.",
+            "act": 0.07480484247207642
+        },
+        {
+            "text": "Assuming the advertising campaign ran the month of Jan 2014.",
+            "act": 0.07439079135656357
+        },
+        {
+            "text": "Pilgrims bring items of precious metals and other gifts to leave at the church.",
+            "act": 0.06343749165534973
+        },
+        {
+            "text": "Pray they team up and run in 2012.",
+            "act": 0.06337569653987885
+        },
+        {
+            "text": "A Macintosh enthusiast has apparently managed to load Windows XP on an Intel Mac, nabbing a nearly $14,000 prize.",
+            "act": 0.06191043183207512
+        },
+        {
+            "text": "Morgan Hunt, 15, is 5-foot-9 and 165 pounds.",
+            "act": 0.06173475459218025
+        },
+        {
+            "text": "On average, about 20 to 50 people join the demonstrations.",
+            "act": 0.0604512058198452
+        },
+        {
+            "text": "India blames the LeT for the Mumbai attacks.",
+            "act": 0.05980631709098816
+        },
+        {
+            "text": "Laying in a grassy meadow can make most love disappear for a while.",
+            "act": 0.05539615824818611
+        },
+        {
+            "text": "6 pounds and measured 19.",
+            "act": 0.054948460310697556
+        },
+        {
+            "text": "In the past, China and North Korea have only publicly confirmed Kim's visits after he has returned home.",
+            "act": 0.05417315289378166
+        },
+        {
+            "text": "Retaliation (42 U.S.C.",
+            "act": 0.053899962455034256
+        },
+        {
+            "text": "If the multigraph supports node addition\n\t// the nodes will be added if they do not exist,\n\t// otherwise SetWeightedLine will panic.",
+            "act": 0.0511319637298584
+        },
+        {
+            "text": "Pilgrims bring items of precious metals and other gifts to leave at the church.",
+            "act": 0.04744606837630272
+        },
+        {
+            "text": "Males had a median income of $28,168 versus $25,014 for females.",
+            "act": 0.045529384166002274
+        },
+        {
+            "text": "Problem has been suspected parents or the problem of time and money family pictures to help long or short relationship loves Baba Ji.",
+            "act": 0.04522263631224632
+        },
+        {
+            "text": "His capture of Rome kept Pope Clement VII from issuing an annulment to Henry VIII's marriage to Catherine of Aragon, Charles's aunt.",
+            "act": 0.04420005902647972
+        },
+        {
+            "text": "The average age is approximately 52.",
+            "act": 0.04158943518996239
+        },
+        {
+            "text": "(VISIT: Find a U.S.",
+            "act": 0.04155981168150902
+        },
+        {
+            "text": "False\nLet t(j) = 1.",
+            "act": 0.041519299149513245
+        },
+        {
+            "text": "Fourth century B.C.",
+            "act": 0.041458744555711746
+        },
+        {
+            "text": "Iran has claimed to have captured several U.S. drones in recent years, including an advanced RQ-170 Sentinel CIA spy drone in December 2011 and at least three Boeing-designed ScanEagle aircraft.",
+            "act": 0.04086321219801903
+        },
+        {
+            "text": "Pick crops.",
+            "act": 0.04049166664481163
+        },
+        {
+            "text": "Pilgrims bring items of precious metals and other gifts to leave at the church.",
+            "act": 0.038770806044340134
+        },
+        {
+            "text": "Also, if the venue is of a significant distance, travel time and transportation costs (e.g., gas, maintenance, etc.)",
+            "act": 0.03850463405251503
+        },
+        {
+            "text": "The median incubation period of the 2009 H1N1 influenza virus was calculated using the records of the transmission chain of the primary case and secondary cases by identifying date of exposure and the date of the onset of symptoms (the time between infection and the onset of symptoms) in persons with confirmed cases.",
+            "act": 0.03768850862979889
+        },
+        {
+            "text": "Sociologists (e.g.",
+            "act": 0.03725270554423332
+        },
+        {
+            "text": "@\"Oranges\" : (_grapes.count ?",
+            "act": 0.03652247413992882
+        },
+        {
+            "text": "@\"Oranges\" : (_grapes.count ?",
+            "act": 0.03652247413992882
+        },
+        {
+            "text": "Using human embryos for in vitro research is also controversial, as embryos are created specifically for research and the financial compensation of egg donors.",
+            "act": 0.03637264296412468
+        },
+        {
+            "text": "17358 (Apr.",
+            "act": 0.03407752886414528
+        },
+        {
+            "text": "Black eyed peas, honey carrots and roasted vegetables were among other sides offered.",
+            "act": 0.03400041535496712
+        },
+        {
+            "text": "(\"a/b;\");\n        assert_no_parse!",
+            "act": 0.03360671550035477
+        },
+        {
+            "text": "A private road leads to the gated entry with an olive and cypress tree-lined drive to the stunning knoll-top building site, perfect for a large custom home.",
+            "act": 0.032974813133478165
+        },
+        {
+            "text": "\"Ailnoth  (fl.",
+            "act": 0.03254622966051102
+        },
+        {
+            "text": "Two escaped from a local wildlife park in the 1970s, but since then their numbers have swelled to as high as 160, leaving surprised tourists swerving to avoid them.",
+            "act": 0.03188301995396614
+        },
+        {
+            "text": "There were still no sandbars exposed, however, so there were good numbers of Large-billed and Yellow-billed terns around, waiting for them to become exposed so they could commence nesting activities in earnest.",
+            "act": 0.030202802270650864
+        },
+        {
+            "text": "Red Byron was awarded a $500 prize for winning the inaugural race at the track, which had grown to $170,000 by 1999.",
+            "act": 0.03019610419869423
+        },
+        {
+            "text": "at 1191.",
+            "act": 0.030042145401239395
+        },
+        {
+            "text": "(')') {\n            if first {\n                first = false;\n            } else {\n                expect!",
+            "act": 0.029693175107240677
+        },
+        {
+            "text": "In this technique, cytoplasm including proteins, mRNA, mitochondria and other organelles, is taken from a donor egg, and injected into the recipient egg, resulting in a mixture of mitochondrial genetic material.",
+            "act": 0.029412273317575455
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

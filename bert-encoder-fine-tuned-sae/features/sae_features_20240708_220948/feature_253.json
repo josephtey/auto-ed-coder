@@ -1,0 +1,412 @@
+{
+    "index": 253,
+    "label": "Informative and factual content",
+    "attributes": "structured content, informative prose, mentioning specific names, mentioning dates, providing detailed narratives or explanations, factual nature",
+    "reasoning": "To identify a specific attribute that differentiates the samples, I examined both sets of samples closely. It was noted that the texts in the samples contain structured, informative prose about various topics, often mentioning specific names, dates, places, or events. They provide detailed, coherent narratives or explanations of a factual nature. Conversely, the texts in the samples are more conversational, contain personal opinions, or discuss hypothetical scenarios without specific informative details.",
+    "density": 0.0028091353841919703,
+    "confidence": 18.0,
+    "high_act_samples": [
+        {
+            "text": "The Bearer Division were the stretcher-bearers responsible for collecting the wounded, whilst the Tent Division were the medical staff responsible for the treatment of their wounds.",
+            "act": 0.2393753081560135
+        },
+        {
+            "text": "U. S. Representative Liz Cheney (R-Wyoming) authored the resolution, leading the charge for passage in the House\n\nThe Bureau of Land Management conducted \u201clistening sessions\u201d to get input on how to design the new land-plan review process.",
+            "act": 0.19748759269714355
+        },
+        {
+            "text": "The Montagu family created Montagu Private Equity a buy out firm that is headquartered in London.",
+            "act": 0.15395471453666687
+        },
+        {
+            "text": "In another e-mail, Chambers\u2019 counsel stated that his \u201cclient [was] still\n\npondering his options on the conversion claim.",
+            "act": 0.1513291746377945
+        },
+        {
+            "text": "Donate \u00a3 5 \u00a3 10 \u00a3 20 \u00a3 50 \u00a3 100 Custom amount Recurring Payment One off Monthly First name Last name Email address I accept the Terms & Conditions for CapX Donations Thanks for your support Something went wrong An error occured, but no error message was recieved.",
+            "act": 0.14835324883460999
+        },
+        {
+            "text": "Cal Crutchlow set the pace shortly after, then also fell (at Turn 5).",
+            "act": 0.1404244303703308
+        },
+        {
+            "text": "msg: Cell-h264: \u0395\u03be\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c0\u03ad\u03b4\u03bf\u03c5 4.2 \u03c3\u03b5 \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf %d.%d.",
+            "act": 0.13067162036895752
+        },
+        {
+            "text": "T\u00f6bb mint 50 ezer szem\u00e9ly ellen indult feljelent\u00e9s, mivel ok n\u00e9lk\u00fcl tart\u00f3zkodott k\u00f6zter\u00fcleten, vagyis nem munkav\u00e9gz\u00e9s, eg\u00e9szs\u00e9g\u00fcgyi vagy m\u00e1s s\u00falyos indok miatt ment el otthonr\u00f3l.",
+            "act": 0.12822112441062927
+        },
+        {
+            "text": "followed by a word whose first letter is capital.",
+            "act": 0.12762901186943054
+        },
+        {
+            "text": "Shannon (R-Lawton), for resisting political pressure and placing the bill on the calendar, allowing it to be voted on by the body of the House.",
+            "act": 0.12726475298404694
+        },
+        {
+            "text": "Their comments came in response to an Instagram post by controversial TV chef and alternative medicine supporter, Pete Evans.",
+            "act": 0.12658244371414185
+        },
+        {
+            "text": "The bill has nearly 8,000 earmarks, which are pet projects inserted by lawmakers to benefit their states and districts.",
+            "act": 0.1253640353679657
+        },
+        {
+            "text": "The Swiss skier posted the fourth-fastest time in the final leg to overtake surprise first-run leader Lucas Braathen of Norway, who dropped to fourth, 0.49 seconds off the lead.",
+            "act": 0.12391795963048935
+        },
+        {
+            "text": "msg: \u03a4\u03bf \u03c0\u03c1\u03cc\u03c3\u03b8\u03b5\u03c4\u03bf %s % \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1.",
+            "act": 0.11685590445995331
+        },
+        {
+            "text": "Michele is a health and wellness expert, personal chef, cookbook author, and pet-lover based in Bozeman, Montana.",
+            "act": 0.11623146384954453
+        },
+        {
+            "text": "The treasurer of the state of Iowa is the custodian of the retirement\n       fund.",
+            "act": 0.112940713763237
+        },
+        {
+            "text": "More from Around the Web:\n\nReject Nation\n\n1 Comment\n\nLeave a comment\n\nComment Policy: No hate speech allowed.",
+            "act": 0.1107322946190834
+        },
+        {
+            "text": "After the dietary guidelines committee issued its report earlier this year, the agency expanded on its 2014 proposal, saying that companies should also list a \u201cdaily percent value\u201d for added sugars on their labels in line with the 10 percent recommendation.",
+            "act": 0.11041992157697678
+        },
+        {
+            "text": "The ethics change, which prompted an outcry from Democrats and government watchdog groups, is part of a rules package that the full House will vote on Tuesday.",
+            "act": 0.10967500507831573
+        },
+        {
+            "text": "Disabling acceleration\nmsg: Cell-h264: %d Ref-frames \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf %d \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03cd\u03bc\u03b2\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c4\u03ae hardware \u03c4\u03bf\u03c5 PS3.",
+            "act": 0.10563720017671585
+        },
+        {
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b7\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b5\u03b3\u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c7\u03b5\u03b9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1.",
+            "act": 0.10106384754180908
+        },
+        {
+            "text": "Advertisement:\n\nIf the deal falls through, Speaker John Boehner has posited that he'll place legislation to renew funding for the government at sequestration levels on the House floor, and finish out the fiscal year without a budget.",
+            "act": 0.10014860332012177
+        },
+        {
+            "text": "A hat\u00e1lyos rendelkez\u00e9sek szerint a kiszabhat\u00f3 b\u00edrs\u00e1g meghaladja a 200 eur\u00f3t, de komolyabb szab\u00e1lys\u00e9rt\u00e9s eset\u00e9n t\u00f6bb h\u00f3nap b\u00f6rt\u00f6nt kock\u00e1ztat a feleslegesen utc\u00e1n tart\u00f3zkod\u00f3.",
+            "act": 0.09871269762516022
+        },
+        {
+            "text": "H OME I M P R OVE ME N T\nstrength training, cardiovascular.",
+            "act": 0.09465958923101425
+        },
+        {
+            "text": "Reaction with a stoichiometric amount of a selected carboxylic acid yields the monoester derivatized at the 16-position, with the 14-hydroxyl group remaining free.",
+            "act": 0.09423337131738663
+        },
+        {
+            "text": "Pancreases were removed and post-fixed overnight in 4% paraformaldehyde then cryoprotected overnight in saline containing 30% sucrose.",
+            "act": 0.09417185932397842
+        },
+        {
+            "text": "In January, the CEO of MyHabit took on a new role at Amazon as general manager of its new private-label fashion business, according to his LinkedIn profile.",
+            "act": 0.0931764766573906
+        },
+        {
+            "text": "Just a short distance into the reserve we were treated to a really superb view of a pair of Red-billed Woodcreepers, followed by a pair of Black-spotted Barbets, some perched Red-fan Parrots, Fasciated Antshrike, and an Amazonian Pygmy-Owl being mobbed by a Black-eared Fairy and a White-chinned Sapphire, a Tiny Tyrant-Manakin, and a female White-fronted Manakin.",
+            "act": 0.09191743284463882
+        },
+        {
+            "text": "Preferred acid\ncopolymers are copolymers of an \u03b1-olefin and a C3-C8\n\u03b1,\u03b2-ethylenically unsaturated carboxylic acid.",
+            "act": 0.09099944680929184
+        },
+        {
+            "text": "The Tent Division was comprised of doctors: 9 medical officers and 1 dental officer, as well as 1 Quartermaster of stores, batmen, clerks, cooks, dispensers, nursing orderlies, and the Transport Division, which had 60 men attached from the Army Service Corps.",
+            "act": 0.09039843827486038
+        },
+        {
+            "text": "Send the TLD, followed by a newline.",
+            "act": 0.08957693725824356
+        },
+        {
+            "text": "His hobbies included shooting.",
+            "act": 0.08945756405591965
+        },
+        {
+            "text": "Let $G-e$ denote the graph achieved be the deletion of $e,$ while retaining all $n$ nodes.",
+            "act": 0.08749160915613174
+        },
+        {
+            "text": "A Genovai Egyetem j\u00e1rv\u00e1nyszak\u00e9rt\u0151i szerint ennek ellen\u00e9re az olasz fert\u0151z\u00f6ttek sz\u00e1m\u00e1nak tet\u0151z\u00e9se m\u00e1rcius 23-25-re v\u00e1rhat\u00f3, ez azonban nagyban f\u00fcgg szerint\u00fck az olaszok magatart\u00e1s\u00e1t\u00f3l is, \u00edgy biztosat nem tudni.",
+            "act": 0.08661304414272308
+        },
+        {
+            "text": "He says training dogs has taught him responsibility and determination.",
+            "act": 0.08626183122396469
+        },
+        {
+            "text": "Additionally, a member of the target group was also asked to provide feedback on the Facebook posts.",
+            "act": 0.08195539563894272
+        },
+        {
+            "text": "Snowe will probably be replaced by a liberal Democrat.",
+            "act": 0.08108610659837723
+        },
+        {
+            "text": "62 60 58 67 58 66\n\nDK/NA 4 3 5 3 3 4\n\n22.",
+            "act": 0.07981365919113159
+        },
+        {
+            "text": "Make an outdoor roaming range for your bunny\n\nMichele Borboa, MS is a freelance writer and editor specializing in health, fitness, food, lifestyle, and pets.",
+            "act": 0.07804178446531296
+        },
+        {
+            "text": "The two climbed the 800m face with one bivouac, reaching the summit mid morning of the second day.",
+            "act": 0.07762904465198517
+        },
+        {
+            "text": "Diamond memo documents BoE's phone call over Libor\n\nBarclays boss Bob Diamond has released a memo documenting a phone call he had with the Bank of England's deputy governor about the bank's submissions regarding Libor.",
+            "act": 0.07578398287296295
+        },
+        {
+            "text": "Yahoo!",
+            "act": 0.07369162887334824
+        },
+        {
+            "text": "Round h to the nearest 10.",
+            "act": 0.07364867627620697
+        },
+        {
+            "text": "A r\u00e9szben lez\u00e1rt r\u00f3mai Leonardo da Vinci rep\u00fcl\u0151t\u00e9ren k\u00e9sz\u00fclt felv\u00e9telek is egym\u00e1s hegy\u00e9n-h\u00e1t\u00e1n szorong\u00f3 utasokat mutattak az elrendelt legal\u00e1bb egym\u00e9teres biztons\u00e1gi t\u00e1vols\u00e1g helyett.",
+            "act": 0.07244827598333359
+        },
+        {
+            "text": "Tot Rep Dem Ind Men Wom\n\nApprove 63% 30% 87% 64% 59% 66%\n\nDisapprove 33 66 10 31 37 29\n\nDK/NA 4 3 3 6 4 5\n\n10.",
+            "act": 0.07227200269699097
+        },
+        {
+            "text": "She attributes much of her health to being vegan, which she chose to do after reading a book advocating the diet.",
+            "act": 0.07166542112827301
+        },
+        {
+            "text": "Obama demands \u2018up or down vote\u2019 on health reform\n\nIn his most unequivocal terms yet, President Barack Obama championed the use of budget reconciliation to approve a final motion on the extensively-debated health care reform legislation stalled in Congress.",
+            "act": 0.0716235563158989
+        },
+        {
+            "text": "Total free space on volume: %d MB\nmsg: \u03a4\u03b1 torrents \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd %d MB \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b1 %d MB.",
+            "act": 0.07132596522569656
+        },
+        {
+            "text": "So in that spirit, I\u2019ve asked friends and colleagues to share their food-related resolutions for 2009.",
+            "act": 0.07131582498550415
+        },
+        {
+            "text": "Posted by Editors at 5:20 PM\n\nEmail to a Friend\n\nFriend's E-mail is Invalid\n\nYour Name: (optional)\n\nYour Email:\n\nFriend's Email:\n\nSeparate multiple e-mails with a (;).",
+            "act": 0.07096179574728012
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

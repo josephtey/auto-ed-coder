@@ -1,0 +1,412 @@
+{
+    "index": 187,
+    "label": "Contains formal factual details",
+    "attributes": "specific factual information, quantitative data, direct quotes, formal structure, dates, monetary values, measurements, specific events or entities",
+    "reasoning": "After analyzing the samples, it becomes clear that the texts share a specific attribute. Each text from the samples contains specific factual information, often quantitative data or direct quotes from identified sources. These texts are often structured formally and contain a variety of elements such as dates, monetary values, measurements, direct quotes, and specific details about events or entities. The texts from the other samples do not consistently share this formal structure or contain specific factual details.",
+    "density": 0.0032077289184354253,
+    "confidence": 52.0,
+    "high_act_samples": [
+        {
+            "text": "The cost for a single resident is around 5,000 euros (5,657 USD) a month.",
+            "act": 0.1838422268629074
+        },
+        {
+            "text": "This is three orders of magnitude smaller than \u2019s $5$MLOC.",
+            "act": 0.16964170336723328
+        },
+        {
+            "text": "\u201cYou won\u2019t hurt a hair on my head.",
+            "act": 0.1615862101316452
+        },
+        {
+            "text": "[,] [value listed at $11,000,] which offense occurred on or about the 3rd day of February, 2005.\"",
+            "act": 0.1525517702102661
+        },
+        {
+            "text": "\u2018She was raped without question,\u2019 Orly told viewers yesterday.",
+            "act": 0.15068024396896362
+        },
+        {
+            "text": "PRICE FOR LIFE HIGH-SPEED INTERNET\n\nRate will be $50/mo.",
+            "act": 0.1430918127298355
+        },
+        {
+            "text": "As for that original article being negative, it was written by a Brit.",
+            "act": 0.13880671560764313
+        },
+        {
+            "text": "At one point, I think the gunman continued to reload.",
+            "act": 0.13399265706539154
+        },
+        {
+            "text": "Growing cotton is 10% of the footprint.",
+            "act": 0.13133911788463593
+        },
+        {
+            "text": "Circa 1850 villa.",
+            "act": 0.12731170654296875
+        },
+        {
+            "text": "Restored brick structure is one of only four surviving arcaded court buildings from Colonial Virginia.",
+            "act": 0.12681785225868225
+        },
+        {
+            "text": "Typically drying has been for six or more hours at temperatures of up to 75.degree.",
+            "act": 0.12559804320335388
+        },
+        {
+            "text": "It takes about 3 to 5 minutes between each cycle.",
+            "act": 0.1253654509782791
+        },
+        {
+            "text": "But don't worry.",
+            "act": 0.12330421060323715
+        },
+        {
+            "text": "I only have two years left, at $20k/year after my scholarships.\"",
+            "act": 0.115981824696064
+        },
+        {
+            "text": "\"There was no fire impact on the plane\", the Defense Ministry said.",
+            "act": 0.11345725506544113
+        },
+        {
+            "text": "\u201cShe said she\u2019d smoked crack cocaine earlier in the day and used heroin to bring her back down,\u2019\u2019 said Pawlak.",
+            "act": 0.11226630210876465
+        },
+        {
+            "text": "Dell is worth around 22b to 25b.",
+            "act": 0.10919248312711716
+        },
+        {
+            "text": "New growth is not readily flammable for about one year.",
+            "act": 0.10805302858352661
+        },
+        {
+            "text": "I don't care how old the person in reference is.",
+            "act": 0.10213888436555862
+        },
+        {
+            "text": "In return for his work, you will pay him 1/7th of a bar of gold per day.",
+            "act": 0.10188344120979309
+        },
+        {
+            "text": "The assailant did not display a gun at this point.",
+            "act": 0.10159900039434433
+        },
+        {
+            "text": "That is, the hydrogen yield from a fluidized catalytic cracking unit charging 100,000 B/D hydrocarbon is in the range of 1.5 to 10 million SCF/D hydrogen.",
+            "act": 0.10076383501291275
+        },
+        {
+            "text": "Knowing any wrong information about my country, you will not unpleasant.",
+            "act": 0.09908955544233322
+        },
+        {
+            "text": "\"The average is 1.5 planes a day,\" Essex said.",
+            "act": 0.09741204977035522
+        },
+        {
+            "text": "\"Take it easy.",
+            "act": 0.0946158915758133
+        },
+        {
+            "text": "Around 9:44 p.m., Cal Fire initially reported the \u201cMines Fire\u201d via Twitter.",
+            "act": 0.09357117861509323
+        },
+        {
+            "text": "\u201cBut to hear someone meant to start the fire is very upsetting.",
+            "act": 0.09340279549360275
+        },
+        {
+            "text": "4 300 further homes remain without power.",
+            "act": 0.09321311116218567
+        },
+        {
+            "text": "East block taller, with low pitch gable and slate roof, with shaped stucco brackets to overhanging eaves.",
+            "act": 0.09198422729969025
+        },
+        {
+            "text": "Traffic is being diverted in that area.",
+            "act": 0.09183821082115173
+        },
+        {
+            "text": "Please acknowledge and advice when you're heading that way.\"",
+            "act": 0.08937250077724457
+        },
+        {
+            "text": "\u201cNot only this witness, but Emre also accused Aral before and then changed his statement,\u201d said one of the prosecuting lawyers, Orhan Kemal Cengiz.",
+            "act": 0.08867069333791733
+        },
+        {
+            "text": "The unit requires on average three/four hours of scheduled activities per week.",
+            "act": 0.08808480203151703
+        },
+        {
+            "text": "I know that my parents friend who moved here 25 years ago spent about 15 years struggling with the politics.",
+            "act": 0.08773210644721985
+        },
+        {
+            "text": "Landowner also testified that the electricity had been run from the\nhouse to the garage.",
+            "act": 0.08725367486476898
+        },
+        {
+            "text": "indicates \"not significant.\"",
+            "act": 0.08584737777709961
+        },
+        {
+            "text": "\"Well.",
+            "act": 0.08572302758693695
+        },
+        {
+            "text": "For comparison, its after-tax net income was only $7.8 billion.",
+            "act": 0.08422868698835373
+        },
+        {
+            "text": "Break yarn off and weave end through the last round of 4 stitches.",
+            "act": 0.08234000951051712
+        },
+        {
+            "text": "Soon after, he said he got a \u201cthreatening\u201d call from an indicted business associate in Miami on his cellphone.",
+            "act": 0.08221866935491562
+        },
+        {
+            "text": "It\u2019s believed that several of the men belong to Crown Prince Mohammed Bin Salman's elite close protection unit, a source told Middle East Eye.",
+            "act": 0.082148976624012
+        },
+        {
+            "text": "Why?\"",
+            "act": 0.08192227780818939
+        },
+        {
+            "text": "Last night was 2 degrees with a windchill of -20.",
+            "act": 0.07920181006193161
+        },
+        {
+            "text": "\"what?",
+            "act": 0.07806229591369629
+        },
+        {
+            "text": "Kubiak: \"Right back to work.",
+            "act": 0.07741322368383408
+        },
+        {
+            "text": "This would continue for about 6 to 7 batches,\u201d he said.",
+            "act": 0.0766850933432579
+        },
+        {
+            "text": "\u201cI can\u2019t believe someone meant to start the fire.",
+            "act": 0.07632181793451309
+        },
+        {
+            "text": "\u201cThe head of the investigative snake was cut off but heads grow back quickly in Washington,\u201d a senior congressional staffer told The Washington Times on condition of anonymity.",
+            "act": 0.07620813697576523
+        },
+        {
+            "text": "when you\u2019ve got thin hair, then keep away from utilizing a razor style.",
+            "act": 0.07522646337747574
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

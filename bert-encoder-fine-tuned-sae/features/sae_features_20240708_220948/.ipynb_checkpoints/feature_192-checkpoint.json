@@ -1,0 +1,412 @@
+{
+    "index": 192,
+    "label": "Technical and domain-specific text",
+    "attributes": "Usage of domain-specific jargon, structured procedural format, technical and scientific terminology, presence of code or pseudo-code",
+    "reasoning": "The samples within <positive-samples> exhibit certain characteristics that are context-dependent and domain-specific, primarily involving technical, scientific, and procedural language often associated with documentation, research, programming, and specialized topics. On the other hand, the samples within <negative-samples> are composed of conversational, casual, and opinion-based language, often including dialogue, commentary, and personal experiences. Specifically, the key differentiator is the usage of domain-specific jargon and structured format found exclusively in the samples of a particular category.",
+    "density": 0.004522138549214439,
+    "confidence": 60.0,
+    "high_act_samples": [
+        {
+            "text": ");\n    doRunStrongestPeakTest(backgroundStrategy.get());\n  }\n\n  void testThatFindsStrongestPeakWhenAbsoluteBackgroundStrategyIsUsed() {\n    auto backgroundStrategy = std::make_unique<AbsoluteBackgroundStrategy>(3.",
+            "act": 0.1602596640586853
+        },
+        {
+            "text": "Mining\n\nWe operate 14 open pits, comprising eight hard coal and six brown coal deposits.",
+            "act": 0.15913531184196472
+        },
+        {
+            "text": "PhilippePetain\n\nLooks like you have the full of shit part down, numbnuts.",
+            "act": 0.15657144784927368
+        },
+        {
+            "text": "When this occurs, the metal is overstressed and may even tear.",
+            "act": 0.15536925196647644
+        },
+        {
+            "text": ");\n    doRunStrongestPeakTest(backgroundStrategy.get());\n  }\n\n  void testThatFindsAllPeaksWhenAbsoluteBackgroundStrategyIsUsed() {\n    // GIVEN\n    auto backgroundStrategy = std::make_unique<AbsoluteBackgroundStrategy>(3.",
+            "act": 0.15436574816703796
+        },
+        {
+            "text": "Damage to brain regions involved in the generation of emotional and other feelings is consistently associated with dysfunctional reasoning, decision-making and behavior.",
+            "act": 0.1464594155550003
+        },
+        {
+            "text": "Whilst in Liverpool, Clague became a qualified signaller attached to the Liverpool Scottish Territorial Battalion.",
+            "act": 0.13727575540542603
+        },
+        {
+            "text": "It does not contain paraben, colouring, benzophenone, phenoxyethanol and mineral oil.",
+            "act": 0.13693752884864807
+        },
+        {
+            "text": "In the course, women usually may undergo abnormality of body shape and deficit of body function by interaction in due to shoe's type and positions of carrying infant.",
+            "act": 0.1303313821554184
+        },
+        {
+            "text": "More importantly, environmental insults could \u201cmislead\u201d early organogenesis resulting in serious ailments in later life.",
+            "act": 0.12870201468467712
+        },
+        {
+            "text": "This can also cause damage to the socket elements.",
+            "act": 0.12685459852218628
+        },
+        {
+            "text": "And Corps.",
+            "act": 0.12610575556755066
+        },
+        {
+            "text": "During rough play, the toy balls have an increased risk of breaking open.",
+            "act": 0.12495414912700653
+        },
+        {
+            "text": "Such phenomenon would lead to the development of neurological and neurodegenerative disorders which might affect memory, cognition and motoric functions.",
+            "act": 0.12417703866958618
+        },
+        {
+            "text": "\"Not if you stage it correctly.\"",
+            "act": 0.12324774265289307
+        },
+        {
+            "text": "Gum infections and disease, which are linked closely with tobaccouse, also cause bad breath.",
+            "act": 0.11980031430721283
+        },
+        {
+            "text": "She shrugged and walked off.",
+            "act": 0.1183730885386467
+        },
+        {
+            "text": "If the bullet exits the body, energy is wasted that could have been used to incapacitate the target.",
+            "act": 0.11792058497667313
+        },
+        {
+            "text": "Such additional strength would enhance the intrinsic value of a toy by providing an additional level of safety for children.",
+            "act": 0.11729437112808228
+        },
+        {
+            "text": "effusion or haemarthrosis), and impact loading of the subchondral bone.",
+            "act": 0.11649459600448608
+        },
+        {
+            "text": ");\n  }\n\n  void\n  testThatThrowsWhenBackgroundStrategyIsNotAbsoluteBackgroundStrategyWhenUsingAllPeaksStrategy() {\n    // Note that the AllPeaksStrategy is currently only supporting the absolute\n    // background strategy\n    // GIVEN\n    auto backgroundStrategy =\n        std::make_unique<PerSpectrumBackgroundStrategy>(3.",
+            "act": 0.11289199441671371
+        },
+        {
+            "text": "The area represents the largest unglaciated expanse of upland in Great Britain and the largest granite surface in England.",
+            "act": 0.11038625240325928
+        },
+        {
+            "text": "Well prepare to have your mind completely shattered, REDDIT.",
+            "act": 0.10958686470985413
+        },
+        {
+            "text": "/*error*/, true /*isHisto*/);\n    const auto &y = workspace->y(0);\n\n    // WHEN\n    auto backgroundStrategy = PerSpectrumBackgroundStrategy(1.",
+            "act": 0.10902369767427444
+        },
+        {
+            "text": "*Lightning jutsu that hit the user does not cause Paralyzation due to the hide of the Hyena.",
+            "act": 0.10828559100627899
+        },
+        {
+            "text": "Beardsley had amazing skills.",
+            "act": 0.10730871558189392
+        },
+        {
+            "text": "ADX animals displayed more grooming behavior (closed-field).",
+            "act": 0.10706537216901779
+        },
+        {
+            "text": "Neither is likely to walk away from a confrontation, regardless as to whether it concerns them or not.",
+            "act": 0.10652529448270798
+        },
+        {
+            "text": "Tristan replied.",
+            "act": 0.10609231144189835
+        },
+        {
+            "text": "Although the body can repair damage for the carcinogens that enter it, the healing capacity of the body decreases, which leads to the further damage of tissue.",
+            "act": 0.10545943677425385
+        },
+        {
+            "text": "They are known source of infection, obstruction or stone formation.",
+            "act": 0.10439433157444
+        },
+        {
+            "text": "Hypercoagulable states are inherited or acquired conditions.",
+            "act": 0.10372087359428406
+        },
+        {
+            "text": "\u201cIs\nyour magic business working out?\u201d she asks.",
+            "act": 0.10371513664722443
+        },
+        {
+            "text": "I brushed this off.",
+            "act": 0.10194969922304153
+        },
+        {
+            "text": "\"Ain't even calling for his re-up.\"",
+            "act": 0.10161800682544708
+        },
+        {
+            "text": "This may lead to damage.",
+            "act": 0.1005537360906601
+        },
+        {
+            "text": "Moreover, wearing your kicks for heavy physical activities such as running, training and walking would entail shorter lifespan of your sneakers.",
+            "act": 0.10049328207969666
+        },
+        {
+            "text": "He joined the British Army, and became a second lieutenant in the 5th Battalion of the Royal Scots Fusiliers in May 1912.",
+            "act": 0.09979986399412155
+        },
+        {
+            "text": "She followed and Trunk sealed it.",
+            "act": 0.0995325893163681
+        },
+        {
+            "text": "These compounds are members of the phenylisopropylamine class of stimulants and hallucinogens that have a long history of abuse.",
+            "act": 0.09873652458190918
+        },
+        {
+            "text": "/*error*/, true /*isHisto*/);\n    const auto &y = workspace->y(0);\n\n    // WHEN\n    auto backgroundStrategy = AbsoluteBackgroundStrategy(2.",
+            "act": 0.09839153289794922
+        },
+        {
+            "text": "Mongkut was the son of Prince Isarasundhorn, son of Phutthayotfa Chulalok.",
+            "act": 0.09803754091262817
+        },
+        {
+            "text": "No esters, diacetyl, or astringent off character.",
+            "act": 0.09751620888710022
+        },
+        {
+            "text": "Dhurrin breaks down to form toxic cyanide or Prussic acid when an animal eats the plant.",
+            "act": 0.09725610911846161
+        },
+        {
+            "text": "Prince Richard\u2019s son is Earl Alexander Windsor.",
+            "act": 0.09698130190372467
+        },
+        {
+            "text": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are frequently used by athletes to manage and prevent pain; unfortunately, NSAIDs contribute to substantial adverse effects, including gastrointestinal (GI) dysfunction, exercise-induced bronchoconstriction, hyponatremia, impairment of connective tissue remodeling, endurance competition withdrawal, and cardiovascular disease.",
+            "act": 0.09614626318216324
+        },
+        {
+            "text": "He fought at the Battle of Peachtree Creek.",
+            "act": 0.09598296135663986
+        },
+        {
+            "text": "\"(chuckles)\" \"Biggs, not Briggs.\"",
+            "act": 0.09530032426118851
+        },
+        {
+            "text": "It was characterized by more disturbed nocturnal sleep than excessive daytime sleepiness, and presented more behavioral problems, particularly school problems, hyperactivity, nocturnal enuresis, sleep terrors, depression, insomnia, and psychiatric problems.",
+            "act": 0.09518797695636749
+        },
+        {
+            "text": "\"And put that on your lap, fool.\"",
+            "act": 0.09414595365524292
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

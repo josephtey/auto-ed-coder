@@ -1,0 +1,412 @@
+{
+    "index": 704,
+    "label": "Structured and formal text",
+    "attributes": "Structured text, Use of punctuation, Section headings, Numerical lists, Technical terminology",
+    "reasoning": "The samples exhibit a range of attributes. After careful analysis, I noticed that all the samples in the positive set contain structured text. This includes the use of punctuation to delineate sentences, specific formatting elements like bullet points, section headings, or numerical lists, and technical language or terminology related to official reports, introductions, or descriptions. These forms of structure are not present in the negative samples, which consist mainly of conversational dialogue, opinions, and informal text with fewer punctuation marks or structured components.",
+    "density": 0.00016133547814616044,
+    "confidence": 35.0,
+    "high_act_samples": [
+        {
+            "text": "SpVgg Bayreuth\n\nSpVgg Bayreuth is a German football club based in Bayreuth, Bavaria.",
+            "act": 0.0835094153881073
+        },
+        {
+            "text": "The dam is of earth with a concrete slab facing and a puddle clay core and is 370 yards long with a height of 40 feet.",
+            "act": 0.07205334305763245
+        },
+        {
+            "text": "Valeria",
+            "act": 0.04741274192929268
+        },
+        {
+            "text": "1 153 be frankly acknowledged.",
+            "act": 0.042873580008745193
+        },
+        {
+            "text": "Welcome to Hippie Hollow.",
+            "act": 0.04062831774353981
+        },
+        {
+            "text": "SOURCE",
+            "act": 0.036801163107156754
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Protocol**\n\nDate of the investigation\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSubject code:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Introduction**\n\nDuring this investigation I am going to ask you questions, and to ask you to perform tasks.",
+            "act": 0.03408515825867653
+        },
+        {
+            "text": "Merry Christmas everyone!",
+            "act": 0.032892219722270966
+        },
+        {
+            "text": "Source",
+            "act": 0.031244810670614243
+        },
+        {
+            "text": "Si ragiona quindi su cifre pi\u00f9 alte, che il Milan non potr\u00e0 spendere cos\u00ec facilmente, soprattutto se non vorr\u00e0 far 'innervosire' la UEFA.",
+            "act": 0.029182229191064835
+        },
+        {
+            "text": "The copyright of this article is owned by the author or publisher indicated.",
+            "act": 0.02446933463215828
+        },
+        {
+            "text": "Tanti saluti.",
+            "act": 0.02442585676908493
+        },
+        {
+            "text": "It is a left tributary of the Lutter.",
+            "act": 0.022057130932807922
+        },
+        {
+            "text": "Francese di V. Miano.",
+            "act": 0.020927537232637405
+        },
+        {
+            "text": "All applicants must be US citizens or permanent residents.",
+            "act": 0.020645812153816223
+        },
+        {
+            "text": "7",
+            "act": 0.017179757356643677
+        },
+        {
+            "text": "It is the main geographical feature of Manitoba's Clearwater Lake Provincial Park, located northeast of The Pas in western Manitoba.",
+            "act": 0.016781676560640335
+        },
+        {
+            "text": "The vehicle can comprise full panel covering.",
+            "act": 0.014344226568937302
+        },
+        {
+            "text": "Sapna Bajaj\n\nI am satisfied from here this place makes dream come true.",
+            "act": 0.010166749358177185
+        },
+        {
+            "text": "This property can be subject to property taxes.",
+            "act": 0.00998111441731453
+        },
+        {
+            "text": "HAPPY SPRING!",
+            "act": 0.009375371038913727
+        },
+        {
+            "text": "Welcome Home.",
+            "act": 0.008082406595349312
+        },
+        {
+            "text": "While nectin1 has not been identified to have any regulatory function, HVEM is a member of the tumor necrosis factor alpha superfamily and plays very diverse roles in modulating T-cell function by activating both inflammatory and inhibitory signaling pathways ([@B44]).",
+            "act": 0.00807451456785202
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Association with relevant diagnosis and illness *4 points*\n\n\u25a1 Association with a relevant diagnostic name, but without knowing the implications of the diagnosis *3 points*\n\n\u25a1 Association with illness, but no diagnosis *2 points*\n\n\u25a1 Does not know *1 point*\n\n**9.",
+            "act": 0.007287938147783279
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Prominent cognitive symptoms *3 points*\n\n\u25a1 Some cognitive symptoms *2 points*\n\n\u25a1 No cognitive symptoms *1 point*\n\n**7.",
+            "act": 0.007171783596277237
+        },
+        {
+            "text": "These regulatory factors function, in part, to modulate the transcription of aromatase, particularly cyp19a, the terminal enzyme of estrogen biosynthesis.",
+            "act": 0.006462503224611282
+        },
+        {
+            "text": "\u00bb More than half the species found in Lake Baikal are unique to this place.",
+            "act": 0.005682762712240219
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Significantly changed *3 points*\n\n\u25a1 Same as before *2 points*\n\n\u25a1 Does not know/remember *1 point*\n\n**4.",
+            "act": 0.004845190793275833
+        },
+        {
+            "text": "neiltheblaze\n\nTrue.",
+            "act": 0.0032726898789405823
+        },
+        {
+            "text": "With the introduction of the Regionalligas in 1994 and the 3.",
+            "act": 0.0025925301015377045
+        },
+        {
+            "text": "Winnie_Cooper\n\nThanks.",
+            "act": 0.0016684867441654205
+        },
+        {
+            "text": "\"( theme music playing )\"",
+            "act": 0.0004942528903484344
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Relevant diagnosis *3 points*\n\n\u25a1 Irrelevant diagnosis *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**5.",
+            "act": 0.0003692023456096649
+        },
+        {
+            "text": "7",
+            "act": 1.8347054719924927e-07
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        },
+        {
+            "text": "Besides, we could use some accompaniment for our BeetBox.",
+            "act": 0.0
+        },
+        {
+            "text": "Q:\n\nNullPointerException in getview of custom adapter\n\nI'm getting image from bitmap method and trying to populate the listview.",
+            "act": 0.0
+        },
+        {
+            "text": "But when i call the bitmap function inside getview the nullpointerException error occurs.",
+            "act": 0.0
+        },
+        {
+            "text": "please help me... \nhere is my view Activity class:\npublic class Viewactivity extends Activity{\n\n    TextView tv;\n    ImageView im;\n\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.views);\n\n        ListView mListView = (ListView)findViewById(R.id.listView);\n        //array houlds all images\n        int Images[] = new int[]{\n            R.drawable.confidential,\n            ...     \n            };\n        //array holds all strings to be drawn in the image\n\n        CustomList adaptor = new CustomList(this , Images);\n        mListView.setAdapter(adaptor);\n\n    }\n\n    public Bitmap ProcessingBitmap(int image) {\n        // TODO Auto-generated method stub\n        Bitmap bm1 = null;\n        Bitmap newBitmap = null;\n\n        final String data =getIntent().getExtras().getString(\"keys\");\n        bm1 = ((BitmapDrawable) Viewactivity.this.getResources()\n                .getDrawable(image)).getBitmap();\n        Config config = bm1.getConfig();\n        if(config == null){\n            config = Bitmap.Config.ARGB_8888;\n        }\n\n        newBitmap = Bitmap.createBitmap(bm1.getWidth(), bm1.getHeight(),config);\n        Canvas newCanvas = new Canvas(newBitmap);\n\n        newCanvas.drawBitmap(bm1, 0, 0, null);\n\n        if(data != null){\n            Paint paintText = new Paint(Paint.ANTI_ALIAS_FLAG);\n            paintText.setColor(Color.RED);\n            paintText.setTextSize(300);\n            // paintText.setTextAlign(Align.CENTER);\n            paintText.setStyle(Style.FILL);\n            paintText.setShadowLayer(10f, 10f, 10f, Color.BLACK);\n\n            Rect rectText = new Rect();\n            paintText.getTextBounds(data, 0, data.length(), rectText);\n            paintText.setTextScaleX(1.f);\n\n            newCanvas.drawText(data, \n              0, rectText.height(), paintText);\n\n            Toast.makeText(getApplicationContext(), \n              \"drawText: \" + data, Toast.LENGTH_LONG).show();\n\n        }else{\n            Toast.makeText(getApplicationContext(), \n              \"caption empty!",
+            "act": 0.0
+        },
+        {
+            "text": "\", Toast.LENGTH_LONG).show();\n        }\n        return newBitmap;\n\n    }\n}\n\nthis is my adapter class:\npublic class CustomList extends BaseAdapter{\n\n    Viewactivity act;\n    int[] IMAGES;\n    LayoutInflater inflator;\n    Context sContext;\n    //private String[] TEXTS;\n\n    public CustomList(Context context, int[] images){\n        this.IMAGES = images;\n        //this.TEXTS = texts;\n        this.sContext = context;\n        inflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n    }\n\n    @Override\n    public int getCount() {\n        // TODO Auto-generated method stub\n        return IMAGES.length;\n    }\n\n    @Override\n    public Object getItem(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public long getItemId(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public View getView(int position, View convertView, ViewGroup parent) {\n        // TODO Auto-generated method stub\n        View v = inflator.inflate(R.layout.row_list, parent, false);\n        final ImageView imageView = (ImageView) v.findViewById(R.id.imageView);\n        imageView.setImageBitmap(act.ProcessingBitmap(IMAGES[position]));// line no:52\n        return imageView;\n    }\n}\n\nthis is my logcat:\n12-18 06:16:51.406: E/AndroidRuntime(1388): FATAL EXCEPTION: main\n12-18 06:16:51.406: E/AndroidRuntime(1388): Process: com.emple.example, PID: 1388\n12-18 06:16:51.406: E/AndroidRuntime(1388): java.lang.NullPointerException\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.emple.example.CustomList.getView(CustomList.java:52)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.AbsListView.obtainView(AbsListView.java:2263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.measureHeightOfChildren(ListView.java:1263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.onMeasure(ListView.java:1175)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.measureChild(RelativeLayout.java:689)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.onMeasure(RelativeLayout.java:473)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.widget.ActionBarOverlayLayout.onMeasure(ActionBarOverlayLayout.java:327)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.policy.impl.PhoneWindow$DecorView.onMeasure(PhoneWindow.java:2291)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performMeasure(ViewRootImpl.java:1916)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.measureHierarchy(ViewRootImpl.java:1113)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1295)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1000)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5670)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$CallbackRecord.run(Choreographer.java:761)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doCallbacks(Choreographer.java:574)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doFrame(Choreographer.java:544)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:747)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.handleCallback(Handler.java:733)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.dispatchMessage(Handler.java:95)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Looper.loop(Looper.java:136)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.app.ActivityThread.main(ActivityThread.java:5017)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invokeNative(Native Method)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invoke(Method.java:515)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at dalvik.system.NativeStart.main(Native Method)\n12-18 06:21:51.616: I/Process(1388): Sending signal.",
+            "act": 0.0
+        },
+        {
+            "text": "PID: 1388 SIG: 9\n\nA:\n\nYou haven't initialized your act variable.",
+            "act": 0.0
+        },
+        {
+            "text": "Init it in your adapter constructor.",
+            "act": 0.0
+        },
+        {
+            "text": "Something like:\npublic CustomList(Viewactivitty act, int[] images){\n    this.act = act;\n    this.IMAGES = images;\n    //this.TEXTS = texts;\n    this.sContext = act;\n    inflator = (LayoutInflater)act.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n}",
+            "act": 0.0
+        },
+        {
+            "text": "Syringocystadenoma papilliferum of the cervix presenting as vulvar growth in an adolescent girl.",
+            "act": 0.0
+        },
+        {
+            "text": "Syringocystadenoma papilliferum (SCP) is a rare, benign, adnexal tumour of apocrine or eccrine differentiation.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

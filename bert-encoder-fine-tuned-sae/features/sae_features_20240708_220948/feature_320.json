@@ -1,0 +1,412 @@
+{
+    "index": 320,
+    "label": "Contains proper nouns and terms",
+    "attributes": "Occurrences of proper nouns, Formal names, Technical terms, Entity references",
+    "reasoning": "After reviewing the samples, it is evident that the texts in the samples contain more occurrences of proper nouns and formal names (e.g., personal names, places, plant species, and entities) as well as technical terms relevant to specific domains (e.g., translations, UI terms, species names). This contrasts with the samples, which lack specific formal references and technical terminology.",
+    "density": 0.0025671321669727297,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "\"Mrs.",
+            "act": 0.18665394186973572
+        },
+        {
+            "text": "Consider the following s.d.e.",
+            "act": 0.14756321907043457
+        },
+        {
+            "text": "\"And take care of Camille, okay?\"",
+            "act": 0.13571111857891083
+        },
+        {
+            "text": "[LAT] \u2014 Subrina Hudson",
+            "act": 0.13351449370384216
+        },
+        {
+            "text": "\"Gwendoline, I love you!\"",
+            "act": 0.13218863308429718
+        },
+        {
+            "text": "Trunk followed.",
+            "act": 0.12634767591953278
+        },
+        {
+            "text": "When Sally asks Becks to be her F.B.F.",
+            "act": 0.12109304964542389
+        },
+        {
+            "text": "Gordonia (plant)\n\nGordonia is a genus of flowering plants in the family Theaceae, related to Franklinia, Camellia and Stewartia.",
+            "act": 0.1175529956817627
+        },
+        {
+            "text": "She followed and Trunk sealed it.",
+            "act": 0.11503107100725174
+        },
+        {
+            "text": "They are followed by Fiorina, Pataki and Graham.",
+            "act": 0.11301174014806747
+        },
+        {
+            "text": "Kiwanuka.",
+            "act": 0.11276810616254807
+        },
+        {
+            "text": "4\n\fshoulder towards the police car.",
+            "act": 0.11190828680992126
+        },
+        {
+            "text": "() are shown.",
+            "act": 0.1115412786602974
+        },
+        {
+            "text": "in the dihedral angle between two l.s.",
+            "act": 0.10744458436965942
+        },
+        {
+            "text": "And so she twines together the white flowers, the yellow flowers, and\nthe red flowers, into a chaplet.",
+            "act": 0.10606204718351364
+        },
+        {
+            "text": "Participants were asked to circle which CAM they used, as many as they used.",
+            "act": 0.10109679400920868
+        },
+        {
+            "text": "In a pitcher, squeeze the limes and combine with the cucumbers.",
+            "act": 0.10056254267692566
+        },
+        {
+            "text": "Konstantinos Garefis\n\nKonstantinos Garefis (Greek: \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0393\u03b1\u03c1\u03ad\u03c6\u03b7\u03c2) was a Greek chieftain of the Macedonian Struggle.",
+            "act": 0.09558787196874619
+        },
+        {
+            "text": "\"For the Greek wedding, you want it in Rome?\"",
+            "act": 0.09546113759279251
+        },
+        {
+            "text": "7192 was a geared steam locomotive.",
+            "act": 0.09542006999254227
+        },
+        {
+            "text": "\" Oh, hi, Dr.",
+            "act": 0.09502524137496948
+        },
+        {
+            "text": "JAGUARUNDI(Puma yagouaroundi)\n\nJAGUAR(Panthera onca)\u2013 Lois saw it crossing the trail to access the tower at ZF-2 reserve.",
+            "act": 0.09362531453371048
+        },
+        {
+            "text": "\"Detective Fusco, can you do something for me?\"",
+            "act": 0.09224783629179001
+        },
+        {
+            "text": "Pycnandra micrantha \u2014 A plant species from New Caledonia collected just once in 1901.",
+            "act": 0.09214390069246292
+        },
+        {
+            "text": "But nurse has seen her.",
+            "act": 0.09137321263551712
+        },
+        {
+            "text": "\"You really cut off his finger?\"",
+            "act": 0.09094881266355515
+        },
+        {
+            "text": "We took a Poker 473 Tuk to poker 473 Grand Po,er where we were approached by a man poker 473 claimed that he was a government worker employed poker 473 protect tourists.",
+            "act": 0.09000261127948761
+        },
+        {
+            "text": "The three Japanese harpoon vessels the Yushin Maru, Yushin Maru #2, and the Yushin Maru#3 attempted to block Sea Shepherd's vessels including the Steve Irwin, Bob Barker, and Gojira from the pursuit of the Nisshin Maru factory ship.",
+            "act": 0.08976437896490097
+        },
+        {
+            "text": "collected the samples and performed the experiments.",
+            "act": 0.08809246122837067
+        },
+        {
+            "text": "Swing with Xi in Gujarat\n\n2.",
+            "act": 0.0877399742603302
+        },
+        {
+            "text": "\"Sapricus Orantis, rose of the desert.\"",
+            "act": 0.08744723349809647
+        },
+        {
+            "text": "Trunk was at the controls.",
+            "act": 0.08656977862119675
+        },
+        {
+            "text": "She then tried to frame someone else for the leak.",
+            "act": 0.08593187481164932
+        },
+        {
+            "text": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u039b\u03b9\u03ac\u03c0\u03b7\u03c2, \"\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u0393\u03b1\u03c1\u03ad\u03c6\u03b7\u03c2 (1874-1906)\" \n \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0393\u03b1\u03c1\u03ad\u03c6\u03b7\u03c2, 1874 - 1906, \"\u039c\u03b1\u03ba\u03b5\u03b4\u03cc\u03bd\u03b5\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03bf\u03bc\u03ac\u03c7\u03bf\u03b9\", p. 58-60\n \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03bf\u03bc\u03ac\u03c7\u03bf\u03b9 - \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u0393\u03b1\u03c1\u03ad\u03c6\u03b7\u03c2\n\nCategory:1874 births\nCategory:1906 deaths\nCategory:Greek people of the Macedonian Struggle\nCategory:People from Magnesia (regional unit)\nCategory:Sarakatsani\nCategory:People killed in action",
+            "act": 0.08196062594652176
+        },
+        {
+            "text": "She went with the holiday rep, the police took a statement and then they took her down to the hospital.",
+            "act": 0.08131254464387894
+        },
+        {
+            "text": "USS Louise No.",
+            "act": 0.08033145219087601
+        },
+        {
+            "text": "Congresswoman shot dead.",
+            "act": 0.07936875522136688
+        },
+        {
+            "text": "You closed the thread.",
+            "act": 0.0789678543806076
+        },
+        {
+            "text": "You closed the thread.",
+            "act": 0.0789678543806076
+        },
+        {
+            "text": "\"HYDRA agent, Robin.",
+            "act": 0.07886842638254166
+        },
+        {
+            "text": "id: Network settings\nmsg: \u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u0394\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5\n\nid: Reset\n# Missing translation\nmsg: \n\nid: Settings useful for developers\nmsg: \u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03c7\u03c1\u03ae\u03c3\u03b9\u03bc\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03c1\u03bf\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03b9\u03c3\u03c4\u03ad\u03c2\n\nid: Software upgrade\nmsg: \u0391\u03bd\u03b1\u03b2\u03ac\u03b8\u03bc\u03b9\u03c3\u03b7 \u03a0\u03c1\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2 \n\nid: Starting and stopping\nmsg: \u039e\u03b5\u03ba\u03af\u03bd\u03b7\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b1\u03bc\u03ac\u03c4\u03b7\u03bc\u03b1\n\nid: System name\nmsg: \u038c\u03bd\u03bf\u03bc\u03b1 \u03a3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2\n\nid: System related settings\nmsg: \u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1\n\nid: TV Control\n# Missing translation\nmsg: \n\n#\n# ./src/subtitles/subtitles.c\n#\nid: Any subtitle in central folder\nmsg: \u039f\u03c0\u03bf\u03b9\u03bf\u03c3\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bd \u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\n\nid: Any subtitle in same folder as video\nmsg: \u039f\u03c0\u03bf\u03b9\u03bf\u03c3\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03c2 \u03c3\u03c4\u03bf\u03bd \u03af\u03b4\u03b9\u03bf \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf \u03bc\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\nid: Auto\nmsg: \u0391\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03bf\n\nid: Automatically select from this source\nmsg: \u0391\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b7 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03c0\u03b7\u03b3\u03ae\n\nid: Central subtitle folder\nmsg: \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc\u03c2 \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\u03c2 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Color\nmsg: \u03a7\u03c1\u03ce\u03bc\u03b1\n\nid: External file\nmsg: \u0395\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03cc \u03b1\u03c1\u03c7\u03b5\u03af\u03bf\n\nid: Force subtitles to reside on video frame\nmsg: \u0395\u03be\u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03c3\u03bc\u03ad\u03bd\u03b7 \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03c9\u03bd \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf \u03ba\u03b1\u03c1\u03ad \u03c4\u03bf\u03c5 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\nid: Generic settings for video subtitles\nmsg: \u0393\u03b5\u03bd\u03b9\u03ba\u03ad\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03bf\u03c5\u03c2 \u03c4\u03c9\u03bd \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\nid: Ignore embedded styling\nmsg: \u0391\u03b3\u03bd\u03bf\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b1 \u03b5\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03b1 \u03c3\u03c4\u03c5\u03bb\n\nid: Left\nmsg: \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\n\nid: Outline color\nmsg: \u03a7\u03c1\u03ce\u03bc\u03b1 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2\n\nid: Outline size\nmsg: \u039c\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2 \u03c0\u03b5\u03c1\u03b9\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2\n\nid: Path to central folder\nmsg: \u0394\u03b9\u03b1\u03b4\u03c1\u03bf\u03bc\u03ae \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\n\nid: Providers for Subtitles\nmsg: \u03a0\u03ac\u03c1\u03bf\u03c7\u03bf\u03b9 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Right\nmsg: \u0394\u03b5\u03be\u03b9\u03ac\n\nid: Shadow color\nmsg: \u03a3\u03ba\u03b9\u03ce\u03b4\u03b5\u03c2 \u03c7\u03c1\u03ce\u03bc\u03b1\n\nid: Shadow offset\nmsg: \u03a3\u03ba\u03b9\u03ce\u03b4\u03b7\u03c2 \u03b1\u03bd\u03c4\u03b9\u03c3\u03c4\u03ac\u03b8\u03bc\u03b9\u03c3\u03b7\n\nid: Subtitle horizontal displacement\nmsg: \u039f\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1 \u03bc\u03b5\u03c4\u03b1\u03c4\u03cc\u03c0\u03b9\u03c3\u03b7 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Subtitle position\nmsg: \u0398\u03ad\u03c3\u03b7 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Subtitle size\nmsg: \u039c\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Subtitle size and positioning\nmsg: \u039c\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03b8\u03ad\u03c3\u03b7 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Subtitle vertical displacement\nmsg: \u039a\u03ac\u03b8\u03b5\u03c4\u03b7 \u03bc\u03b5\u03c4\u03b1\u03c4\u03cc\u03c0\u03b9\u03c3\u03b7 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd\n\nid: Subtitles embedded in video file\nmsg: \u039f\u03b9 \u03c5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03c3\u03c9\u03bc\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03c3\u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\nid: Subtitles with matching filename in central folder\nmsg: \u03a5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03b9 \u03bc\u03b5 \u03af\u03b4\u03b9\u03bf \u03ac\u03bd\u03bf\u03bc\u03b1 \u03b1\u03c1\u03c7\u03b5\u03af\u03bf\u03c5 \u03c3\u03c4\u03bf\u03bd \u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf\n\nid: Subtitles with matching filename in same folder as video\nmsg: \u03a5\u03c0\u03cc\u03c4\u03b9\u03c4\u03bb\u03bf\u03b9 \u03bc\u03b5 \u03af\u03b4\u03b9\u03bf \u03cc\u03bd\u03bf\u03bc\u03b1 \u03b1\u03c1\u03c7\u03b5\u03af\u03bf\u03c5 \u03c3\u03c4\u03bf\u03bd \u03af\u03b4\u03b9\u03bf \u03c6\u03ac\u03ba\u03b5\u03bb\u03bf \u03bc\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\n#\n# ./src/text/fontstash.c\n#\nid: Defaults\nmsg: \u03a0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b1\n\nid: Fonts\nmsg: \u0393\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ad\u03c2\n\nid: Installed fonts\nmsg: \u0395\u03b3\u03ba\u03b1\u03c4\u03b5\u03c3\u03c4\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ad\u03c2\n\nid: Narrow text\nmsg: \u039b\u03b5\u03c0\u03c4\u03cc \u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf \n\nid: Reset main font to default\nmsg: \u0395\u03c0\u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03ba\u03cd\u03c1\u03b9\u03b1\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b7\n\nid: Reset narrow font to default\nmsg: \u0395\u03c0\u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03bb\u03b5\u03c0\u03c4\u03ae\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b7\n\nid: Reset subtitle font to default\nmsg: \u0395\u03c0\u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac\u03c2 \u03c5\u03c0\u03bf\u03c4\u03af\u03c4\u03bb\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b7\n\nid: Unable to install font: %s\nmsg: \u0391\u03b4\u03c5\u03bd\u03b1\u03bc\u03af\u03b1 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac\u03c2: %s\n\nid: Use font %s for\nmsg: \u03a7\u03c1\u03ae\u03c3\u03b7 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac\u03c2 %s \u03c3\u03b5 \n\n#\n# ./src/ui/clipboard.c\n#\nid: Copy failed: %s\n# Missing translation\nmsg: \n\nid: Target folder\n# Missing translation\nmsg: \n\n#\n# ./src/ui/glw/glw_ps3.c\n#\nid: Dual-Shock Remote\n# Missing translation\nmsg: \n\nid: No\nmsg: \u038c\u03c7\u03b9\n\nid: Seek using L2 and R2 button\nmsg: \u039c\u03b5\u03c4\u03ac\u03b2\u03b1\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03c9\u03bd L2 \u03ba\u03b1\u03b9 R2 \u03ba\u03bf\u03c5\u03bc\u03c0\u03b9\u03ce\u03bd\n\nid: Yes with Select button\nmsg: \u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae \"\u0093\u03bd\u03b1\u03b9\"\u0094 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c5\u03bc\u03c0\u03b9\u03bf\u03cd select\n\n#\n# ./src/ui/glw/glw_settings.c\n#\nid: Custom background image\n# Missing translation\nmsg: \n\nid: Emulate Up/Down buttons with mouse wheel\n# Missing translation\nmsg: \n\nid: Folder for screensaver images\n# Missing translation\nmsg: \n\nid: Font and icon size\nmsg: \u039c\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03b9\u03ba\u03bf\u03bd\u03b9\u03b4\u03af\u03c9\u03bd\n\nid: Interface horizontal shrink\n# Missing translation\nmsg: \n\nid: Interface vertical shrink\n# Missing translation\nmsg: \n\nid: Screensaver\n# Missing translation\nmsg: \n\nid: Screensaver delay\nmsg: \u039a\u03b1\u03b8\u03c5\u03c3\u03c4\u03ad\u03c1\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c6\u03cd\u03bb\u03b1\u03be\u03b7\u03c2 \u03bf\u03b8\u03cc\u03bd\u03b7\u03c2\n\nid: Seconds per image\n# Missing translation\nmsg: \n\nid: Use Bing images of the day\n# Missing translation\nmsg: \n\nid: Wrap when reaching beginning/end of lists\nmsg: \u0391\u03c4\u03b5\u03bb\u03b5\u03af\u03c9\u03c4\u03b5\u03c2 \u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9\u03c2 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03bb\u03cc\u03b3\u03bf\u03c5\u03c2\n\n#\n# ./src/ui/glw/glw_view_eval.c\n#\nid: %d days ago\n# Missing translation\nmsg: \n\nid: %d hours ago\n# Missing translation\nmsg: \n\nid: %d minutes ago\n# Missing translation\nmsg: \n\nid: %d months ago\n# Missing translation\nmsg: \n\nid: %d weeks ago\n# Missing translation\nmsg: \n\nid: %d years ago\n# Missing translation\nmsg: \n\nid: Just now\n# Missing translation\nmsg: \n\nid: One day ago\n# Missing translation\nmsg: \n\nid: One hour ago\n# Missing translation\nmsg: \n\nid: One minute ago\n# Missing translation\nmsg: \n\nid: One month ago\n# Missing translation\nmsg: \n\n#\n# ./src/ui/linux/nvidia.c\n#\nid: Auto-switch to this mode\nmsg: \u0391\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03b1 \n\nid: DVI-Video color range\nmsg: \u0395\u03cd\u03c1\u03bf\u03c2 \u03c7\u03c1\u03c9\u03bc\u03ac\u03c4\u03c9\u03bd DVI-\u0392\u03af\u03bd\u03c4\u03b5\u03bf\n\nid: Switch to this mode now\nmsg: \u039c\u03b5\u03c4\u03ac\u03b2\u03b1\u03c3\u03b7 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03ce\u03c1\u03b1\n\nid: Video modes\nmsg: \u039b\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b5\u03c2 \u0392\u03af\u03bd\u03c4\u03b5\u03bf\n\n#\n# ./src/upgrade.c\n#\nid: %s version %s is available\nmsg: \u0397 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 %s %s \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7\n\nid: Notify about upgrades\nmsg: \u0395\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b1\u03b2\u03b1\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2\n\nid: Open download page\nmsg: \u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1\u03c2 \u03bb\u03ae\u03c8\u03b7\u03c2\n\nid: System\nmsg: \u03a3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1\n\nid: Upgrade to releases from\nmsg: \u0391\u03bd\u03b1\u03b2\u03ac\u03b8\u03bc\u03b9\u03c3\u03b7 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03c3\u03b5\u03c9\u03bd \u03b1\u03c0\u03cc\n\n#\n# ./src/upnp/upnp_browse.c\n#\nid: Date (newest first)\nmsg: \u0397\u03bc\u03b5\u03c1\u03bf\u03bc\u03b7\u03bd\u03af\u03b1  (\u039d\u03b5\u03cc\u03c4\u03b5\u03c1\u03b1)\n\nid: Date (oldest first)\nmsg: \u0397\u03bc\u03b5\u03c1\u03bf\u03bc\u03b7\u03bd\u03af\u03b1 (\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c4\u03b5\u03c1\u03b1)\n\nid: Device not found\nmsg: \u0397 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5\n\nid: Malformed URI after device\nmsg: \u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03b7 \u03bc\u03bf\u03c1\u03c6\u03ae URI \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae\n\nid: Malformed URI after service\nmsg: \u0395\u03c3\u03c6\u03b1\u03bb\u03bc\u03ad\u03bd\u03b7 \u03bc\u03bf\u03c1\u03c6\u03ae URI \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1\n\nid: Service not found\nmsg: \u0397 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u03b4\u03b5\u03bd \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b5\n\n#\n# ./src/video/video_settings.c\n#\nid: Always\nmsg: \u03a0\u03ac\u03bd\u03c4\u03b1\n\nid: Ask\nmsg: \u0395\u03c1\u03ce\u03c4\u03b7\u03c3\u03b7\n\nid: Automatically play next video in list\nmsg: \u0391\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b7 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae \u03c4\u03bf\u03c5 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03c3\u03c4\u03b7\u03bd \u03bb\u03af\u03c3\u03c4\u03b1 \n\nid: Count video as played when reaching\nmsg: \u03a5\u03c0\u03bf\u03bb\u03cc\u03b3\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03b9\u03c7\u03c4\u03b5\u03af \u03cc\u03c4\u03b1\u03bd \u03c6\u03b8\u03ac\u03c3\u03b5\u03b9 \u03c3\u03c4\u03bf \n\nid: Enable VDPAU\nmsg: \u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 VDPAU\n\nid: Hardware accelerated decoding\n# Missing translation\nmsg: \n\nid: Maximum resolution for deinterlacer\nmsg: \u039c\u03ad\u03b3\u03b9\u03c3\u03c4\u03b7 \u03b1\u03bd\u03ac\u03bb\u03c5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b1\u03c0\u03cc\u03c0\u03bb\u03b5\u03be\u03b7\n\nid: Never\nmsg: \u03a0\u03bf\u03c4\u03ad\n\nid: No limit\nmsg: \u03a7\u03c9\u03c1\u03af\u03c2 \u03cc\u03c1\u03b9\u03bf\n\nid: Per-file volume\nmsg: \u0388\u03bd\u03c4\u03b1\u03c3\u03b7 \u03b1\u03bd\u03b1-\u03b1\u03c1\u03c7\u03b5\u03af\u03bf\n\nid: Preferred VDPAU deinterlacer method\nmsg: \u03a0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ce\u03bc\u03b5\u03bd\u03b7 \u03bc\u03ad\u03b8\u03bf\u03b4\u03bf\u03c2 \u03b1\u03c0\u03cc\u03c0\u03bb\u03b5\u03be\u03b7\u03c2\n\nid: Resume video playback\nmsg: \u03a3\u03c5\u03bd\u03ad\u03c7\u03b9\u03c3\u03b7 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf\n\nid: Show clock during playback\n# Missing translation\nmsg: \n\nid: Step when seeking backward\nmsg: \u0392\u03ae\u03bc\u03b1 \u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b1 \u03c0\u03af\u03c3\u03c9\n\nid: Step when seeking forward\nmsg: \u0392\u03ae\u03bc\u03b1 \u03ba\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b1 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac\n\nid: Temporal\nmsg: \u03a0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03cc\u03c2\n\nid: Temporal/Spatial\nmsg: \u03a0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03cc\u03c2/\u039c\u03b5 \u0394\u03b9\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1\n\nid: Up / Down during video playback controls\nmsg: \u03a0\u03ac\u03bd\u03c9 / \u039a\u03ac\u03c4\u03c9 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae video\n\nid: Video acceleration and display behaviour\nmsg: \u0395\u03c0\u03b9\u03c4\u03ac\u03c7\u03c5\u03bd\u03c3\u03b7 \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03b1\u03b3\u03c9\u03b3\u03ae\u03c2\n\nid: Video buffer size\n# Missing translation\nmsg:",
+            "act": 0.07777196913957596
+        },
+        {
+            "text": "Design and development\nThe P.148 was an all-metal low-wing cantilever monoplane with fixed tailwheel landing gear.",
+            "act": 0.07681790739297867
+        },
+        {
+            "text": "Helen told Radio 2: \u2018Sarah was raped and went to report it to police.",
+            "act": 0.07666987925767899
+        },
+        {
+            "text": "Second, using R.v.",
+            "act": 0.07564420998096466
+        },
+        {
+            "text": "Ethiopia\\'s Round 2 malaria proposal, for example, is to train more than 4000 community health workers and nearly 35 000 mother coordinators at the community level.",
+            "act": 0.07544007152318954
+        },
+        {
+            "text": "\u201cWe started in \u201911.",
+            "act": 0.07523149251937866
+        },
+        {
+            "text": "Build a Shredder \u2014 Precious Plastic\n\nAbout the shredder.",
+            "act": 0.07394801825284958
+        },
+        {
+            "text": "\"Hey, Mr.",
+            "act": 0.07382643967866898
+        },
+        {
+            "text": "We had lunch over the \u201cMeeting of the Waters\u201d, where the Negro hits the Solimoes, the two forming the great Rio Amazonas.",
+            "act": 0.07151853293180466
+        },
+        {
+            "text": "A\ngudgeon has taken the pin.",
+            "act": 0.07089872658252716
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

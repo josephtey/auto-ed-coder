@@ -1,0 +1,412 @@
+{
+    "index": 172,
+    "label": "Descriptive and factual narratives",
+    "attributes": "descriptive and factual information, complete sentences, cohesive thoughts or stories, various subjects, formal structure, proper and improper grammar, sentences ending with periods, foreign text segments",
+    "reasoning": "The samples contain descriptive and factual information or narratives that are often complete sentences and form cohesive thoughts or stories. They involve various subjects such as geography, personal experiences, specific events, scientific observations, etc. They include both proper and improper grammar but maintain a more formal structure. Samples often end with periods even within concatenated text blocks, and include foreign text segments.",
+    "density": 0.0039005224422395263,
+    "confidence": 5.0,
+    "high_act_samples": [
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.24249902367591858
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.1817742884159088
+        },
+        {
+            "text": "Adaptations vary.",
+            "act": 0.17603248357772827
+        },
+        {
+            "text": "Gallik helped spearhead a Boston College run game last season that averaged 212.5 yards on the ground.",
+            "act": 0.17218232154846191
+        },
+        {
+            "text": "The Patriots used a trick play -- receiver Danny Amendola threw a pass to running back Dion Lewis -- but Jack ran Lewis down after a 22-yard gain and ripped the ball out of Lewis' grasp as they went to the ground.",
+            "act": 0.17128467559814453
+        },
+        {
+            "text": "The Jaguars went three-and-out after the turnover, and the Patriots responded with the first of their two fourth-quarter touchdowns.",
+            "act": 0.16983512043952942
+        },
+        {
+            "text": "msgstr \"\u062f\u0631 \u0635\u0648\u0631\u062a \u0628\u0631\u0631\u0633\u06cc \u060c \u0628\u0631\u062e\u06cc \u067e\u06cc\u0627\u0645 \u0647\u0627 \u062e\u0637\u0627\u06cc \u062a\u062d\u0648\u06cc\u0644 \u062f\u0627\u0631\u0646\u062f.\"",
+            "act": 0.16047297418117523
+        },
+        {
+            "text": "Digest: Extra\u2010pair mating and inbreeding avoidance in a socially monogamous fairy\u2010wren.",
+            "act": 0.15911975502967834
+        },
+        {
+            "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\n\u0420\u043e\u0441\u0441\u0438\u044f\n\n\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\n\n\u0410\u0440\u043c\u0435\u043d\u0438\u044f\n\n\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\n\n\u0413\u0440\u0443\u0437\u0438\u044f\n\n\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f\n\n\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d\n\n\u041a\u0440\u044b\u043c\n\n\u0415\u0432\u0440\u0430\u0437\u0438\u044f\n\nHow to Listen\n\nRadio Free Europe / Radio Liberty broadcasts in 28 languages.",
+            "act": 0.1562715321779251
+        },
+        {
+            "text": "Vincent has witnessed people injure their knees attempting difficult landings on jumps.",
+            "act": 0.14480744302272797
+        },
+        {
+            "text": "This followed his press conferences earlier in the week when he lauded the coaching staff for a great job done in the 48-30 victory over Philadelphia on Sunday in the Metrodome.",
+            "act": 0.1409597396850586
+        },
+        {
+            "text": "Boult\u2019s third over saw Aaron Finch out lbw falling over an inswinger.",
+            "act": 0.13906018435955048
+        },
+        {
+            "text": "He had also developed multiple dental caries with it.",
+            "act": 0.13039594888687134
+        },
+        {
+            "text": "Straining is an attenuated form of mobbing that does not show continuity of vexatious actions.",
+            "act": 0.12933127582073212
+        },
+        {
+            "text": "This regularly triggers him to have night times without sleep.",
+            "act": 0.12701739370822906
+        },
+        {
+            "text": "The bones most commonly broken in human punch-ups also gained the most strength in early \"hominin\" evolution.",
+            "act": 0.12648843228816986
+        },
+        {
+            "text": "The most recent example involves how American journalists initially covered the terrorist attack in New Zealand.",
+            "act": 0.11790390312671661
+        },
+        {
+            "text": "(Wheeler, supra, at p.",
+            "act": 0.11778855323791504
+        },
+        {
+            "text": "395 jihadis among 522 opposition fighters were also killed during the same period due to regime and Russian aerial and ground strikes and clashes, in addition to the killing of 476 regime soldiers and loyalists, including ten members of non-Syrian nationalities, as a result of attacks, detonations and clashes against opposition factions and jihadi groups.",
+            "act": 0.11528103798627853
+        },
+        {
+            "text": "(Turner, supra, at p.",
+            "act": 0.11515183001756668
+        },
+        {
+            "text": "\u0412 \u043a\u043e\u0440\u043e\u0431\u043e\u0447\u043d\u043e\u0439 \u0432\u0435\u0440\u0441\u0438\u0438 \u0411\u0438\u0442\u0440\u0438\u043a\u0441 24 \u0442\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442 p&p \u0442\u043e \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442.",
+            "act": 0.11418218165636063
+        },
+        {
+            "text": "Twelve of them fractured their hip on the stroke-affected side.",
+            "act": 0.11183494329452515
+        },
+        {
+            "text": "Liability?",
+            "act": 0.11154210567474365
+        },
+        {
+            "text": "Bank of America worker hit in crosswalk by Peter Pan bus.",
+            "act": 0.11065836250782013
+        },
+        {
+            "text": "Something hard.",
+            "act": 0.1076945886015892
+        },
+        {
+            "text": "India has said elements in Pakistan were behind the attacks.",
+            "act": 0.10475262999534607
+        },
+        {
+            "text": "This is a medical term given to several disorders.",
+            "act": 0.10467468202114105
+        },
+        {
+            "text": "McCoy had 15 points at the half \u2013 making 6-of-7 first half shots that included three 2-pointers and three 3s \u2013 as Cranford led 32-20 at intermission.",
+            "act": 0.10129663348197937
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0441\u043e\u0437\u0434\u0430\u0439\u0442\u0435 \u0446\u0438\u043a\u043b \u0442\u0430\u043a:\nwhile (true) {\n    try {\n        x = in.nextInt();\n        break;\n    }\n    catch (java.util.InputMismatchException e) {\n        System.out.println(\"\u0412\u044b \u0442\u043e\u0447\u043d\u043e \u0432\u0432\u0435\u043b\u0438 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e?",
+            "act": 0.10123486071825027
+        },
+        {
+            "text": "At one point during the\nrobbery, the distinctive \u201cracking\u201d of a gun was heard.",
+            "act": 0.1002846211194992
+        },
+        {
+            "text": "That was provided by strength and conditioning coach Sal Alosi, who disgracefully tripped and temporarily injured Miami's Nolan Carroll as the Dolphins' rookie was sprinting along the New York sidelines while covering a punt in the third quarter.",
+            "act": 0.09968683123588562
+        },
+        {
+            "text": "\u042f \u043d\u0430\u043f\u0438\u0441\u0430\u043b \u0432\u0435\u0440\u0441\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0434\u0435\u043b\u0430\u0435\u0442 \u0441\u043b\u043e\u0432\u0430 \u0441 \u0437\u0430\u0433\u043b\u0430\u0432\u043d\u043e\u0439 \u043f\u043e\u0441\u043b\u0435 \u043f\u0435\u0440\u0432\u043e\u0433\u043e \u0441\u043b\u043e\u0432\u0430.",
+            "act": 0.09951659291982651
+        },
+        {
+            "text": "This dog was then crossed with setters and pointers and bulldogs to make the modern Dalmatian breed.",
+            "act": 0.09916479885578156
+        },
+        {
+            "text": "Troop l units responded to Wilmington ER in reference to 2 subjects walking into\nthe emergency room with injuries from a motor vehicle collision.",
+            "act": 0.0974479541182518
+        },
+        {
+            "text": "Two people were killed in police firing in Assam's Guwahati earlier that day.",
+            "act": 0.09711797535419464
+        },
+        {
+            "text": "Having a similar target, however, Sen et al.",
+            "act": 0.09676335752010345
+        },
+        {
+            "text": "(As Tuomas Kaila concludes his essay on liberalism and imperialism: \u201cThe word is derived from \u2018freedom\u2019.",
+            "act": 0.09605417400598526
+        },
+        {
+            "text": "\u041f\u0438\u043d\u0433\u043e\u0432\u0430\u043b \u0438 \u0442\u0440\u0430\u0441\u0441\u0435\u0440\u043e\u0432\u0430\u043b - \u043e\u0448\u0438\u0431\u043e\u043a \u0438\u043b\u0438 \u043f\u043e\u0442\u0435\u0440\u044c \u043d\u0435\u0442.",
+            "act": 0.09584465622901917
+        },
+        {
+            "text": "This just makes him confused.",
+            "act": 0.09542772173881531
+        },
+        {
+            "text": "The most recent photograph, taken Saturday, shows what is described as \u201cblast marks\u201d from rocket launcher fire on the Russian side of the border, and \u201cimpact craters\u201d inside Ukraine.",
+            "act": 0.09529222548007965
+        },
+        {
+            "text": "A:\n\n\u041f\u0440\u0438 \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0435 \u043d\u0443\u043b\u0435\u0432\u043e\u0433\u043e \u0441\u0438\u043c\u0432\u043e\u043b\u0430 \u0441\u0442\u0440\u043e\u043a\u0438, \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439 \u0438\u043d\u0434\u0435\u043a\u0441 \u0431\u0443\u0434\u0435\u0442 -1, \u0430 \u0442\u0430\u043a \u043a\u0430\u043a \u0442\u0430\u043a\u043e\u0433\u043e \u043f\u043e\u043b\u044f \u0432 \u0441\u0442\u0440\u043e\u043a\u0435 \u043d\u0435\u0442, \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442 \u0431\u0443\u0434\u0435\u0442 undefined.",
+            "act": 0.09473086148500443
+        },
+        {
+            "text": "Coup literally means \u2018shock\u2019, \u2018blow\u2019, \u2018knock\u2019 in English, and is combined with genitive nouns for varied, specialised meanings.",
+            "act": 0.09312120079994202
+        },
+        {
+            "text": "(Thompson, supra, at p.",
+            "act": 0.09253666549921036
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.09249325841665268
+        },
+        {
+            "text": "There are injuries from people running from what they thought were gunshots.",
+            "act": 0.09109844267368317
+        },
+        {
+            "text": "This suggests fairy\u2010wrens use extra\u2010pair reproduction to avoid close inbreeding.",
+            "act": 0.09096019715070724
+        },
+        {
+            "text": "it is literally the impact of collision from a moving body.",
+            "act": 0.09019054472446442
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.09016075730323792
+        },
+        {
+            "text": "Trying in his own strength, just led to death.",
+            "act": 0.08908651769161224
+        },
+        {
+            "text": "Reshetikhin.",
+            "act": 0.08851625770330429
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

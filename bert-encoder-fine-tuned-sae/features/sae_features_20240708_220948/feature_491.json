@@ -1,0 +1,412 @@
+{
+    "index": 491,
+    "label": "Coherent factual and technical texts",
+    "attributes": "Well-structured sentences, factual information, technical or historical content, formal tone, grammatical coherence",
+    "reasoning": "Upon examining the provided samples, a noticeable pattern emerges: all the texts in the positive samples are well-structured, coherent sentences usually containing factual or descriptive information, often with technical, historical, or procedural content. In contrast, the negative samples are often opinion-based, conversational, or argumentative, and they frequently lack the formal structure and technical content observed in the positive samples.",
+    "density": 0.0001186290280486474,
+    "confidence": 0.0,
+    "high_act_samples": [
+        {
+            "text": "He and his younger brother Fred worked in his father's business.",
+            "act": 0.0626068264245987
+        },
+        {
+            "text": "This Appeals employee has had no prior in-\n          volvement with this taxpayer concerning the\n          applicable tax periods before this CDP case.",
+            "act": 0.05066841095685959
+        },
+        {
+            "text": "Jeddah is located in Saudi Arabia's Red Sea coastal plain (called Tihamah).",
+            "act": 0.04608497768640518
+        },
+        {
+            "text": "Application of an emulsified polycolloid substrate biobarrier to remediate petroleum-hydrocarbon contaminated groundwater.",
+            "act": 0.04402846843004227
+        },
+        {
+            "text": "Gas will eventually be produced as it comes out of solution with the water and oil in crude oil due to pipeline pressure drops and with aging of the reservoir.",
+            "act": 0.03956913948059082
+        },
+        {
+            "text": "The mixing apparatus operates by introducing liquids through two inlets while the cylinder is rotating.",
+            "act": 0.03198908269405365
+        },
+        {
+            "text": "However, he was also\nengaged in a fraudulent scheme to charge some customers more than the amount\nauthorized by state law for document and title fees.",
+            "act": 0.031537044793367386
+        },
+        {
+            "text": "In Jeddah in 1750, he killed some seventy rioting nomads in retaliation for the killing of his commander, Abdullah Beg, earning him the nickname \"Jezzar\" (butcher).",
+            "act": 0.02332468330860138
+        },
+        {
+            "text": "She married \u2019Omar ibn Wahab ibn \u2018Abd al-\u2019Uzza ibn Quayy ibn Kilab and had a son called Zuhair.",
+            "act": 0.022748317569494247
+        },
+        {
+            "text": "Evidence that consciousness is the input data to a flexible response mechanism\n=================================================================================\n\nConsciousness is information, it is adaptive, and it is associated with intentional behavior.",
+            "act": 0.022169657051563263
+        },
+        {
+            "text": "398 F.2d 286\nBenny Lee WHALEN, Appellant,v.UNITED STATES of America, Appellee.",
+            "act": 0.022044070065021515
+        },
+        {
+            "text": "&& $file != \"..\")\n      {\n\n            $thelist .= '<li><a href=\"'.$file.'\">'.$file.",
+            "act": 0.019402913749217987
+        },
+        {
+            "text": "Bibliography\n\nReferences\n\nCategory:1842 births\nCategory:1933 deaths\nCategory:Hessian emigrants to the United States\nCategory:Union Army soldiers\nCategory:German-born Medal of Honor recipients\nCategory:United States Army Medal of Honor recipients\nCategory:American Civil War recipients of the Medal of Honor\nCategory:People from Hesse\nCategory:People from Adrian, Michigan",
+            "act": 0.01806170493364334
+        },
+        {
+            "text": "Petitioner did not file a Federal income tax (tax) return\n\nfor each of his taxable years 2000, 2001, and 2002.",
+            "act": 0.014912919141352177
+        },
+        {
+            "text": "$\\pi -$[**phase mode for fixed value** ]{}$\\Lambda =2.5\\bigskip $\n\n  --------------------------------------------------------------------------------------------------------------------\n       $z(0)$                                                                        \n  ----------------- --------------------------------- ------------------------------ ---------------------------------\n         $0$             double-well with $W_0$                  pinched                          always\n\n                     just on the top of the barrier            at $z(0)=0$                         MQST\n\n    $0<z(0)<z_3$      $W_0$ under the barrier whose             unbounded                      running-phase\n\n                      height increases with $z(0)$                                                 MQST\n\n   $z(0)=z_3=0.6$       barrier height increases          $\\phi |_{z=1}=\\pi /2,$             boundary between\n\n                        continuously with $z(0)$       $\\frac{d\\phi }{dz}|_{z=1}=0$   unbounded and localized $\\phi $\n\n   $z_3<z(0)<z_s$       barrier height increases                localized                      bounded MQST\n\n                        continuously with $z(0)$              around $\\pi $             type II with $\\left\\langle\n                                                                                           z\\right\\rangle >z(0)$\n\n   $z(0)=z_s=0.92$           barrier attains              shrinks to point-like              boundary between\n\n                           its maximum height              trajectory at $\\pi $           MQST type I and type II\n\n    $z_s<z(0)<1$        barrier height decreases               expands but                     bounded MQST\n\n                         with increasing $z(0)$              again localized             type I with $\\left\\langle\n                                                                                           z\\right\\rangle <z(0)$\n\n      $z(0)=1$       barrier height decreases to the              agrees                       bounded MQST\n\n                        same height as $z(0)=0.6$            with $z(0)=0.6$             type I with $\\left\\langle\n                                                                                           z\\right\\rangle <z(0)$\n  --------------------------------------------------------------------------------------------------------------------\n\nThomas-Fermi Approximation and Beyond\n=====================================\n\nThe macroscopic wave function $\\Phi $ associated with the ground state of a dilute Bose gas confined in the potential $V_{ext}(r)$ obeys the GPE (\\[gpe\\]), which can be obtained alternatively using a variational procedure: $$i\\hbar \\frac \\partial {\\partial t}\\Phi =\\frac{\\delta E}{\\delta \\Phi ^{*}},$$ where the energy functional $E$ is defined by $$\\begin{aligned}\nE[\\Phi ] &=&\\int d^3{\\bf r}\\left[ \\frac{\\hbar ^2}{2m}\\left| \\nabla \\Phi\n\\right| ^2+V_{ext}({\\bf r})\\left| \\Phi \\right| ^2+\\frac{g_0}2\\left| \\Phi\n\\right| ^4\\right]  \\nonumber \\\\\n&=&E_{kin}+E_{ho}+E_{int}.",
+            "act": 0.014214900322258472
+        },
+        {
+            "text": "ID), calculated volume in ounces (Vol.)",
+            "act": 0.013172098435461521
+        },
+        {
+            "text": "Density functional study -- geometry optimization and mol\u00adecular orbital calculations \u00a0 {#sec5}\n=======================================================================================\n\nGeometry optimization and mol\u00adecular orbital calculations were carried out with the Guassian*09* software package (Frisch *et al.",
+            "act": 0.013140753842890263
+        },
+        {
+            "text": "Such free pour devices may use a ball bearing valve to regulate portions dispensed by a bottle.",
+            "act": 0.010202922858297825
+        },
+        {
+            "text": "2%) of the resultant mixture.",
+            "act": 0.00903527531772852
+        },
+        {
+            "text": "------------------------------------------------------- ---------------------------------------- ----------------------------------------------------- ---------------------------------------- -----------------------------------------------------\n                       $m_S$ and BR                        $\\Phi_{\\rm pred} (\\rm cm^{-2} s^{-1})$   $\\Phi_{\\rm lim}^{95\\% \\rm CL} (\\rm cm^{-2} s^{-1})$   $\\Phi_{\\rm pred} (\\rm cm^{-2} s^{-1})$   $\\Phi_{\\rm lim}^{95\\% \\rm CL} (\\rm cm^{-2} s^{-1})$\n                          10 GeV                                                                                                                                                                  \n      BR($SS \\rightarrow \\tau^+\\tau^-$) $\\simeq 10\\%$              $8.5 \\times 10^{-10}$                           $7.8 \\times 10^{-10}$                           $1.6 \\times 10^{-9}$                           $1.6 \\times 10^{-9}$\n   BR($SS \\rightarrow b\\bar{b}+ c\\bar{c}$) $\\simeq 90\\%$                                                                                                                                          \n                           6 GeV                                                                                                                                                                  \n      BR($SS \\rightarrow \\tau^+\\tau^-$) $\\simeq 20\\%$               $1.5 \\times 10^{-9}$                            $1.0\\times 10^{-9}$                            $2.8 \\times 10^{-9}$                            $1.7\\times 10^{-9}$\n   BR($SS \\rightarrow b\\bar{b}+ c\\bar{c}$) $\\simeq 80\\%$                                                                                                                                          \n  ------------------------------------------------------- ---------------------------------------- ----------------------------------------------------- ---------------------------------------- -----------------------------------------------------\n\n  : Comparison between the expected gamma-ray flux from a light scalar and the $95\\%$C.L.",
+            "act": 0.004628462716937065
+        },
+        {
+            "text": "being the null conditional operator and ?",
+            "act": 0.0032654637470841408
+        },
+        {
+            "text": "The intake and exhaust valve assemblies are typically located between the ends of the dual cylinders to serve a common or shared combustion chamber.",
+            "act": 0.0026269787922501564
+        },
+        {
+            "text": "Lifting bags usually comprise an open-ended flexible bag into which the gas is admitted.",
+            "act": 0.0018082270398736
+        },
+        {
+            "text": "The process comprises adding oxygen or a gas containing oxygen to the gas stream.",
+            "act": 0.0011576199904084206
+        },
+        {
+            "text": "A party violates both the California and United States Constitutions by\nusing peremptory challenges to remove prospective jurors solely on the basis of group\nbias, i.e., bias presumed from membership in an identifiable racial, religious, ethnic, or\nsimilar group.",
+            "act": 0.00027281884104013443
+        },
+        {
+            "text": "HTC's Vive Pro headset is available to pre-order for $799\n\nWe've seen plenty of Beats-focused KIRFs in our time, some better than others.",
+            "act": 0.0
+        },
+        {
+            "text": "Few, however, play quite so directly on the name as OrigAudio's Beets.",
+            "act": 0.0
+        },
+        {
+            "text": "For $25, adopters get a set of headphones that bear little direct resemblance to Dr. Dre's audio gear of choice, but are no doubt bound to impress friends -- at least, up until they see a root vegetable logo instead of a lower-case B. Thankfully, there's more to it than just amusing and confusing peers.",
+            "act": 0.0
+        },
+        {
+            "text": "Every purchase will lead to a donation of canned beets (what else?)",
+            "act": 0.0
+        },
+        {
+            "text": "to the Second Harvest Food Bank of Orange County.",
+            "act": 0.0
+        },
+        {
+            "text": "For us, that's reason enough to hope that Beats doesn't put the kibosh on OrigAudio's effort.",
+            "act": 0.0
+        },
+        {
+            "text": "Besides, we could use some accompaniment for our BeetBox.",
+            "act": 0.0
+        },
+        {
+            "text": "Q:\n\nNullPointerException in getview of custom adapter\n\nI'm getting image from bitmap method and trying to populate the listview.",
+            "act": 0.0
+        },
+        {
+            "text": "But when i call the bitmap function inside getview the nullpointerException error occurs.",
+            "act": 0.0
+        },
+        {
+            "text": "please help me... \nhere is my view Activity class:\npublic class Viewactivity extends Activity{\n\n    TextView tv;\n    ImageView im;\n\n    @Override\n    protected void onCreate(Bundle savedInstanceState) {\n        super.onCreate(savedInstanceState);\n        setContentView(R.layout.views);\n\n        ListView mListView = (ListView)findViewById(R.id.listView);\n        //array houlds all images\n        int Images[] = new int[]{\n            R.drawable.confidential,\n            ...     \n            };\n        //array holds all strings to be drawn in the image\n\n        CustomList adaptor = new CustomList(this , Images);\n        mListView.setAdapter(adaptor);\n\n    }\n\n    public Bitmap ProcessingBitmap(int image) {\n        // TODO Auto-generated method stub\n        Bitmap bm1 = null;\n        Bitmap newBitmap = null;\n\n        final String data =getIntent().getExtras().getString(\"keys\");\n        bm1 = ((BitmapDrawable) Viewactivity.this.getResources()\n                .getDrawable(image)).getBitmap();\n        Config config = bm1.getConfig();\n        if(config == null){\n            config = Bitmap.Config.ARGB_8888;\n        }\n\n        newBitmap = Bitmap.createBitmap(bm1.getWidth(), bm1.getHeight(),config);\n        Canvas newCanvas = new Canvas(newBitmap);\n\n        newCanvas.drawBitmap(bm1, 0, 0, null);\n\n        if(data != null){\n            Paint paintText = new Paint(Paint.ANTI_ALIAS_FLAG);\n            paintText.setColor(Color.RED);\n            paintText.setTextSize(300);\n            // paintText.setTextAlign(Align.CENTER);\n            paintText.setStyle(Style.FILL);\n            paintText.setShadowLayer(10f, 10f, 10f, Color.BLACK);\n\n            Rect rectText = new Rect();\n            paintText.getTextBounds(data, 0, data.length(), rectText);\n            paintText.setTextScaleX(1.f);\n\n            newCanvas.drawText(data, \n              0, rectText.height(), paintText);\n\n            Toast.makeText(getApplicationContext(), \n              \"drawText: \" + data, Toast.LENGTH_LONG).show();\n\n        }else{\n            Toast.makeText(getApplicationContext(), \n              \"caption empty!",
+            "act": 0.0
+        },
+        {
+            "text": "\", Toast.LENGTH_LONG).show();\n        }\n        return newBitmap;\n\n    }\n}\n\nthis is my adapter class:\npublic class CustomList extends BaseAdapter{\n\n    Viewactivity act;\n    int[] IMAGES;\n    LayoutInflater inflator;\n    Context sContext;\n    //private String[] TEXTS;\n\n    public CustomList(Context context, int[] images){\n        this.IMAGES = images;\n        //this.TEXTS = texts;\n        this.sContext = context;\n        inflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n    }\n\n    @Override\n    public int getCount() {\n        // TODO Auto-generated method stub\n        return IMAGES.length;\n    }\n\n    @Override\n    public Object getItem(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public long getItemId(int position) {\n        // TODO Auto-generated method stub\n        return position;\n    }\n\n    @Override\n    public View getView(int position, View convertView, ViewGroup parent) {\n        // TODO Auto-generated method stub\n        View v = inflator.inflate(R.layout.row_list, parent, false);\n        final ImageView imageView = (ImageView) v.findViewById(R.id.imageView);\n        imageView.setImageBitmap(act.ProcessingBitmap(IMAGES[position]));// line no:52\n        return imageView;\n    }\n}\n\nthis is my logcat:\n12-18 06:16:51.406: E/AndroidRuntime(1388): FATAL EXCEPTION: main\n12-18 06:16:51.406: E/AndroidRuntime(1388): Process: com.emple.example, PID: 1388\n12-18 06:16:51.406: E/AndroidRuntime(1388): java.lang.NullPointerException\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.emple.example.CustomList.getView(CustomList.java:52)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.AbsListView.obtainView(AbsListView.java:2263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.measureHeightOfChildren(ListView.java:1263)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.ListView.onMeasure(ListView.java:1175)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.measureChild(RelativeLayout.java:689)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.RelativeLayout.onMeasure(RelativeLayout.java:473)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.widget.ActionBarOverlayLayout.onMeasure(ActionBarOverlayLayout.java:327)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewGroup.measureChildWithMargins(ViewGroup.java:5125)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.widget.FrameLayout.onMeasure(FrameLayout.java:310)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.policy.impl.PhoneWindow$DecorView.onMeasure(PhoneWindow.java:2291)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.View.measure(View.java:16497)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performMeasure(ViewRootImpl.java:1916)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.measureHierarchy(ViewRootImpl.java:1113)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:1295)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1000)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:5670)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$CallbackRecord.run(Choreographer.java:761)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doCallbacks(Choreographer.java:574)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer.doFrame(Choreographer.java:544)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:747)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.handleCallback(Handler.java:733)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Handler.dispatchMessage(Handler.java:95)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.os.Looper.loop(Looper.java:136)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at android.app.ActivityThread.main(ActivityThread.java:5017)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invokeNative(Native Method)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at java.lang.reflect.Method.invoke(Method.java:515)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:779)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:595)\n12-18 06:16:51.406: E/AndroidRuntime(1388):     at dalvik.system.NativeStart.main(Native Method)\n12-18 06:21:51.616: I/Process(1388): Sending signal.",
+            "act": 0.0
+        },
+        {
+            "text": "PID: 1388 SIG: 9\n\nA:\n\nYou haven't initialized your act variable.",
+            "act": 0.0
+        },
+        {
+            "text": "Init it in your adapter constructor.",
+            "act": 0.0
+        },
+        {
+            "text": "Something like:\npublic CustomList(Viewactivitty act, int[] images){\n    this.act = act;\n    this.IMAGES = images;\n    //this.TEXTS = texts;\n    this.sContext = act;\n    inflator = (LayoutInflater)act.getSystemService(Context.LAYOUT_INFLATER_SERVICE);\n}",
+            "act": 0.0
+        },
+        {
+            "text": "Syringocystadenoma papilliferum of the cervix presenting as vulvar growth in an adolescent girl.",
+            "act": 0.0
+        },
+        {
+            "text": "Syringocystadenoma papilliferum (SCP) is a rare, benign, adnexal tumour of apocrine or eccrine differentiation.",
+            "act": 0.0
+        },
+        {
+            "text": "It is commonly located on head and neck region.",
+            "act": 0.0
+        },
+        {
+            "text": "We report the case of an 18-year-old woman who presented with a vulvar lobulated growth that was found to arise from the posterior lip of cervix.",
+            "act": 0.0
+        },
+        {
+            "text": "Histopathological examination revealed the diagnosis of SCP.",
+            "act": 0.0
+        },
+        {
+            "text": "To our knowledge, SCP arising from the cervix has never been reported previously in the literature, thus we believe this to be the first case of SCP arising from the posterior lip of the cervix.",
+            "act": 0.0
+        },
+        {
+            "text": "The basic goal of the effective altruism movement is to create efficient philanthropic change by backing programs and innovations that are cost-effective so that each dollar given impacts as many people as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "The underlying tenet is that donor dollars are a limited resource, but dollars are just one of the limiting factors.",
+            "act": 0.0
+        },
+        {
+            "text": "There\u2019s still another major resource that needs to be accounted for: research time.",
+            "act": 0.0
+        },
+        {
+            "text": "There\u2019s a learning curve for calculation-driven cause groups (and donors) to figure out what world-plaguing problems really are the most pressing, what solutions seem the most promising or neglected, and what else might need to be done.",
+            "act": 0.0
+        },
+        {
+            "text": "The problem is there hasn\u2019t been a single resource for accessing all this information in one place.",
+            "act": 0.0
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

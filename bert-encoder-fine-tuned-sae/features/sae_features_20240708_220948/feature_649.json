@@ -1,0 +1,412 @@
+{
+    "index": 649,
+    "label": "Objective, declarative, formal text",
+    "attributes": "Declarative statements, Objective context, Specific information, Formal writing",
+    "reasoning": "Upon examining the text provided, the samples share the attribute of being declarative statements relevant to an objective context, such as a news report, academic context, or formal writing. These statements convey specific information or actions in a clear and direct manner. The samples do not contain speculative, conjectural, subjective, or informal communication, which is prevalent in the other set.",
+    "density": 0.0033880450410693694,
+    "confidence": 25.0,
+    "high_act_samples": [
+        {
+            "text": "Server technology.",
+            "act": 0.1550784558057785
+        },
+        {
+            "text": "Luke responded after knocking Matthew on his\nback.",
+            "act": 0.15388615429401398
+        },
+        {
+            "text": "(KNS)",
+            "act": 0.15344883501529694
+        },
+        {
+            "text": "He\nlunged towards Luke, but Luke quickly stepped out of the way and came\nback with a powerful uppercut.",
+            "act": 0.14950139820575714
+        },
+        {
+            "text": "(RT)",
+            "act": 0.1493483930826187
+        },
+        {
+            "text": "Govt Work",
+            "act": 0.14246919751167297
+        },
+        {
+            "text": "Appellant also\ndenied that he possessed any firearms or illegal drugs.",
+            "act": 0.13159321248531342
+        },
+        {
+            "text": "Williams, Florida State.",
+            "act": 0.12005633115768433
+        },
+        {
+            "text": "See also \nAwards and decorations of the United States government\n\nReferences\n\nCategory:Retirement medallions of the Central Intelligence Agency",
+            "act": 0.11810898035764694
+        },
+        {
+            "text": "He represented England at youth level.",
+            "act": 0.11458540707826614
+        },
+        {
+            "text": "Students may also apply.",
+            "act": 0.11433422565460205
+        },
+        {
+            "text": "Siam Heritage Trust.",
+            "act": 0.11298771947622299
+        },
+        {
+            "text": "University positions generally require qualifications, publications, and experience.",
+            "act": 0.11280538141727448
+        },
+        {
+            "text": "The ridge in the image's southern end is part of an eroded crater rim, one of many such smaller impact craters that have collected on Schiaparelli's floor since it formed.",
+            "act": 0.1127493679523468
+        },
+        {
+            "text": "As a foreign student, you may not be required to take the final exam.",
+            "act": 0.10931093990802765
+        },
+        {
+            "text": "These online courses give physicians access to the best teachers in the country.",
+            "act": 0.10837888717651367
+        },
+        {
+            "text": "Calculate a(q).",
+            "act": 0.10801102221012115
+        },
+        {
+            "text": "You could hurt yourself.",
+            "act": 0.10141412913799286
+        },
+        {
+            "text": "Iraqi government officials declined to comment.",
+            "act": 0.10123853385448456
+        },
+        {
+            "text": "He arrives safely at the Mars Ascent Vehicle (MAV), which was sent in advance for the next Mars mission crew.",
+            "act": 0.10111267119646072
+        },
+        {
+            "text": "; Cambridge: Cambridge Univ.",
+            "act": 0.10022308677434921
+        },
+        {
+            "text": "The Associated Press identified the gunman as Jared Laughner [22-year-old according to other sources].",
+            "act": 0.09680237621068954
+        },
+        {
+            "text": "Agriculture.",
+            "act": 0.09644496440887451
+        },
+        {
+            "text": "You figure it out.",
+            "act": 0.09352841973304749
+        },
+        {
+            "text": "With the capacity to help build a dependable workforce from an existing national talent pool, online education offers students the chance to learn best practices and benefit from the perspectives of professionals outside of the region.",
+            "act": 0.091035857796669
+        },
+        {
+            "text": "Smith threw two touchdown passes.",
+            "act": 0.09018886089324951
+        },
+        {
+            "text": "A scar ran down one side of his face and he had long,\nstraggly hair.",
+            "act": 0.08977201581001282
+        },
+        {
+            "text": "DevOps: You are experienced in deploying and operating your application in Cloud infrastructure.",
+            "act": 0.0892079621553421
+        },
+        {
+            "text": "A staff member at the Solomons National Disaster Management Office said officials were concerned about Temotu.",
+            "act": 0.08841663599014282
+        },
+        {
+            "text": "The Patriots used a trick play -- receiver Danny Amendola threw a pass to running back Dion Lewis -- but Jack ran Lewis down after a 22-yard gain and ripped the ball out of Lewis' grasp as they went to the ground.",
+            "act": 0.08830466121435165
+        },
+        {
+            "text": "Teixeira was pulled from the game on Saturday at Los Angeles at his request with a sore wrist.",
+            "act": 0.08785204589366913
+        },
+        {
+            "text": "Rodgers avoided Troy and targeted Clark.",
+            "act": 0.08751298487186432
+        },
+        {
+            "text": "Rodgers avoided Troy and targeted Clark.",
+            "act": 0.08622671663761139
+        },
+        {
+            "text": "(id, date)]",
+            "act": 0.08571980893611908
+        },
+        {
+            "text": "ORDER: Where to begin?",
+            "act": 0.08480942249298096
+        },
+        {
+            "text": "\"Now, get your hands up and turn around.\"",
+            "act": 0.0847695916891098
+        },
+        {
+            "text": "Marcus Martin started the game at center.",
+            "act": 0.08433662354946136
+        },
+        {
+            "text": "To participate, please call one of the following teleconferencing numbers.",
+            "act": 0.08386237919330597
+        },
+        {
+            "text": "Calculate q.",
+            "act": 0.08363610506057739
+        },
+        {
+            "text": "Funding for this mission is provided by NASA, Science Mission Directorate.",
+            "act": 0.0823851227760315
+        },
+        {
+            "text": "Welsh, ed.",
+            "act": 0.0823100209236145
+        },
+        {
+            "text": "The Jaguars went three-and-out after the turnover, and the Patriots responded with the first of their two fourth-quarter touchdowns.",
+            "act": 0.08165133744478226
+        },
+        {
+            "text": "Defenseman Oliver Ekman-Larsson also had a tremendous postseason.",
+            "act": 0.08080261200666428
+        },
+        {
+            "text": "Your computer technician offers two options: remote repair or bring it in.",
+            "act": 0.08000343292951584
+        },
+        {
+            "text": "Rick had been serious when he told me we needed help.",
+            "act": 0.07988198846578598
+        },
+        {
+            "text": "Congressman.",
+            "act": 0.07921183854341507
+        },
+        {
+            "text": "( roughly)",
+            "act": 0.0789339542388916
+        },
+        {
+            "text": "appointed to leadership positions); Awards (i.e.",
+            "act": 0.07695547491312027
+        },
+        {
+            "text": "He served as the third President Trinity Western University from 2006 to 2013.",
+            "act": 0.07685251533985138
+        },
+        {
+            "text": "\"Come on, hurry up.\"",
+            "act": 0.0755525529384613
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

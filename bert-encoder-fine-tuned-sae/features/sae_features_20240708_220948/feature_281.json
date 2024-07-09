@@ -1,0 +1,412 @@
+{
+    "index": 281,
+    "label": "Detailed factual information",
+    "attributes": "Contains specific details, mentions names, mentions dates, mentions places, mentions quantities, mentions organizations, structured format",
+    "reasoning": "The most specific attribute that all the samples share is that they contain specific details such as names, dates, places, quantities (numbers) and organizations. These details provide precise and factual information. The samples contain structured data elements and factual descriptions in a structured format rather than casual or conversational language.",
+    "density": 0.002586112811460513,
+    "confidence": 30.0,
+    "high_act_samples": [
+        {
+            "text": "euros (21.8 mil.",
+            "act": 0.17650233209133148
+        },
+        {
+            "text": "Marilita Lambropoulou\n\nMarilita Lambropoulou (, Maril\u00edta Lampropo\u00falou), born July 15, 1974 in Athens, Greece is a Greek actress.",
+            "act": 0.16849268972873688
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.1606394201517105
+        },
+        {
+            "text": "At least 71 people were injured in Paris on Saturday, fewer than the week before but still a stunning figure.",
+            "act": 0.15094022452831268
+        },
+        {
+            "text": "Boronia Heights, Queensland\n\nBoronia Heights is a suburb of Logan City, Queensland, Australia.",
+            "act": 0.14920668303966522
+        },
+        {
+            "text": "Parents are anguished.",
+            "act": 0.14594870805740356
+        },
+        {
+            "text": "msgstr \"Minim\u0101lais lo\u0123iskais fontu izm\u0113rs teksta att\u0113lo\u0161anai.\"",
+            "act": 0.1294618546962738
+        },
+        {
+            "text": "All eight were admitted from the former Soviet Union.",
+            "act": 0.12791991233825684
+        },
+        {
+            "text": "Bundesliga S\u00fcd (the southern division of 2.",
+            "act": 0.12458743155002594
+        },
+        {
+            "text": "Tom Yvo Adrien Waes (Antwerpen, 7 november 1968) is een Belgisch acteur, televisieregisseur, presentator en zanger.",
+            "act": 0.12301753461360931
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.11539481580257416
+        },
+        {
+            "text": "I am satisfied with the services.",
+            "act": 0.11127190291881561
+        },
+        {
+            "text": "In allotted 50 overs, New Zealand post a challenging total.",
+            "act": 0.10892447084188461
+        },
+        {
+            "text": "Nine persons lived in nursing homes and seven lived in their own homes.",
+            "act": 0.10685636103153229
+        },
+        {
+            "text": "\"All right, Michael.",
+            "act": 0.10491642355918884
+        },
+        {
+            "text": "Keita, meanwhile, has already guaranteed participation in the competition with Leipzig.",
+            "act": 0.10078506171703339
+        },
+        {
+            "text": "Twelve of them fractured their hip on the stroke-affected side.",
+            "act": 0.09927679598331451
+        },
+        {
+            "text": "Coordinated attacks\n\nThe attacks on Brussels airport and a metro train last month killed 32 people and wounded hundreds in the worst such incident in Belgian history.",
+            "act": 0.09910842031240463
+        },
+        {
+            "text": "You're damn right.",
+            "act": 0.09904950112104416
+        },
+        {
+            "text": "/*********************************************************************\n* Software License Agreement (BSD License)\n*\n*  Copyright (c) 2010, Rice University\n*  All rights reserved.",
+            "act": 0.09662555903196335
+        },
+        {
+            "text": "At least 3,000 vehicles were swept away or damaged.",
+            "act": 0.09459075331687927
+        },
+        {
+            "text": "\u2018Matsis was born on January 23,1926, in the village of Palaiochori, Lefkosia province, one of three children of Christofis Matsis.",
+            "act": 0.09055592119693756
+        },
+        {
+            "text": "Cambridge University Press.",
+            "act": 0.08879958093166351
+        },
+        {
+            "text": "And I know you do, too.",
+            "act": 0.08847108483314514
+        },
+        {
+            "text": "SkyBet will thus have to pay \u00a31,008,600, including \u00a3750,000 to responsible gambling charities.",
+            "act": 0.08689355850219727
+        },
+        {
+            "text": "And the others?",
+            "act": 0.08588320761919022
+        },
+        {
+            "text": "msgstr \"Noklus\u0113tais kod\u0113jums, ko izmanto teksta att\u0113lo\u0161anai.\"",
+            "act": 0.08423193544149399
+        },
+        {
+            "text": "msgstr \"Aktiviz\u0113t iegult\u0101s skript\u0113\u0161anas valodas.\"",
+            "act": 0.08369316160678864
+        },
+        {
+            "text": "MSB 2011, Gianoulis et al.",
+            "act": 0.08291284739971161
+        },
+        {
+            "text": "^false!",
+            "act": 0.08275724947452545
+        },
+        {
+            "text": "^false!",
+            "act": 0.08275724947452545
+        },
+        {
+            "text": "The remains include an arm with attached hand and a foot.",
+            "act": 0.08168002963066101
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.08070393651723862
+        },
+        {
+            "text": "On Monday, 882 people were discharged from medical observation.",
+            "act": 0.08010183274745941
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.07950751483440399
+        },
+        {
+            "text": "\"Dead?\"",
+            "act": 0.07941281795501709
+        },
+        {
+            "text": "From a Danish National register of hospitalizations, 72 673 patients were identified who had a discharge diagnosis of stroke between the years 1979-1993 inclusive and were of pensionable age during that period.",
+            "act": 0.07871152460575104
+        },
+        {
+            "text": "TRS, however, swept the rural local body polls in Telangana, results of which were declared this week, winning a majority of the mandal and zilla parishad seats.",
+            "act": 0.07668643444776535
+        },
+        {
+            "text": "The framework is of steel and aluminium, made in sections, with cars for ten persons, including aeronauts, mechanics, and passengers.",
+            "act": 0.07663281261920929
+        },
+        {
+            "text": "\ufeff// ***************************************************************************\n// *\n// * Copyright (C) 2010 International Business Machines\n// * Corporation and others.",
+            "act": 0.07651885598897934
+        },
+        {
+            "text": "Eight of the sixteen persons fractured their hip within the first year and eight of them during the second year.",
+            "act": 0.07629866898059845
+        },
+        {
+            "text": "\"But you died.\"",
+            "act": 0.07531934231519699
+        },
+        {
+            "text": "Cambridge, UK: Cambridge University Press, February 2002.,\n\nGao, W., Li, Z., Wu, X., Zhang, Z., & Li, Y.",
+            "act": 0.07529766112565994
+        },
+        {
+            "text": "And, perhaps most important, they all found a team eager to get to work.",
+            "act": 0.07445412874221802
+        },
+        {
+            "text": "Militant Gains\n\nMeanwhile,ISIL militants and allied Sunni tribal militia fighters on June 24 were continuing battles aimed at consolidating control of territory they have seized recently in the western province of Anbar and to the north of Baghdad.",
+            "act": 0.07333794981241226
+        },
+        {
+            "text": "There are a total of 14,297,000 local government employees, 5,123 state government employees and 2,815 federal employees.",
+            "act": 0.07227309048175812
+        },
+        {
+            "text": "But the result for Israel is a cultural catastrophe and an existential crisis.",
+            "act": 0.07203620672225952
+        },
+        {
+            "text": "But some\nof them are dying.",
+            "act": 0.0713740736246109
+        },
+        {
+            "text": "\"But your words just don't match your thoughts.\"",
+            "act": 0.06978820264339447
+        },
+        {
+            "text": "Ingrid Wacker\n\nIngrid Wacker (died 4 August 2009) was a German film editor.",
+            "act": 0.0690879300236702
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

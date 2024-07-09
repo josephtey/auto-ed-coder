@@ -1,0 +1,412 @@
+{
+    "index": 748,
+    "label": "Technical and structured text with formatting",
+    "attributes": "Incorporates structured, detailed descriptions or technical jargon, uses asterisks and underscores for formatting, includes classification schemas or instructions",
+    "reasoning": "Upon careful examination of the samples, it is evident that the texts within the specified tag consistently incorporate structured, detailed descriptions or technical jargon, instructions, or classification schemas. Additionally, the presence of asterisks and underscores used for emphasis or formatting is prevalent throughout these samples. These characteristics are absent in the contrasted texts within the other tag, which lean more towards casual, conversational, or opinion-based text without such structured elements.",
+    "density": 0.0005551838512676697,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "Cars stranded, flooded on interstate.",
+            "act": 0.19815833866596222
+        },
+        {
+            "text": "Radial runout affects the balance of the tire across its diameter.",
+            "act": 0.1623886674642563
+        },
+        {
+            "text": "Winds NNW at 5 to 10 mph.",
+            "act": 0.1562000960111618
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Relevant diagnosis *3 points*\n\n\u25a1 Irrelevant diagnosis *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**5.",
+            "act": 0.138282909989357
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Prominent cognitive symptoms *3 points*\n\n\u25a1 Some cognitive symptoms *2 points*\n\n\u25a1 No cognitive symptoms *1 point*\n\n**7.",
+            "act": 0.12479504197835922
+        },
+        {
+            "text": "As with inner edge, trim excess boxing strip even with face shape cut edge, taking care to make perpendicular squared cut.",
+            "act": 0.1238432452082634
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Good understanding *3 points*\n\n\u25a1 Partial understanding *2 points*\n\n\u25a1 Does not know what it means *1 point*\n\n**6.",
+            "act": 0.11742551624774933
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Significantly changed *3 points*\n\n\u25a1 Same as before *2 points*\n\n\u25a1 Does not know/remember *1 point*\n\n**4.",
+            "act": 0.11481121927499771
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nYes, considerably *3 points*\n\nYes, to some extent *2 points*\n\nNo adaptation at all *1 point*\n\nThank you.",
+            "act": 0.10449401289224625
+        },
+        {
+            "text": "\"Willard, that child had no class.\"",
+            "act": 0.1029590591788292
+        },
+        {
+            "text": "This degradation of correlation with skew angle is so pronounced that a misalignment in the range of only 1-2 degrees will significantly degrade correlation.",
+            "act": 0.09450233727693558
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Yes, very problematic *3 points*\n\n\u25a1 Yes, to some extent *2 points*\n\n\u25a1 No problems at all *1 point*\n\n**8.",
+            "act": 0.09238743036985397
+        },
+        {
+            "text": "Gauge block hardness is 800 HV (64 HRC) for high wear resistance.",
+            "act": 0.09076093137264252
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Protocol**\n\nDate of the investigation\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSubject code:\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Introduction**\n\nDuring this investigation I am going to ask you questions, and to ask you to perform tasks.",
+            "act": 0.08317027240991592
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Worried (specified) *3 points*\n\n\u25a1 Generally but vaguely worried *2 points*\n\n\u25a1 Not worried *1 point*\n\n**10.",
+            "act": 0.07672814279794693
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Association with relevant diagnosis and illness *4 points*\n\n\u25a1 Association with a relevant diagnostic name, but without knowing the implications of the diagnosis *3 points*\n\n\u25a1 Association with illness, but no diagnosis *2 points*\n\n\u25a1 Does not know *1 point*\n\n**9.",
+            "act": 0.0720551386475563
+        },
+        {
+            "text": "Update, 4:05 p.m.",
+            "act": 0.07170127332210541
+        },
+        {
+            "text": "Small keyhole feature detail at centre front.",
+            "act": 0.07156948000192642
+        },
+        {
+            "text": "Lateral runout is damage that changes\nthe balance of the tire across its width.",
+            "act": 0.06913379579782486
+        },
+        {
+            "text": "Kees is the son of Kees Akerboom Sr., a former successful professional basketball player as well.",
+            "act": 0.06528046727180481
+        },
+        {
+            "text": "Lack of adequate services such as fire protection, police protection, potential capacity problems of schools, particularly Samish Elementary;\n6.",
+            "act": 0.06444727629423141
+        },
+        {
+            "text": "Update, 4:50 p.m.",
+            "act": 0.061315834522247314
+        },
+        {
+            "text": "(If the patient still works, he/she is asked about the present profession)**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Correct *3 points*\n\n\u25a1 Not correct *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**3.",
+            "act": 0.060896992683410645
+        },
+        {
+            "text": "Alkali metal silicate particles may be placed in an asphalt layer in between the top layer of asphalt and roofing granules and the substrate of organic felt or fiberglass mat.",
+            "act": 0.05870569497346878
+        },
+        {
+            "text": "Swede referee loses finger in bizarre accident during game!",
+            "act": 0.05842137336730957
+        },
+        {
+            "text": "Customer must remain in good standing and offer terminates if customer changes their account in any manner, including change of address (even if plan is available), change to service, and service suspension (Vacation Program) or disconnection.",
+            "act": 0.057263582944869995
+        },
+        {
+            "text": "Customer must remain in good standing and offer terminates if customer changes their account in any manner, including change of address (even if plan is available), change to service, and service suspension (Vacation Program) or disconnection.",
+            "act": 0.057263582944869995
+        },
+        {
+            "text": "This is three orders of magnitude smaller than \u2019s $5$MLOC.",
+            "act": 0.05670259892940521
+        },
+        {
+            "text": "May 9: Driver and eight passengers taken to hospital after RIPTA bus struck bus shelter near the East Side bus tunnel.",
+            "act": 0.053210996091365814
+        },
+        {
+            "text": "2015\n\nMarch 26: Ani Emdjian, 9, killed when struck by RIPTA bus on Smith Hill.",
+            "act": 0.05279119312763214
+        },
+        {
+            "text": "Update, 5:45 p.m.",
+            "act": 0.052043549716472626
+        },
+        {
+            "text": "The leadership focus of institution tends to orientate towards micro-management, whereas entrepreneurial focus is more about motivating and nurturing talents.",
+            "act": 0.05183850973844528
+        },
+        {
+            "text": "Vingroup\u2019s construction brand Vinfast has signed an MoU with Credit Suisse for the bank extend $800 million in financing.",
+            "act": 0.05175774544477463
+        },
+        {
+            "text": "Update, 3:20 p.m.",
+            "act": 0.05146191269159317
+        },
+        {
+            "text": "Marc Polmans /  Max Purcell 4\u20136, 6\u20133, [10\u20136].",
+            "act": 0.05062148720026016
+        },
+        {
+            "text": ", 0:1\u20136, (1982).",
+            "act": 0.05044277757406235
+        },
+        {
+            "text": "The measurements were carried out in a phosphate buffer (0.02 mol/L, pH 7.2) containing sucrose (0.4 mol/L), MgCl~2~ (0.005 mol/L) and NaCl (0.015 mol/L).",
+            "act": 0.049836404621601105
+        },
+        {
+            "text": "Customer stories\n\nTheo Pouw Groep customer story\n\nEnabling sustainable innovation and helping the business stay competitive.",
+            "act": 0.04973449558019638
+        },
+        {
+            "text": "Smooth structures, reducing shock features, error on the series.",
+            "act": 0.04960691183805466
+        },
+        {
+            "text": "Scale bar = 50 \u03bcm.",
+            "act": 0.048812977969646454
+        },
+        {
+            "text": "If we use number of bones more than that are supported by OS, WebGL renderer outputs \"too many uniforms\" error.",
+            "act": 0.048178136348724365
+        },
+        {
+            "text": "Granularity can also be found regarding features of the environment.",
+            "act": 0.04414971172809601
+        },
+        {
+            "text": "Within individual fields, however, soil As contents decreased with increasing distance to the water inlet, leading to highly variable topsoil As contents (11-35 mg kg(-1), 0-10 cm).",
+            "act": 0.04349319636821747
+        },
+        {
+            "text": "Currently offers ICO consulting, ICO packages, trading cards, and other services through his own company.",
+            "act": 0.04181791841983795
+        },
+        {
+            "text": "ERV 411 (109 nt):\n\n10.",
+            "act": 0.041291214525699615
+        },
+        {
+            "text": "Law Firm Website Design by Law Promo",
+            "act": 0.040550924837589264
+        },
+        {
+            "text": "Kees Akerboom Jr.\n\nKees Akerboom Jr. (born 20 December 1983)  is a retired Dutch basketball player.",
+            "act": 0.04026149958372116
+        },
+        {
+            "text": "Program included naming, logo design, brochure, website, signage, and showroom.",
+            "act": 0.03805365413427353
+        },
+        {
+            "text": "\"Ain't got a forgiveness to your soul.\"",
+            "act": 0.03745201975107193
+        },
+        {
+            "text": "Asphalt shingle made from glass felt is one kind of flexible tile and free-cutting and bases roof, also can be applied for cone, round, camber and other complex sloping roofs.7) New architectural style.8) No special accessory, save cost.9) Self-cleaning dust.10) High temperature (135\u00baC) resistance and heat insulation, reduce noise.11) Durable and low service rate.12) Harmonious aesthetic style.13) Fire resistance and wind resistance.",
+            "act": 0.035544998943805695
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

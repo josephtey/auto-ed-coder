@@ -1,0 +1,412 @@
+{
+    "index": 45,
+    "label": "Highly emphatic texts",
+    "attributes": "Usage of multiple exclamation points",
+    "reasoning": "Upon reviewing the text content, it becomes evident that there is a unique characteristic present in all of the samples: multiple exclamation points. This feature is not seen in any of the negative samples provided. Exclamation points are used as a means of expressing strong emotions such as excitement, surprise, or emphasis. The usage of multiple exclamation points in the samples seems to be a consistent attribute that distinguishes them from the other set of texts.",
+    "density": 0.00037486772863372576,
+    "confidence": 4.0,
+    "high_act_samples": [
+        {
+            "text": "We LOVE feedback!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+            "act": 0.2875177562236786
+        },
+        {
+            "text": "NOT!!!!!!!!!!!!!!!!!!!",
+            "act": 0.22097890079021454
+        },
+        {
+            "text": "!!!!!!!!!!!!!!!!!!!!",
+            "act": 0.18426288664340973
+        },
+        {
+            "text": "Its headquarters and headquarters company (HHC) was redesignated from the headquarters and headquarters troop of the 304th Cavalry Group, which had been constituted on 7 October 1946 in the Organized Reserve and activated on 1 November of that year in Boston.",
+            "act": 0.11299748718738556
+        },
+        {
+            "text": "MAVEN made the first direct observations of a layer of metal ions in the Martian ionosphere, resulting from incoming interplanetary dust hitting the atmosphere.",
+            "act": 0.084281787276268
+        },
+        {
+            "text": "History \nThe 304th Armored Cavalry was constituted on 21 October 1948 in the Organized Reserve Corps, and partially organized from existing units.",
+            "act": 0.08285022526979446
+        },
+        {
+            "text": "Two items published from a first download Sams Teach, And permanently I could up add also be one problem, private value funding was n't one as Then as I pattern where it was in the value; not reduced the economic, back almost as braid going electrically the better set, Because it left such and dramatic success; Though not for that the peanut widely find them often about the digital, And both that jet well list turbines no price built gone many.",
+            "act": 0.07656832784414291
+        },
+        {
+            "text": "Newsletter\n\nThank You!",
+            "act": 0.07590677589178085
+        },
+        {
+            "text": "Li Zhike even joked that \"his contribution has been proved that he is a hero for Shandong fans, the team has a strong sense of responsibility, is now the\" good sir, \"who will call you a\" bad boy\" \u5c71\u4e1c\u603b\u7ecf\u7406\uff1a\u5168\u529b\u633d\u7559\u53cc\u5916\u63f4 \u4e3b\u5e05\u51ef\u6492\u53bb\u7559\u672a\u5b9a \u9f50\u9c81\u7f51\u6d4e\u53572\u670822\u65e5\u8baf (\u8bb0\u8005 \u5f90\u51ef\u534e \u5b9e\u4e60\u8bb0\u8005 \u674e\u6653\u7433) \u672c\u8d5b\u5b63CBA\u5bf9\u4e8e\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u800c\u8a00\u5df2\u7ecf\u843d\u4e0b\u5e37\u5e55\u3002\u5173\u4e8e\u7403\u961f\u7684\u8c03\u6574\u5907\u53d7\u9f50\u9c81\u7403\u8ff7\u5173\u6ce8\uff0c\u5bf9\u4e8e\u6bd4\u65af\u5229\u548c\u6770\u7279\u7684\u53bb\u7559\uff0c\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u603b\u7ecf\u7406\u674e\u5fd7\u79d1\u63a5\u53d7\u9f50\u9c81\u7f51\u4e13\u8bbf\u65f6\u5019\u8fd9\u6837\u8868\u6001\uff0c\u201c\u4e8c\u4eba\u7684\u8868\u73b0\u4e0d\u9519\uff0c\u5982\u679c\u6ca1\u6709\u610f\u5916\uff0c\u4ff1\u4e50\u90e8\u4f1a\u5168\u529b\u633d\u7559\u6770\u7279\u548c\u6bd4\u65af\u5229\uff0c\u8ba9\u4ed6\u4eec\u7ee7\u7eed\u5728\u5c71\u4e1c\u961f\u6548\u529b\u3002\u201d \u51ef\u6492\u53bb\u7559\u672a\u5b9a \u8fd8\u9700\u5f00\u4f1a\u7814\u7a76 28\u80dc10\u8d1f\u7684\u6218\u7ee9\uff0c\u5217\u5e38\u89c4\u8d5b\u7b2c\u4e94\uff0c\u6bd4\u4e0a\u4e2a\u8d5b\u5b63\u63d0\u5347\u4e8610\u4e2a\u80dc\u573a\uff0c\u5728\u8fd928\u573a\u80dc\u5229\u4e2d\uff0c\u5305\u542b\u4e86\u5bf918\u652f\u7403\u961f\u7684\u80dc\u5229\uff0c\u5e7f\u4e1c\u3001\u8fbd\u5b81\u3001\u65b0\u7586\u3001\u5317\u4eac\u3001\u56db\u5ddd\u3001\u5e7f\u53a6\u7b49\u5b9e\u529b\u5f3a\u52b2\u7684\u5bf9\u624b\u90fd\u66fe\u88ab\u5c71\u4e1c\u961f\u51fb\u8d25\uff0c\u5bf9\u6b64\uff0c\u9ad8\u901f\u7537\u7bee\u603b\u7ecf\u7406\u674e\u5fd7\u79d1\u4e5f\u8868\u793a\uff0c\u201c\u7403\u961f\u7684\u9762\u8c8c\u53d8\u4e86\uff0c\u6559\u7ec3\u5458\u3001\u7403\u5458\u548c\u4ff1\u4e50\u90e8\u4e09\u65b9\u9762\u62e7\u6210\u4e00\u80a1\u7ef3\uff0c\u4e5f\u8fdb\u5165\u4e86\u5b63\u540e\u8d5b\uff0c\u53ea\u662f\u6700\u540e0-3\u51fa\u5c40\u6709\u4e9b\u65e0\u5948\u3002\u201d \u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u5b63\u540e\u8d5b\u88ab\u5e7f\u4e1c\u5b8f\u8fdc\u8f7b\u677e\u57303-0\u51fb\u8d25\u51fa\u5c40\uff0c\u201c\u53bb\u5e74\u7684\u8d5b\u5b63\u51c6\u5907\u8fd8\u662f\u6709\u4e9b\u4ed3\u4fc3\uff0c\u56fd\u5bb6\u961f\u96c6\u8bad\u7684\u7403\u5458\u548c\u5916\u63f4\u5230\u961f\u65f6\u95f4\u665a\uff0c\u5916\u7c4d\u6559\u7ec3\u66f4\u91cd\u89c6\u961f\u5458\u4f11\u606f\u3001\u601d\u60f3\u653e\u677e\u548c\u5f00\u653e\u5f0f\u7ba1\u7406\uff0c\u4ff1\u4e50\u90e8\u4e5f\u534f\u52a9\u63d0\u51fa\u4e86\u4e00\u4e9b\u8981\u6c42\uff0c\u5305\u62ec\u8bad\u7ec3\u5f3a\u5ea6\u7b49\u65b9\u9762\u5427\u3002\u201d\u674e\u5fd7\u79d1\u8868\u793a\u3002 \u5e38\u89c4\u8d5b\u6210\u7ee9\u4e0d\u9519\uff0c\u5b63\u540e\u8d5b\u6210\u7ee9\u4e0d\u5c3d\u5982\u4eba\u610f\uff0c\u5176\u5b9e\u8054\u8d5b\u6253\u5230\u6700\u540e\uff0c\u961f\u5458\u7684\u4f53\u80fd\u50a8\u5907\u51fa\u73b0\u4e86\u77ed\u677f\u3002\u4ece\u6570\u636e\u6765\u770b\uff0c\u5c71\u4e1c\u961f\u7684\u7bee\u677f\u7403\u548c\u9632\u5b88\u505a\u5f97\u4e00\u822c\uff0c\u201c\u4f53\u80fd\u9700\u8981\u52a0\u5f3a\uff0c\u53ef\u4ee5\u8bf4\u51fa\u73b0\u4e86\u4e00\u4e9b\u95ee\u9898\uff0c\u8054\u8d5b\u6253\u5230\u6700\u540e\u6211\u4eec\u7684\u6280\u6218\u672f\u5df2\u7ecf\u88ab\u5176\u5b83\u7403\u961f\u6478\u900f\u4e86\uff0c\u6bd5\u7adf\u6bd4\u65af\u5229\u548c\u6770\u7279\u5728\u6211\u4eec\u961f\u4e2d\u7684\u4f5c\u7528\u5927\u5bb6\u90fd\u5f88\u6e05\u695a\uff0c\u6240\u4ee5\u8bf4\u6211\u4eec\u6709\u4e9b\u540e\u52b2\u4e0d\u8db3\u3002\u201d \u9ad8\u901f\u7537\u7bee\u4e3b\u5e05\u51ef\u6492\u53bb\u5e74\u56db\u6708\u4efd\u5f00\u59cb\u6267\u6559\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\uff0c\u5bf9\u4e8e\u7403\u961f\u5c3d\u5fc3\u5c3d\u8d23\uff0c\u5f53\u521d\uff0c\u5916\u6559\u51ef\u6492\u4e0e\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u7b7e\u7ea6\u4e00\u5e74\uff0c\u5982\u4eca\u773c\u770b\u5c31\u8981\u5230\u671f\uff0c\u201c\u51ef\u6492\u5341\u5206\u656c\u4e1a\uff0c\u4ed6\u7684\u53bb\u7559\u8fd8\u9700\u8981\u96c6\u4f53\u7814\u7a76\u51b3\u5b9a\uff0c\u6211\u4eec\u4eca\u5e74\u7684\u5b97\u65e8\u8fd8\u662f\u63d0\u65e9\u51c6\u5907\uff0c\u63d0\u65e9\u5f00\u7ec3\uff0c\u5907\u6218\u597d\u4e0b\u8d5b\u5b63\u3002\u201d\u674e\u5fd7\u79d1\u8bf4\u3002 \u5168\u529b\u633d\u7559\u6770\u7279\u6bd4\u65af\u5229 \u8c01\u8fd8\u8bf4\u6bd4\u65af\u5229\u662f\u574f\u5b69\u5b50 \u4e0a\u8d5b\u5b63\uff0c\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u53cc\u5916\u63f4\u6770\u7279\u573a\u574727.5\u52065.6\u6b21\u52a9\u653b\uff0c\u6bd4\u65af\u5229\u573a\u574731.9\u52063.8\u6b21\u52a9\u653b\uff0c\u4f46\u6bd4\u65af\u5229\u7684\u5931\u8bef\u6570\u8f83\u591a\u8fbe\u52304\u6b21\u3002\u5bf9\u4e8e\u4e8c\u4eba\u7684\u8868\u73b0\uff0c\u201c\u8d5b\u5b63\u4e4b\u524d\uff0c\u6770\u7279\u5c31\u51c6\u5907\u5f97\u5f88\u4e0d\u9519\uff0c\u6bd4\u65af\u5229\u7684\u601d\u60f3\u5de5\u4f5c\u505a\u5f97\u5f88\u5230\u4f4d\u3002\u6bd4\u65af\u5229\u6628\u5929\u79bb\u5f00\u6d4e\u5357\uff0c\u6211\u4eec\u4e24\u4eba\u4ea4\u6d41\u65f6\u5019\uff0c\u6bd4\u65af\u5229\u672c\u4eba\u4e5f\u8ba4\u4e3a\u81ea\u5df1\u8fd9\u6b21\u5728\u5c71\u4e1c\u6253\u7403\u53d6\u5f97\u4e86\u5f88\u5927\u8fdb\u6b65\uff0c\u6210\u719f\u4e86\u5f88\u591a\uff0c\u5982\u4eca\u5df2\u7ecf\u5f97\u5230\u4e86NBA\u7403\u961f\u7684\u8ba4\u53ef\u3002\u201d\u674e\u5fd7\u79d1\u751a\u81f3\u5f00\u7740\u73a9\u7b11\u8bf4\uff0c\u201c\u4ed6\u7684\u4f5c\u7528\u548c\u8d21\u732e\u5df2\u7ecf\u5f97\u5230\u8bc1\u660e\uff0c\u4ed6\u662f\u5c71\u4e1c\u7403\u8ff7\u5fc3\u4e2d\u7684\u82f1\u96c4\uff0c\u5bf9\u4e8e\u7403\u961f\u7684\u8d23\u4efb\u5fc3\u5f88\u5f3a\uff0c\u73b0\u5728\u5df2\u7ecf\u662f\u2018\u597d\u5148\u751f\u2019\uff0c\u8c01\u8fd8\u79f0\u547c\u4f60\u662f\u2018\u574f\u5c0f\u5b50\u2019?\u201d \u5bf9\u4e8e\u6770\u7279\u548c\u6bd4\u65af\u5229\u7684\u53bb\u7559\uff0c\u201c\u6211\u7684\u610f\u89c1\u8fd8\u662f\u5168\u529b\u633d\u7559\uff0c\u7eb5\u89c2\u8054\u8d5b\uff0c\u6bd4\u65af\u5229\u662f\u597d\u5916\u63f4\uff0c\u6770\u7279\u5f88\u4e86\u89e3\u7403\u961f\uff0c\u4eba\u54c1\u975e\u5e38\u597d\uff0c\u8ddf\u5927\u5bb6\u5173\u7cfb\u4e5f\u5f88\u878d\u6d3d\uff0c\u4e0b\u8d5b\u5b63\u597d\u597d\u8c03\u6574\u4e00\u4e0b\uff0c\u6211\u4eec\u7684\u5916\u63f4\u914d\u7f6e\u4e0d\u5dee\u3002\u201d\u674e\u5fd7\u79d1\u8868\u793a\uff0c\u201c\u5f53\u7136\uff0c\u8fd9\u90fd\u9700\u8981\u4e3b\u6559\u7ec3\u7684\u6700\u7ec8\u51b3\u5b9a\u3002\u201d \u4e01\u5f66\u96e8\u822a\u6570\u636e\u4e0b\u6ed1\u4e8b\u51fa\u6709\u56e0 \u9648\u4e16\u5ff5\u6216\u5c06\u79bb\u961f \u672c\u8d5b\u5b63\uff0c\u5185\u7ebf\u9ca8\u9c7c\u9676\u6c49\u6797\u5e38\u89c4\u8d5b\u573a\u5747\u767b\u573a29.4\u5206\u949f\u5f97\u523014.7\u5206\u30017.1\u4e2a\u7bee\u677f\uff0c\u521b\u4e0b\u4e86\u751f\u6daf\u65b0\u9ad8\uff0c\u201c\u9676\u6c49\u6797\u5f88\u523b\u82e6\uff0c\u4efb\u52b3\u4efb\u6028\uff0c\u8fd9\u4e2a\u8d5b\u5b63\u4ed6\u7684\u6280\u672f\u6210\u957f\u4e5f\u5f88\u5927\uff0c\u81ea\u4fe1\u5fc3\u65b9\u9762\u66f4\u8db3\u4e86\uff0c\u548c\u6bd4\u65af\u5229\u3001\u6770\u7279\u7684\u914d\u5408\u5f88\u5a34\u719f\u3002\u201d\u674e\u5fd7\u79d1\u8868\u793a\u3002 \u7403\u961f\u672c\u571f\u6838\u5fc3\u4e01\u5f66\u96e8\u822a\u53d7\u5230\u4f24\u75c5\u56f0\u6270\uff0c\u672c\u8d5b\u5b63\u573a\u5747\u53ea\u80fd\u5f97\u52309.7\u5206\uff0c\u201c\u5f88\u591a\u65f6\u5019(\u5c0f\u4e01)\u662f\u5e26\u75c5\u4e0a\u573a\uff0c\u611f\u5192\u3001\u53d1\u70e7\u3001\u811a\u90e8\u6d77\u6709\u4f24\uff0c\u4ed6\u5f88\u60f3\u5e2e\u52a9\u7403\u961f\uff0c\u6570\u636e\u4e0b\u6ed1\u6709\u5f88\u591a\u5ba2\u89c2\u539f\u56e0\uff0c\u53ef\u80fd\u5f88\u591a\u7403\u8ff7\u4e5f\u4e0d\u662f\u5f88\u6e05\u695a\uff0c\u5c0f\u4e01\u662f\u9876\u7740\u4f24\u75c5\u5728\u6253\u7403\uff0c\u5f88\u4e0d\u5bb9\u6613\u3002\u201d \u4e0a\u8d5b\u5b63\u5f00\u59cb\u524d\uff0c\u52a0\u76df\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u7684\u5185\u63f4\u6768\u529b\uff0c\u573a\u57472.7\u5206\uff0c\u5f97\u5230\u4e86\u666e\u904d\u8ba4\u53ef\uff0c\u201c\u4ed6\u7684\u656c\u4e1a\u548c\u4eba\u54c1\u5728\u961f\u5185\u9971\u53d7\u597d\u8bc4\uff0c\u7ecf\u5e38\u63d0\u524d\u4e00\u4e2a\u5c0f\u65f6\u5230\u573a\u5730\u52a0\u7ec3\uff0c\u4ed6\u73b0\u5728\u5df2\u7ecf\u878d\u5165\u7403\u961f\uff0c\u800c\u4e14\u5f53\u521d\u7b7e\u7684\u662f\u4e24\u5e74\u5408\u540c\uff0c\u6768\u529b\u4e0b\u8d5b\u5b63\u4f1a\u7ee7\u7eed\u7559\u5728\u5c71\u4e1c\u961f\u3002\u201d \u5728\u5c71\u4e1c\u7537\u7bee\u6548\u529b\u4e24\u4e2a\u8d5b\u5b63\u7684\u5b9d\u5c9b\u53f0\u6e7e\u540e\u536b\u9648\u4e16\u5ff5\u6628\u5929\u4e5f\u79bb\u5f00\u4e86\u6d4e\u5357\uff0c\u201c\u6628\u5929(\u9648\u4e16\u5ff5)\u8d70\u7684\u65f6\u5019\uff0c\u6211\u8fd8\u8ddf\u4ed6\u8bf4\u4ed6\u662f\u975e\u5e38\u804c\u4e1a\u7684\u7403\u5458\uff0c\u65e0\u8bba\u662f\u573a\u4e0b\u505a\u4eba\u8fd8\u662f\u573a\u4e0a\u6253\u7403\uff0c\u5404\u65b9\u9762\u90fd\u975e\u5e38\u4f18\u79c0\uff0c\u8fd9\u4e24\u5e74\u5728\u5c71\u4e1c\u961f\u8d77\u5230\u4e86\u8868\u7387\u4f5c\u7528\uff0c\u4ed6\u662f\u5426\u7ee7\u7eed\u7559\u4e0b\u7531\u4e3b\u6559\u7ec3\u6765\u5b9a\u593a\u3002\u201d\u4e0d\u8fc7\u4ece\u8bb0\u8005\u76ee\u524d\u5f97\u5230\u7684\u6d88\u606f\u6765\u770b\uff0c\u9648\u4e16\u5ff5\u4e0d\u4f1a\u7559\u961f\u3002 \u52a9\u5a01\u6b4c\u66f2\u5f81\u96c6\u7ed3\u675f \u5c06\u5f00\u59cb\u6295\u7968\u73af\u8282 \u4e0a\u8d5b\u5b63\uff0c\u5c71\u4e1c\u9ad8\u901f\u7537\u7bee\u4ff1\u4e50\u90e8\u4e0e\u5c71\u4e1c\u5e7f\u64ad\u7535\u89c6\u53f0\u9f50\u9c81\u7f51\u4e00\u540c\u4e3e\u529e\u52a9\u5a01\u6b4c\u66f2(\u97f3\u9891)\u5f81\u96c6\u6d3b\u52a8\uff0c\u76ee\u524d\u5df2\u7ecf\u843d\u4e0b\u5e37\u5e55\u3002 \u672c\u6b21\u6d3b\u52a8\u622a\u81f32\u670815\u65e5\u5171\u6536\u5230110\u4ef6\u52a9\u5a01\u6b4c\u66f2(\u97f3\u9891)\uff0c\u9f50\u9c81\u7f51\u4e0e\u9ad8\u901f\u7537\u7bee\u5c06\u4f1a\u4ece\u4e2d\u9009\u51fa\u4f18\u79c0\u4f5c\u54c1\u8fdb\u884c\u5fae\u4fe1\u6295\u7968\uff0c\u8be6\u60c5\u5173\u6ce8\u9f50\u9c81\u7f51\u5fae\u4fe1\uff08\u5fae\u4fe1\u53f7\uff1aqiluwang\uff09\u3002 \u201c\u52a9\u5a01\u6b4c\u66f2\u5f81\u96c6\u8fd9\u4ef6\u4e8b\uff0c\u6211\u4eec\u5c31\u662f\u60f3\u901a\u8fc7\u8fd9\u4e2a\u6865\u6881\u548c\u7ebd\u5e26\uff0c\u8ba9\u5c71\u4e1c\u7403\u8ff7\u548c\u9ad8\u901f\u7537\u7bee\u66f4\u7d27\u5bc6\u7684\u8054\u7cfb\u5728\u4e00\u8d77\uff0c\u5927\u5bb6\u662f\u4e00\u5bb6\u4eba\uff0c\u4e00\u4e2a\u8d5b\u5b63\u7ed3\u675f\u4e86\uff0c\u611f\u8c22\u5927\u5bb6\u5bf9\u4e8e\u9ad8\u901f\u7537\u7bee\u7684\u652f\u6301\u3002\u201d\u674e\u5fd7\u79d1\u8868\u793a\uff0c\u201c\u4e0b\u8d5b\u5b63\u7b2c\u4e00\u573a\u4e3b\u573a\u7684CBA\u6bd4\u8d5b\uff0c\u6211\u4eec\u4f1a\u8fdb\u884c\u73b0\u573a\u9881\u5956\uff0c\u4e07\u5143\u73b0\u91d1\u4e5f\u4f1a\u9001\u51fa\u3002\u201d\u76f8\u5173\u7684\u4e3b\u9898\u6587\u7ae0\uff1a",
+            "act": 0.07552316784858704
+        },
+        {
+            "text": "Brandon Crawford doubled in a run in the fourth to make it 2-0, one of two hits the left-handed hitting Crawford had off Maholm.",
+            "act": 0.07301799952983856
+        },
+        {
+            "text": "Grichuk broke a scoreless tie in the fifth inning with a two-run shot off of starter Yohan Flande.",
+            "act": 0.05463803559541702
+        },
+        {
+            "text": "Even the ruling ally of the Congress in Assam, Bodoland People\u2019s Front contested all the constituencies in Bodo dominated areas separately.",
+            "act": 0.05431056395173073
+        },
+        {
+            "text": "Some particles from the solar wind are able to penetrate unexpectedly deep into the upper atmosphere, rather than being diverted around the planet by the Martian ionosphere; this penetration is allowed by chemical reactions in the ionosphere that turn the charged particles of the solar wind into neutral atoms that are then able to penetrate deeply.",
+            "act": 0.05184603109955788
+        },
+        {
+            "text": "Its primary habitat (especially adults) is sand, sand- shell or coral- mud bottoms from intertidals.",
+            "act": 0.04876485466957092
+        },
+        {
+            "text": "The source of the hydrogen ultimately is water in the lower atmosphere, broken apart into hydrogen and oxygen by sunlight.",
+            "act": 0.044316135346889496
+        },
+        {
+            "text": "It rises sharply from sea level to about  and then drops back down more slowly to below sea level in the Indian River Lagoon.",
+            "act": 0.04327934980392456
+        },
+        {
+            "text": "Brandon Moss sent the Cardinals to a walk-off victory on Sunday with an RBI single in the bottom of the ninth inning against the Rockies.",
+            "act": 0.04234704002737999
+        },
+        {
+            "text": "The head part was filled with dense nucleus and the nucleoplasma extended into the anterior end of the median part of the sperm tail.",
+            "act": 0.040054284036159515
+        },
+        {
+            "text": "He worked as a cartoonist in newspapers like the now-defunct Current and later with the Illustrated Weekly of India magazine, besides Midday and later, Economic Times.",
+            "act": 0.0396709144115448
+        },
+        {
+            "text": "For free.",
+            "act": 0.038894765079021454
+        },
+        {
+            "text": "The population was spread out with 925 people (23.8%) under the age of 18, 298 people (7.7%) aged 18 to 24, 1,014 people (26.1%) aged 25 to 44, 1,031 people (26.6%) aged 45 to 64, and 611 people (15.8%) who were 65 years of age or older.",
+            "act": 0.03441552817821503
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Significantly changed *3 points*\n\n\u25a1 Same as before *2 points*\n\n\u25a1 Does not know/remember *1 point*\n\n**4.",
+            "act": 0.03352232277393341
+        },
+        {
+            "text": "The Giants led 2-1 when they broke the game open with a four-run fifth, aided by the adventures of Braves right fielder Justin Upton.",
+            "act": 0.03322083503007889
+        },
+        {
+            "text": "Much less is known about the collective modes in the nonequilibrium quark-gluon plasma such as the parton system generated at the early stage of ultrarelativistic heavy ion collisions at RHIC or LHC.",
+            "act": 0.03262820839881897
+        },
+        {
+            "text": "May be in Oban 1841 but in 1851 1861 in Greenock - Mary a widow\n1868 - 1901.",
+            "act": 0.032307662069797516
+        },
+        {
+            "text": "Famous People from Saidpur\n\n Baba Tehel Singh (also Bhai Panjab Singh; see Encyclopaedia of Sikhism, entry by Bhai Ardaman Singh Bagrian);\n Baba Dewa Singh (Diwan Singh, d.1884);\n Bhai Narain Singh (d.1906);\n Gyani Bhagat Singh;\n Bhai Avtar Singh and Bhai Gurcharan Singh R\u0101gi;\n Balwant Singh Thind (former Deputy-Chief Minister of Punjab, Ex Revenue/Finance Minister);\n Sardar Hardeep Singh PCS;\n Sardar Hardial Singh IAS;\n Amarjit Singh Thind, District Kapurthala Block Education Officer; \n Avtar Singh Thind, I.R.S., (former Taxation Commissioner of India);\n Hardial Singh Thind, (former Session Judge, Punjab);\n Sukhdev Singh Thind, (Inspector General of Gujarat);\n Karan Avtar Singh Thind IAS (Chief Secretary, Punjab);\n Ravneet Kaur IAS;\n Principal Keval Singh, (Social worker, Philosopher);\n Amandeep Singh (PPLS)Additional District Attorney;\n Principal Lakhbir Singh (PES);\n Yuvraj Singh Thind IIT Bombay, IIM Ahemdabad;\n Bhai Baldeep Singh, The An\u0101d Foundation;\n\nCategory:Villages in Kapurthala district",
+            "act": 0.03223061561584473
+        },
+        {
+            "text": "Most Popular Weather Site: Weather Underground Looking outside to get the forecast is great if you want to know current conditions in your\u2026 Read more\n\nTo get your free membership, if you're a new member, head to the signup page and leave checked the option to upgrade your membership $10 a year.",
+            "act": 0.03188132494688034
+        },
+        {
+            "text": "This includes my friends, family, and work, so please be mindful and keep a positive vibe in the comment section.",
+            "act": 0.031033065170049667
+        },
+        {
+            "text": "Any information is welcome.",
+            "act": 0.030956465750932693
+        },
+        {
+            "text": "For more details about, please get in touch with us via info@socialveo.com.",
+            "act": 0.03084160014986992
+        },
+        {
+            "text": "A first result of our program was the detection of the secondary component in the spectra of 20 binaries which were previously known as single-lined (paperI).",
+            "act": 0.030510783195495605
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Good understanding *3 points*\n\n\u25a1 Partial understanding *2 points*\n\n\u25a1 Does not know what it means *1 point*\n\n**6.",
+            "act": 0.029436830431222916
+        },
+        {
+            "text": "Cal had flown a smaller variant of the short-range fighter back when he was at the Home.",
+            "act": 0.02855578064918518
+        },
+        {
+            "text": "[@i2156-9614-9-24-191204-b17] It is a bottom-living, but periodically pelagic species usually inhabiting littoral waters to about 25 m depth, but has been reported to extend down to about 90 m. It is locally abundant in shallow waters throughout its range.",
+            "act": 0.027626067399978638
+        },
+        {
+            "text": "**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\u25a1 Relevant diagnosis *3 points*\n\n\u25a1 Irrelevant diagnosis *2 points*\n\n\u25a1 Does not remember *1 point*\n\n**5.",
+            "act": 0.027601072564721107
+        },
+        {
+            "text": "The bubble captures only the single-particle scattering off the medium, described by the self-energy which enters the full Green\u2019s function.",
+            "act": 0.025961626321077347
+        },
+        {
+            "text": "All non-H atoms were anisotropically refined.",
+            "act": 0.022503817453980446
+        },
+        {
+            "text": "Share your thoughts in the comment section below or send me a message via Twitter @JamesWalkerNFL.",
+            "act": 0.021716497838497162
+        },
+        {
+            "text": "Please be generous with your thoughts and experiences in the comments section.",
+            "act": 0.01986885443329811
+        },
+        {
+            "text": "All communication about your points and reward credits earned and redeemed can be found on your account page after you logged in with your email and password.",
+            "act": 0.01904579997062683
+        },
+        {
+            "text": "The eggs still retained their liquid yolks which ran onto and mixed into the m\u00e9lange.",
+            "act": 0.017902659252285957
+        },
+        {
+            "text": "Poor SR over this distance; Down 200m in distance; Top jockey/trainer SR; Still a maiden; Suited by better draw; Never won on wet ground; Up in class; ;\n\n273855\n\nHARINGTON PORT\n\n60kg\n\nRat 21\n\nMuzi Yeni\n\nBP9\n\nGavin Smith\n\n8U; Not raced 39 days; Up in class on last start; Poor SR over this distance; Down 200m in distance; Unraced at this course; Jockey riding well; Still trying to break maiden status after 24 starts; Never won on wet ground; Up in class; ;\n\n3x06x7\n\nLUCKY DEAL\n\n60kg\n\nRat 17.5\n\nC Storey\n\nBP3\n\nD A Mckenzie\n\nUp 200m in distance; Jockey low strike rate; Still a maiden; Never won on wet ground; Up in class; ;\n\n408790\n\nJOHN IN FLIGHT\n\n60kg\n\nRat 5\n\nDonald Bogaleboile\n\nBP2\n\nE Kaknis\n\nNot sighted in recent starts; Up 600m in distance; Poor jockey/trainer SR; Still trying to break maiden status after 17 starts; Never won on wet ground; Up in class; ;\n\n5354x6\n\nLITTLE DRUMMER BOY\n\n59kg\n\nRat 18.5\n\nJ Penny\n\nBP7\n\nT Spies\n\nFailed favourite last start; Unraced this distance; Up 200m in distance; Poor jockey/trainer SR; Still a maiden; Never won on wet ground; Up in class; ;\n\n6x700x\n\nKISS ME TWICE\n\n59kg\n\nRat 9.5\n\nChase Maujean\n\nBP10\n\nT J Laing\n\nNot sighted in recent starts; Not raced 66 days; Up in class on last start; Jockey low strike rate; Wide BP; Never won on wet ground; Up in class; ;\n\n794709\n\nSHEPHERD'S SKY\n\n59kg\n\nRat 14.5\n\nStallone Naidoo\n\nBP1\n\nGrant Paddock\n\nYet to win after 7 RFS; Not sighted in recent starts; Not raced 34 days; Suited by better draw; Never won on wet ground; Up in class; ;\n\n8645\n\nMASTER NEWTON\n\n59kg\n\nRat 17\n\nSandile Khathi\n\nBP5\n\nGavin Smith\n\nUp 200m in distance; Poor jockey/trainer SR; Never won on wet ground; Up in class; ;\n\n936x07\n\nWAHI\n\n57kg\n\nRat 16\n\nJ Mphanya\n\nBP8\n\nGavin Smith\n\nRunning 3U; Poor SR over this distance; Up 200m in distance; Poor jockey/trainer SR; Still trying to break maiden status after 27 starts; Suited by better draw; Never won on wet ground; Up in class; ;\n\nNumber of wins this campaign First up Second up Third up Beaten favourite last start Won at the course Won over course and distance Down in distance Up in distance Placed at this distance Won over the distance Favourite last start Group 1 winner Group 1 placegetter placed at Group level won at Group level Improver Jockey placed on horse previously Jockey won on horse previously Placed at Metropolitian track Won on Mentropolitan track Placed on wet track Won on wet track Down in Weight Up in weight Placed in the last year of racing Won in the last year of racing",
+            "act": 0.01745639741420746
+        },
+        {
+            "text": "It is found in sand and ocean bottoms.",
+            "act": 0.016987334936857224
+        },
+        {
+            "text": "Download this episode (right click and save)\n\nDiscussed in this Episode:\n\nDiscuss this and much more in our private Facebook Group: The Lions of Liberty Forum!",
+            "act": 0.01619607023894787
+        },
+        {
+            "text": "###### \n\nDemographics of older adults who reported use of CAM\n\n  Demographic Variable                  Intervals              Overall      AA n = 40    CA n = 143\n  ------------------------------------- ---------------------- ------------ ------------ ------------\n  \\*Age                                 50--59                 7 (3.8%)     0            7 (5%)\n                                        60--79                 52 (28%)     19 (47.5%)   33 (23%)\n                                        70--79                 75 (40%)     19 (47.5%)   55 (38%)\n                                        80 \\>                  52 (28%)     2 (5%)       48 (34%)\n  Gender                                Male                   45 (24%)     9 (23%)      33 (23%)\n                                        Female                 139 (76%)    30 (77%)     109 (77%)\n  Marital Status                        Married                78 (42%)     15 (37.5%)   61 (43%)\n                                        Single                 107 (58%)    25 (62.5%)   81 (57%)\n  Socioeconomic Status (SES)            \\$0 -- \\$19,999        95 (51.1%)   28 (72%)     64 (49%)\n                                        \\$20 -- \\$39,999       64 (34.4%)   10 (25%)     54 (41%)\n                                        \\$40 -- \\$59,999       8 (4.4%)     0            8 (6%)\n                                        \\$60,000 and \\>        6 (3.2%)     1 (3%)       5 (4%)\n  \\*Education                           \\< 8^th^grade          16 (8.7%)    8 (21%)      7 (5%)\n  9 -- 12 grade                         106 (57.6%)            25 (64%)     79 (55.5%)   \n  College                               57 (30.6%)             5 (13%)      52 (36.5%)   \n  Graduate School                       5 (2.7%)               1 (2%)       4 (3%)       \n  Out of pocket expenses spent on CAM   Under \\$100.00         84 (48.8%)   22 (55%)     60 (47%)\n                                        \\$101.00 -- \\$500.00   56 (32.6%)   7 (17.5%)    48 (37%)\n                                        \\$501.00 -- \\$1,000    17 (9.9%)    5 (12.5%)    12 (9%)\n                                        \\$1001.00 -- \\$1500    7 (4.1%)     3 (7.5%)     4 (3%)\n                                        \\$1501.00 -- \\$2000    5 (2.9%)     2 (5%)       3 (2.5%)\n                                        \\$2000 and more        3 (1.7%)     1 (2.5%)     2 (1.5%)\n\n\\*Significant difference by race at p = .05\n\nTo answer Research Question 1 (Is there a difference in CAM use between AA and CA older adults?",
+            "act": 0.014689549803733826
+        },
+        {
+            "text": "Upton let Marco Scutaro's liner skip past him for a one-out triple.",
+            "act": 0.014170363545417786
+        },
+        {
+            "text": "If you have any more questions please feel free to ask!",
+            "act": 0.012927215546369553
+        },
+        {
+            "text": "MAVEN has used measurements of the isotopes in the upper atmosphere (atoms of the same composition but having different mass) to determine how much gas has been lost through time.",
+            "act": 0.01279044896364212
+        },
+        {
+            "text": "Lookout for coaches notes in the #nba-coaches-notes channel later today and be sure to monitor #nba-breaking-news for any updates/breaking news!",
+            "act": 0.012567214667797089
+        },
+        {
+            "text": "Lookout for coaches notes in the #nba-coaches-notes channel later today and be sure to monitor #nba-breaking-news for any updates/breaking news!",
+            "act": 0.012567214667797089
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

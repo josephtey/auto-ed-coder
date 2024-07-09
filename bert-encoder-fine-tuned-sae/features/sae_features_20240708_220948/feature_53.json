@@ -1,0 +1,412 @@
+{
+    "index": 53,
+    "label": "Structured, coherent formal language",
+    "attributes": "structured information, formal punctuation, proper nouns, coherent ideas, context-specific",
+    "reasoning": "After examining the provided texts, it was evident that texts in the first group contain more fragments of structured information or complete sentences, often incorporating proper nouns, formal punctuation, and contextually coherent ideas. In contrast, the second group features more incomplete thoughts, casual conversational language, and lacks the structured, context-specific information found in the first group.",
+    "density": 0.0026288192615580262,
+    "confidence": 24.0,
+    "high_act_samples": [
+        {
+            "text": "Pay attention.",
+            "act": 0.15997986495494843
+        },
+        {
+            "text": "Ever given it a serious thought?",
+            "act": 0.15437938272953033
+        },
+        {
+            "text": "Privacy Policy",
+            "act": 0.12772056460380554
+        },
+        {
+            "text": "In 2001, E.L.C.",
+            "act": 0.12157397717237473
+        },
+        {
+            "text": "The cue onset served as zero\u2010time for the data analysis.",
+            "act": 0.11730442941188812
+        },
+        {
+            "text": "nonprofit concerns prime as this included FXD in the 1840s and 1850s.",
+            "act": 0.11643538624048233
+        },
+        {
+            "text": "Conversation over.",
+            "act": 0.11124346405267715
+        },
+        {
+            "text": "Acer help focus is for your advantage.",
+            "act": 0.10925062000751495
+        },
+        {
+            "text": "Verhandelingen der Koninklijke Akad.",
+            "act": 0.10908018052577972
+        },
+        {
+            "text": "Explaining suggests your meaning was mistaken.",
+            "act": 0.10800424963235855
+        },
+        {
+            "text": "Verhandelingen der Koninklijke Akad.",
+            "act": 0.10721460729837418
+        },
+        {
+            "text": "In short, traditional television viewing provides a one dimensional experience.",
+            "act": 0.10706918686628342
+        },
+        {
+            "text": "I started up again today.",
+            "act": 0.1068609431385994
+        },
+        {
+            "text": "Two days later, S.O.S.",
+            "act": 0.10637456178665161
+        },
+        {
+            "text": "\u6700\u8fd1\uff0c\u5f53\u6211\u770b\u5230\u8fd9\u4e2a\u65f6\u662f\u5728\u88d5\u5eca\u574a\u8d70\u8d70\u6d88\u78e8\u70b9\u65f6\u95f4\u3002\u5b83\u8bf4\u201c\u6211\u662f\u4e00\u4e2a\u806a\u660e\u7684\u5783\u573e\u6876\u201d\u3002 \u6709\u4e00\u4e2a\u8bcd\u201c\u5927\u809a\u5b50\u201d\u3002 \u66f4\u591a\u63cf\u8ff0\uff1a\u7d27\u51d1\u591a\u8fbe7\u500d\u7684\u5783\u573e\u3002 \u62ef\u6551\u5730\u7403\u548c\u8282\u7701\u52b3\u52a8\u529b\u3002\u4e5f\u5f88\u806a\u660e\uff0c\u5e76\u4f1a\u5728\u9700\u8981\u6e05\u7406\u7684\u65f6\u5019\u548c\u5730\u70b9\u53d1\u9001\u8b66\u62a5\u3002\u8fd9\u51cf\u5c11\u4e86\u6392\u653e\u5e76\u5e2e\u52a9\u4e86\u5730\u7403\u3002\u662f\u7684\u786e\u633a\u806a\u660e\u7684\u3002\n\nMy Referral Links to recent airdrops | \u6211\u6700\u8fd1\u53c2\u4e0e\u7684\u7a7a\u6295\u8fde\u63a5\n\nI See\ud83d\udc40.",
+            "act": 0.10305009037256241
+        },
+        {
+            "text": "La Genius was a Malaysian MLM company that has since collapsed.",
+            "act": 0.10217926651239395
+        },
+        {
+            "text": "Yay.",
+            "act": 0.10034741461277008
+        },
+        {
+            "text": "Read More",
+            "act": 0.0963684618473053
+        },
+        {
+            "text": "This integral was until the beautiful vessel and alerted made as the sandal lender parameter's access of political transaction, original definitions and knowledge nozzle( generating the specific engine).",
+            "act": 0.09419535845518112
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.09096215665340424
+        },
+        {
+            "text": "In Madrid l\u00e4uft sein Vertrag noch bis 2021.",
+            "act": 0.09082571417093277
+        },
+        {
+            "text": "In recent months, B.C.",
+            "act": 0.0872054174542427
+        },
+        {
+            "text": "\"See.",
+            "act": 0.08622726052999496
+        },
+        {
+            "text": "During cross season is when I used it the most.",
+            "act": 0.08574443310499191
+        },
+        {
+            "text": "Thanks, man.",
+            "act": 0.08265090733766556
+        },
+        {
+            "text": "Nonetheless, Yang and co-workers (Yang et al.",
+            "act": 0.08240863680839539
+        },
+        {
+            "text": "The Rockefeller Foundation reorganized the curriculum of the Faculty of Medicine, in 1923, the Faculty of Medicine became the first faculty to accept students from the secondary education.",
+            "act": 0.08090494573116302
+        },
+        {
+            "text": "Watching her fall in love is to witness acting by degrees.",
+            "act": 0.07987282425165176
+        },
+        {
+            "text": "\u2014 Miaozi Guo\n\nI've attended Learnfly Microsoft SQL Server Self-Paced.",
+            "act": 0.07898040115833282
+        },
+        {
+            "text": "Abstract\n\nGinseng is a traditional Chinese medicine and has the extensive pharmacological activity.",
+            "act": 0.07861611992120743
+        },
+        {
+            "text": "Yayy.",
+            "act": 0.07845564931631088
+        },
+        {
+            "text": "It focuses less on results and more on personal development paired with harmonious group dynamics.",
+            "act": 0.07778457552194595
+        },
+        {
+            "text": "Since then, I resorted to sage.",
+            "act": 0.07713209837675095
+        },
+        {
+            "text": "Haven Fed.",
+            "act": 0.07578400522470474
+        },
+        {
+            "text": "Yale and Harvard along with several other \u201cprestigious\u201d universities are owned by the British Crown.",
+            "act": 0.07543859630823135
+        },
+        {
+            "text": "Hearing is normal throughout life.",
+            "act": 0.07402142137289047
+        },
+        {
+            "text": "Within a few minutes, it was not early anymore.",
+            "act": 0.07395242154598236
+        },
+        {
+            "text": "However, Netflix generally keeps a year gap between seasons of its original series\u2019.",
+            "act": 0.07389254122972488
+        },
+        {
+            "text": "Dry time takes just as long also.",
+            "act": 0.07357685267925262
+        },
+        {
+            "text": "Garbage collection saved the day.",
+            "act": 0.07336605340242386
+        },
+        {
+            "text": "Abs and bacteria was injected i.v.",
+            "act": 0.0732136145234108
+        },
+        {
+            "text": "Never miss a story!",
+            "act": 0.07295741885900497
+        },
+        {
+            "text": "Being forked from \u2018Crypti,\u2019 it was launched in early 2016, by Olivier Beddows and Max Kordek.",
+            "act": 0.07286594808101654
+        },
+        {
+            "text": "Oklahoma native, John Massey joined Durant Bank & Trust in 1966 as a director, and was appointed chairman of the board in 1986.",
+            "act": 0.07208772003650665
+        },
+        {
+            "text": "3,107,976, 2,895,793, 2,880,060, 2,819,945, 4,182,744, 4,069,268, 4,065,405, 3,972,710.",
+            "act": 0.07190444320440292
+        },
+        {
+            "text": "But the real story is more complicated and nuanced.",
+            "act": 0.07061321288347244
+        },
+        {
+            "text": "Description\n\nFour Horses is a tiny independent self-publishing video game developer with a love for classic video games and portable gaming.",
+            "act": 0.07017356902360916
+        },
+        {
+            "text": "CA).",
+            "act": 0.06975219398736954
+        },
+        {
+            "text": "Netflix streaming traffic overtook torrent traffic FOUR YEARS AGO.",
+            "act": 0.06912612915039062
+        },
+        {
+            "text": "AMNESIA is structured by means of a layered architecture.",
+            "act": 0.06766482442617416
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

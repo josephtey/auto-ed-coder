@@ -1,0 +1,412 @@
+{
+    "index": 349,
+    "label": "Formal and informational text",
+    "attributes": "structured content, informational purpose, formal language, lack of informal speech markers, use of technical or specialized vocabulary",
+    "reasoning": "The samples all exhibit a formal or informational style of writing. This style includes structured descriptions, lists of facts, instructional content, official documentation, or scholarly discussion. In contrast, the other samples primarily consist of informal dialogue, casual conversation, opinionated statements, and online forum posts which do not follow a formal structure or purpose.",
+    "density": 0.005570819157164481,
+    "confidence": 45.0,
+    "high_act_samples": [
+        {
+            "text": "Field of the Invention\nIn the course of the maintenance of an almond orchard on my ranch located near Winton, Merced County, Calif., I frequent such orchard for the purpose of inspection, cultivation, and irrigation, and--during the course of such activities--I am aware of the condition of the trees and recognize any other-than-normal growth characteristics of them.",
+            "act": 0.20960144698619843
+        },
+        {
+            "text": "Frederick and Gertrude's son, Frederick II, then divided the patrimony for his sons.",
+            "act": 0.20117300748825073
+        },
+        {
+            "text": "This fire merged with the Kilmore fire and destroyed Kinglake and Marysville.",
+            "act": 0.19267745316028595
+        },
+        {
+            "text": "A very cooperative individual remained foraging for several minutes near to the group on a Campina trail at Mari-Mari Lodge.",
+            "act": 0.17169353365898132
+        },
+        {
+            "text": "Your reading reads out the \u201cof\u201d and reads in \u201ca,\u201d making the clause specify no establishment of a national religion.",
+            "act": 0.16956236958503723
+        },
+        {
+            "text": "msgstr \"\"\n\"\u0627\u06af\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f\u060c \u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062c\u062f\u06cc\u062f \u0628\u0647 \u062a\u0648\u062c\u0647 \u0634\u0645\u0627 \u0646\u06cc\u0627\u0632 \u062e\u0648\u0627\u0647\u0646\u062f \u062f\u0627\u0634\u062a.\"",
+            "act": 0.1545136272907257
+        },
+        {
+            "text": "FIDDLE",
+            "act": 0.1543869823217392
+        },
+        {
+            "text": "Jeremiah Wright.",
+            "act": 0.1496351957321167
+        },
+        {
+            "text": "Turning the catch in the opposite direction unlocks the window and allows its opening.",
+            "act": 0.14582610130310059
+        },
+        {
+            "text": "Atika's children were Abdullah, Zuhayr and Qurayba.",
+            "act": 0.14382000267505646
+        },
+        {
+            "text": "Transfer onion to a small bowl.",
+            "act": 0.14347636699676514
+        },
+        {
+            "text": "Smith\u2019s District 21 includes swaths of San Antonio and Austin, and the entireties of Kendall, Blanco, Gillespie, Kerr, Bandera, and Real Counties.",
+            "act": 0.13828034698963165
+        },
+        {
+            "text": "Q:\n\nImportar tabla en l\u00ednea separada con `;`\n\nQuiero importar una tabla de datos separados por ; que podr\u00eda ver ah\u00ed.",
+            "act": 0.13633067905902863
+        },
+        {
+            "text": "In the first letter Brigadier General J. C. Persons of the Alabama National Guard sends Governor Benjamin Miller an account of recent events in Birmingham, which was submitted by another officer.",
+            "act": 0.13364408910274506
+        },
+        {
+            "text": "Beschreiben Sie die Vergleichbarkeit der Messmethoden, wenn es mehr als eine Gruppe gibt                                                                                                                 \n\n  Bias                                                                9     Beschreiben Sie, was unternommen wurde, um m\u00f6glichen Ursachen von Bias zu begegnen                                                                                                                                                                                                                                                               \n\n  Studiengr\u00f6\u00dfe                                                        10    Erkl\u00e4ren Sie,wie die Studiengr\u00f6\u00dfe ermittelt wurde.",
+            "act": 0.1308903694152832
+        },
+        {
+            "text": "References \n\nCategory:Municipalities of Boyac\u00e1 Department\nCategory:Populated places in the Boyac\u00e1 Department\nCategory:Populated places established in 1537\nCategory:1537 establishments in the Spanish Empire\nCategory:1537 disestablishments in the Muisca Confederation\nCategory:Muysccubun",
+            "act": 0.12988857924938202
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.12837699055671692
+        },
+        {
+            "text": "I mean, we have that debate in the halls of Congress every day,\u201d Steube said, but explained that Omar\u2019s \u201cremarks\u201d were \u201cnowehere near\u201d criticizing policy decisions.",
+            "act": 0.12800630927085876
+        },
+        {
+            "text": "This can be accomplished by comparing the three roots, selecting the smallest one, removing it from its tree (leaving two subtrees), and making it the root of a new larger tree with the other two trees as children.",
+            "act": 0.1269008070230484
+        },
+        {
+            "text": "Give me light from a shaded window any day over that.",
+            "act": 0.12561757862567902
+        },
+        {
+            "text": "Outgrowth of axillary buds along the main stem to form primary branches was also stimulated by debranching.",
+            "act": 0.12521234154701233
+        },
+        {
+            "text": "They are attracted to and thrive in areas cut by the BrushMaster.",
+            "act": 0.12483436614274979
+        },
+        {
+            "text": "Give me light from a shaded window any day over that.",
+            "act": 0.12452629953622818
+        },
+        {
+            "text": "5 pick on a polished pass rusher, with the top targets being LSU's Barkevious Mingo, Georgia's Jarvis Jones and Florida State's Bjoern Werner.",
+            "act": 0.12363458424806595
+        },
+        {
+            "text": "This gave Maliki great\ncontrol over the Sons of Iraq.",
+            "act": 0.11908984929323196
+        },
+        {
+            "text": "It straddles the Excelsior, Portola, and Visitacion Valley.",
+            "act": 0.11865632981061935
+        },
+        {
+            "text": "MRT involves an additional egg from a third person, and manipulating both the recipient egg and the donor egg.",
+            "act": 0.11724893003702164
+        },
+        {
+            "text": "Preston snared two individual district championships with seniors Cameron Dietrich and Devin Porter.",
+            "act": 0.11692141741514206
+        },
+        {
+            "text": "These bacteria have been shown to increase beneficial intestinal bacteria and to modulate immune function.",
+            "act": 0.1162349060177803
+        },
+        {
+            "text": "A:\n\nHay varios problemas con este archivo:\n\nUna primer fila que \"rompe\" la estructura\nOtras tres filas que son solo encabezados\nUna columna de fecha que hay que modificar para poder transformarla en una fecha.",
+            "act": 0.11572971194982529
+        },
+        {
+            "text": "Trim away excess notched tab portions of boxing even with the newly-cut edge.",
+            "act": 0.11273188143968582
+        },
+        {
+            "text": "SAMUEL, Judge.",
+            "act": 0.11225501447916031
+        },
+        {
+            "text": "One of the individuals, not appellant, ran into the house as the\nofficers approached.",
+            "act": 0.11218851059675217
+        },
+        {
+            "text": "General CommentInteresting thought, Foxfulness.",
+            "act": 0.11176691949367523
+        },
+        {
+            "text": "Verse of Loan\n\nThe Verse of Loan () is verse 282 in chapter Al-Baqara.",
+            "act": 0.11130300909280777
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.10948919504880905
+        },
+        {
+            "text": "\"Catsaretheonlyanimalsthatarebothuber,pwnsand1337atthesametime.",
+            "act": 0.10948919504880905
+        },
+        {
+            "text": "One overlooked aspect of the Republican resurgence has been its revolution at the state level.",
+            "act": 0.10783237963914871
+        },
+        {
+            "text": "No se registran cambios de r\u00e9gimen significativos que puedan atribuirse a la aplicaci\u00f3n del IEPS en fechas posteriores a la primera vez que se introdujo el impuesto en enero de 2014.",
+            "act": 0.1076134741306305
+        },
+        {
+            "text": "McCoig married Adele M. Demarse in 1898.",
+            "act": 0.10739070922136307
+        },
+        {
+            "text": "David Berger AZA #2059 is a BBYO chapter named for him in Dallas, Texas.",
+            "act": 0.10681883245706558
+        },
+        {
+            "text": "The females were then subsequently mated with a male rabbit.",
+            "act": 0.10542317479848862
+        },
+        {
+            "text": "Para Erda, el n\u00famero de fallecidos \u00abno indica nada\u00bb al igual que \u00abel n\u00famero de nazis que murieron en la Guerra Mundial no hace que el nazismo sea algo que uno pueda explicar o comprender\u00bb, ha escrito en Twitter.",
+            "act": 0.10538751631975174
+        },
+        {
+            "text": "But it was Lockie Ferguson who made the most telling incision.",
+            "act": 0.10384302586317062
+        },
+        {
+            "text": "E relaciona este ao s\u00e1bio, que conhece pelas causas.",
+            "act": 0.10323769599199295
+        },
+        {
+            "text": "The last addition was a killing recorded by John Wedge that was discovered by James Boyce.",
+            "act": 0.10315005481243134
+        },
+        {
+            "text": "\u00bfPor qu\u00e9 es lindo o entretenido cuando son hombres los que se mofan de las mujeres a trav\u00e9s del drag?",
+            "act": 0.10243620723485947
+        },
+        {
+            "text": "Four men in Kutztown, Pennsylvania established Saucony.",
+            "act": 0.10043980926275253
+        },
+        {
+            "text": "Stroll dazzling horticultural displays at Pennsylvania gardens and arboretums.",
+            "act": 0.09956195950508118
+        },
+        {
+            "text": "The root structure of trees and other plant life is not damaged by the BrushMaster.",
+            "act": 0.09823069721460342
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

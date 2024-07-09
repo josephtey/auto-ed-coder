@@ -1,0 +1,412 @@
+{
+    "index": 93,
+    "label": "Structured formal information with details",
+    "attributes": "presence of structured information, formal tone, inclusion of quantitative data, detailed descriptions, references to dates/events",
+    "reasoning": "A detailed analysis reveals that the shared attribute among the samples is the presence of structured and formal information, often related to scientific research, news reporting, events, and defined observations. The texts tend to have a formal tone, often providing detailed descriptions or specific information, and may include references to dates, temperatures, chemical structures, or other quantitative data. Additionally, these samples often describe events, processes, or entities in a precise manner.",
+    "density": 0.0008920902909258284,
+    "confidence": 15.0,
+    "high_act_samples": [
+        {
+            "text": "Mechanical Engineering?",
+            "act": 0.11756448447704315
+        },
+        {
+            "text": "Swede referee loses finger in bizarre accident during game!",
+            "act": 0.11630238592624664
+        },
+        {
+            "text": "The summer is followed by the monsoon season, which starts during June and continues till September.",
+            "act": 0.11525086313486099
+        },
+        {
+            "text": "Synthetic routes to the phosphoramidite derivatives of 2'-deoxy-2'-C-alpha-methylcytidine (14%, 15 steps) and 2'-deoxy-2'-C-alpha-hydroxymethylcytidine (19%, 10 steps) from methyl 3,5-di-O-(4-chlorobenzyl)-alpha-d-ribofuranoside are developed.",
+            "act": 0.10109817236661911
+        },
+        {
+            "text": "The summer season in this state generally extends from March to June.",
+            "act": 0.0941777303814888
+        },
+        {
+            "text": "Dry time takes just as long also.",
+            "act": 0.08211042732000351
+        },
+        {
+            "text": "A time-waster.",
+            "act": 0.07188259810209274
+        },
+        {
+            "text": "(1942-2 Cum.Bull.",
+            "act": 0.06638694554567337
+        },
+        {
+            "text": "In the northern hemisphere, winter begins on December 21 at 4:44 a.m. CST.",
+            "act": 0.06634371727705002
+        },
+        {
+            "text": "Kaltrina is brutal.",
+            "act": 0.06435398012399673
+        },
+        {
+            "text": "He apologized for the smell of moist meat.",
+            "act": 0.06350191682577133
+        },
+        {
+            "text": "The little one is getting ready for his\nafter-lunch nap it seems.",
+            "act": 0.061864785850048065
+        },
+        {
+            "text": "Synthesis, isomerism, and fungicidal activity against potato diseases of new (5 Z)-[2-(2,4,5-trioxopyrrolidin-3-ylidene)-4-oxo-1,3-thiazolidin-5-ylidene]acetate derivatives with 1,3-thiazolidine-4-one and pyrrolidine-2,3,5-trione moieties linked by an exocyclic C\u2550C bond were described.",
+            "act": 0.06178704649209976
+        },
+        {
+            "text": "January 18, 2013                    _________________________________________\n       t0116                                                                 Clerk",
+            "act": 0.060318924486637115
+        },
+        {
+            "text": "sunken Temple sulfur his spit without preparation.",
+            "act": 0.05973372235894203
+        },
+        {
+            "text": "Robots and humans",
+            "act": 0.0595313161611557
+        },
+        {
+            "text": "(Wait!",
+            "act": 0.05905919522047043
+        },
+        {
+            "text": "October to February are the winter months in Andhra Pradesh.",
+            "act": 0.057980261743068695
+        },
+        {
+            "text": "The mol\u00adecular structure of the title compound is similar to that of (*E*)-4-hy\u00addroxy-3-\\[*N*-(4-hy\u00addroxy\u00adphen\u00adyl)ethanimido\u00adyl\\]-6-methyl-2*H*-pyran-2-one (Djedouani *et al.",
+            "act": 0.05789627879858017
+        },
+        {
+            "text": "Immoral and criminal is everything that stands in its way.",
+            "act": 0.0567137748003006
+        },
+        {
+            "text": "However, the referee for offside menganulirnya first.",
+            "act": 0.0566927045583725
+        },
+        {
+            "text": "The ZOG military are scum, pure and simple.",
+            "act": 0.05190272256731987
+        },
+        {
+            "text": "Taught what?",
+            "act": 0.05120120197534561
+        },
+        {
+            "text": "Stealing.",
+            "act": 0.050811588764190674
+        },
+        {
+            "text": "Barking mad.",
+            "act": 0.04892527312040329
+        },
+        {
+            "text": "Kokalj'\n- 'R.",
+            "act": 0.0488823801279068
+        },
+        {
+            "text": "Lord Slug - Same as above.",
+            "act": 0.04740248993039131
+        },
+        {
+            "text": "A weekend day and a weekday afternoon comprised the period between 7\u00a0am - 9\u00a0pm and 1--9\u00a0pm, respectively.",
+            "act": 0.0472947396337986
+        },
+        {
+            "text": "My background also contains a variety of things apart from games such as electronics, audio engineering, music production, TV production and random artsy endaveours.",
+            "act": 0.04706329107284546
+        },
+        {
+            "text": "The highway begins to zig-zag southeasterly, passing through several minor settlements before entering the mining town of Ignace.",
+            "act": 0.046360842883586884
+        },
+        {
+            "text": "Might be home tomorrow, might have to stay overnight.",
+            "act": 0.04567601904273033
+        },
+        {
+            "text": "Such operation is not necessarily desirable.",
+            "act": 0.04539908468723297
+        },
+        {
+            "text": "William\nTyndale (b.",
+            "act": 0.04511135071516037
+        },
+        {
+            "text": "145, 148 (D.S.C.",
+            "act": 0.04365159571170807
+        },
+        {
+            "text": "Govt Work",
+            "act": 0.04250262305140495
+        },
+        {
+            "text": "The P-3 returned to Thule on March 25 to complete three more science flights before transiting to Kangerlussuaq, the base of operations for the next few weeks.",
+            "act": 0.041699375957250595
+        },
+        {
+            "text": "The annual average temperature is 8.5\u00b0C.",
+            "act": 0.04115385562181473
+        },
+        {
+            "text": "Used-Good.",
+            "act": 0.04021390527486801
+        },
+        {
+            "text": "\u2013 Reuters",
+            "act": 0.04010608047246933
+        },
+        {
+            "text": "Being a paramedic is an extremely honorable profession.",
+            "act": 0.038780637085437775
+        },
+        {
+            "text": "Payal Sharma\n\nToo good; the buticians are very much efficient in the work .",
+            "act": 0.038662269711494446
+        },
+        {
+            "text": "The marathon continued into Thursday.",
+            "act": 0.038364436477422714
+        },
+        {
+            "text": "While a prominent household of Gondorian nobility in the city for generations, the past several decades had seen it fall into disfavor after the Lord Belegorn fell ill, and his wife Gwaeldis took it upon herself to attempt to run the family behind his back.",
+            "act": 0.03820442408323288
+        },
+        {
+            "text": "The deadline was contentious because it was brought forward from April with only a month\u2019s notice.",
+            "act": 0.037907399237155914
+        },
+        {
+            "text": "Following the Poisson distribution, we also have the probability $P{(N_{t + I_{s})}^{t + I_{s} + T_{e}} > 0)} = 1 - e^{- R_{p}T_{e}}$.",
+            "act": 0.03761138767004013
+        },
+        {
+            "text": "(What year is this?",
+            "act": 0.037411611527204514
+        },
+        {
+            "text": "(Hemitriccus sp.",
+            "act": 0.03733088821172714
+        },
+        {
+            "text": "\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Interview**\n\n**1.",
+            "act": 0.03719508275389671
+        },
+        {
+            "text": "Production is set to start in July.",
+            "act": 0.03709026053547859
+        },
+        {
+            "text": "Her appetite vanished, and her sleep was fitful.",
+            "act": 0.03696707636117935
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

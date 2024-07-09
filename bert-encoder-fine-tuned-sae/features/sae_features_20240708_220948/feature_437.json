@@ -1,0 +1,412 @@
+{
+    "index": 437,
+    "label": "Rich contextual and technical content",
+    "attributes": "references to dates, locations, technical jargon, direct quotations, structured formats, bibliographic citations",
+    "reasoning": "The samples in the given set contain a higher density of content and context, which includes specific references to dates, locations, technical jargon, direct quotations, and structured formats like references and bibliographic citations. Meanwhile, the other samples lack these specific details and context, often featuring conversational language and general commentary without these structured attributes.",
+    "density": 0.004655003060628923,
+    "confidence": 19.0,
+    "high_act_samples": [
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0438\u0442\u0435 \u0434\u0440\u0443\u0433\u0438\u0435 \u0440\u0435\u0448\u0435\u043d\u0438\u044f \u044d\u0442\u043e\u0439 \u0437\u0430\u0434\u0430\u0447\u0438, \u0431\u0443\u0434\u0443 \u043e\u0447\u0435\u043d\u044c \u0440\u0430\u0434!",
+            "act": 0.2098584920167923
+        },
+        {
+            "text": "MPN: YEV-557.",
+            "act": 0.17543470859527588
+        },
+        {
+            "text": "\u0412\u044b\u0432\u043e\u0434\u044f \u043b\u043e\u0433\u0438 \u043d\u0430 \u044d\u043a\u0440\u0430\u043d \u0442\u0435\u0440\u043c\u0438\u043d\u0430\u043b\u0430 (journalctl -f) \u043e\u0448\u0438\u0431\u043e\u043a \u043d\u0435\u0442.",
+            "act": 0.1744578778743744
+        },
+        {
+            "text": "\");\n    }\n}\n\n\u041f\u043e\u0441\u043b\u0435 \u0443\u0441\u043f\u0435\u0448\u043d\u043e\u0433\u043e nextInt x \u0441\u0442\u0430\u043d\u0435\u0442 \u043d\u0435 0 \u0438 \u0446\u0438\u043a\u043b \u0437\u0430\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f.",
+            "act": 0.16333049535751343
+        },
+        {
+            "text": "\u041f\u044b\u0442\u0430\u043b\u0441\u044f \u0437\u0430\u0446\u0438\u043a\u043b\u0438\u0442\u044c \u0438 \u0432 catch \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c continue, \u043d\u043e \u0431\u0435\u0437\u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u043d\u043e.",
+            "act": 0.16174103319644928
+        },
+        {
+            "text": "\u0415\u0441\u043b\u0438 \u043c\u043e\u0436\u043d\u043e \u0431\u0443\u0434\u0435\u0442 \u0432\u0432\u043e\u0434\u0438\u0442\u044c 0 \u0442\u043e \u044d\u0442\u043e\u0442 \u0441\u043f\u043e\u0441\u043e\u0431 \u043d\u0435 \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442.",
+            "act": 0.14853514730930328
+        },
+        {
+            "text": "\"ARE YOU MORE PHYSICIAN, DO YOU THINK, OR ASSASSIN?\"",
+            "act": 0.1482887864112854
+        },
+        {
+            "text": "\u0418 \u0434\u0430\u043b\u044c\u0448\u0435 \u043a\u043e\u0434 \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u043b \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c.",
+            "act": 0.14790475368499756
+        },
+        {
+            "text": "10, 2014)).",
+            "act": 0.14508996903896332
+        },
+        {
+            "text": "at *9, 2006 R.I.Super.",
+            "act": 0.14382804930210114
+        },
+        {
+            "text": "\", \u043f\u043e\u043a\u0430 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u043d\u0435 \u0432\u0432\u0435\u0434\u0451\u0442 \u0446\u0435\u043b\u043e\u0435 \u0447\u0438\u0441\u043b\u043e.",
+            "act": 0.14343330264091492
+        },
+        {
+            "text": "14, 2003) (LEAA I).",
+            "act": 0.1408715695142746
+        },
+        {
+            "text": "He hauls off and whacks one\u2014big hitter, the Lama\u2014long, into a ten-thousand foot crevasse, right at the base of this glacier.",
+            "act": 0.13867974281311035
+        },
+        {
+            "text": "IV, 1963).",
+            "act": 0.13648942112922668
+        },
+        {
+            "text": "at *9, 2006 R.I.Super.",
+            "act": 0.13634178042411804
+        },
+        {
+            "text": "11: 1950-1957).",
+            "act": 0.13590994477272034
+        },
+        {
+            "text": "1865).",
+            "act": 0.13325247168540955
+        },
+        {
+            "text": "Bangkok's major canals are shown in this map detailing the original course of the river and its shortcut canals.",
+            "act": 0.12711089849472046
+        },
+        {
+            "text": "[^1]: Present address: School of Medicine, New York Medical College, Valhalla, NY 10595, USA.",
+            "act": 0.1265583336353302
+        },
+        {
+            "text": "-3-\n\fJ-S76045-16\n\n\n(Pa.Super.",
+            "act": 0.12437605857849121
+        },
+        {
+            "text": "17: 1626-1641).",
+            "act": 0.12306378781795502
+        },
+        {
+            "text": "17: 1626-1641).",
+            "act": 0.12306378781795502
+        },
+        {
+            "text": "\u0418\u043b\u0438 \u0443\u043a\u0430\u0436\u0438\u0442\u0435 \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e x \u0447\u0438\u0441\u043b\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043d\u0435\u043b\u044c\u0437\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435).",
+            "act": 0.12287619709968567
+        },
+        {
+            "text": "ACM **21** (1978), no.",
+            "act": 0.1181069016456604
+        },
+        {
+            "text": "They came flying after her.",
+            "act": 0.11764049530029297
+        },
+        {
+            "text": "In *T. repens*, axillary buds are already 'primed for growth' when they emerge from their parent apical bud.",
+            "act": 0.11753180623054504
+        },
+        {
+            "text": "apron style~ by Banpresto\n\nIchiban Kuji Premium Selection: Girls und Panzer Everybody\u2019s Sensha-do!!",
+            "act": 0.11606802046298981
+        },
+        {
+            "text": "Located in Cambridge, Chelmsford and Peterborough, we provide IT services and classroom support to over 30,000 students and staff across our main campuses and partnerships.",
+            "act": 0.11598487198352814
+        },
+        {
+            "text": "\"That would've been your lip I was tasting.\"",
+            "act": 0.11550313234329224
+        },
+        {
+            "text": "Special 04: Yo!",
+            "act": 0.11410701274871826
+        },
+        {
+            "text": "RT-WHO 354-55, 1649-50.",
+            "act": 0.11328482627868652
+        },
+        {
+            "text": "\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430 \u0441\u0441\u044b\u043b\u0430\u0435\u0442\u0441\u044f \u043d\u0430 \u0441\u0435\u0442\u044c.",
+            "act": 0.11279794573783875
+        },
+        {
+            "text": "53S00-9505-DI-508.",
+            "act": 0.11019518971443176
+        },
+        {
+            "text": "Early pace-setters Liverpool travel to the King Power Stadium on Saturday to take on Leicester, live on Sky Sports from 11.30am, before five 3pm kick-offs.",
+            "act": 0.10953786969184875
+        },
+        {
+            "text": "Down she sits, and, opening her hands, she sheds her flowery harvest\nall over her.",
+            "act": 0.10763020813465118
+        },
+        {
+            "text": "RT-SW 2447-53; PX 20 at 3.",
+            "act": 0.10684187710285187
+        },
+        {
+            "text": "Headquartered in Boston, MA, the global company seamlessly integrates its services with employers\u2019 other health-related benefits, to serve more than 30 million members in every major region of the world.",
+            "act": 0.10600417852401733
+        },
+        {
+            "text": "They manufacture well-fitted clothes, and their Supreme fabrication makes them greatest brand of all time.",
+            "act": 0.103182852268219
+        },
+        {
+            "text": "The word Kappa literally translates into \u2018river child\u2019.",
+            "act": 0.10102775692939758
+        },
+        {
+            "text": "23, 2007) (\"Final Decision\").",
+            "act": 0.10002125799655914
+        },
+        {
+            "text": "Suddenly Armani bolted in a hail of dirt clods.",
+            "act": 0.09990397095680237
+        },
+        {
+            "text": "Story continues below advertisement",
+            "act": 0.09966178238391876
+        },
+        {
+            "text": "36 Verily I say\nunto you, All these things shall come upon this generation.",
+            "act": 0.09958814084529877
+        },
+        {
+            "text": "And then she was in, the massive shell washed by the tide, then slipping deeper.",
+            "act": 0.09955723583698273
+        },
+        {
+            "text": "93017278).",
+            "act": 0.09896214306354523
+        },
+        {
+            "text": "**7** (1964), no.",
+            "act": 0.09714439511299133
+        },
+        {
+            "text": "Ichiban Kuji Premium Selection:\n\nGirls und Panzer Everybody\u2019s Sensha-do!!",
+            "act": 0.09711484611034393
+        },
+        {
+            "text": "Thomas Chubb attacked this in The Ground and Foundation of Morality Considered (1745).",
+            "act": 0.09620647132396698
+        },
+        {
+            "text": "\u2026 \u201cWe speak a divine protection,\u201d he added.",
+            "act": 0.09541721642017365
+        },
+        {
+            "text": "RT-WHO 354-55, 1649-50.",
+            "act": 0.09474891424179077
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

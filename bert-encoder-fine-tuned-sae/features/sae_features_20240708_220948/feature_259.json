@@ -1,0 +1,412 @@
+{
+    "index": 259,
+    "label": "Formal and structured official text",
+    "attributes": "formal language, structured presentation, coherent and grammatically correct, contains specific roles and titles, mentions proper nouns, involves domain-specific terminology, topic-focused",
+    "reasoning": "The samples exhibit formal and structured language that pertains to official contexts, such as reports, announcements, historical records, inventions, financial details, and professional achievements. They are coherent, grammatically correct, and often involve specific roles, dates, places, and proper nouns. The texts contain domain-specific jargon and terminology, which are absent in the other samples. Additionally, the text is topic-focused, providing detailed information without personal opinions or unstructured dialogue.",
+    "density": 0.0037629127697030953,
+    "confidence": 33.0,
+    "high_act_samples": [
+        {
+            "text": "Olsen Cruise Lines can confirm that Braemar, currently at anchor in The Bahamas, has taken on supply of food, medication and ship supplies, after a delivery via cargo ship from Freeport overnight.",
+            "act": 0.1774819791316986
+        },
+        {
+            "text": "These individuals were identified as\nDefendant and Edmond Triplett (\u201cMr.",
+            "act": 0.167890265583992
+        },
+        {
+            "text": "All aboard!",
+            "act": 0.16466721892356873
+        },
+        {
+            "text": "William\nTyndale (b.",
+            "act": 0.16205359995365143
+        },
+        {
+            "text": "He was a captain, serving as an adjutant, in September 1915.",
+            "act": 0.15505258738994598
+        },
+        {
+            "text": "\u201cI\u2019m excited about winning this, especially having to come back from 1-3 down at the start.",
+            "act": 0.13847389817237854
+        },
+        {
+            "text": "First United has recently grown from having combined assets of over $6 billion to having almost $8 billion in combined assetsand is the 7th largest bank in its home state of Oklahoma.",
+            "act": 0.13402387499809265
+        },
+        {
+            "text": "This, combined with the aluminium subframe, ensures longevity of the deck.",
+            "act": 0.13203731179237366
+        },
+        {
+            "text": "The survivors were taken on board.",
+            "act": 0.12874652445316315
+        },
+        {
+            "text": "While several such paperboard tray constructions with reinforced corners are known and employed commercially, the folded tray construction embodied in the instant invention is believed to offer greater load carrying capability in multiple stacking environments.",
+            "act": 0.12591350078582764
+        },
+        {
+            "text": "Fr.",
+            "act": 0.12572069466114044
+        },
+        {
+            "text": "In contrast to the single-site DMFT (cf.",
+            "act": 0.12495817244052887
+        },
+        {
+            "text": "(An explanation immediately leapt to my mind.",
+            "act": 0.12428458034992218
+        },
+        {
+            "text": "His rare ascent from enlisted man to admiral remains an Alliance legend.",
+            "act": 0.12345920503139496
+        },
+        {
+            "text": "Fr.",
+            "act": 0.11803199350833893
+        },
+        {
+            "text": "\u201cLt.",
+            "act": 0.11499305069446564
+        },
+        {
+            "text": "Rene shouts the order.",
+            "act": 0.10607147961854935
+        },
+        {
+            "text": "This invention relates to the art of tray type containers commonly constructed of corrugated paperboard suitable for produce such as cauliflower and the like.",
+            "act": 0.10515841096639633
+        },
+        {
+            "text": "Alert email sent!",
+            "act": 0.10506027191877365
+        },
+        {
+            "text": "We have barge.",
+            "act": 0.10505513101816177
+        },
+        {
+            "text": "He and his younger brother Fred worked in his father's business.",
+            "act": 0.10361231118440628
+        },
+        {
+            "text": "Despite costly attempts to reduce bacterial contamination of water, meat, and vegetables, Shiga toxin- producing E. coli (STEC) and related enteric pathogens (e.g.",
+            "act": 0.09872285276651382
+        },
+        {
+            "text": "AMPI originated from consolidation of, mergers with and acquisitions of a number of dairy cooperatives in 1969.",
+            "act": 0.09713172912597656
+        },
+        {
+            "text": "History\nShe was allocated to American South African Line, Inc., on 8 June 1942.",
+            "act": 0.09703341126441956
+        },
+        {
+            "text": "Holder 204 is attached to container 106.",
+            "act": 0.09664375334978104
+        },
+        {
+            "text": "Pullman abstention was designed especially for this sort of narrowing construction.",
+            "act": 0.09336014091968536
+        },
+        {
+            "text": "First United Bank\n\nFirst United Bank is a community bank headquartered in Durant, Oklahoma that provides personal and commercial banking, investment management, insurance, and mortgage products and services to customers at more than 85 locations throughout Oklahoma and Texas.",
+            "act": 0.09151361137628555
+        },
+        {
+            "text": "off the box or approach, my omegas are cruising and I am barely trying.",
+            "act": 0.09092704951763153
+        },
+        {
+            "text": "This is because prior to the present invention, there was no known, box and system which would allow for the individual mounting of single gang devices and covers across a multi ganged enclosure.",
+            "act": 0.09040273725986481
+        },
+        {
+            "text": "Of these 1 officer was the Officer Commanding.",
+            "act": 0.08893615007400513
+        },
+        {
+            "text": "I\u2019m going to hammer home on that.",
+            "act": 0.08831217885017395
+        },
+        {
+            "text": "This \u201ccloud\u201d computing model allows applications to be provided over the network \u201cas a service\u201d supplied by the infrastructure provider.",
+            "act": 0.08771204203367233
+        },
+        {
+            "text": "With over 20 years experience as a starting point.",
+            "act": 0.08690078556537628
+        },
+        {
+            "text": "Trays of this type incorporating various reinforced corner constructions have been proposed as being better able to withstand high stacking loads during storage, shipping and other handling of goods contained within a number of stacked trays.",
+            "act": 0.08654739707708359
+        },
+        {
+            "text": "He had been promoted to major, attached to the 12th Battalion, when he was awarded the Distinguished Service Order in 1919.",
+            "act": 0.08641257137060165
+        },
+        {
+            "text": "author:\n- 'J.",
+            "act": 0.0861576721072197
+        },
+        {
+            "text": "Whilst in Liverpool, Clague became a qualified signaller attached to the Liverpool Scottish Territorial Battalion.",
+            "act": 0.08601134270429611
+        },
+        {
+            "text": "Exac's founders, Drs.",
+            "act": 0.08594820648431778
+        },
+        {
+            "text": "My father was a bank president by then.",
+            "act": 0.08575424551963806
+        },
+        {
+            "text": "extends Throwable> exceptionType =\n          (TypeToken<?",
+            "act": 0.08558429032564163
+        },
+        {
+            "text": "CMC, whose founders\u2019 family had been in the malting industry for four generation set out to be a part of change.",
+            "act": 0.08527186512947083
+        },
+        {
+            "text": "The Rev.",
+            "act": 0.0846501886844635
+        },
+        {
+            "text": "Design variations include the manner in which the fluid passage is constructed and the type of fin used.",
+            "act": 0.08371824026107788
+        },
+        {
+            "text": "Docs here\n\nFeature: Removed old \u201ccompatibility\u201d mode of revisions.",
+            "act": 0.0834493562579155
+        },
+        {
+            "text": "Without some big stops by Price, this one would have been an early rout.",
+            "act": 0.08335553109645844
+        },
+        {
+            "text": "I\u2019ve owned 4 protons before and I\u2019ve seen enough to decide so.",
+            "act": 0.08229686319828033
+        },
+        {
+            "text": "Born in Westport, Mr Sanderson was educated at Christ's College and Canterbury University.",
+            "act": 0.0814196914434433
+        },
+        {
+            "text": "And there's the reports of Ven.",
+            "act": 0.08096642047166824
+        },
+        {
+            "text": "We started with existing languages that compiled to JS.",
+            "act": 0.08089685440063477
+        },
+        {
+            "text": "The cloud *c* may provide sensing services for a set of *\u03c4* sensor types from \u0398 WSN owners.",
+            "act": 0.08005151152610779
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

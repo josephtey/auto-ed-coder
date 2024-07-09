@@ -1,0 +1,412 @@
+{
+    "index": 225,
+    "label": "Texts with emoticons and detailed data",
+    "attributes": "Emoticons, symbols, structured data, specific domain-related content, scientific notation, sports statistics, detailed event outcomes",
+    "reasoning": "Upon examining the text samples, it is evident that the texts in the first group frequently contain emoticons, symbols, and technical or specific domain-related content, such as scientific notation and sports statistics. This isn\u2019t seen in the other group. The inclusion of emoticons and specific data points (like scores, measurements, and dates) is a unique attribute shared only by these text samples. Additionally, the level of detail in terms of structured information, such as event outcomes, mathematical expressions, and sports results, appears predominantly in these texts.",
+    "density": 0.0013571160808765262,
+    "confidence": 80.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.6753995418548584
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.6753995418548584
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.5074442625045776
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.46427062153816223
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.4583853781223297
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.4436691403388977
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.3963973820209503
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.38243961334228516
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.28221991658210754
+        },
+        {
+            "text": "We have \u2220[0] + \u2220[u, v] = \u2220[u, v] + \u2220[0] =\n  \u2220[u, v].",
+            "act": 0.2002517133951187
+        },
+        {
+            "text": "Bundesliga S\u00fcd (the southern division of 2.",
+            "act": 0.18957124650478363
+        },
+        {
+            "text": "Elen competed in the local eisteddfodau.",
+            "act": 0.16642974317073822
+        },
+        {
+            "text": "The Bruins failed to win 20 games for the second time in three years and couldn't even make the big dance.",
+            "act": 0.16017039120197296
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.15679442882537842
+        },
+        {
+            "text": "In June 1922 he joined Messrs. F. & A. Swanzy Transport for six months as a stenographer typist.",
+            "act": 0.14872826635837555
+        },
+        {
+            "text": "This item may not include any CDs, Infotracs, Access cards or other supplementary material.",
+            "act": 0.14173465967178345
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.13694530725479126
+        },
+        {
+            "text": "Ocular telangiectasia do not develop.",
+            "act": 0.1287619024515152
+        },
+        {
+            "text": "Junior Secondary/High School lasts three years, as does Senior Secondary School.",
+            "act": 0.12828774750232697
+        },
+        {
+            "text": "\"I don't need you any more, Willard.\"",
+            "act": 0.1268988996744156
+        },
+        {
+            "text": "Never happen.",
+            "act": 0.11672379821538925
+        },
+        {
+            "text": "It proved a short stay and SpVgg was narrowly relegated, losing a decider to ESV Ingolstadt 5\u20132 after finishing on equal points.",
+            "act": 0.1156691238284111
+        },
+        {
+            "text": "Used books do not include online codes or other supplements unless noted.",
+            "act": 0.1121947392821312
+        },
+        {
+            "text": "Luke\nstill didn't show any sign of fear.",
+            "act": 0.11136692017316818
+        },
+        {
+            "text": "Luke stood still, not flinching.",
+            "act": 0.10830818861722946
+        },
+        {
+            "text": "Although relegated to Amateur Oberliga Bayern (III) in 1988 and 1989, the team was spared further demotion when clubs that had finished ahead of them were denied licences due to their financial problems.",
+            "act": 0.10459009557962418
+        },
+        {
+            "text": "Transfers (out)\n\nJonas Bogaerts (40K\u20ac) and Wouter Scheelen (35K\u20ac) were sold, Arnaud De Greef was loaned for a 3K\u20ac fee, and Stig Engelen released on a free.",
+            "act": 0.10195712000131607
+        },
+        {
+            "text": "It had an Abner Doble boiler combined with a 4-cylinder compound arrangement, but an order for an additional locomotive and three railcars to a similar was later cancelled.",
+            "act": 0.10080613195896149
+        },
+        {
+            "text": "Under intense scrutiny, they promptly changed their identities and escaped to the Glasgow underground.",
+            "act": 0.09878391027450562
+        },
+        {
+            "text": "Another Amateurliga championship meant promotion to the second tier once more, now the Regionalliga S\u00fcd.",
+            "act": 0.0987742468714714
+        },
+        {
+            "text": "\"Keep me informed about the X-Trail.\"",
+            "act": 0.09790965169668198
+        },
+        {
+            "text": "Aviation Admin.",
+            "act": 0.09632913023233414
+        },
+        {
+            "text": "\"We'll handle this.\"",
+            "act": 0.09431471675634384
+        },
+        {
+            "text": "\u2713 Serve fresh.",
+            "act": 0.09253928810358047
+        },
+        {
+            "text": "Tom Okker and Marty Riessen won the men's doubles title at the 1973 Queen's Club Championships tennis tournament, defeating Ray Keldie and Raymond Moore 6\u20134, 7\u20135 in the final.",
+            "act": 0.08809644728899002
+        },
+        {
+            "text": "This will result in a distribution that always generates a zero.",
+            "act": 0.08720532804727554
+        },
+        {
+            "text": "\"You'll never find her.\"",
+            "act": 0.084561787545681
+        },
+        {
+            "text": "\"I don't get it.\"",
+            "act": 0.08196572214365005
+        },
+        {
+            "text": "The winner of this competition also automatically qualifies for the FIFA Club World Cup, an annual tournament featuring the six continental club champions, including the winners of this year\u2019s UEFA Champions League.",
+            "act": 0.08104128390550613
+        },
+        {
+            "text": "(Health & Saf.",
+            "act": 0.07726069539785385
+        },
+        {
+            "text": "Sub-categories: funds received (e.g.",
+            "act": 0.07499788701534271
+        },
+        {
+            "text": "In April 1998, the Canterbury Bus Lines operation was sold to Punchbowl Bus Company, who would also purchase the Pleasure Tours routes in July 2005.",
+            "act": 0.07396510988473892
+        },
+        {
+            "text": "The team then went on to beat southern champions Schwaben Augsburg in the finals for the Bavarian title.",
+            "act": 0.07374849170446396
+        },
+        {
+            "text": "\"We've gotta find out about Russell.\"",
+            "act": 0.07355954498052597
+        },
+        {
+            "text": "They also find that the disc is somewhat lopsided and has not yet become circular.",
+            "act": 0.07196784764528275
+        },
+        {
+            "text": "This expansion results in the pulse shape growing in amplitude as the mean disk luminosity drops.",
+            "act": 0.07118143141269684
+        },
+        {
+            "text": "\" Do you see?\"",
+            "act": 0.0705750584602356
+        },
+        {
+            "text": "\"Do you see?\"",
+            "act": 0.0705750584602356
+        },
+        {
+            "text": "\"I don't believe it.\"",
+            "act": 0.06957199424505234
+        },
+        {
+            "text": "\"Stay on standby.\"",
+            "act": 0.06783372163772583
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

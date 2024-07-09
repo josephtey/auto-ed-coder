@@ -1,0 +1,412 @@
+{
+    "index": 69,
+    "label": "Factual and specific text content",
+    "attributes": "References to specific locations, detailed descriptions of events, structured factual information, mentioning of actual entities or geographical features",
+    "reasoning": "The texts in the first set of samples, collectively known as 'positive-samples', consistently include specific locations, directions, events, and factual descriptions that are more structured and cohesive. These texts often provide more detailed and concrete information, focusing on actual entities or events that can be geographically or historically pinpointed. In contrast, the texts in the other set, referred to as 'negative-samples', are more conversational, abstract, or opinion-based without the same level of specificity and factual content.",
+    "density": 0.00041757417873123883,
+    "confidence": 14.0,
+    "high_act_samples": [
+        {
+            "text": "Shortly thereafter, it begins to curve to the south.",
+            "act": 0.1930515319108963
+        },
+        {
+            "text": "The highway then travels south through the town of Cobden.",
+            "act": 0.16240493953227997
+        },
+        {
+            "text": "South of Wawa, the highway enters Lake Superior Provincial Park.",
+            "act": 0.10463964939117432
+        },
+        {
+            "text": "Near White River, the highway enters Algoma District and turns southward.",
+            "act": 0.09842722117900848
+        },
+        {
+            "text": "Self-dual meeting that bound are called extremal.",
+            "act": 0.09255987405776978
+        },
+        {
+            "text": "Omaha had a chance to take control of the match early, but Nebraska won five of the final six points of the set to come from behind and sneak out the set.",
+            "act": 0.08725305646657944
+        },
+        {
+            "text": "Si ragiona quindi su cifre pi\u00f9 alte, che il Milan non potr\u00e0 spendere cos\u00ec facilmente, soprattutto se non vorr\u00e0 far 'innervosire' la UEFA.",
+            "act": 0.08723686635494232
+        },
+        {
+            "text": "The team then went on to beat southern champions Schwaben Augsburg in the finals for the Bavarian title.",
+            "act": 0.08624931424856186
+        },
+        {
+            "text": "Highway 17 continues east along the northern shore of Lake Superior.",
+            "act": 0.08217698335647583
+        },
+        {
+            "text": "Each node must be able to handle 8Gbps if bitcoin ever operates at VISA levels.",
+            "act": 0.07909207046031952
+        },
+        {
+            "text": "At Sudbury, the highway widens into a freeway through the Walden area of the city until reaching the Southwest / Southeast Bypass at Lively, where it narrows again to a Super 2 road.",
+            "act": 0.07212969660758972
+        },
+        {
+            "text": "His main rival for the position was France's Francis I, who would conflict with Charles throughout his life.",
+            "act": 0.06541648507118225
+        },
+        {
+            "text": "Manhattan Bridge; is also in the lower Manhattan that brings you to Brooklyn where you could take a walk or bike it, like the Brooklyn Bridge.",
+            "act": 0.06501907110214233
+        },
+        {
+            "text": "The Super 2 continues northeast to meet the original alignment of Highway 17 east of downtown Sudbury.",
+            "act": 0.05913306772708893
+        },
+        {
+            "text": "The divided highway bypasses Garden River and passes east of Echo Bay before curving south and merging with Highway 17B.",
+            "act": 0.054292164742946625
+        },
+        {
+            "text": "You should start your tour of this area beginning from Maine in the south and go through Ogunquit before you reach Kennebunkport.",
+            "act": 0.050488829612731934
+        },
+        {
+            "text": "The Brooklyn Bridge is one of the icon of New York city and its connects the boroughs of Manhattan and Brooklyn by spanning the East River.",
+            "act": 0.049921728670597076
+        },
+        {
+            "text": "A single die can contain hundreds of processor cores.",
+            "act": 0.046971529722213745
+        },
+        {
+            "text": "\u201cr u up\u201d\n\nTwo minutes later\u2026\n\n\u201chope so\u201d\n\nTwo minutes later\u2026\n\n\u201ci guess not\u201d\n\nBefore even reading the messages I knew who it was.",
+            "act": 0.04476900398731232
+        },
+        {
+            "text": "Love is melancholy when things almost\u2013but don\u2019t quite\u2013work out.",
+            "act": 0.041030578315258026
+        },
+        {
+            "text": "They would reel off five straight games, also snatching the early lead in the second set, and did not look back from there.",
+            "act": 0.04062864929437637
+        },
+        {
+            "text": "As we come around a curve we spot a famous place.",
+            "act": 0.039041005074977875
+        },
+        {
+            "text": "This is more than double AMD\u2019s 2x1MB L2 offered on their Opteron 285 and also are non-unified, in that each CPU core has its own L2 cache.",
+            "act": 0.03880611062049866
+        },
+        {
+            "text": "Given six points in P3 with no four coplanar, there is a unique twisted cubic passing through them.",
+            "act": 0.03526388853788376
+        },
+        {
+            "text": "Cuomo insisted he did.",
+            "act": 0.03449486941099167
+        },
+        {
+            "text": "One theory states that planets form from a single, monolithic collapse that creates the entire planet\u2019s mass at one time.",
+            "act": 0.03363623470067978
+        },
+        {
+            "text": "It originated as extended as 10,000 to 5000 years ago.",
+            "act": 0.03320138156414032
+        },
+        {
+            "text": ";\n\n                Ok(Some(Box::new(Expr::Arrow(ArrowExpr {\n                    span: span!",
+            "act": 0.03312312811613083
+        },
+        {
+            "text": "The Opteron 2xx series has up to 2x128k L1 cache which towers over Intel\u2019s 2x32k.",
+            "act": 0.03260136395692825
+        },
+        {
+            "text": "Pritchard looked certain to double the Kings advantage after 35 minutes, but Carl Costain did well to deflect the ball off the line.",
+            "act": 0.032366275787353516
+        },
+        {
+            "text": "It meets Highway 69 at an interchange.",
+            "act": 0.03053455986082554
+        },
+        {
+            "text": "It then passes through Chalk River and enters Canadian Forces Base Petawawa.",
+            "act": 0.030487744137644768
+        },
+        {
+            "text": "Just off Northway close to Lake George & Bolton Landing.",
+            "act": 0.02943614311516285
+        },
+        {
+            "text": "PCBs also include vias which are solid electrical paths connecting one layer to another layer.",
+            "act": 0.028696326538920403
+        },
+        {
+            "text": "We\nwere standing with thousands of\nother people, Christians and Jews,\nBikur V\u2019Ezras Cholim.................................... $100,000\nJewish Agency for Israel ............................... $100,000\nJewish Federation of Greater Houston ........... $100,000\nJust One Life ................................................ $100,000\nFather Gabriel Naddaf .................................. $100,000\nOhr Torah Stone ............................................ $100,000\nInternational Council of Young Israel ............. $100,000\nSave a Child\u2019s Heart Foundation.................... $125,000\nNetanya Academic College ............................ $150,000\nWestern Galilee Hospital ............................... $150,000\nShurat Hadin................................................. $200,000\nMagen David Adom ...................................... $250,000\nNefesh B\u2019Nefesh ........................................... $400,000\nTotal ........................................................... $2,900,000\nwho shared the same passion for\nIsrael as we did.",
+            "act": 0.027808478102087975
+        },
+        {
+            "text": "He was raised in Indiana,until his parents divorced and he returned to New York City's Upper Westside to live with his grandparents.",
+            "act": 0.027427634224295616
+        },
+        {
+            "text": "From there they would travel down the French River into Georgian Bay and onwards to Lake Superior.",
+            "act": 0.026638595387339592
+        },
+        {
+            "text": "The hotel is a block south of the UC Berkeley campus.",
+            "act": 0.025021914392709732
+        },
+        {
+            "text": "Eventually St. Gallen beat Sion in the playoff and went up too.",
+            "act": 0.02445061318576336
+        },
+        {
+            "text": "Manhattan is surrounded by the Hudson River.",
+            "act": 0.024188058450818062
+        },
+        {
+            "text": "As you know the city of Manhattan is divided in Lower Manhattan, Midtown and Upper Manhattan, with Fifth Avenue dividing Manhattan\u2019s in east and west sides.",
+            "act": 0.023424923419952393
+        },
+        {
+            "text": "That just sounds good.",
+            "act": 0.023152878507971764
+        },
+        {
+            "text": "He would draw level for 3-all and pushed Thiem to the brink with the 23 year old serving to stay in the set at 5-4.",
+            "act": 0.02188284881412983
+        },
+        {
+            "text": "\"(Devon) Yes, I'm sure that is possible.\"",
+            "act": 0.021321048960089684
+        },
+        {
+            "text": "& Indemn.",
+            "act": 0.0190266240388155
+        },
+        {
+            "text": "It meets the western terminus of Highway 101 near Wawa, which provides for a shorter route to Sudbury via the Sultan Industrial Road.",
+            "act": 0.01868935115635395
+        },
+        {
+            "text": ";\n\n                return Ok(Box::new(Expr::Arrow(ArrowExpr {\n                    span: span!",
+            "act": 0.018521323800086975
+        },
+        {
+            "text": "Of course people would want to drive over that river without also driving over the dam.",
+            "act": 0.01802891306579113
+        },
+        {
+            "text": "The new Facebook\n\n______________________End_______________________",
+            "act": 0.01732068695127964
+        },
+        {
+            "text": "Marie International Bridge, which connects with I-75 in Michigan.",
+            "act": 0.015160949900746346
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}

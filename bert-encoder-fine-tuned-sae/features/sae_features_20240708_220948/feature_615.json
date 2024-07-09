@@ -1,0 +1,412 @@
+{
+    "index": 615,
+    "label": "Diverse and technical content variety",
+    "attributes": "mathematical expressions, chemical names, time schedules, emojis, internet slangs, technical writing, structured academia, informal social media",
+    "reasoning": "The samples contain a diverse array of content, including mathematical expressions, chemical names, time schedules, and social media elements. They have various formats, including mathematical notations and chemical formulas, as well as informal elements like emojis and internet slangs. The samples exhibit a mix of structured, academic writing and casual social media expressions. This variety appears to be the most specific attribute that differentiates these samples from the other set which primarily contains conversational text lacking the highly technical, numerical, or formatted content seen here.",
+    "density": 0.0009632677077550168,
+    "confidence": 100.0,
+    "high_act_samples": [
+        {
+            "text": "I Shoot\ud83d\udcf7.",
+            "act": 0.47933149337768555
+        },
+        {
+            "text": "I Steemit\u2668\ufe0f.",
+            "act": 0.47933149337768555
+        },
+        {
+            "text": "\ud83c\udfd6.",
+            "act": 0.23106268048286438
+        },
+        {
+            "text": "Quasi orthogonal vectors are vectors that are in addition to the n orthogonal vectors.",
+            "act": 0.22116217017173767
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.21851402521133423
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.20195192098617554
+        },
+        {
+            "text": "\\\\\n\\end{array}\n\\right.",
+            "act": 0.20195192098617554
+        },
+        {
+            "text": "GGUUAAAACUGCUAUUGUUCCAUUGACUGCAGCUUGCAGUUUGAUUUCAAAUUUAAGAUCUUUAAUUCACCUGUAUACUGUAAUUAAGAUAAUUACAAGAGUAAUCAUCUUAUG\n\n7.",
+            "act": 0.19053365290164948
+        },
+        {
+            "text": "GAAAUUUCUCUCUGGGCCUUAUAGCAGGAGUACUCUGUUCCCUUUUGUGUCUUGUCUAAUGUCCGGUGCACCAAUCUGUUCUCGUGUUCAAUUCAUGUAUGUUCGUGUCCAGU\n\n9.",
+            "act": 0.18067511916160583
+        },
+        {
+            "text": "GGUACCUUAAAUCCUUGCUCUCACCCAAAAGAUUCAGAGACAAUAUCCUUUUAUUACUUAGGGUUUUAGUUUACUACAAAAGUUUCUACAAAAAAUAAAGCUUUUAUAA\n\n11.",
+            "act": 0.17639535665512085
+        },
+        {
+            "text": "\u2713 Clean yeast.",
+            "act": 0.14590030908584595
+        },
+        {
+            "text": "We provide FedEx Overnight shipping (including Same Day, Every Day caviar delivery Throughout Los Angeles, California.)",
+            "act": 0.13268640637397766
+        },
+        {
+            "text": "\ud83d\ude41\n\n9.)",
+            "act": 0.1271681785583496
+        },
+        {
+            "text": "\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\n\n6\\.",
+            "act": 0.11705908924341202
+        },
+        {
+            "text": "}\\\\\n\\mathrm{C1.}",
+            "act": 0.11610560864210129
+        },
+        {
+            "text": "\"MAINTAIN COURSE.\"",
+            "act": 0.10916805267333984
+        },
+        {
+            "text": "Monocyclic aryl groups are generally preferred.",
+            "act": 0.10771876573562622
+        },
+        {
+            "text": "Monocyclic aryl groups are generally preferred.",
+            "act": 0.10062644630670547
+        },
+        {
+            "text": "U. Wolff [*Phys.",
+            "act": 0.09874207526445389
+        },
+        {
+            "text": "GAUUCCAGGCAGAACUGUUGAGCAUAGAUAAUUUUCCCCCCUCAGGCCAGCUUUUUCUUUUUUUAAAUUUUGUUAAUAAAAGGGAG\n\n5.",
+            "act": 0.09789623320102692
+        },
+        {
+            "text": "\u2713 Sulfate water.",
+            "act": 0.09680232405662537
+        },
+        {
+            "text": "\" MAINTAIN COURSE.\"",
+            "act": 0.09151943773031235
+        },
+        {
+            "text": "\\nonumber\\end{aligned}$$ $[A2]\\ \\ \\forall L>0,\\ \\exists c_{L}>0:{\\rm constant},\\ \\forall r>0,$ $$\\begin{aligned}\n\\sup_{\\xi_{0}\\in K}P\\Bigl[\\bigl\\{\\omega:\\ r^{-\\nu_{1}} \\vert u\\vert^{2}> \\Gamma_{0}(\\tau;\\xi_{0})/4[u,u],\\ \\forall(u,\\tau)\\in \\mathbb{R}^{p}\\times \\mathcal{T}\\bigr\\}\\Bigr]\\leq \\frac{c_{L}}{r^{L}}.",
+            "act": 0.09076795727014542
+        },
+        {
+            "text": "9 a.m.-5 p.m. daily.",
+            "act": 0.08552480489015579
+        },
+        {
+            "text": "\u2022Due to the casino environment, frequent exposure to \"adult\" language.",
+            "act": 0.0851612463593483
+        },
+        {
+            "text": "\\nonumber\\end{aligned}$$ $[A3]\\ \\ \\forall \\xi_{0}\\in K,\\ \\forall \\theta\\in \\Theta,\\ \\forall \\tau \\in \\mathcal{T},\\ \\exists \\chi(\\xi_{0}):{\\rm positive\\ random\\ variable},\\ \\exists \\nu=\\nu(\\xi_{0})>0,$ $$\\begin{aligned}\n\\mathbb{Y}_{0}(\\theta,\\tau;\\xi_{0})=\\mathbb{Y}_{0}(\\theta,\\tau;\\xi_{0})-\\mathbb{Y}_{0}(\\theta_{0},\\tau;\\xi_{0})\\leq -\\chi(\\xi_{0})\\vert \\theta-\\theta_{0}\\vert^{\\nu}.",
+            "act": 0.08473924547433853
+        },
+        {
+            "text": "8:30 a.m.-4:30 p.m. daily.",
+            "act": 0.08457224816083908
+        },
+        {
+            "text": "8:30 a.m.-4:30 p.m. daily.",
+            "act": 0.08457224816083908
+        },
+        {
+            "text": "Pediatric migraine: recognition and treatment.",
+            "act": 0.08005507290363312
+        },
+        {
+            "text": "Panelled door flanked by broad stucco pilasters.",
+            "act": 0.0795910432934761
+        },
+        {
+            "text": "Espelette pepper.",
+            "act": 0.07868348062038422
+        },
+        {
+            "text": "For every 100 females age 18 and over, there were 75.0 males.",
+            "act": 0.07628551125526428
+        },
+        {
+            "text": "\"Strike.\"",
+            "act": 0.07612695544958115
+        },
+        {
+            "text": "\"Stand by.\"",
+            "act": 0.07444804161787033
+        },
+        {
+            "text": "; Ribbed cuff.",
+            "act": 0.07310318946838379
+        },
+        {
+            "text": "9 a.m.-5 p.m. daily.",
+            "act": 0.0708153247833252
+        },
+        {
+            "text": "The regiment's 1st Battalion was redesignated from the 321st Mechanized Cavalry Squadron, which had been first constituted as the 1st Separate Battalion, Heavy Tank Service, 65th Engineers during World War I.",
+            "act": 0.06990822404623032
+        },
+        {
+            "text": "speltoides.",
+            "act": 0.06923370808362961
+        },
+        {
+            "text": "For every 100 females age 18 and over, there were 87.0 males.",
+            "act": 0.0671544000506401
+        },
+        {
+            "text": "Top band provides all day stay-up comfort.",
+            "act": 0.06627427041530609
+        },
+        {
+            "text": "\u2713 Low final gravity.",
+            "act": 0.0659957155585289
+        },
+        {
+            "text": "\"Stand by.\"",
+            "act": 0.06588723510503769
+        },
+        {
+            "text": "Lect.",
+            "act": 0.06562802940607071
+        },
+        {
+            "text": "Antonio Valencia.",
+            "act": 0.06519732624292374
+        },
+        {
+            "text": "[email protected]",
+            "act": 0.06420567631721497
+        },
+        {
+            "text": "\"Take cover!\"",
+            "act": 0.0573221817612648
+        },
+        {
+            "text": "Who?",
+            "act": 0.05672454461455345
+        },
+        {
+            "text": "BAD!]",
+            "act": 0.05615594610571861
+        },
+        {
+            "text": "\\\\ \\\\\n&=\\left(1+o(t^{-\\beta})\\right)\\sum\\limits_{k\\in \\operatorname{{\\mathbb Z}}} I_k.",
+            "act": 0.055821917951107025
+        },
+        {
+            "text": "Austral.",
+            "act": 0.05454463139176369
+        }
+    ],
+    "low_act_samples": [
+        {
+            "text": "I'm a bit confused.",
+            "act": 0.0
+        },
+        {
+            "text": "Can you explain your reasoning again?",
+            "act": 0.0
+        },
+        {
+            "text": "The facts seem to keep getting in the way of your theory .",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "[Bad facts!",
+            "act": 0.0
+        },
+        {
+            "text": "hooray4anything\n\nWhat I'm trying to say is that nobody really knows what Oswald was doing or what he believed because he got shot too quickly to know and his motivations too murky.",
+            "act": 0.0
+        },
+        {
+            "text": "It's also hard to know because there's way too many stories out there about the whole thing but most of them do tend towards the JFK being killed as a result of him being blamed for allowing Castro to take over Cuba, whether it be the mob, anti-Castro-ites, or the CIA.",
+            "act": 0.0
+        },
+        {
+            "text": "None of those three could be considered lefty.",
+            "act": 0.0
+        },
+        {
+            "text": "So, in other words, calling Oswald one thing or another is silly because nobody knows and if there is a meme out there saying he was some crazy-ass liberal, then it shows just how desperate some people are to twist history into their weird little worldviews but facts are stubborn little things.",
+            "act": 0.0
+        },
+        {
+            "text": "fuflans\n\nsimon, please list those left wing assassinations of which you speak?",
+            "act": 0.0
+        },
+        {
+            "text": "cause i'm pretty up the news and can't think of any recent ones.",
+            "act": 0.0
+        },
+        {
+            "text": "assassinations in this country in the last 30 years have been right wing christian nutjobs, right wing islamic nutjobs and random troubled students.",
+            "act": 0.0
+        },
+        {
+            "text": "SorosBot\n\nThere's none that I can think of since the guy who killed McKinley, 110 years ago.",
+            "act": 0.0
+        },
+        {
+            "text": "Hell, the guy who shot the single right-winger who was the victim of an assassination attempt in the wave of assassinations of left-wing figures in the 60s and 70s turned out to be a nutcase who just wanted to assassinate somebody important so he would become famous; and likewise Hinkley was just an insane stalker.",
+            "act": 0.0
+        },
+        {
+            "text": "Jukesgrrl\n\nU of A basketball game scheduled for today has been canceled.",
+            "act": 0.0
+        },
+        {
+            "text": "That's as serious as shit gets here in Tucson.",
+            "act": 0.0
+        },
+        {
+            "text": "jim89048\n\nEven MSNBC stopped their weekend prison marathon to run with this, so yeah, pretty serious.",
+            "act": 0.0
+        },
+        {
+            "text": "luke_warm\n\nIt's in his second video where he talks about the constitution and \"apprehending\" the current slate of treasonous laws.",
+            "act": 0.0
+        },
+        {
+            "text": "But yeah, he's batshit.",
+            "act": 0.0
+        },
+        {
+            "text": "The judge who was assassinated was Chief Judge John Roll of the U.S. District Court for the District of Arizona.",
+            "act": 0.0
+        },
+        {
+            "text": "He had received death threats in the past from \u2026 guess!",
+            "act": 0.0
+        },
+        {
+            "text": "\u2026 talk-show listeners because he allowed a lawsuit by undocumented immigrants to go past summary judgment, and god help you if you do anything good for a Brown.",
+            "act": 0.0
+        },
+        {
+            "text": "So now we have not only had an attack on a Congresswoman (probably) because of her political affiliation but also a literal attack on judicial independence.",
+            "act": 0.0
+        },
+        {
+            "text": "In February, when U.S. District Judge John Roll presided over a $32 million civil-rights lawsuit filed by illegal immigrants against an Arizona rancher, the Marshals Service was anticipating the fallout.",
+            "act": 0.0
+        },
+        {
+            "text": "When Roll ruled the case could go forward, [Arizona U.S.",
+            "act": 0.0
+        },
+        {
+            "text": "Marshal] Gonzales said talk-radio shows cranked up the controversy and spurred audiences into making threats.",
+            "act": 0.0
+        },
+        {
+            "text": "In one afternoon, Roll logged more than 200 phone calls.",
+            "act": 0.0
+        },
+        {
+            "text": "Callers threatened the judge and his family.",
+            "act": 0.0
+        },
+        {
+            "text": "They posted personal information about Roll online.",
+            "act": 0.0
+        },
+        {
+            "text": "\"They said, 'We should kill him.",
+            "act": 0.0
+        },
+        {
+            "text": "He should be dead,' \" Gonzales said.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll, who is the chief federal judge in Arizona, said both he and his wife were given a protection detail for about a month.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was unnerving and invasive.",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": ".",
+            "act": 0.0
+        },
+        {
+            "text": "By its nature it has to be,\" Roll said, adding that they were encouraged to live their lives as normally as possible.",
+            "act": 0.0
+        },
+        {
+            "text": "\"It was handled very professionally by the Marshals Service.\"",
+            "act": 0.0
+        },
+        {
+            "text": "At the end of the month, Roll said four key men had been identified as threat makers.",
+            "act": 0.0
+        },
+        {
+            "text": "The Marshals Service left to him the decision to press charges but recommended against it.",
+            "act": 0.0
+        },
+        {
+            "text": "Roll said he had no qualms about following their advice.",
+            "act": 0.0
+        },
+        {
+            "text": "AZ_Transplant\n\nI worked in her office last year.",
+            "act": 0.0
+        },
+        {
+            "text": "I only met her a few times, but she she was always really genuine and kind.",
+            "act": 0.0
+        },
+        {
+            "text": "I hope she pulls through.",
+            "act": 0.0
+        },
+        {
+            "text": "It's not a particularly common name, is it?",
+            "act": 0.0
+        },
+        {
+            "text": "Photo must be from 2010 festival, since the 2011 one is not scheduled until March.",
+            "act": 0.0
+        },
+        {
+            "text": "karen\n\nYeah that's what I was thinking.",
+            "act": 0.0
+        },
+        {
+            "text": "EdFlintstone\n\nSarah save your bullshit sympathy post on fucking facebook.",
+            "act": 0.0
+        }
+    ]
+}
