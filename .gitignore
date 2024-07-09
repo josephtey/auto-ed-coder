@@ -1,4 +1,4 @@
 venv/
 bert-encoder-fine-tuned-sae/files/
 *.pkl
-.env
+bert-encoder-fine-tuned-sae/.env
