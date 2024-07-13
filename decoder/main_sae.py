@@ -25,14 +25,13 @@ gpt_model = transformer_lens.HookedTransformer.from_pretrained("gpt2-small").to(
 
 embed_dims = 768
 sae = SparseAutoencoder(SparseAutoencoderConfig(d_model=embed_dims, d_sparse=8 * embed_dims, sparsity_alpha=1)).to(device)
-optimizer = optim.Adam(sae.parameters(), lr=0.001)
+optimizer = optim.Adam(sae.parameters(), lr=0.0001)
 
 ds = load_dataset("JeanKaddour/minipile")
 
-def train_sae(sae, weights_path = "./sae_weights.pth", max_iterations = 10000, mlp_layer = 5):
+def train_sae(sae, weights_path = "./sae_weights.pth", max_iterations = 10000, mlp_layer = 5, batch_size = 1024):
   sae.train()
   iteration = 0
-  batch_size = 1024
   batch_count = 0
   losses = 0
 
@@ -73,10 +72,12 @@ def test_sae(sae, weights_path = "./sae_weights.pth", max_samples = 100, mlp_lay
   sae.load_state_dict(sae_weights)
 
   total_nonzero = 0
+  nonzero_tokens = 0
+  total_tokens = 0
   total = 0
   sample_cnt = 0
   pbar = tqdm(range(max_samples), desc = "Testing SAE")
-  for sample in ds["train"]:
+  for sample in ds["test"]:
     sample_cnt += 1
     pbar.update(1)
     if sample_cnt > max_samples:
@@ -86,10 +87,12 @@ def test_sae(sae, weights_path = "./sae_weights.pth", max_samples = 100, mlp_lay
     mlp_out = activations.cache_dict[f"blocks.{mlp_layer}.hook_mlp_out"]
 
     y, f, loss, reconstruction_loss = sae(mlp_out, True)
-
     total_nonzero += torch.count_nonzero(f)
-    total += f.shape[1] * f.shape[2]
-  print(f"Nonzero: {total_nonzero}. Total: {total}. Percent nonzero: {total_nonzero / total}")
+    total += f.shape[1] * f.shape[2] # num tokens * num dimensions
+    nonzero_tokens += torch.count_nonzero(torch.count_nonzero(f, dim = 2)) # count the number of nonzero features per token, not just per paragraph sample
+    total_tokens += f.shape[1]
+  print(f"Nonzero: {total_nonzero}. Total: {total}. % nonzero features: {total_nonzero / total}")
+  print(f"Nonzero tokens: {nonzero_tokens}. Total tokens: {total_tokens}. % nonzero tokens: {nonzero_tokens / total_tokens}")
 
 
 if __name__ == "__main__":
@@ -138,16 +141,16 @@ if __name__ == "__main__":
     '--batch_size',
     type=int,
     required=False,
-    default=512,
+    default=1024,
     help="Train mode: size of minimum batch"
   )
 
   args = parser.parse_args()
 
   if args.mode == "train":
-    train_sae(sae, mlp_layer=args.mlp_layer)
+    train_sae(sae, weights_path=args.weights_path, mlp_layer=args.mlp_layer, max_iterations=args.max_iterations, batch_size=args.batch_size)
   elif args.mode == "test":
-    test_sae(sae)
+    test_sae(sae, weights_path=args.weights_path, mlp_layer=args.mlp_layer, max_samples=args.max_samples)
   else:
     raise Exception(f"Mode {args.mode} is invalid")
 
