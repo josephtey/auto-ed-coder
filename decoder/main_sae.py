@@ -1,6 +1,7 @@
 import argparse
 import transformer_lens
 import torch
+import time
 
 import sys
 sys.path.append("../")
@@ -8,10 +9,11 @@ sys.path.append("../")
 from shared import (
     SparseAutoencoder,
     SparseAutoencoderConfig,
+    save_weights_with_description,
+    load_weights_with_description
 )
 import torch.optim as optim
 from datasets import load_dataset
-
 
 import transformer_lens.utils as utils
 from transformer_lens.hook_points import (
@@ -24,12 +26,13 @@ device = "cuda:0"
 gpt_model = transformer_lens.HookedTransformer.from_pretrained("gpt2-small").to(device)
 
 embed_dims = 768
-sae = SparseAutoencoder(SparseAutoencoderConfig(d_model=embed_dims, d_sparse=8 * embed_dims, sparsity_alpha=1)).to(device)
-optimizer = optim.Adam(sae.parameters(), lr=0.0001)
 
 ds = load_dataset("JeanKaddour/minipile")
 
-def train_sae(sae, weights_path = "./sae_weights.pth", max_iterations = 10000, mlp_layer = 5, batch_size = 1024):
+def train_sae(sae, weights_path = "./sae_weights.pth", description = None, max_iterations = 10000, mlp_layer = 5, batch_size = 1024):
+  sae = SparseAutoencoder(SparseAutoencoderConfig(d_model=embed_dims, d_sparse=8 * embed_dims, sparsity_alpha=0)).to(device)
+  optimizer = optim.Adam(sae.parameters(), lr=0.0001)
+
   sae.train()
   iteration = 0
   batch_count = 0
@@ -38,6 +41,10 @@ def train_sae(sae, weights_path = "./sae_weights.pth", max_iterations = 10000, m
   pbar = tqdm(range(max_iterations), desc="Processing")
   for sample in ds["train"]:
 
+    # Uncomment if you want to turn the sparse factor up to 1 after 1/4 of the training process
+    if iteration == int(max_iterations / 4):
+      print("Changing alpha constant to 1")
+      sae.config.sparsity_alpha = 1
     if iteration > max_iterations:
       break
 
@@ -61,14 +68,18 @@ def train_sae(sae, weights_path = "./sae_weights.pth", max_iterations = 10000, m
       losses = 0
       iteration += 1
 
-  torch.save(sae.state_dict(), weights_path)
+  if description == None:
+    description = time.time()
+  save_weights_with_description(sae.state_dict(), description, weights_path)
+
   print(f"Saved weights to {weights_path}")
 
 def test_sae(sae, weights_path = "./sae_weights.pth", max_samples = 100, mlp_layer = 5):
+  sae = SparseAutoencoder(SparseAutoencoderConfig(d_model=embed_dims, d_sparse=8 * embed_dims, sparsity_alpha=0)).to(device)
   sae.eval()
 
   # Load in the SAE
-  sae_weights = torch.load(weights_path)
+  sae_weights = load_weights_with_description(weights_path)
   sae.load_state_dict(sae_weights)
 
   total_nonzero = 0
@@ -114,6 +125,13 @@ if __name__ == "__main__":
   )
 
   parser.add_argument(
+    '--description',
+    type=str,
+    required=False,
+    help="Train mode: description for the weights that are being trained"
+  )
+
+  parser.add_argument(
     '--mlp_layer',
     type=int,
     required=False,
@@ -148,7 +166,7 @@ if __name__ == "__main__":
   args = parser.parse_args()
 
   if args.mode == "train":
-    train_sae(sae, weights_path=args.weights_path, mlp_layer=args.mlp_layer, max_iterations=args.max_iterations, batch_size=args.batch_size)
+    train_sae(sae, description=args.description, weights_path=args.weights_path, mlp_layer=args.mlp_layer, max_iterations=args.max_iterations, batch_size=args.batch_size)
   elif args.mode == "test":
     test_sae(sae, weights_path=args.weights_path, mlp_layer=args.mlp_layer, max_samples=args.max_samples)
   else:

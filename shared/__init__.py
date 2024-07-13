@@ -3,3 +3,5 @@ from .sparse_autoencoder import (
     SparseAutoencoder,
     PretrainedConfig as SpectrePretrainedConfig,
 )
+
+from .utils import *
