@@ -1,8 +1,8 @@
 import torch
 def save_weights_with_description(weights, description, path):
   torch.save({
-    weights: weights,
-    description: description
+    "weights": weights,
+    "description": description
   }, path)
 
 def load_weights_with_description(path, print_description = True):
