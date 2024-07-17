@@ -28,16 +28,23 @@ def plot_feature_activation_histogram(model, mini_pile_dataset, num_samples=1000
 
 
 def count_non_zero_feature_activations(model, mini_pile_dataset, num_samples=100):
-    total = 0
+    total_non_zero = 0
+    total_elements = 0
+    percent_count = 0
     num_samples = min(num_samples, len(mini_pile_dataset.embeddings))
 
     for sample_idx in range(num_samples):
         feature_activations = model.forward(mini_pile_dataset.embeddings[sample_idx])[1]
         non_zero_elements = torch.count_nonzero(feature_activations)
-        total += non_zero_elements
+        total_non_zero += non_zero_elements
+        total_elements += feature_activations.numel()
 
-    average_non_zero = total / num_samples
+        percent_count += non_zero_elements / feature_activations.numel()
+
+    average_non_zero = total_non_zero / num_samples
+    percentage_non_zero = (percent_count / num_samples) * 100
 
     print(
         f"Average Non-Zero Elements for first {num_samples} samples: {average_non_zero}"
     )
+    print(f"Average Percentage of Non-Zero Elements: {percentage_non_zero:.2f}%")
