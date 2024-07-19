@@ -12,6 +12,7 @@ import pickle
 import json
 import os
 import argparse
+import numpy as np
 from tqdm import tqdm
 
 
@@ -52,14 +53,14 @@ def main(args):
     # Training loop
     with open(f"{run_subfolder}/training_output.out", "w") as out_file:
         num_epochs = config["num_epochs"]
+        log_feature_densities = []
         for epoch in range(num_epochs):
             total_loss = 0
-
             for sentences, embeddings in tqdm(data_loader, desc=f"Epoch {epoch+1}"):
                 optimizer.zero_grad()
 
                 # Assuming data is already on the correct device and in the correct format
-                _, _, loss, _ = model.forward(
+                _, feature_activations, loss, _ = model.forward(
                     embeddings,
                     return_loss=True,
                     sparsity_scale=config["sparsity_scale"],
@@ -72,6 +73,16 @@ def main(args):
                 # Print the loss for every batch
                 batch_loss_str = f"Batch Loss: {loss.item()}"
                 out_file.write(batch_loss_str + "\n")
+
+                # Calculate log feature densities
+                log_feature_density = np.log(
+                    (
+                        (feature_activations.detach().numpy() > 0).sum(axis=0)
+                        / feature_activations.shape[0]
+                    )
+                )
+
+                log_feature_densities.append(log_feature_density.tolist())
 
             epoch_loss_str = (
                 f"Epoch {epoch+1}, Average Loss: {total_loss / len(data_loader)}"
@@ -99,6 +110,13 @@ def main(args):
         json.dump(config, config_file)
 
     print(f"Configuration saved to {config_path}")
+
+    # Save log feature densities to a JSON file
+    log_feature_densities_path = f"{run_subfolder}/log_feature_densities.json"
+    with open(log_feature_densities_path, "w") as json_file:
+        json.dump(log_feature_densities, json_file)
+
+    print(f"Log feature densities saved to {log_feature_densities_path}")
 
 
 if __name__ == "__main__":
