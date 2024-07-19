@@ -1,7 +1,12 @@
 import torch.optim as optim
 import torch
-from utils.sae import SparseAutoencoder, SparseAutoencoderConfig
-from utils.models import MiniPileDataset
+
+import sys
+
+sys.path.append("../")
+from shared.sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig
+from shared.models import MiniPileDataset
+
 from datetime import datetime
 import pickle
 import json

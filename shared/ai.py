@@ -1,4 +1,4 @@
-from utils.prompts import label_prompt, score_prompt
+from shared.prompts import label_prompt, score_prompt
 from openai import OpenAI
 import json
 

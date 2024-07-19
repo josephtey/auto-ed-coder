@@ -1,17 +1,20 @@
 import numpy as np
-from utils.ai import OpenAIClient
+
 import os
 import json
-from pprint import pprint
 from datetime import datetime
 import pickle
-from utils.sae import SparseAutoencoder, SparseAutoencoderConfig
+import sys
+
+sys.path.append("../")
+from shared.interp import run_interp_pipeline
+from shared.sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig
+from shared.models import MiniPileDataset
 import json
 from dotenv import load_dotenv
-from utils.features import Feature, FeatureSample
+
 import argparse
-from utils.models import MiniPileDataset
-import tqdm
+
 
 # Load environment variables from .env file
 load_dotenv()
@@ -21,7 +24,6 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
 def main(args):
-
     # load the dataset
     file_name = args.dataset_filename
     with open(file_name, "rb") as f:
@@ -49,70 +51,32 @@ def main(args):
     folder_name = os.path.join(args.features_base_path, f"sae_features_{timestamp}")
     os.makedirs(folder_name, exist_ok=True)
 
-    ai = OpenAIClient(openai_api_key)
-
-    n = len(mini_pile_dataset)
-    feature_registry = np.zeros((config["dimensions"] * 8, n))
-
-    for i in tqdm.tqdm(range(n), desc="Creating feature registry"):
-        embedding = mini_pile_dataset.embeddings[i]
-        feature_activations = model.forward(embedding)[1]
-        feature_registry[:, i] = feature_activations.detach().numpy()
-
-    for index, feature in enumerate(
-        tqdm.tqdm(feature_registry, desc="Writing features")
-    ):
-        feature_samples = [
-            FeatureSample(text=mini_pile_dataset.sentences[i], act=value)
-            for i, value in enumerate(feature)
-        ]
-        feature_samples.sort(key=lambda x: x.act, reverse=True)
-
-        high_act_samples = feature_samples[:50]
-        low_act_samples = feature_samples[-50:]
-
-        try:
-            interpetation = ai.get_interpretation(high_act_samples, low_act_samples)
-            label = interpetation["label"]
-            reasoning = interpetation["reasoning"]
-            attributes = interpetation["attributes"]
-
-            high_act_score = ai.score_interpretation(high_act_samples, attributes)[
-                "percent"
-            ]
-            low_act_score = ai.score_interpretation(low_act_samples, attributes)[
-                "percent"
-            ]
-        except Exception as e:
-            print(f"Skipping feature due to error: {e}")
-            continue
-
-        labelled_feature = Feature(
-            index=index,
-            label=label,
-            attributes=attributes,
-            reasoning=reasoning,
-            confidence=abs(high_act_score - low_act_score),
-            density=(np.count_nonzero(feature) / len(feature)),
-            high_act_samples=high_act_samples,
-            low_act_samples=low_act_samples,
-        )
-
-        # write this feature
-        with open(os.path.join(folder_name, f"feature_{index}.json"), "w") as json_file:
+    def write_labelled_feature_to_file(labelled_feature):
+        with open(
+            os.path.join(folder_name, f"feature_{labelled_feature.index}.json"), "w"
+        ) as json_file:
             json.dump(labelled_feature.dict(), json_file, indent=4)
 
-        # print processed feature
-        print(f"Processed feature {index}: {label}")
+    # Call the function
+    run_interp_pipeline(
+        model,
+        mini_pile_dataset.embeddings,
+        mini_pile_dataset.sentences,
+        config["dimensions"] * 8,
+        write_labelled_feature_to_file,
+    )
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         description="Interpret Sparse Autoencoder Features"
     )
+
+    # minipile dataset format... with sentences + embeddings
     parser.add_argument(
         "--dataset_filename", type=str, required=True, help="Path to the dataset file"
     )
+
     parser.add_argument(
         "--sae_base_path",
         type=str,
@@ -123,7 +87,7 @@ if __name__ == "__main__":
         "--features_base_path",
         type=str,
         required=True,
-        help="Base path to save the features",
+        help="OUTPUT base path to save the features",
     )
 
     args = parser.parse_args()
