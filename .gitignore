@@ -4,6 +4,11 @@ bert-encoder-fine-tuned-sae/files/
 bert-encoder-fine-tuned-sae/.env
 bert-encoder-fine-tuned-sae/sae
 bert-encoder-fine-tuned-sae/features
+bert-encoder-fine-tuned-sae/embeddings
+bert-encoder-fine-tuned-sae/embeddings.zip
+bert-encoder-fine-tuned-sae/embeddings_bert_set_3
+bert-encoder-fine-tuned-sae/all_sentences.csv
+
 __pycache__
 decoder/data
 decoder/weights
@@ -12,5 +17,3 @@ decoder/.env
 decoder/datasets
 *.pth
 *.pt
-bert-encoder-fine-tuned-sae/embeddings
-bert-encoder-fine-tuned-sae/embeddings.zip

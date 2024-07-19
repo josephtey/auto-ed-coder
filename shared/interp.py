@@ -90,8 +90,12 @@ def run_interp_pipeline(
         ]
         feature_samples.sort(key=lambda x: x.act, reverse=True)
 
-        high_act_samples = feature_samples[:50]
-        low_act_samples = feature_samples[-50:]
+        high_act_samples = [
+            sample for sample in feature_samples[:50] if sample.act != 0
+        ]
+        low_act_samples = np.random.choice(
+            [sample for sample in feature_samples if sample.act == 0], 50, replace=False
+        ).tolist()
 
         try:
             interpetation = ai.get_interpretation(high_act_samples, low_act_samples)
