@@ -63,6 +63,7 @@ def main(args):
                     embeddings,
                     return_loss=True,
                     sparsity_scale=config["sparsity_scale"],
+                    new_loss=False,
                 )
                 loss.backward()
                 optimizer.step()
