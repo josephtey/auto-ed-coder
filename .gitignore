@@ -2,3 +2,5 @@ venv/
 bert-encoder-fine-tuned-sae/files/
 *.pkl
 bert-encoder-fine-tuned-sae/.env
+bert-encoder-fine-tuned-sae/sae
+bert-encoder-fine-tuned-sae/features
