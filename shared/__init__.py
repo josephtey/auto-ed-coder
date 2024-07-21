@@ -5,3 +5,6 @@ from .sparse_autoencoder import (
 )
 
 from .utils import *
+from .features import *
+from .models import *
+from .interp import *

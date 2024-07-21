@@ -32,6 +32,7 @@ class SparseAutoencoder(nn.Module, PyTorchModelHubMixin):
         x: torch.FloatTensor,
         return_loss: bool = False,
         sparsity_scale: float = 1.0,
+        new_loss: bool = True,
     ):
         f = self.encode(x)
         y = self.decode(f)
@@ -40,8 +41,19 @@ class SparseAutoencoder(nn.Module, PyTorchModelHubMixin):
             reconstruction_loss = F.mse_loss(y, x)
             # print(x.shape)
 
-            decoder_norms = torch.norm(self.decoder.weight, dim = 0)
-            sparsity_loss = sparsity_scale * self.config.sparsity_alpha * (f.abs() @ decoder_norms).sum() # TODO: change this to the actual loss function
+            decoder_norms = torch.norm(self.decoder.weight, dim=0)
+
+            if new_loss:
+                sparsity_loss = (
+                    sparsity_scale
+                    * self.config.sparsity_alpha
+                    * (f.abs() @ decoder_norms).sum()
+                )  # TODO: change this to the actual loss function
+            else:
+                sparsity_loss = (
+                    sparsity_scale * self.config.sparsity_alpha * (f.abs().sum())
+                )
+
             loss = reconstruction_loss / x.shape[1] + sparsity_loss
             return y, f, loss, reconstruction_loss
 
