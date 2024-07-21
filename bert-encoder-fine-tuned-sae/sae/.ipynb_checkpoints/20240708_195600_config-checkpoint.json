@@ -1,0 +1,1 @@
+{"batch_size": 512, "dimensions": 768, "sparsity_alpha": 1, "lr": 1e-05, "num_epochs": 5, "sparsity_scale": 1}

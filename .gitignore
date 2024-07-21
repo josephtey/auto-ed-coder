@@ -17,3 +17,5 @@ decoder/.env
 decoder/datasets
 *.pth
 *.pt
+bert-encoder-fine-tuned-sae/embeddings
+bert-encoder-fine-tuned-sae/embeddings.zip
