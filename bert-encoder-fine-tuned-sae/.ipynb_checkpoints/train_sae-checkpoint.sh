@@ -1,1 +1,1 @@
-python train_sae.py --sentences_file "all_sentences.csv" --embeddings_file "pickled_data/20240723_211713_embeddings.npy" --run_folder sae --batch_size 512 --dimensions 768 --sparsity_alpha 1 --lr 0.0001 --num_epochs 1 --sparsity_scale 1
+python train_sae.py --sentences_file "pickled_data/20240723_211713_sentences.npy" --embeddings_file "pickled_data/20240723_211713_embeddings.npy" --run_folder sae --batch_size 512 --dimensions 768 --sparsity_alpha 1 --lr 0.00001 --num_epochs 1 --sparsity_scale 1
