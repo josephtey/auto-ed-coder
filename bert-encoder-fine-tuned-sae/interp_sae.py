@@ -24,10 +24,8 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
 def main(args):
-    # load the dataset
-    file_name = args.dataset_filename
-    with open(file_name, "rb") as f:
-        mini_pile_dataset = pickle.load(f)
+    # load dataset
+    mini_pile_dataset = MiniPileDataset(args.sentences_file, args.embeddings_file)
 
     # Load the configuration from the JSON file
     config_path = os.path.join(args.sae_base_path, "config.json")
@@ -72,9 +70,11 @@ if __name__ == "__main__":
         description="Interpret Sparse Autoencoder Features"
     )
 
-    # minipile dataset format... with sentences + embeddings
     parser.add_argument(
-        "--dataset_filename", type=str, required=True, help="Path to the dataset file"
+        "--sentences_file", type=str, required=True, help="Path to the sentences file"
+    )
+    parser.add_argument(
+        "--embeddings_file", type=str, required=True, help="Path to the embeddings file"
     )
 
     parser.add_argument(
