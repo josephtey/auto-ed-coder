@@ -69,7 +69,12 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 
 
 def run_interp_pipeline(
-    sae, embeddings, text_data, n_feature_activations, handle_labelled_feature
+    sae,
+    embeddings,
+    text_data,
+    n_feature_activations,
+    handle_labelled_feature,
+    max_features=None,
 ):
     ai = OpenAIClient(openai_api_key)
 
@@ -80,6 +85,9 @@ def run_interp_pipeline(
         embedding = torch.tensor(embeddings[i])
         feature_activations = sae.forward(embedding)[1]
         feature_registry[:, i] = feature_activations.detach().numpy()
+
+    if max_features is not None:
+        feature_registry = feature_registry[:max_features, :]
 
     for index, feature in enumerate(
         tqdm.tqdm(feature_registry, desc="Processing features")
