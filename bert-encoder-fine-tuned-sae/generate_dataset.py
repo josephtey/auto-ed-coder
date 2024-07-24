@@ -4,6 +4,9 @@ import pickle
 import numpy as np
 import argparse
 from tqdm import tqdm
+import sys
+
+sys.path.append("../")
 from shared.models import MiniPileDataset
 import torch
 
