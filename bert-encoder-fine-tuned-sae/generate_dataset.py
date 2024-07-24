@@ -5,16 +5,16 @@ import numpy as np
 import argparse
 from tqdm import tqdm
 from shared.models import MiniPileDataset
+import torch
 
 
 def load_embeddings(folder_path):
     embeddings = []
     embedding_files = sorted([f for f in os.listdir(folder_path) if f.endswith(".out")])
     for file in tqdm(embedding_files, desc="Loading embeddings"):
-        with open(os.path.join(folder_path, file), "r") as f:
-            embedding = np.array([float(x) for x in f.read().split()])
-            embeddings.append(embedding)
-    return np.array(embeddings)
+        embedding = torch.load(os.path.join(folder_path, file))
+        embeddings.append(embedding)
+    return torch.stack(embeddings)
 
 
 def load_sentences(csv_path, num_embeddings):
