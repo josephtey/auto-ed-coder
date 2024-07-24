@@ -62,6 +62,7 @@ def main(args):
         mini_pile_dataset.sentences,
         config["dimensions"] * 8,
         write_labelled_feature_to_file,
+        max_features=args.max_features,
     )
 
 
@@ -88,6 +89,12 @@ if __name__ == "__main__":
         type=str,
         required=True,
         help="OUTPUT base path to save the features",
+    )
+    parser.add_argument(
+        "--max_features",
+        type=int,
+        default=None,
+        help="Maximum number of features to process",
     )
 
     args = parser.parse_args()
