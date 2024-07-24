@@ -77,7 +77,7 @@ def run_interp_pipeline(
     feature_registry = np.zeros((n_feature_activations, n))
 
     for i in tqdm.tqdm(range(n), desc="Creating feature registry"):
-        embedding = embeddings[i]
+        embedding = torch.tensor(embeddings[i])
         feature_activations = sae.forward(embedding)[1]
         feature_registry[:, i] = feature_activations.detach().numpy()
 
