@@ -14,8 +14,8 @@ batch_size = 40
 df_all_sentences = pd.read_csv("all_sentences.csv")
 sentences = df_all_sentences["sentence"].tolist()
 
-idx = 263200
-for i in range(263200, len(sentences), batch_size):
+idx = 0
+for i in range(0, len(sentences), batch_size):
     batch = sentences[i : i + batch_size]
     try:
         inputs = bert_tokenizer(
