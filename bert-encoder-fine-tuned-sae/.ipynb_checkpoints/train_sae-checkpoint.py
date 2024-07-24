@@ -17,8 +17,8 @@ from tqdm import tqdm
 
 
 def main(args):
-    # Load sentences and embeddings into MiniPileDataset
-    dataset = MiniPileDataset(args.sentences_file, args.embeddings_file)
+    with open(args.dataset_filename, "rb") as f:
+        loaded_dataset = pickle.load(f)
 
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     run_subfolder = os.path.join(args.run_folder, timestamp)
@@ -36,7 +36,7 @@ def main(args):
 
     # Assuming `dataset` is a PyTorch Dataset loaded and ready to use
     data_loader = torch.utils.data.DataLoader(
-        dataset, batch_size=config["batch_size"], shuffle=True
+        loaded_dataset, batch_size=config["batch_size"], shuffle=True
     )
 
     # Initialize the model
@@ -122,10 +122,7 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Train a Sparse Autoencoder")
     parser.add_argument(
-        "--sentences_file", type=str, required=True, help="Path to the sentences file"
-    )
-    parser.add_argument(
-        "--embeddings_file", type=str, required=True, help="Path to the embeddings file"
+        "--dataset_filename", type=str, required=True, help="Path to the dataset file"
     )
     parser.add_argument(
         "--run_folder", type=str, required=True, help="Folder to save the run outputs"
