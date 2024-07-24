@@ -8,4 +8,4 @@ bert-encoder-fine-tuned-sae/embeddings_bert_set_3
 bert-encoder-fine-tuned-sae/sae
 bert-encoder-fine-tuned-sae/features
 bert-encoder-fine-tuned-sae/all_sentences.csv
-
+bert-encoder-fine-tuned-sae/pickled_data
