@@ -182,3 +182,92 @@ def count_non_zero_feature_activations(model, mini_pile_dataset, num_samples=100
         f"Average Non-Zero Elements for first {num_samples} samples: {average_non_zero}"
     )
     print(f"Average Percentage of Non-Zero Elements: {percentage_non_zero:.2f}%")
+
+
+def plot_feature_activation_histogram_from_log_feature_densities(
+    log_feature_densities, training_step
+):
+    feature_activations = log_feature_densities[training_step]
+
+    # Filter out -inf values
+    filtered_feature_activations = [
+        fa for fa in feature_activations if fa != -float("inf")
+    ]
+    print("len(filtered_feature_activations)", len(filtered_feature_activations))
+
+    # Plotting the histogram of feature activations
+    plt.figure(figsize=(10, 6))
+    plt.hist(filtered_feature_activations, bins=30, edgecolor="black", alpha=0.7)
+    plt.xlabel("Log Feature Densities", fontsize=14)
+    plt.ylabel("Count", fontsize=14)
+    plt.title(f"Histogram of Feature Activations at Step {training_step}", fontsize=16)
+    plt.grid(True)
+    plt.show()
+
+
+def plot_highest_activating_feature_for_each_sentence(
+    fine_tuned_heatmap_data, fine_tuned_features
+):
+    print("Analyzing feature activations for each sentence:")
+    print("=" * 80)
+
+    for idx, entry in enumerate(fine_tuned_heatmap_data):
+        print(f"\nSentence {idx + 1}: {entry['sentence']}")
+        print("-" * 80)
+
+        # Get all activations
+        activations = entry["feature_activations"]
+
+        # Get top 5 activating features
+        top_5_indices = sorted(
+            range(len(activations)), key=lambda i: activations[i], reverse=True
+        )[:5]
+        top_5_activations = [activations[i] for i in top_5_indices]
+
+        # Get labels for top 5 features
+        top_5_labels = []
+        for feature_idx in top_5_indices:
+            matching_feature = next(
+                (f for f in fine_tuned_features if f.index == feature_idx), None
+            )
+            label = (
+                matching_feature.label if matching_feature else f"Feature {feature_idx}"
+            )
+            top_5_labels.append(label)
+
+        # Create a horizontal bar plot of top 5 feature activations
+        plt.figure(figsize=(15, 5))
+        y_pos = np.arange(len(top_5_labels))
+        plt.barh(y_pos, top_5_activations)
+        plt.yticks(y_pos, top_5_labels)
+        plt.title(f"{entry['sentence']}")
+        plt.xlabel("Activation Strength")
+        plt.ylabel("Feature Label")
+        plt.xlim(0, 1)  # Set x-axis limit between 0 and 1
+
+        # Add activation values to the end of each bar
+        for i, v in enumerate(top_5_activations):
+            plt.text(v, i, f" {v:.4f}", va="center")
+
+        plt.tight_layout()
+        plt.show()
+
+        # Print information about top 5 activating features
+        print("Top 5 activating features:")
+        for feature_idx, activation in zip(top_5_indices, top_5_activations):
+            matching_feature = next(
+                (f for f in fine_tuned_features if f.index == feature_idx), None
+            )
+            if matching_feature:
+                print(
+                    f"  Feature {feature_idx:4d} | Activation: {activation:.4f} | Label: {matching_feature.label}"
+                )
+            else:
+                print(
+                    f"  Feature {feature_idx:4d} | Activation: {activation:.4f} | Label: N/A"
+                )
+
+        print()
+
+    print("=" * 80)
+    print("Analysis complete.")

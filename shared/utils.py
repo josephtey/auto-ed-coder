@@ -1,6 +1,14 @@
 import torch
 import matplotlib.pyplot as plt
 import numpy as np
+import requests
+import json
+from datetime import datetime
+import nltk
+
+nltk.download("punkt", quiet=True)
+from nltk.tokenize import sent_tokenize
+import torch
 
 
 def save_weights_with_description(weights, description, path):
@@ -49,3 +57,56 @@ def log_feature_density_histogram(
     plt.colorbar(label="Count")
 
     plt.savefig(out_file)
+
+
+def build_heatmap_using_encoder_method(
+    text, sae_model, model_type, output_folder, first_n_features
+):
+
+    # 1. Split the text into sentences
+    sentences = sent_tokenize(text)
+
+    # 2. Embed each sentence
+    embeddings = []
+    for sentence in sentences:
+        if model_type == "fine-tuned":
+            response = requests.post(
+                "https://josephtey--bert-set-3-fine-tuned.modal.run",
+                json={"text": sentence},
+            )
+        else:
+            response = requests.post(
+                "https://josephtey--bert-base-uncased.modal.run",
+                json={"text": sentence},
+            )
+        embedding = response.json()["embedding"]
+        embeddings.append(embedding)
+
+    # 3. Get feature activations
+    feature_activations = []
+    for embedding in embeddings:
+        embedding_tensor = torch.tensor(embedding)
+        activation = sae_model.forward(embedding_tensor)[1]
+        feature_activations.append(activation[:first_n_features].tolist())
+
+    # 4. Write to JSON file
+    output = []
+    for sentence, embedding, activation in zip(
+        sentences, embeddings, feature_activations
+    ):
+        output.append(
+            {
+                "sentence": sentence,
+                "embedding": embedding,
+                "feature_activations": activation,
+            }
+        )
+
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"{output_folder}/heatmap_data_{model_type}_{timestamp}.json"
+
+    with open(filename, "w") as f:
+        json.dump(output, f)
+
+    # 5. Return the output
+    return output
