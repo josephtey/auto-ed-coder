@@ -37,7 +37,6 @@ class LogFeatureDensityHistogram():
 
   def make_histogram(self, out_file = "./fd_histogram.png"):
     heatmap = np.stack(self.heatmap, axis=0)
-    print(heatmap.shape)
 
     plt.figure(figsize=(8, 6))
     plt.imshow(heatmap.T, aspect='auto', cmap='viridis', origin='lower')
@@ -49,8 +48,6 @@ class LogFeatureDensityHistogram():
     plt.colorbar(label='Count')
 
     plt.savefig(out_file)
-
-
 
 def get_datetime_string():
   # Get the current date and time
