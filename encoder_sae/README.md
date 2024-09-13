@@ -1,14 +1,14 @@
 ```
 embedding_models/
 │
-├── fine_tune_model.ipynb    # Fine-tune the model (takes a param for model selection)
-└── models/                  # Directory for all the fine-tuned models
+├── fine_tune_model.ipynb    # Fine-tune ENCODER models for embedding
+└── models/                  # Directory for all the fine-tuned ENCODER models
 
 data_preparation/
 │
 ├── chunking/
-│   ├── chunk_asap.py         # Script to chunk ASAP format data
-│   ├── chunk_hf_dataset.py   # Script to chunk Hugging Face datasets
+│   ├── chunk_asap.py         # Script to chunk ASAP data (short anaswer scoring dataset from Kaggle)
+│   ├── chunk_hf_dataset.py   # Script to chunk Hugging Face datasets (we use minipile right now)
 │   └── chunked_datasets/     # Datasets already chunked (includes checkpoints)
 │
 └── embedding_chunks/
@@ -35,3 +35,11 @@ runs/
 analysis/
 └── analysis.ipynb            # Jupyter notebook for analyzing results
 ```
+
+#### How to run
+
+0. `fine_tune_bert.ipynb`: Script to fine-tune BERT models. Right now, the SAEs are trained from BERT encodings, in this case, specifically for auto-grading.
+1. `run_chunking.sh`: Chunks dataset into sentences and then stores them in `chunked_datasets`. Could be interesting to see how different chunk sizes will impact things (to be added).
+2. `run_embed_chunks.sh`: Embeds these chunks using the fine-tuned model from Step 0, on sentence level.
+3. `run_sae_training_pipeline`: Trains an SAE on a set of provided embeddings. SAE is like an 'eye' to semantically understand a series of numbers just a little better.
+4. `run_interp_pipeline`: Extracts features of the SAE based on some 'test' dataset that we use!
