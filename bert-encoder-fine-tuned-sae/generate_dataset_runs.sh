@@ -1,1 +1,0 @@
-python generate_dataset.py "embeddings_bert_set_3" "all_sentences.csv" --folder "pickled_data"

@@ -1,12 +1,33 @@
+# Ignore chunked datasets and embedded chunks
+encoder_sae/data_preparation/chunking/chunked_datasets/
+encoder_sae/data_preparation/embedding_chunks/embedded_chunks/
+
+# Ignore trained SAEs
+encoder_sae/training_sae/saes/
+
+# Ignore extracted features
+encoder_sae/feature_extraction/features/
+
+# Ignore any additional checkpoint or log files (optional)
+/**/checkpoints/
+/**/*.ckpt
+/**/logs/
+/**/*.log
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment or virtualenv directories (optional)
+env/
 venv/
-bert-encoder-fine-tuned-sae/files/
-*.pkl
-bert-encoder-fine-tuned-sae/.env
-bert-encoder-fine-tuned-sae/embeddings
-bert-encoder-fine-tuned-sae/embeddings.zip
-bert-encoder-fine-tuned-sae/embeddings_bert_set_3
-bert-encoder-fine-tuned-sae/sae
-bert-encoder-fine-tuned-sae/features
-bert-encoder-fine-tuned-sae/all_sentences.csv
-bert-encoder-fine-tuned-sae/pickled_data
-bert-encoder-fine-tuned-sae/demo_1
+encoder_sae/wandb/
+.venv/
+
+# Ignore any specific data files or datasets (optional)
+*.csv
+*.json
+*.hdf5
