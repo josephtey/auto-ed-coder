@@ -5,7 +5,7 @@ import numpy as np
 class MiniPileDataset(Dataset):
     def __init__(self, sentences, embeddings):
         if sentences.endswith(".npy"):
-            self.sentences = np.load(sentences, allow_pickle=True)
+            self.sentences = np.load(sentences, mmap_mode="r", allow_pickle=True)
         else:
             self.sentences = sentences
 

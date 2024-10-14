@@ -22,7 +22,7 @@ def main(args):
     )
 
     # Define the run name and timestamp
-    RUN_NAME = args.run_name
+    RUN_NAME = args["run_name"]
     TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
 
     # Define the output directory
@@ -30,15 +30,15 @@ def main(args):
 
     # TRAIN SAE
     train_sae(
-        sentences_file=f"data_preparation/embedding_chunks/embedded_chunks/{args.embedded_data_dir}/sentences.npy",
-        embeddings_file=f"data_preparation/embedding_chunks/embedded_chunks/{args.embedded_data_dir}/embeddings.npy",
+        sentences_file=f"data_preparation/embedding_chunks/embedded_chunks/{args['embedded_data_dir']}/sentences_checkpoint.npy",
+        embeddings_file=f"data_preparation/embedding_chunks/embedded_chunks/{args['embedded_data_dir']}/embeddings_checkpoint.npy",
         run_folder=OUTPUT_DIR,
-        batch_size=args.batch_size,
-        dimensions=args.dimensions,
-        sparsity_alpha=args.sparsity_alpha,
-        lr=args.lr,
-        num_epochs=args.num_epochs,
-        sparsity_scale=args.sparsity_scale,
+        batch_size=args["batch_size"],
+        dimensions=args["dimensions"],
+        sparsity_alpha=args["sparsity_alpha"],
+        lr=args["lr"],
+        num_epochs=args["num_epochs"],
+        sparsity_scale=args["sparsity_scale"],
         wandb=wandb,
     )
 
@@ -85,4 +85,4 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    main(args)
+    main(vars(args))  # Convert Namespace object to a dictionary
