@@ -86,16 +86,16 @@ def run_interp_pipeline(
     handle_labelled_feature,
     max_features=None,
     model="gpt-4o-mini",
-    feature_registry_path=None,
+    output_dir=None,
 ):
     ai = OpenAIClient(openai_api_key, model=model)
 
     n = len(embeddings)
 
-    if feature_registry_path and os.path.exists(feature_registry_path):
-        print(f"Loading feature registry from {feature_registry_path}")
-        feature_registry = np.load(feature_registry_path, mmap_mode="r")
-    else:
+    # Create if doesn't exist
+    feature_registry_path = os.path.join(output_dir, "feature_registry.npy")
+
+    if not os.path.exists(feature_registry_path):
         print("Creating feature registry")
         feature_registry = np.zeros((n_feature_activations, n))
 
@@ -104,9 +104,12 @@ def run_interp_pipeline(
             feature_activations = sae.forward(embedding)[1]
             feature_registry[:, i] = feature_activations.detach().numpy()
 
-        if feature_registry_path:
-            np.save(feature_registry_path, feature_registry)
-            print(f"Feature registry saved to {feature_registry_path}")
+        np.save(feature_registry_path, feature_registry)
+        print(f"Feature registry saved to {feature_registry_path}")
+
+    # Load feature registry
+    print(f"Loading feature registry from {feature_registry_path}")
+    feature_registry = np.load(feature_registry_path, mmap_mode="r")
 
     if max_features is not None:
         feature_registry = feature_registry[:max_features, :]

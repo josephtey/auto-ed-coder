@@ -6,5 +6,4 @@ python feature_extraction/interp_sae.py \
     --sae_base_path "training_sae/saes/contra_2_20241013_220300" \
     --features_base_path "feature_extraction/features" \
     --max_features 100 \
-    --model "gpt-4o-mini" \
-    --feature_registry_path "feature_registry.npy"
+    --model "gpt-4o-mini" 
