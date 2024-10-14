@@ -87,13 +87,15 @@ def run_interp_pipeline(
     max_features=None,
     model="gpt-4o-mini",
     output_dir=None,
+    feature_registry_path=None,
 ):
     ai = OpenAIClient(openai_api_key, model=model)
 
     n = len(embeddings)
 
-    # Create if doesn't exist
-    feature_registry_path = os.path.join(output_dir, "feature_registry.npy")
+    # Use the provided feature_registry_path if given, otherwise create one in output_dir
+    if feature_registry_path is None:
+        feature_registry_path = os.path.join(output_dir, "feature_registry.npy")
 
     if not os.path.exists(feature_registry_path):
         print("Creating feature registry")

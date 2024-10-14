@@ -31,6 +31,7 @@ def interp_sae(
     features_base_path,
     max_features=None,
     model="gpt-4o-mini",
+    feature_registry_path=None,
 ):
     # Start wandb run
     wandb.init(
@@ -94,6 +95,7 @@ def interp_sae(
         max_features=max_features,
         model="gpt-4o-mini",
         output_dir=OUTPUT_DIR,
+        feature_registry_path=feature_registry_path,
     )
 
     wandb.log_artifact(artifact)
@@ -136,6 +138,12 @@ if __name__ == "__main__":
         default="gpt-4o-mini",
         help="OpenAI model to use for interpretation",
     )
+    parser.add_argument(
+        "--feature_registry_path",
+        type=str,
+        default=None,
+        help="Path to the feature registry file",
+    )
     args = parser.parse_args()
     interp_sae(
         sentences_file=args.sentences_file,
@@ -144,4 +152,5 @@ if __name__ == "__main__":
         features_base_path=args.features_base_path,
         max_features=args.max_features,
         model=args.model,
+        feature_registry_path=args.feature_registry_path,
     )
