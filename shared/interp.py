@@ -17,6 +17,7 @@ Usage:
         - text_data: The corresponding text data for the embeddings.
         - n_feature_activations: Number of feature activations to consider.
         - handle_labelled_feature: A callback function to handle the labelled feature.
+        - feature_registry_path: Optional path to a pre-computed feature registry file.
 
 Example:
     from shared.sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig
@@ -44,7 +45,8 @@ Example:
         mini_pile_dataset.embeddings,
         mini_pile_dataset.sentences,
         6144 (usually n_dimensions * 8),
-        handle_labelled_feature
+        handle_labelled_feature,
+        feature_registry_path="path_to_feature_registry.npy"
     )
 """
 
@@ -66,6 +68,7 @@ import ipywidgets as widgets
 from IPython.display import display, HTML
 import matplotlib.colors as mcolors
 import re
+from heapq import nlargest
 
 
 # Load environment variables from .env file
@@ -83,16 +86,27 @@ def run_interp_pipeline(
     handle_labelled_feature,
     max_features=None,
     model="gpt-4o-mini",
+    feature_registry_path=None,
 ):
     ai = OpenAIClient(openai_api_key, model=model)
 
     n = len(embeddings)
-    feature_registry = np.zeros((n_feature_activations, n))
 
-    for i in tqdm.tqdm(range(n), desc="Creating feature registry"):
-        embedding = torch.tensor(embeddings[i])
-        feature_activations = sae.forward(embedding)[1]
-        feature_registry[:, i] = feature_activations.detach().numpy()
+    if feature_registry_path and os.path.exists(feature_registry_path):
+        print(f"Loading feature registry from {feature_registry_path}")
+        feature_registry = np.load(feature_registry_path, mmap_mode="r")
+    else:
+        print("Creating feature registry")
+        feature_registry = np.zeros((n_feature_activations, n))
+
+        for i in tqdm.tqdm(range(n), desc="Creating feature registry"):
+            embedding = torch.tensor(embeddings[i])
+            feature_activations = sae.forward(embedding)[1]
+            feature_registry[:, i] = feature_activations.detach().numpy()
+
+        if feature_registry_path:
+            np.save(feature_registry_path, feature_registry)
+            print(f"Feature registry saved to {feature_registry_path}")
 
     if max_features is not None:
         feature_registry = feature_registry[:max_features, :]
@@ -106,9 +120,14 @@ def run_interp_pipeline(
         ]
         feature_samples.sort(key=lambda x: x.act, reverse=True)
 
-        high_act_samples = [
-            sample for sample in feature_samples[:50] if sample.act != 0
-        ]
+        # Get high activation samples
+        high_act_samples = nlargest(
+            50,
+            (sample for sample in feature_samples if sample.act > 0),
+            key=lambda x: x.act,
+        )
+
+        # Get low activation samples
         low_act_samples_population = [
             sample for sample in feature_samples if sample.act == 0
         ]

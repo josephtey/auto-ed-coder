@@ -19,5 +19,3 @@ python data_preparation/embedding_chunks/embed_chunks.py \
     --model_name "contra" \
     --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile.csv" \
     --folder_name "contra_minipile" \
-    --resume \
-    --checkpoint_dir "data_preparation/embedding_chunks/embedded_chunks/contra_minipile_20241013_110604/"

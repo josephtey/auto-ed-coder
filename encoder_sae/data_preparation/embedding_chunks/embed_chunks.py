@@ -74,7 +74,7 @@ def embed_chunks(
     if model_name == "contra":
         device = "cuda" if torch.cuda.is_available() else "cpu"
         autoencoder = BottleneckT5Autoencoder(
-            model_path="thesephist/contra-bottleneck-t5-base-wikipedia", device=device
+            model_path="thesephist/contra-bottleneck-t5-large-wikipedia", device=device
         )
     else:
         bert_tokenizer = AutoTokenizer.from_pretrained(model_name)
