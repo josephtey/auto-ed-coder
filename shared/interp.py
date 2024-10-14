@@ -123,7 +123,6 @@ def run_interp_pipeline(
             FeatureSample(text=text_data[i], act=value)
             for i, value in enumerate(feature)
         ]
-        feature_samples.sort(key=lambda x: x.act, reverse=True)
 
         # Get high activation samples
         high_act_samples = nlargest(
