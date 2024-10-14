@@ -30,8 +30,8 @@ def main(args):
 
     # TRAIN SAE
     train_sae(
-        sentences_file=f"data_preparation/embedding_chunks/embedded_chunks/{args['embedded_data_dir']}/sentences_checkpoint.npy",
-        embeddings_file=f"data_preparation/embedding_chunks/embedded_chunks/{args['embedded_data_dir']}/embeddings_checkpoint.npy",
+        sentences_file=args["sentences_file"],
+        embeddings_file=args["embeddings_file"],
         run_folder=OUTPUT_DIR,
         batch_size=args["batch_size"],
         dimensions=args["dimensions"],
@@ -56,10 +56,16 @@ if __name__ == "__main__":
         help="Name of the model in HF",
     )
     parser.add_argument(
-        "--embedded_data_dir",
+        "--sentences_file",
         type=str,
-        required=False,
-        help="Path to the embedded data directory",
+        required=True,
+        help="Path to the input CSV file containing sentences",
+    )
+    parser.add_argument(
+        "--embeddings_file",
+        type=str,
+        required=True,
+        help="Path to the embeddings file",
     )
     parser.add_argument(
         "--batch_size", type=int, default=512, help="Batch size for training"
