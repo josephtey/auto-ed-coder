@@ -1,3 +1,6 @@
+encoder_sae/.env
+*.npy
+
 # Ignore chunked datasets and embedded chunks
 encoder_sae/data_preparation/chunking/chunked_datasets/
 encoder_sae/data_preparation/embedding_chunks/embedded_chunks/
