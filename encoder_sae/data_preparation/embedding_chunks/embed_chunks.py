@@ -63,7 +63,13 @@ class BottleneckT5Autoencoder:
         return self.tokenizer.decode(output[0], skip_special_tokens=True)
 
 
-def embed_chunks(model_name, input_file, folder_name, resume_from_checkpoint=False, checkpoint_dir=None):
+def embed_chunks(
+    model_name,
+    input_file,
+    folder_name,
+    resume_from_checkpoint=False,
+    checkpoint_dir=None,
+):
 
     if model_name == "contra":
         device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -93,20 +99,25 @@ def embed_chunks(model_name, input_file, folder_name, resume_from_checkpoint=Fal
 
     if resume_from_checkpoint:
         # Load the latest checkpoint
-        checkpoint_files = [f for f in os.listdir(embedded_chunks_dir) if f.endswith('_checkpoint.npy')]
+        checkpoint_files = [
+            f for f in os.listdir(embedded_chunks_dir) if f.endswith("_checkpoint.npy")
+        ]
         if checkpoint_files:
-            all_embeddings = list(np.load(os.path.join(embedded_chunks_dir, 'embeddings_checkpoint.npy')))
-            all_sentences = list(np.load(os.path.join(embedded_chunks_dir, 'sentences_checkpoint.npy')))
-            start_index = len(all_sentences)
-            print(f"Resuming from checkpoint in {embedded_chunks_dir}. Starting from index {start_index}")
+            all_embeddings = list(
+                np.load(os.path.join(embedded_chunks_dir, "embeddings_checkpoint.npy"))
+            )
+            start_index = len(all_embeddings)
+            print(
+                f"Resuming from checkpoint in {embedded_chunks_dir}. Starting from index {start_index}"
+            )
         else:
-            print(f"No checkpoint found in {embedded_chunks_dir}. Starting from the beginning.")
+            print(
+                f"No checkpoint found in {embedded_chunks_dir}. Starting from the beginning."
+            )
             all_embeddings = []
-            all_sentences = []
             start_index = 0
     else:
         all_embeddings = []
-        all_sentences = []
         start_index = 0
 
     for i in range(start_index, len(sentences), batch_size):
@@ -116,7 +127,6 @@ def embed_chunks(model_name, input_file, folder_name, resume_from_checkpoint=Fal
                 for s in batch:
                     embedding = autoencoder.embed(s).cpu().numpy()
                     all_embeddings.append(embedding)
-                all_sentences.extend(batch)
             else:
                 inputs = bert_tokenizer(
                     batch, return_tensors="pt", padding=True, truncation=True
@@ -126,7 +136,6 @@ def embed_chunks(model_name, input_file, folder_name, resume_from_checkpoint=Fal
                     batch_embeddings = outputs.last_hidden_state.mean(dim=1).detach()
 
                 all_embeddings.extend(batch_embeddings.cpu().numpy())
-                all_sentences.extend(batch)
 
                 del inputs
                 del outputs
@@ -147,17 +156,12 @@ def embed_chunks(model_name, input_file, folder_name, resume_from_checkpoint=Fal
                 os.path.join(embedded_chunks_dir, "embeddings_checkpoint.npy"),
                 np.array(all_embeddings),
             )
-            np.save(
-                os.path.join(embedded_chunks_dir, "sentences_checkpoint.npy"),
-                np.array(all_sentences),
-            )
             print(f"Checkpoint saved at batch {i // batch_size + 1}")
 
     # Save all embeddings and sentences to .npy files
     np.save(
         os.path.join(embedded_chunks_dir, "embeddings.npy"), np.array(all_embeddings)
     )
-    np.save(os.path.join(embedded_chunks_dir, "sentences.npy"), np.array(all_sentences))
 
     # Save config of the dataset
     config = {
@@ -193,4 +197,10 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    embed_chunks(args.model_name, args.input_file, args.folder_name, args.resume, args.checkpoint_dir)
+    embed_chunks(
+        args.model_name,
+        args.input_file,
+        args.folder_name,
+        args.resume,
+        args.checkpoint_dir,
+    )
