@@ -99,19 +99,36 @@ def run_interp_pipeline(
 
     if not os.path.exists(feature_registry_path):
         print("Creating feature registry")
-        feature_registry = np.zeros((n_feature_activations, n))
+
+        # Create a memory-mapped file for the feature registry
+        feature_registry = np.memmap(
+            feature_registry_path,
+            dtype="float32",
+            mode="w+",
+            shape=(n_feature_activations, n),
+        )
 
         for i in tqdm.tqdm(range(n), desc="Creating feature registry"):
             embedding = torch.tensor(embeddings[i])
             feature_activations = sae.forward(embedding)[1]
             feature_registry[:, i] = feature_activations.detach().numpy()
 
-        np.save(feature_registry_path, feature_registry)
+            # Flush changes to disk every 1000 iterations
+            if (i + 1) % 1000 == 0:
+                feature_registry.flush()
+
+        # Final flush to ensure all data is written
+        feature_registry.flush()
         print(f"Feature registry saved to {feature_registry_path}")
 
-    # Load feature registry
+    # Load feature registry using memory-mapping
     print(f"Loading feature registry from {feature_registry_path}")
-    feature_registry = np.load(feature_registry_path, mmap_mode="r")
+    feature_registry = np.memmap(
+        feature_registry_path,
+        dtype="float32",
+        mode="r",
+        shape=(n_feature_activations, n),
+    )
 
     if max_features is not None:
         feature_registry = feature_registry[:max_features, :]
