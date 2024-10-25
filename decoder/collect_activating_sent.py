@@ -72,6 +72,7 @@ for sample in ds[mode]:
     mlp_out = activations.cache_dict[f"blocks.{mlp_layer}.hook_mlp_out"].to(device1) # example MLP output, shape: (1, # samples, # dim)
 
     y, f, loss, reconstruction_loss = sae(mlp_out, True)
+    feature_activations = sae.feature_activations(mlp_out)
 
     f_by_feature, _ = torch.max(f, dim = 1)
     f_by_feature = f_by_feature.squeeze(0)

@@ -13,7 +13,7 @@ mlp_layer = 5
 gpt_model = transformer_lens.HookedTransformer.from_pretrained("gpt2").to(device)
 
 # Load in the dataset
-ds = load_dataset("JeanKaddour/minˆipile")
+ds = load_dataset("JeanKaddour/minipile")
 
 data_collection = None
 mode = "test"
@@ -24,7 +24,7 @@ for sample in ds[mode]:
   count += 1
 
   logits, activations = gpt_model.run_with_cache(sample["text"])
-  mlp_out = activations.cache_dict[f"blocks.{mlp_layer}.hook_mlp_out"].to(device1) # example MLP output, shape: (1, # samples, # dim)
+  mlp_out = activations.cache_dict[f"blocks.{mlp_layer}.hook_mlp_out"].to(device1) # example MLP output, shape: (1, # tokens, # dim)
 
   if data_collection == None:
     data_collection = mlp_out.to(device1)
@@ -33,6 +33,3 @@ for sample in ds[mode]:
 
   if count % 1000 == 0:
     np.save(f"mini_pile_{mode}.npy", data_collection.to("cpu").numpy())
-
-
-
