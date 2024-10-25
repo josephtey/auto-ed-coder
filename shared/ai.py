@@ -5,18 +5,19 @@ import tiktoken
 
 
 class OpenAIClient:
-    def __init__(self, api_key):
+    def __init__(self, api_key, model="gpt-4o-mini"):
         self.client = OpenAI(api_key=api_key)
-        self.encoder = tiktoken.encoding_for_model("gpt-4o")
+        self.encoder = tiktoken.encoding_for_model(model)
         self.total_prompt_tokens = 0
         self.total_completion_tokens = 0
         self.total_cost = 0
+        self.model = model
 
     def get_interpretation(self, positive_samples, negative_samples):
         prompt = label_prompt(positive_samples, negative_samples)
 
         response = self.client.chat.completions.create(
-            model="gpt-4o",
+            model=self.model,
             response_format={"type": "json_object"},
             messages=[
                 {
@@ -40,7 +41,7 @@ class OpenAIClient:
         prompt = score_prompt(samples, attributes)
 
         response = self.client.chat.completions.create(
-            model="gpt-4o",
+            model=self.model,
             response_format={"type": "json_object"},
             messages=[
                 {
