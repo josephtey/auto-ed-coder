@@ -133,7 +133,7 @@ def embed_chunks(
                 )
                 with torch.no_grad():  # Disable gradient calculation
                     outputs = bert_model(**inputs)
-                    batch_embeddings = outputs.last_hidden_state.mean(dim=1).detach()
+                    batch_embeddings = outputs.last_hidden_state[:, 0, :].detach()
 
                 all_embeddings.extend(batch_embeddings.cpu().numpy())
 
