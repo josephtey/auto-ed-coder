@@ -83,12 +83,6 @@ if __name__ == "__main__":
     parser.add_argument(
         "--sparsity_scale", type=float, default=1, help="Sparsity scale parameter"
     )
-    parser.add_argument(
-        "--max_features",
-        type=int,
-        default=20,
-        help="Maximum number of features to process",
-    )
-
+    
     args = parser.parse_args()
     main(vars(args))  # Convert Namespace object to a dictionary

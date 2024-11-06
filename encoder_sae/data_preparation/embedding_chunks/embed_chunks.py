@@ -72,13 +72,14 @@ def embed_chunks(
 ):
 
     if model_name == "contra":
-        device = "cuda" if torch.cuda.is_available() else "cpu"
+        device = "cuda:0" if torch.cuda.is_available() else "cpu"
         autoencoder = BottleneckT5Autoencoder(
             model_path="thesephist/contra-bottleneck-t5-large-wikipedia", device=device
         )
     else:
+        device = "cuda:0" if torch.cuda.is_available() else "cpu"
         bert_tokenizer = AutoTokenizer.from_pretrained(model_name)
-        bert_model = AutoModel.from_pretrained(model_name)
+        bert_model = AutoModel.from_pretrained(model_name).to(device)
 
     batch_size = 40
 
@@ -130,7 +131,7 @@ def embed_chunks(
             else:
                 inputs = bert_tokenizer(
                     batch, return_tensors="pt", padding=True, truncation=True
-                )
+                ).to(device)
                 with torch.no_grad():  # Disable gradient calculation
                     outputs = bert_model(**inputs)
                     batch_embeddings = outputs.last_hidden_state[:, 0, :].detach()
