@@ -1,10 +1,10 @@
 # Set universal variables
-RUN_NAME="spam_messages_2"
+RUN_NAME="spam_messages_4"
 MODEL_NAME="mshenoda/roberta-spam"
 DATASET="data_preparation/data/spam_messages_train.csv"
 
 # Start by chunking the good ol' dataset
-python data_preparation/chunking/chunk_hf_dataset.py "$DATASET" --chunk_type item --text_column text 
+python data_preparation/chunking/chunk_hf_dataset.py "$DATASET" --chunk_type sentence --text_column text 
 
 # Get most recent chunked dataset folder
 latest_chunks_file=$(ls -t data_preparation/chunking/chunked_datasets/*.csv | head -n 1)
@@ -26,7 +26,7 @@ python runs/pipeline.py \
     --dimensions 768 \
     --sparsity_alpha 1 \
     --lr 0.00001 \
-    --num_epochs 5 \
+    --num_epochs 3 \
     --sparsity_scale 1
 
 # Get the most recently created folder in training_sae/saes

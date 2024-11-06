@@ -9,6 +9,8 @@ from datasets import load_dataset
 from tqdm import tqdm
 
 nltk.download("punkt", quiet=True)
+nltk.download("punkt_tab", quiet=True)
+
 
 
 def chunk_dataset(input_source, num_chunks=None, chunk_type="sentence", text_column=None):

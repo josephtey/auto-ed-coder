@@ -121,7 +121,8 @@ def embed_chunks(
         all_embeddings = []
         start_index = 0
 
-    for i in range(start_index, len(sentences), batch_size):
+    progress_bar = tqdm(range(start_index, len(sentences), batch_size), desc="Processing sentences")
+    for i in progress_bar:
         batch = sentences[i : i + batch_size]
         try:
             if model_name == "contra":
@@ -146,10 +147,10 @@ def embed_chunks(
             torch.cuda.empty_cache()
 
         except Exception as e:
-            print(f"Error: {e}")
+            progress_bar.write(f"Error: {e}")
             continue
 
-        print(f"Processed {i + len(batch)} sentences")
+        progress_bar.set_postfix({"Processed": f"{i + len(batch)} sentences"})
 
         # Save checkpoint
         if (i // batch_size + 1) % checkpoint_interval == 0:
@@ -157,7 +158,7 @@ def embed_chunks(
                 os.path.join(embedded_chunks_dir, "embeddings_checkpoint.npy"),
                 np.array(all_embeddings),
             )
-            print(f"Checkpoint saved at batch {i // batch_size + 1}")
+            progress_bar.write(f"Checkpoint saved at batch {i // batch_size + 1}")
 
     # Save all embeddings and sentences to .npy files
     np.save(
