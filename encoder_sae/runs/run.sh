@@ -41,6 +41,7 @@ python feature_extraction/interp_sae.py \
     --sae_base_path "$latest_sae_folder" \
     --features_base_path "feature_extraction/features" \
     --max_features 200 \
-    --model "gpt-4o-mini" \
-    --prompt_type "spam_classifier" \
+    --model "gpt-4o" \
+    --feature_registry_path "feature_extraction/features/20241106_184551/feature_registry.npy" \
+    --prompt_type "default" \
     --k 20

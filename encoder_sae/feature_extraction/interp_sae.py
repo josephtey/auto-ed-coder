@@ -36,21 +36,21 @@ def interp_sae(
     k=50,
 ):
     # Start wandb run
-    wandb.init(
-        # set the wandb project where this run will be logged
-        project="auto-ed-coder",
-        # track hyperparameters and run metadata
-        config={
-            "type": "interp_sae",
-            "sentences_file": sentences_file,
-            "embeddings_file": embeddings_file,
-            "sae_base_path": sae_base_path,
-            "features_base_path": features_base_path,
-            "max_features": max_features,
-            "model": model,
-            "prompt_type": prompt_type,
-        },
-    )
+    # wandb.init(
+    #     # set the wandb project where this run will be logged
+    #     project="auto-ed-coder",
+    #     # track hyperparameters and run metadata
+    #     config={
+    #         "type": "interp_sae",
+    #         "sentences_file": sentences_file,
+    #         "embeddings_file": embeddings_file,
+    #         "sae_base_path": sae_base_path,
+    #         "features_base_path": features_base_path,
+    #         "max_features": max_features,
+    #         "model": model,
+    #         "prompt_type": prompt_type,
+    #     },
+    # )
 
     TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
     OUTPUT_DIR = os.path.join(features_base_path, TIMESTAMP)
@@ -78,7 +78,7 @@ def interp_sae(
     # make folder
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    artifact = wandb.Artifact(name="sae-features-" + str(uuid.uuid4()), type="features")
+    # artifact = wandb.Artifact(name="sae-features-" + str(uuid.uuid4()), type="features")
 
     def write_labelled_feature_to_file(labelled_feature):
         feature_file_name = f"feature_{labelled_feature.index}.json"
@@ -86,7 +86,7 @@ def interp_sae(
         with open(feature_path, "w") as json_file:
             json.dump(labelled_feature.dict(), json_file, indent=4)
 
-        artifact.add_file(feature_path, feature_file_name)
+        # artifact.add_file(feature_path, feature_file_name)
 
     # Call the function
     run_interp_pipeline(
@@ -103,8 +103,8 @@ def interp_sae(
         k=k,
     )
 
-    wandb.log_artifact(artifact)
-    wandb.finish()
+    # wandb.log_artifact(artifact)
+    # wandb.finish()
 
 
 if __name__ == "__main__":

@@ -1,4 +1,4 @@
-from shared.prompts import label_prompt, score_prompt
+from shared.prompts import get_prompt_by_type, score_prompt
 from openai import OpenAI
 import json
 import tiktoken
@@ -13,8 +13,8 @@ class OpenAIClient:
         self.total_cost = 0
         self.model = model
 
-    def get_interpretation(self, positive_samples, negative_samples):
-        prompt = label_prompt(positive_samples, negative_samples)
+    def get_interpretation(self, positive_samples, negative_samples, prompt_type):
+        prompt = get_prompt_by_type(positive_samples, negative_samples, prompt_type)
 
         response = self.client.chat.completions.create(
             model=self.model,
