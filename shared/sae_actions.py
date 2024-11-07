@@ -2,8 +2,9 @@ import os
 import pickle
 import numpy as np
 import torch
+from tqdm import tqdm
 
-from sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig
+from shared.sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig
 import json
 
 def load_pretrained_sae(sae_base_path):
@@ -35,21 +36,20 @@ def load_pretrained_sae(sae_base_path):
         
     return sae
 
-def sae_featurize_data(data, sae, ref_data, output_file=None):
+def sae_featurize_data(data, sae, output_file=None):
     """
-    Featurize data with SAEs using reference embeddings.
+    Featurize data with SAEs directly.
     
     Args:
-        data: DataFrame with 'label' and 'text' columns
+        data: Dataset containing sentences and embeddings
         sae: Trained SparseAutoencoder model
-        ref_data: MiniPileDataset containing sentences and embeddings
         output_file: Optional path to save feature registry
         
     Returns:
         Feature registry numpy array of shape (n_features, n_examples)
     """
     # Get dimensions
-    n_examples = len(data)
+    n_examples = len(data.sentences)
     n_features = sae.encoder.weight.shape[0]  # Number of features in SAE
     
     # Create feature registry array
@@ -63,16 +63,20 @@ def sae_featurize_data(data, sae, ref_data, output_file=None):
     else:
         feature_registry = np.zeros((n_features, n_examples), dtype="float32")
     
-    # Build lookup dictionary from sentences to embeddings
-    embedding_lookup = {sent: emb for sent, emb in zip(ref_data.sentences, ref_data.embeddings)}
+    # Choose appropriate tqdm version
+    try:
+        # Check if we're in a notebook environment
+        get_ipython()
+        from tqdm.notebook import tqdm as progress_bar
+    except:
+        from tqdm import tqdm as progress_bar
     
-    # Process each example
-    for i, row in enumerate(data.itertuples()):
-        # Get embedding for this text
-        text = row.text
-        if text not in embedding_lookup:
-            raise ValueError(f"Text not found in reference dataset: {text}")
-        embedding = torch.tensor(embedding_lookup[text])
+    # Process each example with progress bar
+    for i, (sentence, embedding) in enumerate(progress_bar(zip(data.sentences, data.embeddings), 
+                                                         total=n_examples, 
+                                                         desc="Featurizing data")):
+        # Convert embedding to tensor
+        embedding = torch.tensor(embedding)
         
         # Get feature activations from SAE
         with torch.no_grad():
@@ -90,4 +94,3 @@ def sae_featurize_data(data, sae, ref_data, output_file=None):
         feature_registry.flush()
         
     return feature_registry
-    

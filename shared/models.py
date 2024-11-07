@@ -4,9 +4,9 @@ import pandas as pd
 
 
 class MiniPileDataset(Dataset):
-    def __init__(self, sentences, embeddings):
+    def __init__(self, sentences, embeddings, key="sentence"):
         if sentences.endswith(".csv"):
-            self.sentences = pd.read_csv(sentences)["sentence"].tolist()
+            self.sentences = pd.read_csv(sentences)[key].tolist()
         else:
             self.sentences = sentences
 
