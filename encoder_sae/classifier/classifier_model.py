@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import accuracy_score, confusion_matrix
+from sklearn.metrics import accuracy_score, confusion_matrix, precision_score, recall_score, f1_score, roc_auc_score
 from sklearn.ensemble import RandomForestClassifier
 from boruta import BorutaPy
 import pickle
@@ -44,20 +44,30 @@ class BinaryClassifierModel:
 
     def train_model(self, X_train, y_train, X_val, y_val, use_feature_selection=True):
         if use_feature_selection:
+            print("Applying Boruta feature selection...")
             X_train = self.boruta_filter(X_train, y_train)
             X_val = X_val[:, self.selected_feature_indices]
 
+        print("Scaling features...")
         X_train = self.scaler.fit_transform(X_train)
         X_val = self.scaler.transform(X_val)
 
         # Define hyperparameter ranges
         max_depths = [10, 20, 30, 50, 100]
-        n_estimators_list = [10, 50, 100, 200, 400, 500, 1000]
+        n_estimators_list = [10, 50, 100]
+        print(f"Will try {len(max_depths)} different max_depths and {len(n_estimators_list)} different n_estimators")
+        print(f"Total combinations to try: {len(max_depths) * len(n_estimators_list)}")
 
-        best_accuracy = -1
+        best_f1 = -1
         best_params = None
         best_clf = None
+        best_metrics = None
         results = []
+
+        from tqdm.notebook import tqdm
+
+        total_iterations = len(max_depths) * len(n_estimators_list)
+        pbar = tqdm(total=total_iterations, desc="Training Progress")
 
         for max_depth in max_depths:
             for n_estimators in n_estimators_list:
@@ -67,24 +77,58 @@ class BinaryClassifierModel:
                 clf.fit(X_train, y_train)
 
                 y_pred = clf.predict(X_val)
+                y_pred_proba = clf.predict_proba(X_val)[:, 1]
+                
+                # Calculate multiple metrics
                 accuracy = accuracy_score(y_val, y_pred)
+                precision = precision_score(y_val, y_pred)
+                recall = recall_score(y_val, y_pred)
+                f1 = f1_score(y_val, y_pred)
+                auc_roc = roc_auc_score(y_val, y_pred_proba)
 
                 results.append({
                     "max_depth": max_depth,
                     "n_estimators": n_estimators,
                     "accuracy": accuracy,
+                    "precision": precision,
+                    "recall": recall,
+                    "f1": f1,
+                    "auc_roc": auc_roc,
                 })
 
-                if accuracy > best_accuracy:
-                    best_accuracy = accuracy
+                # Use F1-score as the primary metric for model selection
+                if f1 > best_f1:
+                    best_f1 = f1
                     best_params = {
                         "max_depth": max_depth,
                         "n_estimators": n_estimators,
                     }
                     best_clf = clf
+                    best_metrics = {
+                        "accuracy": accuracy,
+                        "precision": precision,
+                        "recall": recall,
+                        "f1": f1,
+                        "auc_roc": auc_roc
+                    }
 
-        print(f"Best Hyperparameters: {best_params}")
-        print(f"Best Validation Accuracy: {best_accuracy}")
+                pbar.update(1)
+                pbar.set_postfix({"Best F1": best_f1})
+
+                # Print current iteration results
+                print(f"\nIteration Results (max_depth={max_depth}, n_estimators={n_estimators}):")
+                print(f"Accuracy: {accuracy:.4f}")
+                print(f"Precision: {precision:.4f}")
+                print(f"Recall: {recall:.4f}")
+                print(f"F1: {f1:.4f}")
+                print(f"AUC-ROC: {auc_roc:.4f}")
+
+        pbar.close()
+
+        print(f"\nBest Hyperparameters: {best_params}")
+        print("Best Validation Metrics:")
+        for metric, value in best_metrics.items():
+            print(f"{metric.upper()}: {value:.4f}")
 
         results_df = pd.DataFrame(results)
         results_df.to_csv(f'{self.output_folder}/validation_results.csv', index=False)
@@ -102,7 +146,7 @@ class BinaryClassifierModel:
             self.wandb.log({
                 "val/best_results": {
                     "accuracy": {
-                        "score": best_accuracy,
+                        "score": best_metrics["accuracy"],
                         "params": best_params,
                     },
                 },
@@ -118,27 +162,33 @@ class BinaryClassifierModel:
 
         X_test = self.scaler.transform(X_test)
         y_pred_test = self.best_model.predict(X_test)
+        y_pred_proba_test = self.best_model.predict_proba(X_test)[:, 1]
 
-        test_accuracy = accuracy_score(y_test, y_pred_test)
-        test_conf_matrix = confusion_matrix(y_test, y_pred_test)
+        metrics = {
+            "Accuracy": accuracy_score(y_test, y_pred_test),
+            "Precision": precision_score(y_test, y_pred_test),
+            "Recall": recall_score(y_test, y_pred_test),
+            "F1": f1_score(y_test, y_pred_test),
+            "AUC-ROC": roc_auc_score(y_test, y_pred_proba_test)
+        }
 
         print("Evaluation on Test Set:")
-        print(f"Accuracy: {test_accuracy}")
-        print(f"Confusion Matrix:\n{test_conf_matrix}")
+        for metric, value in metrics.items():
+            print(f"{metric}: {value:.4f}")
+
+        print(f"Confusion Matrix:\n{confusion_matrix(y_test, y_pred_test)}")
 
         evaluation_results_df = pd.DataFrame({
-            "Metric": ["Accuracy"],
-            "Value": [test_accuracy],
+            "Metric": list(metrics.keys()),
+            "Value": list(metrics.values()),
         })
         evaluation_results_df.to_csv(f"{self.output_folder}/test_set_results.csv", index=False)
 
         if self.wandb:
             self.wandb.log({
                 "test/results": {
-                    "accuracy": {
-                        "score": test_accuracy,
-                        "params": self.best_model_params,
-                    },
-                    "confusion_matrix": test_conf_matrix,
+                    **metrics,
+                    "confusion_matrix": confusion_matrix(y_test, y_pred_test),
+                    "params": self.best_model_params,
                 },
             })
