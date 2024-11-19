@@ -32,22 +32,25 @@ def interp_sae(
     max_features=None,
     model="gpt-4o-mini",
     feature_registry_path=None,
+    prompt_type="default",
+    k=50,
 ):
     # Start wandb run
-    wandb.init(
-        # set the wandb project where this run will be logged
-        project="auto-ed-coder",
-        # track hyperparameters and run metadata
-        config={
-            "type": "interp_sae",
-            "sentences_file": sentences_file,
-            "embeddings_file": embeddings_file,
-            "sae_base_path": sae_base_path,
-            "features_base_path": features_base_path,
-            "max_features": max_features,
-            "model": model,
-        },
-    )
+    # wandb.init(
+    #     # set the wandb project where this run will be logged
+    #     project="auto-ed-coder",
+    #     # track hyperparameters and run metadata
+    #     config={
+    #         "type": "interp_sae",
+    #         "sentences_file": sentences_file,
+    #         "embeddings_file": embeddings_file,
+    #         "sae_base_path": sae_base_path,
+    #         "features_base_path": features_base_path,
+    #         "max_features": max_features,
+    #         "model": model,
+    #         "prompt_type": prompt_type,
+    #     },
+    # )
 
     TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
     OUTPUT_DIR = os.path.join(features_base_path, TIMESTAMP)
@@ -66,16 +69,16 @@ def interp_sae(
         d_sparse=8 * config["dimensions"],
         sparsity_alpha=config["sparsity_alpha"],
     )
-    model = SparseAutoencoder(sae_config)
+    sae = SparseAutoencoder(sae_config)
     model_path = os.path.join(sae_base_path, "sae.pkl")
     with open(model_path, "rb") as f:
         model_state_dict = pickle.load(f)
-        model.load_state_dict(model_state_dict)
+        sae.load_state_dict(model_state_dict)
 
     # make folder
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    artifact = wandb.Artifact(name="sae-features-" + str(uuid.uuid4()), type="features")
+    # artifact = wandb.Artifact(name="sae-features-" + str(uuid.uuid4()), type="features")
 
     def write_labelled_feature_to_file(labelled_feature):
         feature_file_name = f"feature_{labelled_feature.index}.json"
@@ -83,23 +86,25 @@ def interp_sae(
         with open(feature_path, "w") as json_file:
             json.dump(labelled_feature.dict(), json_file, indent=4)
 
-        artifact.add_file(feature_path, feature_file_name)
+        # artifact.add_file(feature_path, feature_file_name)
 
     # Call the function
     run_interp_pipeline(
-        model,
+        sae,
         mini_pile_dataset.embeddings,
         mini_pile_dataset.sentences,
         config["dimensions"] * 8,
         write_labelled_feature_to_file,
         max_features=max_features,
-        model="gpt-4o-mini",
+        model=model,
         output_dir=OUTPUT_DIR,
         feature_registry_path=feature_registry_path,
+        prompt_type=prompt_type,
+        k=k,
     )
 
-    wandb.log_artifact(artifact)
-    wandb.finish()
+    # wandb.log_artifact(artifact)
+    # wandb.finish()
 
 
 if __name__ == "__main__":
@@ -144,6 +149,19 @@ if __name__ == "__main__":
         default=None,
         help="Path to the feature registry file",
     )
+    parser.add_argument(
+        "--prompt_type",
+        type=str,
+        default="default",
+        choices=["default", "spam_classifier"],
+        help="Type of prompt to use for feature interpretation",
+    )
+    parser.add_argument(
+        "--k",
+        type=int,
+        default=50,
+        help="Number of high and low activating samples to use",
+    )
     args = parser.parse_args()
     interp_sae(
         sentences_file=args.sentences_file,
@@ -153,4 +171,6 @@ if __name__ == "__main__":
         max_features=args.max_features,
         model=args.model,
         feature_registry_path=args.feature_registry_path,
+        prompt_type=args.prompt_type,
+        k=args.k,
     )

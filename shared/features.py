@@ -7,7 +7,6 @@ from typing import Union
 class FeatureSample(BaseModel):
     text: str
     act: float
-    score: Union[int, None] = None
 
     class Config:
         allow_mutation = True

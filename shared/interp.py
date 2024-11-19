@@ -88,6 +88,8 @@ def run_interp_pipeline(
     model="gpt-4o-mini",
     output_dir=None,
     feature_registry_path=None,
+    prompt_type="default",
+    k=50, # for high and low activating samples
 ):
     ai = OpenAIClient(openai_api_key, model=model)
 
@@ -146,7 +148,7 @@ def run_interp_pipeline(
 
         # Get high activation samples
         high_act_samples = nlargest(
-            50,
+            k,
             (sample for sample in feature_samples if sample.act > 0),
             key=lambda x: x.act,
         )
@@ -159,13 +161,15 @@ def run_interp_pipeline(
         low_act_samples_population = [
             sample for sample in feature_samples if sample.act == 0
         ]
-        num_low_act_samples = min(50, len(low_act_samples_population))
+        num_low_act_samples = min(k, len(low_act_samples_population))
         low_act_samples = np.random.choice(
             low_act_samples_population, num_low_act_samples, replace=False
         ).tolist()
 
         try:
-            interpetation = ai.get_interpretation(high_act_samples, low_act_samples)
+            interpetation = ai.get_interpretation(
+                high_act_samples, low_act_samples, prompt_type
+            )
             label = interpetation["label"]
             reasoning = interpetation["reasoning"]
             attributes = interpetation["attributes"]
@@ -175,7 +179,7 @@ def run_interp_pipeline(
             ]
             low_act_score = ai.score_interpretation(low_act_samples, attributes)[
                 "percent"
-            ]
+            ]            
         except Exception as e:
             print(f"Skipping feature due to error: {e}")
             continue

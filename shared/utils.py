@@ -110,3 +110,4 @@ def build_heatmap_using_encoder_method(
 
     # 5. Return the output
     return output
+
