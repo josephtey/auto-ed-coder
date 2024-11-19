@@ -15,7 +15,13 @@
 #     --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile.csv" \
 #     --folder_name "contra_minipile"
 
+# python data_preparation/embedding_chunks/embed_chunks.py \
+#     --model_name "contra" \
+#     --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile.csv" \
+#     --folder_name "contra_minipile" \
+
+
 python data_preparation/embedding_chunks/embed_chunks.py \
-    --model_name "contra" \
-    --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile.csv" \
-    --folder_name "contra_minipile" \
+    --model_name "bert-base-uncased" \
+    --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile_20241104_184439.csv" \
+    --folder_name "minipile"
