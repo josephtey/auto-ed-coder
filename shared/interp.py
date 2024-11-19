@@ -6,7 +6,7 @@ Classes:
     OpenAIClient: A client to interact with OpenAI's API for generating and scoring interpretations.
 
 Functions:
-    run_interp_pipeline: Main function to run the interpretation pipeline. It processes the embeddings, 
+    run_interp_pipeline: Main function to run the interpretation pipeline. It processes the embeddings,
                          generates feature activations, and uses OpenAI's API to interpret and score the features.
 
 Usage:
@@ -130,12 +130,15 @@ def run_interp_pipeline(
         shape=(n_feature_activations, n),
     )
 
-    if max_features is not None:
-        feature_registry = feature_registry[:max_features, :]
 
-    for index, feature in enumerate(
-        tqdm.tqdm(feature_registry, desc="Processing features")
-    ):
+    top_activating_features = list(range(feature_registry.shape[0]))
+    top_activating_features.sort(key = lambda i: np.sum(feature_registry[i] > 0), reverse=True)
+    top_feature_registry = [feature_registry[i] for i in top_activating_features]
+
+    count = 0
+    progress_bar = tqdm.tqdm(top_activating_features, desc="Processing features")
+    for index in progress_bar:
+        feature = feature_registry[index]
         feature_samples = [
             FeatureSample(text=text_data[i], act=value)
             for i, value in enumerate(feature)
@@ -147,6 +150,10 @@ def run_interp_pipeline(
             (sample for sample in feature_samples if sample.act > 0),
             key=lambda x: x.act,
         )
+
+        # Only consider non-dead features
+        if len(high_act_samples) == 0:
+            continue
 
         # Get low activation samples
         low_act_samples_population = [
@@ -183,8 +190,14 @@ def run_interp_pipeline(
             high_act_samples=high_act_samples,
             low_act_samples=low_act_samples,
         )
+        count += 1
+        if max_features is not None and count > max_features:
+            break
 
         handle_labelled_feature(labelled_feature)
+
+    # Manually finish the progress bar if we break early
+    progress_bar.close()
 
 
 def plot_feature_activation_histogram(model, mini_pile_dataset, num_samples=1000):
