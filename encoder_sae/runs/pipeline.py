@@ -6,6 +6,7 @@ sys.path.append("../")
 from encoder_sae.data_preparation.embedding_chunks.embed_chunks import embed_chunks
 from encoder_sae.training_sae.train_sae import train_sae
 from encoder_sae.feature_extraction.interp_sae import interp_sae
+from shared.sparse_autoencoder import SparseAutoencoderType
 import argparse
 import wandb
 
@@ -28,6 +29,11 @@ def main(args):
     # Define the output directory
     OUTPUT_DIR = f"training_sae/saes/{RUN_NAME}_{TIMESTAMP}"
 
+    if args["sae_type"] == "basic":
+        sae_type = SparseAutoencoderType.BASIC
+    elif args["sae_type"] == "sparse":
+        sae_type = SparseAutoencoderType.SPARSE
+
     # TRAIN SAE
     train_sae(
         sentences_file=args["sentences_file"],
@@ -39,6 +45,8 @@ def main(args):
         lr=args["lr"],
         num_epochs=args["num_epochs"],
         sparsity_scale=args["sparsity_scale"],
+        sae_type=sae_type,
+        top_k=args["top_k"],
         wandb=wandb,
     )
 
@@ -83,6 +91,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "--sparsity_scale", type=float, default=1, help="Sparsity scale parameter"
     )
+
+    parser.add_argument(
+        "--sae_type", type=str, default="basic", help="Type of SAE"
+    )
+    parser.add_argument(
+        "--top_k", type=int, default=0, help="Top k features"
+    )
+
     
     args = parser.parse_args()
     main(vars(args))  # Convert Namespace object to a dictionary

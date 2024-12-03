@@ -8,6 +8,14 @@ class FeatureSample(BaseModel):
     text: str
     act: float
 
+    def __eq__(self, other):
+        if not isinstance(other, FeatureSample):
+            return False
+        return self.text == other.text and self.act == other.act
+    
+    def __hash__(self):
+        return hash((self.text, self.act))
+
     class Config:
         allow_mutation = True
         frozen = False

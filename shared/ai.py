@@ -7,7 +7,7 @@ import tiktoken
 class OpenAIClient:
     def __init__(self, api_key, model="gpt-4o-mini"):
         self.client = OpenAI(api_key=api_key)
-        self.encoder = tiktoken.encoding_for_model(model)
+        self.encoder = tiktoken.get_encoding("cl100k_base")  # Use cl100k_base encoding which works with GPT-4
         self.total_prompt_tokens = 0
         self.total_completion_tokens = 0
         self.total_cost = 0

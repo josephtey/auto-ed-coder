@@ -141,10 +141,15 @@ def run_interp_pipeline(
     progress_bar = tqdm.tqdm(top_activating_features, desc="Processing features")
     for index in progress_bar:
         feature = feature_registry[index]
+
+        # Get all the features 
         feature_samples = [
             FeatureSample(text=text_data[i], act=value)
             for i, value in enumerate(feature)
         ]
+
+        # Filter out all the feature samples where the text property is the same
+        feature_samples = list(set(feature_samples))
 
         # Get high activation samples
         high_act_samples = nlargest(
