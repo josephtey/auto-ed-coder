@@ -45,4 +45,4 @@ python feature_extraction/interp_sae.py \
     --model "gpt-4o" \
     --feature_registry_path "feature_extraction/features/20241203_014216/feature_registry.npy" \
     --prompt_type "default" \
-    --k 20
+    --k 50

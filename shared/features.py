@@ -11,7 +11,7 @@ class FeatureSample(BaseModel):
     def __eq__(self, other):
         if not isinstance(other, FeatureSample):
             return False
-        return self.text == other.text and self.act == other.act
+        return self.text == other.text
     
     def __hash__(self):
         return hash((self.text, self.act))
