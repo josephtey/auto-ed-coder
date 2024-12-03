@@ -22,7 +22,6 @@
 
 
 python data_preparation/embedding_chunks/embed_chunks.py \
-    --model_name "mshenoda/roberta-spam" \
-    --input_file "data_preparation/chunking/chunked_datasets/spam_messages_train_20241106_095507.csv" \
-    --folder_name "spam_messages_train_item"
-    
+    --model_name "bert-base-uncased" \
+    --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile_20241104_184439.csv" \
+    --folder_name "minipile"

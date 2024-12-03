@@ -4,7 +4,7 @@ import torch
 import sys
 
 sys.path.append("../")
-from shared.sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig
+from shared.sparse_autoencoder import SparseAutoencoder, SparseAutoencoderConfig, SparseAutoencoderType
 from shared.models import MiniPileDataset
 
 from datetime import datetime
@@ -28,6 +28,8 @@ def train_sae(
     num_epochs,
     sparsity_scale,
     wandb,
+    sae_type,
+    top_k,
 ):
     # Load sentences and embeddings into MiniPileDataset
     dataset = MiniPileDataset(sentences_file, embeddings_file)
@@ -54,6 +56,8 @@ def train_sae(
         d_model=config["dimensions"],
         d_sparse=8 * config["dimensions"],
         sparsity_alpha=config["sparsity_alpha"],
+        top_k = top_k,
+        sae_type = sae_type,
     )
     model = SparseAutoencoder(sae_config)
 
@@ -64,12 +68,15 @@ def train_sae(
     with open(f"{run_folder}/training_output.out", "w") as out_file:
         num_epochs = config["num_epochs"]
         log_feature_densities = []
+        training_feature_activations = []
         for epoch in range(num_epochs):
             total_loss = 0
+            batch_feature_activations = []
             for sentences, embeddings in tqdm(data_loader, desc=f"Epoch {epoch+1}"):
                 optimizer.zero_grad()
 
                 # Assuming data is already on the correct device and in the correct format
+                # Feature activations: (batch size, # features)
                 _, feature_activations, loss, _ = model.forward(
                     embeddings,
                     return_loss=True,
@@ -80,20 +87,24 @@ def train_sae(
                 optimizer.step()
                 total_loss += loss.item()
 
+                batch_feature_activations.append(feature_activations)
+
                 # Print the loss for every batch
                 batch_loss_str = f"Batch Loss: {loss.item()}"
                 wandb.log({"batch_loss": loss.item()})
                 out_file.write(batch_loss_str + "\n")
 
-                # Calculate log feature densities
-                log_feature_density = np.log(
-                    (
-                        (feature_activations.detach().numpy() > 0).sum(axis=0)
-                        / feature_activations.shape[0]
-                    )
-                )
+            batch_feature_activations = torch.concat(batch_feature_activations, dim = 0)
 
-                log_feature_densities.append(log_feature_density.tolist())
+            # Calculate log feature densities
+            log_feature_density = np.log(
+                (
+                    (batch_feature_activations.detach().numpy() > 0).sum(axis=0)
+                    / batch_feature_activations.shape[0]
+                )
+            )
+
+            log_feature_densities.append(log_feature_density.tolist())
 
             epoch_loss_str = (
                 f"Epoch {epoch+1}, Average Loss: {total_loss / len(data_loader)}"
@@ -166,6 +177,14 @@ if __name__ == "__main__":
         "--sparsity_scale", type=float, default=1, help="Sparsity scale parameter"
     )
 
+    parser.add_argument(
+        "--sae_type", type=SparseAutoencoderType, default=SparseAutoencoderType.BASIC, help="Type of Sparse Autoencoder"
+    )
+
+    parser.add_argument(
+        "--top_k", type=int, default=100, help="Top k value (only used for top k sparse autoencoder)"
+    )
+
     args = parser.parse_args()
     train_sae(
         sentences_file=args.sentences_file,
@@ -177,4 +196,6 @@ if __name__ == "__main__":
         lr=args.lr,
         num_epochs=args.num_epochs,
         sparsity_scale=args.sparsity_scale,
+        sae_type=args.sae_type,
+        top_k=args.top_k,
     )

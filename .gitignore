@@ -19,7 +19,8 @@ encoder_sae/feature_extraction/features/
 /**/*.log
 
 # Ignore Python cache files
-__pycache__/
+**/__pycache__/
+**/.env
 *.py[cod]
 
 # Ignore Jupyter notebook checkpoints
