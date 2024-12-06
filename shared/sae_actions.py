@@ -27,6 +27,8 @@ def load_pretrained_sae(sae_base_path):
         d_model=config["dimensions"],
         d_sparse=8 * config["dimensions"],
         sparsity_alpha=config["sparsity_alpha"],
+        tie_weights=config["tie_weights"]
+        
     )
     sae = SparseAutoencoder(sae_config)
     model_path = os.path.join(sae_base_path, "sae.pkl")
@@ -39,7 +41,7 @@ def load_pretrained_sae(sae_base_path):
         
     return sae
 
-def sae_featurize_data(data, sae, output_file=None):
+def sae_featurize_data(data, sae, output_file='feature_registry.npy'):
     """
     Featurize data with SAEs directly.
     
@@ -79,14 +81,14 @@ def sae_featurize_data(data, sae, output_file=None):
                                                          total=n_examples, 
                                                          desc="Featurizing data")):
         # Convert embedding to tensor
-        embedding = torch.tensor(embedding)
+        embedding = torch.tensor(embedding).to("cuda:0")
         
         # Get feature activations from SAE
         with torch.no_grad():
             feature_activations = sae.forward(embedding)[1]
         
         # Store in feature registry
-        feature_registry[:, i] = feature_activations.detach().numpy()
+        feature_registry[:, i] = feature_activations.cpu().detach().numpy()
         
         # Flush to disk periodically if using memmap
         if output_file and (i + 1) % 1000 == 0:

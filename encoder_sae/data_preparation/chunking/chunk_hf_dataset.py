@@ -19,9 +19,11 @@ def chunk_dataset(input_source, num_chunks=None, chunk_type="sentence", text_col
         if text_column is None:
             raise ValueError("text_column must be specified for CSV input")
         texts = df[text_column].tolist()
+        labels = df["label"].tolist()
     else:
         ds = load_dataset(input_source)
         texts = ds["train"]["text"]
+        labels = ds["train"]["label"]
 
     num_written = 0
 
@@ -34,10 +36,10 @@ def chunk_dataset(input_source, num_chunks=None, chunk_type="sentence", text_col
 
     with open(output_file, mode="w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
-        writer.writerow(["sentence"])  # Write header
+        writer.writerow(["sentence", "label"])  # Write header
 
         total_items = len(texts)
-        for text in tqdm(texts, total=total_items, desc="Processing chunks"):
+        for idx, text in enumerate(tqdm(texts, total=total_items, desc="Processing chunks")):
             if chunk_type == "sentence":
                 chunks = sent_tokenize(text)
             else:  # per item
@@ -45,7 +47,7 @@ def chunk_dataset(input_source, num_chunks=None, chunk_type="sentence", text_col
             
             for chunk in chunks:
                 num_written += 1
-                writer.writerow([chunk])
+                writer.writerow([chunk, labels[idx]])
 
                 if num_chunks is not None and num_written >= num_chunks:
                     print(f"Reached the limit of {num_chunks} chunks")

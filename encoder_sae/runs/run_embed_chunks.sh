@@ -23,12 +23,12 @@
 
 python data_preparation/embedding_chunks/embed_chunks.py \
     --model_name "mshenoda/roberta-spam" \
-    --input_file "data_preparation/chunking/chunked_datasets/spam_messages_val_20241206_095340.csv" \
-    --folder_name "spam_valid" \
+    --input_file "data_preparation/chunking/chunked_datasets/spam_messages_test_20241206_220829_item.csv" \
+    --folder_name "spam_test_item" \
     --batch_size 512
 
-python data_preparation/embedding_chunks/embed_chunks.py \
-    --model_name "nomic-ai/nomic-embed-text-v1" \
-    --input_file "data_preparation/chunking/chunked_datasets/spam_messages_val_20241206_095340.csv" \
-    --folder_name "spam_nomic_valid" \
-    --batch_size 512
+# python data_preparation/embedding_chunks/embed_chunks.py \
+#     --model_name "nomic-ai/nomic-embed-text-v1" \
+#     --input_file "data_preparation/chunking/chunked_datasets/spam_messages_val_20241206_095340.csv" \
+#     --folder_name "spam_nomic_valid" \
+#     --batch_size 512

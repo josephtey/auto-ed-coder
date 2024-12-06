@@ -14,7 +14,7 @@ class FeatureSample(BaseModel):
         return self.text == other.text
     
     def __hash__(self):
-        return hash((self.text, self.act))
+        return hash((self.text))
 
     class Config:
         allow_mutation = True
