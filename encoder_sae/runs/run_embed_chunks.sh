@@ -22,6 +22,13 @@
 
 
 python data_preparation/embedding_chunks/embed_chunks.py \
-    --model_name "bert-base-uncased" \
-    --input_file "data_preparation/chunking/chunked_datasets/JeanKaddour_minipile_20241104_184439.csv" \
-    --folder_name "minipile"
+    --model_name "mshenoda/roberta-spam" \
+    --input_file "data_preparation/chunking/chunked_datasets/spam_messages_val_20241206_095340.csv" \
+    --folder_name "spam_valid" \
+    --batch_size 512
+
+python data_preparation/embedding_chunks/embed_chunks.py \
+    --model_name "nomic-ai/nomic-embed-text-v1" \
+    --input_file "data_preparation/chunking/chunked_datasets/spam_messages_val_20241206_095340.csv" \
+    --folder_name "spam_nomic_valid" \
+    --batch_size 512

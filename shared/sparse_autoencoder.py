@@ -22,6 +22,7 @@ class SparseAutoencoderConfig(BaseModel):
     sparsity_alpha: float = 0.0  # doesn't matter for inference
     sae_type: SparseAutoencoderType = SparseAutoencoderType.BASIC # L1 SAE is the default
     top_k: int = 0 # Only used for TopK sparse autoencoder
+    tie_weights: bool = False
 
 
 class SparseAutoencoder(nn.Module, PyTorchModelHubMixin):
@@ -34,6 +35,13 @@ class SparseAutoencoder(nn.Module, PyTorchModelHubMixin):
         self.encoder = nn.Linear(config.d_model, config.d_sparse, bias=False)
         self.dec_bias = nn.Parameter(torch.zeros(config.d_model))
         self.decoder = nn.Linear(config.d_sparse, config.d_model, bias=False)
+
+        if self.config.tie_weights:
+            self.tie_weights()
+    
+    def tie_weights(self):
+        """Ensure decoder weights are transpose of encoder weights"""
+        self.decoder.weight = nn.Parameter(self.encoder.weight.T)
 
     def forward(
         self,
@@ -83,7 +91,6 @@ class SparseAutoencoder(nn.Module, PyTorchModelHubMixin):
 
         if return_loss:
             reconstruction_loss = F.mse_loss(y, x)
-            # print(x.shape)
 
             decoder_norms = torch.norm(self.decoder.weight, dim=0)
 
@@ -92,7 +99,7 @@ class SparseAutoencoder(nn.Module, PyTorchModelHubMixin):
                     sparsity_scale
                     * self.config.sparsity_alpha
                     * (f.abs() @ decoder_norms).sum()
-                )  # TODO: change this to the actual loss function
+                )  
             else:
                 sparsity_loss = (
                     sparsity_scale * self.config.sparsity_alpha * (f.abs().sum())

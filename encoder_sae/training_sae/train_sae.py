@@ -30,6 +30,7 @@ def train_sae(
     wandb,
     sae_type,
     top_k,
+    tie_weights,
 ):
     # Load sentences and embeddings into MiniPileDataset
     dataset = MiniPileDataset(sentences_file, embeddings_file)
@@ -44,6 +45,7 @@ def train_sae(
         "lr": lr,
         "num_epochs": num_epochs,
         "sparsity_scale": sparsity_scale,
+        "tie_weights": tie_weights,
     }
 
     # Assuming `dataset` is a PyTorch Dataset loaded and ready to use
@@ -58,6 +60,7 @@ def train_sae(
         sparsity_alpha=config["sparsity_alpha"],
         top_k = top_k,
         sae_type = sae_type,
+        tie_weights = tie_weights,
     )
     model = SparseAutoencoder(sae_config)
 

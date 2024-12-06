@@ -15,7 +15,7 @@ def load_pretrained_sae(sae_base_path):
         sae_base_path: Path to folder containing config.json and sae.pkl
         
     Returns:
-        Loaded SparseAutoencoder model
+        Loaded SparseAutoencoder model on cuda:0 device
     """
     # Load the configuration from the JSON file
     config_path = os.path.join(sae_base_path, "config.json")
@@ -33,6 +33,9 @@ def load_pretrained_sae(sae_base_path):
     with open(model_path, "rb") as f:
         model_state_dict = pickle.load(f)
         sae.load_state_dict(model_state_dict)
+    
+    # Move model to CUDA device
+    sae = sae.to("cuda:0")
         
     return sae
 

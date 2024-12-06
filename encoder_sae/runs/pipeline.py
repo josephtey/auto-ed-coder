@@ -47,6 +47,7 @@ def main(args):
         sparsity_scale=args["sparsity_scale"],
         sae_type=sae_type,
         top_k=args["top_k"],
+        tie_weights=args["tie_weights"],
         wandb=wandb,
     )
 
@@ -91,12 +92,14 @@ if __name__ == "__main__":
     parser.add_argument(
         "--sparsity_scale", type=float, default=1, help="Sparsity scale parameter"
     )
-
     parser.add_argument(
         "--sae_type", type=str, default="basic", help="Type of SAE"
     )
     parser.add_argument(
         "--top_k", type=int, default=0, help="Top k features"
+    )
+    parser.add_argument(
+        "--tie_weights", type=bool, default=False, help="Tie weights"
     )
 
     

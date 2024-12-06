@@ -1,6 +1,7 @@
 import argparse
 import os
 import nltk
+from sentence_transformers import SentenceTransformer
 
 nltk.download("punkt")
 from nltk.tokenize import sent_tokenize
@@ -69,6 +70,7 @@ def embed_chunks(
     folder_name,
     resume_from_checkpoint=False,
     checkpoint_dir=None,
+    batch_size=40,
 ):
 
     if model_name == "contra":
@@ -76,12 +78,13 @@ def embed_chunks(
         autoencoder = BottleneckT5Autoencoder(
             model_path="thesephist/contra-bottleneck-t5-large-wikipedia", device=device
         )
+    elif model_name == "nomic-ai/nomic-embed-text-v1":
+        device = "cuda:0" if torch.cuda.is_available() else "cpu"
+        model = SentenceTransformer(model_name, trust_remote_code=True).to(device)
     else:
         device = "cuda:0" if torch.cuda.is_available() else "cpu"
         bert_tokenizer = AutoTokenizer.from_pretrained(model_name)
         bert_model = AutoModel.from_pretrained(model_name).to(device)
-
-    batch_size = 40
 
     df_all_sentences = pd.read_csv(input_file)
     sentences = df_all_sentences["sentence"].tolist()
@@ -129,6 +132,9 @@ def embed_chunks(
                 for s in batch:
                     embedding = autoencoder.embed(s).cpu().numpy()
                     all_embeddings.append(embedding)
+            elif model_name == "nomic-ai/nomic-embed-text-v1":
+                embeddings = model.encode(batch)
+                all_embeddings.extend(embeddings)
             else:
                 inputs = bert_tokenizer(
                     batch, return_tensors="pt", padding=True, truncation=True
@@ -197,6 +203,11 @@ if __name__ == "__main__":
         type=str,
         help="Directory containing the checkpoint to resume from",
     )
+    parser.add_argument(
+        "--batch_size",
+        type=int,
+        help="Batch size for processing sentences",
+    )
 
     args = parser.parse_args()
     embed_chunks(
@@ -205,4 +216,5 @@ if __name__ == "__main__":
         args.folder_name,
         args.resume,
         args.checkpoint_dir,
+        args.batch_size,
     )
